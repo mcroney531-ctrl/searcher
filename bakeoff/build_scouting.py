@@ -61,7 +61,7 @@ for jid, a in scouting_rows.R.items():
                             ("WILDCARD", a["wildcard"]), ("AI CENTRAL", a["ai_relevance"] == "central"),
                             ("OFF MAJOR BOARDS", j["source_kind"] != "major_board"),
                             ("CLIENT-FACING", a["client_ownership"] == "owns_accounts")] if ok]
-    rows.append(dict(job_id=jid, analysis_version="v0.2-draft", model_version="claude-opus-5-5",
+    rows.append(dict(job_id=jid, analysis_version="v0.2-draft", model_version="hand-run-reference",
                      title=j["title"], company=j["company"], stratum=j["stratum"], family=j["family"],
                      role_family=j["family"] if j["stratum"] == "title_family" else "free text: " + j["title"],
                      **{k: a[k] for k in ("overlap", "stretch", "stretch_reasons", "wildcard", "ai_relevance", "client_ownership")},

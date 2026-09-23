@@ -1,4 +1,4 @@
-# Hand-run scouting analysis (analysis/scouting.yaml v0.2-draft) by claude-opus-5-5,
+# Hand-run scouting analysis (analysis/scouting.yaml v0.2-draft) by hand-run-reference,
 # read from bakeoff/jobs_sample.jsonl. One row per job id:
 #   overlap, stretch, stretch_reasons, wildcard, ai_relevance, client_ownership,
 #   workplace (what the text actually says: remote | hybrid | onsite | field_travel | unclear),
