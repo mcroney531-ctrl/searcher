@@ -102,10 +102,13 @@ CREATE TABLE user_state (
   updated_at   TEXT NOT NULL
 );
 
+-- Ordering may learn from card-level signals (opened, saved, dismissed, stretch_too_big).
+-- 'applied' is recorded for tracking only; NOT applying is never a negative signal
+-- (docs/reframe.md amendment 6).
 CREATE TABLE user_event (
   id         INTEGER PRIMARY KEY,
   job_id     INTEGER NOT NULL REFERENCES job(id),
-  event      TEXT NOT NULL,           -- shown | opened | saved | dismissed | applied | unhid
+  event      TEXT NOT NULL,           -- shown | opened | glad | saved | dismissed | stretch_too_big | applied | unhid
   at         TEXT NOT NULL
 );
 
