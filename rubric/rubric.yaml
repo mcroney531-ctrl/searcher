@@ -1,3 +1,4 @@
+# SUPERSEDED by docs/reframe.md (scouting-note model). Kept for history; will be rewritten after sign-off.
 # Single source of truth for grading. Every grader (API pipeline, Chrome deep-read)
 # loads this file; nothing else defines "fit". Bump `version` on any change and
 # re-grade history from stored descriptions instead of re-fetching.
