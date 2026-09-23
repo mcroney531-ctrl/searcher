@@ -1,0 +1,31 @@
+# Small query families instead of one giant Boolean. Retrieval is tuned for recall;
+# the grader handles precision. Each family is queried separately so the bakeoff
+# can attribute every hit (and every miss) to a family.
+#
+# `titles` map to TheirStack job_title_or / Google Jobs q. `must_description` is an
+# optional description filter used to keep noisy families (docs, training) on-topic.
+
+families:
+  content_dev:
+    titles: [content developer, content designer, content strategist, content development manager, content lead]
+    must_description: []
+  instructional_lxd:
+    titles: [instructional designer, learning experience designer, LXD, learning designer, e-learning developer]
+    must_description: []
+  curriculum_training:
+    titles: [curriculum developer, curriculum designer, curriculum manager, training developer, training content]
+    must_description: []
+  enablement_education:
+    titles: [enablement content, sales enablement content, customer education, customer education content, academy]
+    must_description: [content, course, curriculum, learning]
+  technical_content:
+    titles: [technical content, technical writer, developer education, documentation lead, content engineer]
+    must_description: [AI, LLM, machine learning, generative]   # keeps generic tech-writer volume down
+  ai_learning:
+    titles: [AI enablement, AI adoption, AI learning, AI education, AI trainer, AI literacy, AI content]
+    must_description: []
+
+# Cross-family AI signal the grader looks for (not a retrieval filter except where noted above).
+ai_terms: [AI, LLM, generative AI, GenAI, prompt, ChatGPT, Claude, copilot, machine learning, AI-assisted]
+
+# TODO(rone): geography + remote filter, recency window, excluded companies/industries.
