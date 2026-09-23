@@ -1,0 +1,72 @@
+{
+  "sample_title_content_dev": {
+    "family": "content_dev",
+    "limit": 7,
+    "kind": "title"
+  },
+  "sample_title_instructional_lxd": {
+    "family": "instructional_lxd",
+    "limit": 7,
+    "kind": "title"
+  },
+  "sample_title_curriculum_training": {
+    "family": "curriculum_training",
+    "limit": 7,
+    "kind": "title"
+  },
+  "sample_title_enablement_education": {
+    "family": "enablement_education",
+    "limit": 7,
+    "kind": "title"
+  },
+  "sample_title_technical_content": {
+    "family": "technical_content",
+    "limit": 7,
+    "kind": "title"
+  },
+  "sample_title_ai_learning": {
+    "family": "ai_learning",
+    "limit": 7,
+    "kind": "title"
+  },
+  "sample_desc_course_content": {
+    "family": "course_content",
+    "limit": 9,
+    "kind": "desc"
+  },
+  "sample_desc_curriculum": {
+    "family": "curriculum",
+    "limit": 9,
+    "kind": "desc"
+  },
+  "sample_desc_enablement_material": {
+    "family": "enablement_material",
+    "limit": 9,
+    "kind": "desc"
+  },
+  "sample_desc_customer_training": {
+    "family": "customer_training",
+    "limit": 9,
+    "kind": "desc"
+  },
+  "sample_desc_knowledge_content": {
+    "family": "knowledge_content",
+    "limit": 9,
+    "kind": "desc"
+  },
+  "sample_desc_ai_adoption": {
+    "family": "ai_adoption",
+    "limit": 9,
+    "kind": "desc"
+  },
+  "sample_wildcard_a": {
+    "family": "ALL",
+    "kind": "wild",
+    "limit": 25
+  },
+  "sample_wildcard_b": {
+    "family": "ALL",
+    "kind": "wild",
+    "limit": 10
+  }
+}

@@ -1,0 +1,234 @@
+{
+ "n_jobs": 144,
+ "duplicate_groups": [
+  [
+   "Smartcat | Director of Sales New",
+   "Smartcat | Director of Sales",
+   "smARTcat | Director of Sales"
+  ],
+  [
+   "MLabs | Head of Security & Risk",
+   "MLabs | Head of Security & Risk"
+  ],
+  [
+   "Fortune Brands | Customer Service Representative",
+   "Fortune Brands | Customer Service Representative",
+   "Fortune Brands | Customer Service Representative",
+   "Fortune Brands | Customer Service Representative"
+  ],
+  [
+   "Work From Home | Training Developer",
+   "HCA Healthcare | Training Developer"
+  ],
+  [
+   "TalentHop | Senior Customer Education Manager, Enterprise",
+   "TalentHop | Senior Customer Education Manager, Enterprise"
+  ]
+ ],
+ "duplicate_extra_rows": 8,
+ "strata": {
+  "title_family": {
+   "n": 48,
+   "overlap": {
+    "very_low": 9,
+    "partial": 14,
+    "weak": 5,
+    "strong": 20
+   },
+   "interesting": 30,
+   "wildcard_true": 2,
+   "wildcard_interesting": 0,
+   "suppressed": 6,
+   "off_major_boards": 7,
+   "interesting_off_board": 3,
+   "workplace_in_text": {
+    "remote": 23,
+    "unclear": 19,
+    "onsite": 4,
+    "field_travel": 2
+   },
+   "client_owns_accounts": 1
+  },
+  "description_family": {
+   "n": 60,
+   "overlap": {
+    "very_low": 42,
+    "weak": 10,
+    "partial": 5,
+    "strong": 3
+   },
+   "interesting": 7,
+   "wildcard_true": 4,
+   "wildcard_interesting": 3,
+   "suppressed": 6,
+   "off_major_boards": 14,
+   "interesting_off_board": 3,
+   "workplace_in_text": {
+    "unclear": 13,
+    "field_travel": 14,
+    "onsite": 5,
+    "remote": 27,
+    "hybrid": 1
+   },
+   "client_owns_accounts": 22
+  },
+  "wildcard": {
+   "n": 35,
+   "overlap": {
+    "very_low": 29,
+    "weak": 4,
+    "partial": 1,
+    "strong": 1
+   },
+   "interesting": 2,
+   "wildcard_true": 3,
+   "wildcard_interesting": 2,
+   "suppressed": 4,
+   "off_major_boards": 8,
+   "interesting_off_board": 0,
+   "workplace_in_text": {
+    "unclear": 8,
+    "remote": 19,
+    "field_travel": 4,
+    "onsite": 4
+   },
+   "client_owns_accounts": 7
+  }
+ },
+ "families": {
+  "description_family:ai_adoption": {
+   "n": 10,
+   "strong": 0,
+   "partial": 0,
+   "weak": 1,
+   "very_low": 9,
+   "interesting": 0
+  },
+  "description_family:course_content": {
+   "n": 10,
+   "strong": 2,
+   "partial": 3,
+   "weak": 2,
+   "very_low": 3,
+   "interesting": 4
+  },
+  "description_family:curriculum": {
+   "n": 10,
+   "strong": 1,
+   "partial": 2,
+   "weak": 0,
+   "very_low": 7,
+   "interesting": 3
+  },
+  "description_family:customer_training": {
+   "n": 10,
+   "strong": 0,
+   "partial": 0,
+   "weak": 3,
+   "very_low": 7,
+   "interesting": 0
+  },
+  "description_family:enablement_material": {
+   "n": 10,
+   "strong": 0,
+   "partial": 0,
+   "weak": 2,
+   "very_low": 8,
+   "interesting": 0
+  },
+  "description_family:knowledge_content": {
+   "n": 10,
+   "strong": 0,
+   "partial": 0,
+   "weak": 2,
+   "very_low": 8,
+   "interesting": 0
+  },
+  "title_family:ai_learning": {
+   "n": 8,
+   "strong": 0,
+   "partial": 2,
+   "weak": 0,
+   "very_low": 6,
+   "interesting": 2
+  },
+  "title_family:content_dev": {
+   "n": 8,
+   "strong": 1,
+   "partial": 4,
+   "weak": 3,
+   "very_low": 0,
+   "interesting": 5
+  },
+  "title_family:curriculum_training": {
+   "n": 7,
+   "strong": 7,
+   "partial": 0,
+   "weak": 0,
+   "very_low": 0,
+   "interesting": 5
+  },
+  "title_family:enablement_education": {
+   "n": 8,
+   "strong": 2,
+   "partial": 4,
+   "weak": 0,
+   "very_low": 2,
+   "interesting": 6
+  },
+  "title_family:instructional_lxd": {
+   "n": 8,
+   "strong": 7,
+   "partial": 1,
+   "weak": 0,
+   "very_low": 0,
+   "interesting": 8
+  },
+  "title_family:technical_content": {
+   "n": 8,
+   "strong": 2,
+   "partial": 3,
+   "weak": 2,
+   "very_low": 1,
+   "interesting": 3
+  },
+  "wildcard:ALL": {
+   "n": 35,
+   "strong": 1,
+   "partial": 1,
+   "weak": 4,
+   "very_low": 29,
+   "interesting": 2
+  },
+  "title_family:ALL∩desc": {
+   "n": 1,
+   "strong": 1,
+   "partial": 0,
+   "weak": 0,
+   "very_low": 0,
+   "interesting": 1
+  }
+ },
+ "overall": {
+  "interesting": 39,
+  "n": 143,
+  "wildcard_interesting": 5,
+  "suppressed": {
+   "location_impossible": 16
+  },
+  "workplace_in_text": {
+   "unclear": 40,
+   "field_travel": 20,
+   "onsite": 13,
+   "remote": 69,
+   "hybrid": 1
+  },
+  "ai_relevance": {
+   "adjacent": 3,
+   "present": 35,
+   "central": 19,
+   "none": 86
+  },
+  "ai_central_interesting": 6
+ }
+}
