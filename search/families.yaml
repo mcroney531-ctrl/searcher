@@ -1,11 +1,11 @@
 # Small query families instead of one giant Boolean. Retrieval is tuned for recall;
-# the grader handles precision. Each family is queried separately so the bakeoff
+# analysis adds context, never filters. Each family is queried separately so the bakeoff
 # can attribute every hit (and every miss) to a family.
 #
 # `titles` map to TheirStack job_title_or / Google Jobs q. `must_description` is an
 # optional description filter used to keep noisy families (docs, training) on-topic.
 
-families:
+title_families:
   content_dev:
     titles: [content developer, content designer, content strategist, content development manager, content lead]
     must_description: []
@@ -25,7 +25,18 @@ families:
     titles: [AI enablement, AI adoption, AI learning, AI education, AI trainer, AI literacy, AI content]
     must_description: []
 
-# Cross-family AI signal the grader looks for (not a retrieval filter except where noted above).
+# Cross-family AI signal analysis looks for (not a retrieval filter except where noted above).
 ai_terms: [AI, LLM, generative AI, GenAI, prompt, ChatGPT, Claude, copilot, machine learning, AI-assisted]
 
 # TODO(rone): geography + remote filter, recency window, excluded companies/industries.
+
+# Description families: responsibility phrases matched against the job description,
+# not the title. This is where unexpected titles come from. Verify during the spike
+# that TheirStack supports description-pattern filters.
+description_families:
+  course_content:      ["develop course content", "course development", "learning content", "e-learning content"]
+  curriculum:          ["curriculum development", "design curriculum", "training curriculum"]
+  enablement_material: ["enablement materials", "enablement content", "playbooks and training"]
+  customer_training:   ["customer training", "customer education", "onboarding content", "academy content"]
+  knowledge_content:   ["knowledge base", "help center content", "content operations", "content governance"]
+  ai_adoption:         ["AI adoption", "AI literacy", "AI training program", "teach teams to use AI"]

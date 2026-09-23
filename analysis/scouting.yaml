@@ -1,0 +1,47 @@
+# Scouting-note contract. One versioned file; every analyzer (API pipeline,
+# Chrome deep-read) uses it. The output answers "why might I care?", never
+# "should I apply?". No numeric score is produced or displayed.
+#
+# Bump `version` on any change; re-run on stored descriptions, no re-fetch.
+
+version: v0.2-draft
+
+target:
+  core: content development / content design and adjacent learning work
+  differentiator: AI / LLM relevance (never required)
+  # TODO(rone): anything you want the analyst to know about your background.
+
+tags:                 # V1 fills tags + note in one call for every job
+  role_family: known family id from search/families.yaml, or free text
+  overlap:
+    strong:   the day-to-day work is the kind of work targeted
+    partial:  real overlap, but a large share of the job is something else
+    weak:     some thread of overlap, mostly a different job
+    very_low: matched discovery, barely related; shown dimmed, never deleted
+  stretch:
+    none: asks are within an obvious match
+    some: one notable ask beyond the obvious match
+    big:  multiple, or one large (years, program/enterprise ownership, domain, audience)
+  stretch_reasons: list of the specific asks driving stretch
+  wildcard: true when title/industry/stated background is unexpected but duties overlap
+  ai_relevance: [central, present, adjacent, none]
+  client_ownership: [none, supporting, owns_accounts, unclear]   # a caveat, not a gate
+
+note:
+  why_surfaced: plain-words reason this matched discovery
+  overlap_points: concrete duties that match
+  stretch_points: concrete asks that stretch
+  caveats: meaningful mismatches (client ownership, travel, contract, relocation)
+  worth_opening_because: one line
+  missing_info: what the posting doesn't say (salary, level, remote policy)
+  confidence: [high, medium, low]
+
+# Feed tags are derived in code from the fields above, shown on the card,
+# and usable as quick filters. There are no lanes.
+feed_tags:
+  STRONG OVERLAP:   overlap == strong
+  BIG STRETCH:      stretch == big
+  WILDCARD:         wildcard
+  AI CENTRAL:       ai_relevance == central
+  OFF MAJOR BOARDS: job.on_major_boards == no
+  CLIENT-FACING:    client_ownership == owns_accounts

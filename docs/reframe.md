@@ -1,5 +1,11 @@
 # Mo Money: Reframe Response
 
+> **Amended after GPT review (accepted in full):**
+> 1. **Novelty has three kinds.** *Source* (not on the usual boards), *discovery* (Mo Money surfaced it first) and *attention* (it was on a board Rone uses, but he missed it). Only source novelty is observable in the product; "on LinkedIn" is a neutral tag, not a demotion. Discovery and attention novelty are measured in the bakeoff against his manual list.
+> 2. **No model-judged hard exclusions in V1.** "Unrelated profession" becomes `overlap: very_low`, shown dimmed. Only closed jobs and constraints Rone explicitly declares impossible get suppressed, logged and reversible.
+> 3. **One analysis pass in V1.** A full scouting note on every job. Tag and note fields stay separate in the schema so tiering can be added later if the spike shows cost demands it.
+> 4. **One feed, not lanes.** Tags on each card (STRONG OVERLAP, BIG STRETCH, WILDCARD, AI CENTRAL, OFF MAJOR BOARDS, CLIENT-FACING) plus quick filters. Sections 3-6 below that mention lanes, derived labels or two-tier inference are superseded by `schema/jobs.sql` and `analysis/scouting.yaml`.
+
 Claude's response to the "scouting layer, not decision-maker" reframe. I accept the reframe. Below are the seven answers, plus three places where it changes things more than the brief implied and one internal contradiction I'd resolve differently.
 
 ## Where the reframe cuts deeper than stated
