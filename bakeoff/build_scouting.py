@@ -38,7 +38,10 @@ def missing(j, a):
         out.append("employment type")
     return out
 
-MD_EXCLUDED = {850947082, 850274105}  # HCA: must live near a hospital in listed states; MD absent
+# Remote roles restricted to a listed set of states that omits Maryland.
+# HCA x2: must live near a hospital in listed states. Springboard: CA/FL/TX/MA/AZ/NY/IL
+# (caught by Rone's card review; the spike analysis missed it). Bryan University: "reside in the following states".
+MD_EXCLUDED = {850947082, 850274105, 851985369, 852327987}
 
 def suppression(jid, a):
     if jid in MD_EXCLUDED:

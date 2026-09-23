@@ -1,4 +1,4 @@
-### 1. Content Development Manager at Springboard
+### 1. Content Development Manager at Springboard (FILTERED: state list for remote eligibility excludes Maryland)
 `STRONG OVERLAP · BIG STRETCH` · overlap **strong** · stretch **big** · AI present · salary not stated · posted 2026-09-23
 - **Why surfaced:** Title matched a title-family sizing query: "Content Development Manager".
 - **Overlap:** owns end-to-end instructional content creation; builds new courses end to end incl. AI/tech courses; works with SMEs/instructors

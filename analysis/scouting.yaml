@@ -36,6 +36,20 @@ note:
   missing_info: what the posting doesn't say (salary, level, remote policy)
   confidence: [high, medium, low]
 
+# Eligibility checks the analyzer runs on the posting TEXT (structured location/remote
+# fields from sources are unreliable). A failure suppresses the job (logged, reversible),
+# it is never deleted.
+eligibility:
+  home_state: MD
+  workplace: remote_only          # onsite/hybrid in the text -> suppress, even if flagged remote
+  state_allowlist_rule: >
+    If the posting restricts remote candidates to a listed set of states (explicit
+    "the following states" language, a location line listing states, or "must live
+    within X of" sites in listed states), Maryland must appear in that set. If it
+    doesn't, suppress with rule location_impossible and quote the list as evidence.
+    A single city/state location line with no restriction language is NOT an allowlist.
+  explicit_exclusion: posting names Maryland as excluded -> suppress
+
 # Feed tags are derived in code from the fields above, shown on the card,
 # and usable as quick filters. There are no lanes.
 feed_tags:

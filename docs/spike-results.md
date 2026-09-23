@@ -2,6 +2,8 @@
 
 Run 2026-09-23 against TheirStack `/v1/jobs/search`, filtered to US, `workplace_types_or: [remote]`, posted in the last 7 days. The spike spent 150 of 200 free credits; 50 are left in reserve. Every raw response is in `bakeoff/raw/`, and per-query credits are in `bakeoff/raw/credit_log.jsonl`. The scouting analysis (`analysis/scouting.yaml` v0.2-draft, run by claude-opus-5-5) covers all 144 sampled jobs and is in `bakeoff/scouting_analysis.jsonl`.
 
+> **Correction after Rone's card review:** the analysis only caught Maryland exclusions when a posting named MD directly. When a posting lists the states it will hire in (for example Springboard: CA/FL/TX/MA/AZ/NY/IL), MD has to be on that list. A re-scan found 2 misses: Springboard (card 1) and Bryan University. Both are now suppressed, and interesting drops from **39 to 37**; the numbers below are the originals. The rule is now in `analysis/scouting.yaml` under `eligibility`.
+
 **Bottom line.** TheirStack works as the retrieval backbone. Title families are dependable, description-pattern search works, and the descriptions are complete. It is not a novelty source: 80% of the sampled jobs came from LinkedIn or Indeed. Rone checks those boards already, so most of TheirStack's value is surfacing titles he wouldn't search for (attention novelty), not jobs he can't reach. The gaps point to direct ATS / careers-page retrieval as the complementary source, with Google Jobs via SerpAPI as a cheap way to check it.
 
 ## How the spike ran

@@ -1,5 +1,5 @@
 card,job_id,company,title,stratum,overlap,wildcard,off_major_boards,glad_i_saw_this,already_found_myself,notes
-1,851985369,Springboard,Content Development Manager,title_family,strong,False,False,,,
+1,851985369,Springboard,Content Development Manager,title_family,strong,False,False,,,"Card was off: listing is limited to CA, FL, TX, MA, AZ, NY & IL, which leaves out MD, so it should have been filtered. Rule: if a posting lists allowed states, MD has to be one of them."
 2,852286299,ZipLiens,Director of Onboarding & Enablement (Remote),description_family,strong,True,True,,,
 3,851383703,NICE,"Senior Education Professional, Development",description_family,strong,False,False,,,
 4,850792055,Veeva Systems,Technical Curriculum Developer - AI Agents - Remote,title_family,strong,False,False,,,

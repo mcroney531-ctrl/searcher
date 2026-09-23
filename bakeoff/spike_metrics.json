@@ -35,10 +35,10 @@
     "weak": 5,
     "strong": 20
    },
-   "interesting": 30,
+   "interesting": 28,
    "wildcard_true": 2,
    "wildcard_interesting": 0,
-   "suppressed": 6,
+   "suppressed": 8,
    "off_major_boards": 7,
    "interesting_off_board": 3,
    "workplace_in_text": {
@@ -182,7 +182,7 @@
    "partial": 1,
    "weak": 0,
    "very_low": 0,
-   "interesting": 8
+   "interesting": 7
   },
   "title_family:technical_content": {
    "n": 8,
@@ -206,15 +206,15 @@
    "partial": 0,
    "weak": 0,
    "very_low": 0,
-   "interesting": 1
+   "interesting": 0
   }
  },
  "overall": {
-  "interesting": 39,
+  "interesting": 37,
   "n": 143,
   "wildcard_interesting": 5,
   "suppressed": {
-   "location_impossible": 16
+   "location_impossible": 18
   },
   "workplace_in_text": {
    "unclear": 40,
