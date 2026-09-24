@@ -1,0 +1,34 @@
+{
+ "query_id": "proj_phrase_teach_teams_to_use_ai",
+ "retrieval_mode": "description_family",
+ "family": "teach teams to use AI",
+ "request": {
+  "posted_at_max_age_days": 7,
+  "job_country_code_or": [
+   "US"
+  ],
+  "workplace_types_or": [
+   "remote"
+  ],
+  "job_description_pattern_or": [
+   "(?i)teach teams to use AI"
+  ],
+  "limit": 1,
+  "include_total_results": true,
+  "order_by": [
+   {
+    "field": "date_posted",
+    "desc": true
+   }
+  ]
+ },
+ "response": {
+  "metadata": {
+   "total_results": 0,
+   "truncated_results": 0,
+   "truncated_companies": 0,
+   "total_companies": 0
+  },
+  "data": []
+ }
+}

@@ -1,0 +1,215 @@
+{
+ "query_id": "proj_phrase_curriculum_development",
+ "retrieval_mode": "description_family",
+ "family": "curriculum development",
+ "request": {
+  "posted_at_max_age_days": 7,
+  "job_country_code_or": [
+   "US"
+  ],
+  "workplace_types_or": [
+   "remote"
+  ],
+  "job_description_pattern_or": [
+   "(?i)curriculum development"
+  ],
+  "limit": 1,
+  "include_total_results": true,
+  "order_by": [
+   {
+    "field": "date_posted",
+    "desc": true
+   }
+  ]
+ },
+ "response": {
+  "metadata": {
+   "total_results": 116,
+   "truncated_results": 0,
+   "truncated_companies": 0,
+   "total_companies": 94
+  },
+  "data": [
+   {
+    "id": 853023633,
+    "job_title": "Assistant Director, School of Health, Wellness & Human Services",
+    "url": "https://jobs.lever.co/jobgether/cd7242c1-eed5-4a25-8cba-1f541851c3ec",
+    "date_posted": "2026-09-24",
+    "has_blurred_data": false,
+    "company": "Jobgether",
+    "final_url": "https://jobs.lever.co/jobgether/cd7242c1-eed5-4a25-8cba-1f541851c3ec",
+    "source_url": "https://jobs.lever.co/jobgether/cd7242c1-eed5-4a25-8cba-1f541851c3ec",
+    "location": "US",
+    "short_location": "US",
+    "long_location": "US",
+    "state_code": "00",
+    "latitude": 39.7599983215332,
+    "longitude": -98.5,
+    "postal_code": null,
+    "remote": true,
+    "hybrid": false,
+    "salary_string": "$53.2k - $66.5k per year",
+    "min_annual_salary": 53240,
+    "min_annual_salary_usd": 53240.0,
+    "max_annual_salary": 66550,
+    "max_annual_salary_usd": 66550.0,
+    "avg_annual_salary_usd": 59895.0,
+    "salary_currency": "USD",
+    "countries": [],
+    "country": "United States",
+    "country_codes": [
+     "US"
+    ],
+    "country_code": "US",
+    "cities": [],
+    "continents": [],
+    "seniority": "senior",
+    "discovered_at": "2026-09-24T10:56:32.035000Z",
+    "closed_at": null,
+    "company_domain": "jobgether.com",
+    "hiring_team": [],
+    "reposted": false,
+    "date_reposted": null,
+    "employment_statuses": [
+     "full_time"
+    ],
+    "easy_apply": null,
+    "technology_slugs": [
+     "google-surveys",
+     "lever"
+    ],
+    "keyword_slugs": [
+     "environment-health-and-safety-hsse",
+     "health-promotion-recreation-wellness-benefits",
+     "education-training",
+     "ecology-environment",
+     "case-management",
+     "clubs-organizations",
+     "trade-shows-events",
+     "assessment-assessment-tools",
+     "time-and-attendance",
+     "planning-and-forecasting",
+     "electrical-engineering-and-planning",
+     "planning-and-design",
+     "recruiting-career-management",
+     "training-and-development",
+     "diversity",
+     "youth-organizations-resources",
+     "networking-telecommunications",
+     "presentations",
+     "credit-and-collections",
+     "onboarding",
+     "google-surveys",
+     "advisory-board",
+     "colleges-universities",
+     "mentoring",
+     "coaching-mentoring",
+     "policies-and-practices",
+     "visual-art-design",
+     "product-development-and-design",
+     "time-management",
+     "professional-development",
+     "salary-range",
+     "state-local-municipal",
+     "pensions-retirement-benefits",
+     "retirement-planning",
+     "vision-care",
+     "vision-insurance",
+     "career-development",
+     "lever"
+    ],
+    "description": "**This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for an Assistant Director, School of Health, Wellness & Human Services based in United States.**\n\nThis role focuses on strengthening student success, retention, belonging, and degree completion within a higher education environment. You’ll serve as a success navigator for an assigned cohort, providing consistent outreach, individualized support, and proactive intervention throughout students’ academic journeys. The position combines case management, advising, engagement programming, career preparation, and community partnership. You’ll work closely with faculty, advisors, student services, families, and community organizations to address academic, social, and economic barriers. The role also contributes to workforce education programs, student events, assessment activities, and grant-supported initiatives. It is well suited to an education professional who is passionate about supporting diverse student populations and creating inclusive pathways to academic and career success.\n\n### Accountabilities:\n\n- Serve as a success navigator for an assigned cohort of students, providing consistent outreach, engagement, support, and proactive intervention through degree completion.\n- Monitor student progress using success-tracking systems and related platforms, identifying early alerts and developing appropriate intervention plans.\n- Meet regularly with students to develop, implement, and review individualized academic and success plans.\n- Collaborate with faculty, organization advisors, support staff, families, and other members of students’ support networks to monitor academic progress, persistence, attendance, and engagement.\n- Co-facilitate school-based enrollment, engagement, orientation, open house, convocation, advising, academic planning, recruiting, career, and transfer events.\n- Develop and facilitate student-facing programming focused on holistic development, belonging, diversity, mutual respect, engagement, and retention.\n- Participate in summer engagement activities for new and prospective students.\n- Identify and coordinate referrals to academic, social, financial, and other support services that can help students overcome barriers to success.\n- Connect students with tutoring, study groups, career preparation, transfer resources, and other available support services.\n- Support career readiness through resume development, interview preparation, and career and transfer networking opportunities.\n- Assist with program publications, communications, informational presentations, and outreach to parents or other appropriate support contacts.\n- Provide information and feedback for reports, program assessments, and initiative development.\n- Support post-award grant coordination for projects connected to student and school priorities.\n- Support non-credit workforce education programs through information sessions, community outreach, onboarding, matriculation, and registration activities.\n- Partner with community agencies to promote workforce education opportunities and connect prospective students with relevant programs.\n- Coordinate workforce completion surveys and collect data to support grant requirements, curriculum development, and advisory board review.\n- Perform additional projects and responsibilities as assigned while maintaining confidentiality and professional standards.\n\n### Requirements\n\n- Master’s degree from an accredited college or university, or recognized foreign equivalent, plus at least one year of relevant professional experience working with or mentoring college students; an equivalent combination of education and experience may be considered.\n- Direct experience working with diverse student populations, including individuals who are educationally or economically disadvantaged.\n- Familiarity with advising, success coaching, student navigation, and/or case management practices is preferred.\n- Experience with program or curricular design and program evaluation is an advantage.\n- Strong understanding of the needs and challenges faced by students from underserved or disadvantaged backgrounds.\n- Excellent interpersonal and communication skills, with the ability to communicate effectively with students, families, faculty, staff, and community partners.\n- Knowledge of career and transfer services and related student support practices.\n- Strong organizational and time-management abilities, with the capacity to manage multiple priorities and competing needs efficiently.\n- Ability to use assessment and data to guide program and initiative development.\n- Professional judgment and discretion when handling confidential student information.\n- Demonstrated initiative, creativity, collaboration, adaptability, and commitment to continuous professional development.\n- Ability to embrace change, take ownership of new projects, and work effectively in a student-centered environment.\n- Bilingual English/Spanish skills are preferred; English combined with other languages may also be considered.\n- Availability for limited evening and weekend commitments.\n\n### Benefits\n\n- Annual salary range of $53,240–$66,550, commensurate with credentials and relevant experience.\n- Generous and competitive benefits package.\n- New York State Local Retirement System pension or an Optional Retirement Plan (401a).\n- Health, dental, and vision insurance, including coverage for qualifying domestic partners.\n- Eligibility to participate in the Public Service Loan Forgiveness program for qualifying borrowers.\n- Full-time position supporting student success, advising, retention, workforce education, and career development.\n- Opportunity to design and facilitate student programming and engagement initiatives.\n- Meaningful work supporting diverse and underserved student populations.\n- Collaboration with faculty, student services, community organizations, and other education professionals.\n- Exposure to grant-supported programs, assessment initiatives, career services, and workforce education.\n- Opportunities to contribute to inclusive, multicultural, and student-centered educational programming.\n\n**How Jobgether works:**\n\nWe use an **AI-powered matching process** to ensure your application is reviewed quickly, objectively, and fairly against the role's core requirements. Our system identifies the top-fitting candidates, and this shortlist is then shared directly with the hiring company. The final decision and next steps (interviews, assessments) are managed by their internal team.\n\nWe appreciate your interest and wish you the best!\n\n[Why Apply Through Jobgether?](https://jobgether.com/how-jobgether-works)\n\n**Data Privacy Notice:** By submitting your application, you acknowledge that Jobgether will process your personal data to evaluate your candidacy and share relevant information with the hiring employer. This processing is based on legitimate interest and pre-contractual measures under applicable data protection laws (including GDPR). You may exercise your rights (access, rectification, erasure, objection) at any time.\n\n#LI-CL1",
+    "company_object": {
+     "id": "8hPusYwssKDRLYBF0DedQA==",
+     "name": "Jobgether",
+     "domain": "jobgether.com",
+     "industry": "Staffing and Recruiting",
+     "country": "United States",
+     "country_code": "US",
+     "employee_count": 585,
+     "logo": "https://media.theirstack.com/company/logo/domain/jobgether.com.jpeg",
+     "num_jobs": 72673,
+     "num_technologies": 0,
+     "num_keywords": 0,
+     "num_buying_intent_topics": 0,
+     "possible_domains": [
+      "jobgether.com"
+     ],
+     "url": "https://jobgether.com",
+     "industry_id": 104,
+     "linkedin_url": "https://www.linkedin.com/company/jobgether/",
+     "num_jobs_last_30_days": 7085,
+     "num_jobs_found": null,
+     "yc_batch": null,
+     "apollo_id": "5e57aee2b3281d0001316fe2",
+     "linkedin_id": "27130504",
+     "url_source": null,
+     "is_recruiting_agency": true,
+     "founded_year": 2019,
+     "annual_revenue_usd": null,
+     "annual_revenue_usd_readable": null,
+     "total_funding_usd": null,
+     "last_funding_round_date": "2023-03-01",
+     "last_funding_round_amount_readable": null,
+     "employee_count_range": "501-1000",
+     "long_description": "🚀 We’re reinventing job search.\n\nAt Jobgether, we believe finding the right job shouldn’t feel like a full-time job. Today, we’re launching a product that removes every useless step between great talent and great opportunities.\n\nWelcome to the new way talent find opportunity.\n",
+     "seo_description": "Access in 1 click to all the best Flexible jobs (homeworking, unlimited holidays, flexible working hours, etc.) in Europe.",
+     "city": "San Francisco",
+     "postal_code": null,
+     "company_keywords": [
+      "recruiting",
+      "matching",
+      "ai",
+      "machine learning"
+     ],
+     "company_tags": [
+      "recruiting",
+      "matching",
+      "ai",
+      "machine learning"
+     ],
+     "alexa_ranking": 144360,
+     "publicly_traded_symbol": null,
+     "publicly_traded_exchange": null,
+     "investors": [],
+     "funding_stage": "seed",
+     "has_blurred_data": false,
+     "keyword_slugs": [],
+     "technology_slugs": [],
+     "technology_names": []
+    },
+    "locations": [
+     {
+      "id": 6252001,
+      "name": "United States",
+      "type": "country",
+      "feature_code": "PCLI",
+      "country_code": "US",
+      "admin1_name": null,
+      "admin1_code": "00",
+      "admin2_name": null,
+      "admin2_code": null,
+      "continent": "NA",
+      "latitude": 39.76,
+      "longitude": -98.5,
+      "city": null,
+      "address": null,
+      "postal_code": null,
+      "state": null,
+      "state_code": "00",
+      "display_name": "United States",
+      "country_name": "United States"
+     }
+    ],
+    "normalized_title": "",
+    "manager_roles": [],
+    "matching_phrases": [
+     "- Coordinate workforce completion surveys and collect data to support grant requirements, curriculum development, and advisory board review"
+    ],
+    "matching_words": [
+     "curriculum development"
+    ]
+   }
+  ]
+ }
+}

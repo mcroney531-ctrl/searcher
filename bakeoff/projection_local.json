@@ -1,0 +1,379 @@
+{
+ "glads": {
+  "852046205": 5,
+  "852201874": 7,
+  "851544831": 10,
+  "849294484": 12,
+  "850576240": 14,
+  "851194095": 15,
+  "850645504": 17
+ },
+ "title_exclude": {
+  "account_exec": {
+   "removes": 0,
+   "removes_glad_or_interesting": [],
+   "examples": []
+  },
+  "account_manager": {
+   "removes": 3,
+   "removes_glad_or_interesting": [],
+   "examples": [
+    "Partner Account Manager / Referral Partner — Axis Business S @ Axis Business Suite [very_low]",
+    "Key Account Manager (KAM) - Hospitals; Anti-infectives - Det @ Shionogi Inc. (U.S.) [very_low]",
+    "Key Account Manager @ Munters [very_low]"
+   ]
+  },
+  "sales_rep": {
+   "removes": 3,
+   "removes_glad_or_interesting": [],
+   "examples": [
+    "Filtration Sales Specialist @ Cytiva [very_low]",
+    "AiBLE Strategic Sales Representative 3 -Lexington/ Louisvill @ Medtronic [very_low]",
+    "Implant Direct - Regional Sales Representative (South Housto @ Envista Holdings [very_low]"
+   ]
+  },
+  "sales_mgmt": {
+   "removes": 4,
+   "removes_glad_or_interesting": [],
+   "examples": [
+    "Director of Sales New @ Smartcat [very_low]",
+    "Director of Sales @ Smartcat [very_low]",
+    "Director of Sales @ smARTcat [very_low]",
+    "Clinical Sales Manager - Cardiovascular/Perfusion @ Nordson Corporation [very_low]"
+   ]
+  },
+  "sales_dev": {
+   "removes": 0,
+   "removes_glad_or_interesting": [],
+   "examples": []
+  },
+  "territory": {
+   "removes": 0,
+   "removes_glad_or_interesting": [],
+   "examples": []
+  },
+  "presales_eng": {
+   "removes": 3,
+   "removes_glad_or_interesting": [],
+   "examples": [
+    "Staff Solutions Engineer @ Mozilla Corporation [very_low]",
+    "Technical Solutions Consultant (Pre-Sales) @ Blockstream [very_low]",
+    "Sr Director, Partner Sales - Solutions Consultant @ TreviPay [weak]"
+   ]
+  },
+  "cust_service": {
+   "removes": 8,
+   "removes_glad_or_interesting": [],
+   "examples": [
+    "Remote Customer Service Representative -Phone/Email/Chat- $1 @ VetJobs [very_low]",
+    "Customer Service Representative @ Fortune Brands [very_low]",
+    "Customer Service Representative @ Moen [very_low]",
+    "Technical Customer Support Representative - Water Filtration @ TalentHop [very_low]"
+   ]
+  },
+  "tech_support": {
+   "removes": 8,
+   "removes_glad_or_interesting": [],
+   "examples": [
+    "Technical Support Specialist @ BizLibrary [weak]",
+    "Enterprise Application Support Analyst @ Nesco Resource [very_low]",
+    "Application Support Technician (Technical Support) @ Vermont Systems [very_low]",
+    "Technical Support Specialist @ PLACE [weak]"
+   ]
+  },
+  "help_desk": {
+   "removes": 2,
+   "removes_glad_or_interesting": [],
+   "examples": [
+    "Service Desk Analyst II @ Shrinerschildrens [very_low]",
+    "Tier 3 Support Specialist @ Anavation [very_low]"
+   ]
+  },
+  "cust_success": {
+   "removes": 4,
+   "removes_glad_or_interesting": [],
+   "examples": [
+    "Principal Customer Success Executive, U.S. Federal @ ServiceNow [very_low]",
+    "Customer Success Manager @ FullSteam LLC [weak]",
+    "Customer Success Manager @ Evlo AI [very_low]",
+    "Customer Success Manager @ QA Ltd [weak]"
+   ]
+  }
+ },
+ "phrases": {
+  "develop(ing)? course content": {
+   "family": "course_content",
+   "sample_matches": 0,
+   "glads": [],
+   "interesting": 0,
+   "interesting_titles": []
+  },
+  "course development": {
+   "family": "course_content",
+   "sample_matches": 7,
+   "glads": [
+    14,
+    15
+   ],
+   "interesting": 4,
+   "interesting_titles": [
+    "Music Curriculum Developer @ Miaplaza, Inc. [interesting]",
+    "Instructional Designer @ BJU Scope [interesting]",
+    "Business Development Course Developer @ Shipley Associates [GLAD #15]",
+    "CGHS - Instructional Designer (remote) @ A T Still University Of Health Sciences [GLAD #14]"
+   ]
+  },
+  "learning content": {
+   "family": "course_content",
+   "sample_matches": 14,
+   "glads": [
+    12,
+    17
+   ],
+   "interesting": 7,
+   "interesting_titles": [
+    "Sr Manager of Curriculum and Instruction (Remote) @ Ladders [GLAD #17]",
+    "Learning and Development Program Manager @ Solera Senior Living [interesting]",
+    "Instructional Designer @ Horizontal Talent [interesting]",
+    "Interim Associate Manager, Email Marketing (3-month contract @ Khan Academy [interesting]",
+    "Training Developer @ Edgewater Technical Associates [interesting]",
+    "Technical Training Content Developer @ Commerce [GLAD #12]",
+    "Senior Education Professional, Development @ NICE [interesting]"
+   ]
+  },
+  "e-learning content": {
+   "family": "course_content",
+   "sample_matches": 1,
+   "glads": [],
+   "interesting": 0,
+   "interesting_titles": []
+  },
+  "curriculum development": {
+   "family": "curriculum",
+   "sample_matches": 9,
+   "glads": [
+    15,
+    17
+   ],
+   "interesting": 6,
+   "interesting_titles": [
+    "Sr Manager of Curriculum and Instruction (Remote) @ Ladders [GLAD #17]",
+    "Music Curriculum Developer @ Miaplaza, Inc. [interesting]",
+    "Training Developer @ Edgewater Technical Associates [interesting]",
+    "Business Development Course Developer @ Shipley Associates [GLAD #15]",
+    "Technical Curriculum Developer - AI Agents - Remote @ Veeva Systems [interesting]",
+    "Instructional Designer (Training and Development Representat @ NYC Health + Hospitals [interesting]"
+   ]
+  },
+  "design(ing)? (the )?curriculum": {
+   "family": "curriculum",
+   "sample_matches": 1,
+   "glads": [],
+   "interesting": 1,
+   "interesting_titles": [
+    "Faculty.Instructor.Instructor - Part-Time @ University of Pittsburgh [interesting]"
+   ]
+  },
+  "training curriculum": {
+   "family": "curriculum",
+   "sample_matches": 7,
+   "glads": [],
+   "interesting": 2,
+   "interesting_titles": [
+    "Principal Field Service Technical Training Specialist @ Medtronic [interesting]",
+    "Director of Onboarding & Enablement (Remote) @ ZipLiens [interesting]"
+   ]
+  },
+  "enablement materials": {
+   "family": "enablement_material",
+   "sample_matches": 10,
+   "glads": [],
+   "interesting": 0,
+   "interesting_titles": []
+  },
+  "enablement content": {
+   "family": "enablement_material",
+   "sample_matches": 5,
+   "glads": [],
+   "interesting": 2,
+   "interesting_titles": [
+    "Technical Curriculum Developer - AI Agents - Remote @ Veeva Systems [interesting]",
+    "Director of Onboarding & Enablement (Remote) @ ZipLiens [interesting]"
+   ]
+  },
+  "playbooks and training": {
+   "family": "enablement_material",
+   "sample_matches": 1,
+   "glads": [],
+   "interesting": 0,
+   "interesting_titles": []
+  },
+  "customer training": {
+   "family": "customer_training",
+   "sample_matches": 14,
+   "glads": [
+    7
+   ],
+   "interesting": 2,
+   "interesting_titles": [
+    "Customer Education & Engagement Team Manager @ Lunit Cancer Screening [interesting]",
+    "Customer Education Specialist @ Citian [GLAD #7]"
+   ]
+  },
+  "customer education": {
+   "family": "customer_training",
+   "sample_matches": 7,
+   "glads": [
+    7
+   ],
+   "interesting": 6,
+   "interesting_titles": [
+    "Senior Customer Education Manager, Enterprise @ TalentHop [interesting]",
+    "Customer Education & Engagement Team Manager @ Lunit Cancer Screening [interesting]",
+    "Senior Customer Education Manager, Enterprise @ TalentHop [interesting]",
+    "Customer Education Specialist @ Citian [GLAD #7]",
+    "Director of Onboarding & Enablement (Remote) @ ZipLiens [interesting]",
+    "Director of Customer Education @ SPECTRIO LLC [interesting]"
+   ]
+  },
+  "onboarding content": {
+   "family": "customer_training",
+   "sample_matches": 0,
+   "glads": [],
+   "interesting": 0,
+   "interesting_titles": []
+  },
+  "academy content": {
+   "family": "customer_training",
+   "sample_matches": 0,
+   "glads": [],
+   "interesting": 0,
+   "interesting_titles": []
+  },
+  "knowledge base": {
+   "family": "knowledge_content",
+   "sample_matches": 38,
+   "glads": [],
+   "interesting": 3,
+   "interesting_titles": [
+    "SEO Content Strategist @ Calculated Hire [interesting]",
+    "Director of Customer Education @ SPECTRIO LLC [interesting]",
+    "Director of Onboarding & Enablement (Remote) @ ZipLiens [interesting]"
+   ]
+  },
+  "help center content": {
+   "family": "knowledge_content",
+   "sample_matches": 1,
+   "glads": [],
+   "interesting": 1,
+   "interesting_titles": [
+    "SEO Content Strategist @ Calculated Hire [interesting]"
+   ]
+  },
+  "content operations": {
+   "family": "knowledge_content",
+   "sample_matches": 0,
+   "glads": [],
+   "interesting": 0,
+   "interesting_titles": []
+  },
+  "content governance": {
+   "family": "knowledge_content",
+   "sample_matches": 2,
+   "glads": [
+    5
+   ],
+   "interesting": 2,
+   "interesting_titles": [
+    "Director of Onboarding & Enablement (Remote) @ ZipLiens [interesting]",
+    "Senior Digital Product Analyst @ Blue Cross and Blue Shield of North Carolina [GLAD #5]"
+   ]
+  },
+  "AI adoption": {
+   "family": "ai_adoption",
+   "sample_matches": 11,
+   "glads": [],
+   "interesting": 1,
+   "interesting_titles": [
+    "Senior Lead, AI, Digital and Data Capacity Development @ Save the Children [interesting]"
+   ]
+  },
+  "AI literacy": {
+   "family": "ai_adoption",
+   "sample_matches": 6,
+   "glads": [],
+   "interesting": 0,
+   "interesting_titles": []
+  },
+  "AI training program": {
+   "family": "ai_adoption",
+   "sample_matches": 1,
+   "glads": [],
+   "interesting": 1,
+   "interesting_titles": [
+    "Senior Lead, AI, Digital and Data Capacity Development @ Save the Children [interesting]"
+   ]
+  },
+  "teach teams to use AI": {
+   "family": "ai_adoption",
+   "sample_matches": 0,
+   "glads": [],
+   "interesting": 0,
+   "interesting_titles": []
+  }
+ },
+ "title_exclude_total": {
+  "removed": 35,
+  "by_overlap": {
+   "very_low": 30,
+   "weak": 5
+  },
+  "glad_or_interesting_removed": []
+ },
+ "probes": {
+  "Customer Success Content & Enablement Manager": [],
+  "Sales Enablement Content Manager": [],
+  "Customer Education Specialist": [],
+  "Senior Digital Product Analyst": [],
+  "Business Development Course Developer": [],
+  "Technical Support Content Writer": [],
+  "Customer Service Training Specialist": [],
+  "Sales Enablement Manager": [],
+  "Account Management Training Lead": []
+ },
+ "description_only_finds": {
+  "Interim Associate Manager, Email Marketing (3-month contract @ Khan Academy [interesting]": [
+   "learning content"
+  ],
+  "Learning and Development Program Manager @ Solera Senior Living [interesting]": [
+   "learning content"
+  ],
+  "Senior Education Professional, Development @ NICE [interesting]": [
+   "learning content"
+  ],
+  "Business Development Course Developer @ Shipley Associates [GLAD #15]": [
+   "course development",
+   "curriculum development"
+  ],
+  "Principal Field Service Technical Training Specialist @ Medtronic [interesting]": [
+   "training curriculum"
+  ],
+  "Director of Onboarding & Enablement (Remote) @ ZipLiens [interesting]": [
+   "training curriculum",
+   "enablement content",
+   "customer education",
+   "knowledge base",
+   "content governance"
+  ],
+  "Senior Lead, AI, Digital and Data Capacity Development @ Save the Children [interesting]": [
+   "AI adoption",
+   "AI training program"
+  ],
+  "Senior Digital Product Analyst @ Blue Cross and Blue Shield of North Carolina [GLAD #5]": [
+   "content governance"
+  ],
+  "Faculty.Instructor.Instructor - Part-Time @ University of Pittsburgh [interesting]": [
+   "design(ing)? (the )?curriculum"
+  ]
+ }
+}

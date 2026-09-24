@@ -44,8 +44,8 @@ for fn in sorted(os.listdir(RAW)):
     if not fn.endswith(".json"):
         continue
     r = json.load(open(os.path.join(RAW, fn), encoding="utf-8"))
-    if r["query_id"].startswith("size_offboard"):
-        continue  # count-only novelty queries, run after the scouting pass
+    if r["query_id"].startswith(("size_offboard", "proj_")):
+        continue  # count-only queries run after the scouting pass (novelty, credit projection)
     for j in r["response"]["data"]:
         appearances[j["id"]].append(r["query_id"])
         if j["id"] in jobs:

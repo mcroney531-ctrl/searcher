@@ -1,0 +1,217 @@
+{
+ "query_id": "proj_phrase_knowledge_base_narrow",
+ "retrieval_mode": "description_family",
+ "family": "knowledge base (narrow)",
+ "request": {
+  "posted_at_max_age_days": 7,
+  "job_country_code_or": [
+   "US"
+  ],
+  "workplace_types_or": [
+   "remote"
+  ],
+  "job_description_pattern_or": [
+   "(?i)(knowledge[- ]base (articles?|content)|(writ|build|creat|develop|maintain|own|curat)\\w* (and \\w+ )?(an? |the |our )?(internal |external |customer[- ]facing )?knowledge[- ]base)"
+  ],
+  "limit": 1,
+  "include_total_results": true,
+  "order_by": [
+   {
+    "field": "date_posted",
+    "desc": true
+   }
+  ]
+ },
+ "response": {
+  "metadata": {
+   "total_results": 183,
+   "truncated_results": 0,
+   "truncated_companies": 0,
+   "total_companies": 149
+  },
+  "data": [
+   {
+    "id": 852824219,
+    "job_title": "Remote Documentation Specialist",
+    "url": "https://www.linkedin.com/jobs/view/4466220900/",
+    "date_posted": "2026-09-24",
+    "has_blurred_data": false,
+    "company": "Careerscape",
+    "final_url": null,
+    "source_url": "https://www.linkedin.com/jobs/view/4466220900/",
+    "location": null,
+    "short_location": null,
+    "long_location": null,
+    "state_code": "00",
+    "latitude": 39.7599983215332,
+    "longitude": -98.5,
+    "postal_code": null,
+    "remote": true,
+    "hybrid": false,
+    "salary_string": null,
+    "min_annual_salary": null,
+    "min_annual_salary_usd": null,
+    "max_annual_salary": null,
+    "max_annual_salary_usd": null,
+    "avg_annual_salary_usd": null,
+    "salary_currency": null,
+    "countries": [],
+    "country": "United States",
+    "country_codes": [
+     "US"
+    ],
+    "country_code": "US",
+    "cities": [],
+    "continents": [],
+    "seniority": "senior",
+    "discovered_at": "2026-09-24T07:17:58.073000Z",
+    "closed_at": null,
+    "company_domain": "cs-recruiters.com",
+    "hiring_team": [
+     {
+      "first_name": "Mangesh",
+      "full_name": "Mangesh Sahani",
+      "linkedin_url": "https://www.linkedin.com/in/mangesh-sahani-671666217/",
+      "role": "",
+      "image_url": "",
+      "thumbnail_url": "https://media.licdn.com/dms/image/v2/D5603AQGnTwSrHkfobw/profile-displayphoto-scale_400_400/B56Z7NqgiaKYAg-/0/1781566933756?e=2147483647&v=beta&t=84Qm_C6BxXvShks-mMTSsLKwqH6wGE_TjgodC2lbmu8"
+     }
+    ],
+    "reposted": false,
+    "date_reposted": null,
+    "employment_statuses": [
+     "full_time"
+    ],
+    "easy_apply": null,
+    "technology_slugs": [
+     "google-workspace",
+     "workspace"
+    ],
+    "keyword_slugs": [
+     "recruiting-career-management",
+     "time-and-attendance",
+     "salary-range",
+     "knowledge-base",
+     "software-version-management",
+     "revision-management",
+     "source-code-management",
+     "version-control",
+     "onboarding",
+     "archiving",
+     "google-workspace",
+     "workspace",
+     "content-management",
+     "content-document-management",
+     "environment-health-and-safety-hsse",
+     "ecology-environment",
+     "time-management",
+     "vision-care",
+     "vision-insurance",
+     "401k",
+     "sep-ira-401k",
+     "retirement-savings-401-k",
+     "paid-time-off",
+     "holidays-seasonal-events",
+     "remote-working",
+     "home-office",
+     "professional-development",
+     "training-and-development",
+     "training-certification",
+     "education-training",
+     "employee-assistance",
+     "counseling-employee-assistance-programs-eaps",
+     "staffing",
+     "maintenance-repair-and-operations-mro",
+     "health-care",
+     "insurance-consulting-and-technology",
+     "customer-support",
+     "religion-belief-and-spirituality",
+     "sexual-orientation",
+     "ethnicity-national-origin",
+     "laws-and-regulations"
+    ],
+    "description": "Careerscape is recruiting on behalf of our client for an entry level\n**Remote Documentation Specialist**\nto join their team on a fully remote basis. This is a great opportunity for a detail-oriented writer who wants to build a career in technical and process documentation, helping teams capture knowledge clearly and keep it organized and easy to find.\n\nDay to day, you will spend your time interviewing subject matter experts, drafting and formatting documents, and updating existing content so it stays accurate as products and processes change. People who thrive in this role enjoy structure, ask good clarifying questions, and take pride in turning messy information into something clean and usable for others.\n\n**COMPENSATION**\n\nThe\n**salary range**\nfor this role is\n**$62,000 - $86,000 per year**\n, based on experience and qualifications.\n\nAdditional compensation and benefits details will be shared during the hiring process.\n\n**Responsibilities**\n\n- Draft, edit, and format internal and external documentation\n- Interview subject matter experts to gather accurate information\n- Maintain and update existing documents for accuracy and consistency\n- Organize documentation libraries and knowledge base articles\n- Ensure content follows company style and formatting guidelines\n- Review documents for grammar, clarity, and technical accuracy\n- Collaborate with cross functional teams to identify documentation needs\n- Track revisions and maintain version control on all documents\n- Support onboarding of new documentation tools and templates\n- Assist with archiving outdated or redundant content\n\n**Requirements**\n\n- Bachelor's degree or equivalent experience in English, Communications, or related field\n- Strong written communication and grammar skills\n- Comfort learning new software tools and documentation platforms\n- Ability to manage multiple projects and meet deadlines\n- High attention to detail and consistency\n- Basic familiarity with Microsoft Office and Google Workspace\n- Experience with content management systems is a plus\n- Ability to work independently in a remote environment\n- Strong organizational and time management skills\n\n**Benefits**\n\n- Medical, dental, and vision insurance\n- 401k with company match\n- Paid time off and paid holidays\n- Fully remote work environment\n- Home office stipend\n- Flexible scheduling\n- Professional development and training budget\n- Paid parental leave\n- Employee assistance program\n- Company provided laptop and equipment\n\n**ABOUT CAREERSCAPE**\n\nCareerscape is a staffing and recruiting firm connecting talented professionals with employers across administration, operations, healthcare, finance, technology, customer support, and professional services.\n\n**APPLICATION NOTICE**\n\nCareerscape is supporting the hiring process for this client opening. By applying, you agree that Careerscape may review your application, contact you regarding this opportunity, and share your information with the hiring client for consideration.\n\nCareerscape may also contact you regarding future opportunities that align with your qualifications.\n\n**EQUAL OPPORTUNITY STATEMENT**\n\nCareerscape and its hiring partners are equal opportunity employers. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, gender identity, sexual orientation, national origin, disability, protected veteran status, or any other status protected by applicable law.\n\n**FOR EMPLOYERS**\n\nCareerscape is a staffing and recruiting firm connecting professionals with leading employers. We fill critical roles through Direct Hire, Contract Staffing, Temporary Staffing, and Executive Search — each backed by industry-specialized recruiters. For support for your business, visit cs-recruiters.com/hire-talent/.",
+    "company_object": {
+     "id": "Bgdpl8z2u36RdoFcT7ttE0pArKDUuY2dY7Ee2QmFG5WsnbeyPQ21WDdeoUGLlyjo",
+     "name": "Careerscape",
+     "domain": "cs-recruiters.com",
+     "industry": null,
+     "country": "United States",
+     "country_code": "US",
+     "employee_count": 6,
+     "logo": "https://media.theirstack.com/company/logo/domain/cs-recruiters.com.jpeg",
+     "num_jobs": 594,
+     "num_technologies": 0,
+     "num_keywords": 0,
+     "num_buying_intent_topics": 0,
+     "possible_domains": [
+      "cs-recruiters.com"
+     ],
+     "url": "https://cs-recruiters.com",
+     "industry_id": null,
+     "linkedin_url": "https://www.linkedin.com/company/careerscape-recruiters/",
+     "num_jobs_last_30_days": 108,
+     "num_jobs_found": null,
+     "yc_batch": null,
+     "apollo_id": null,
+     "linkedin_id": "110387704",
+     "url_source": null,
+     "is_recruiting_agency": true,
+     "founded_year": null,
+     "annual_revenue_usd": null,
+     "annual_revenue_usd_readable": null,
+     "total_funding_usd": null,
+     "last_funding_round_date": null,
+     "last_funding_round_amount_readable": null,
+     "employee_count_range": "1-10",
+     "long_description": "Careerscape is a national recruiting firm. Whether you need a single direct hire or a full workforce strategy, we find the right people.\n\nFor ongoing or complex needs, we can run your entire recruiting function, manage your contract and temp workforce end to end, or act as your single staffing partner who coordinates every other vendor — backed by the technology to track it all and real-time insight into your hiring market.",
+     "seo_description": "Talent Search Solutions",
+     "city": "New York",
+     "postal_code": "10001",
+     "company_keywords": [],
+     "company_tags": [],
+     "alexa_ranking": null,
+     "publicly_traded_symbol": null,
+     "publicly_traded_exchange": null,
+     "investors": [],
+     "funding_stage": null,
+     "has_blurred_data": false,
+     "keyword_slugs": [],
+     "technology_slugs": [],
+     "technology_names": []
+    },
+    "locations": [
+     {
+      "id": 6252001,
+      "name": "United States",
+      "type": "country",
+      "feature_code": "PCLI",
+      "country_code": "US",
+      "admin1_name": null,
+      "admin1_code": "00",
+      "admin2_name": null,
+      "admin2_code": null,
+      "continent": "NA",
+      "latitude": 39.76,
+      "longitude": -98.5,
+      "city": null,
+      "address": null,
+      "postal_code": null,
+      "state": null,
+      "state_code": "00",
+      "display_name": "United States",
+      "country_name": "United States"
+     }
+    ],
+    "normalized_title": "",
+    "manager_roles": [],
+    "matching_phrases": [
+     "- Organize documentation libraries and knowledge base articles"
+    ],
+    "matching_words": [
+     "knowledge base articles"
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,237 @@
+{
+ "query_id": "proj_phrase_enablement_content",
+ "retrieval_mode": "description_family",
+ "family": "enablement content",
+ "request": {
+  "posted_at_max_age_days": 7,
+  "job_country_code_or": [
+   "US"
+  ],
+  "workplace_types_or": [
+   "remote"
+  ],
+  "job_description_pattern_or": [
+   "(?i)enablement content"
+  ],
+  "limit": 1,
+  "include_total_results": true,
+  "order_by": [
+   {
+    "field": "date_posted",
+    "desc": true
+   }
+  ]
+ },
+ "response": {
+  "metadata": {
+   "total_results": 65,
+   "truncated_results": 0,
+   "truncated_companies": 0,
+   "total_companies": 52
+  },
+  "data": [
+   {
+    "id": 852716746,
+    "job_title": "Channel Territory Manager",
+    "url": "https://www.linkedin.com/jobs/view/4469381076/",
+    "date_posted": "2026-09-24",
+    "has_blurred_data": false,
+    "company": "xCures",
+    "final_url": null,
+    "source_url": "https://www.linkedin.com/jobs/view/4469381076/",
+    "location": null,
+    "short_location": null,
+    "long_location": null,
+    "state_code": "00",
+    "latitude": 39.7599983215332,
+    "longitude": -98.5,
+    "postal_code": null,
+    "remote": true,
+    "hybrid": false,
+    "salary_string": null,
+    "min_annual_salary": null,
+    "min_annual_salary_usd": null,
+    "max_annual_salary": null,
+    "max_annual_salary_usd": null,
+    "avg_annual_salary_usd": null,
+    "salary_currency": null,
+    "countries": [],
+    "country": "United States",
+    "country_codes": [
+     "US"
+    ],
+    "country_code": "US",
+    "cities": [],
+    "continents": [],
+    "seniority": "senior",
+    "discovered_at": "2026-09-24T05:08:12.249000Z",
+    "closed_at": null,
+    "company_domain": "xCures.com",
+    "hiring_team": [],
+    "reposted": false,
+    "date_reposted": null,
+    "employment_statuses": [
+     "full_time"
+    ],
+    "easy_apply": null,
+    "technology_slugs": [
+     "get-satisfaction",
+     "broadly",
+     "hubspot"
+    ],
+    "keyword_slugs": [
+     "health-care",
+     "time-and-attendance",
+     "youth-organizations-resources",
+     "get-satisfaction",
+     "press-releases",
+     "environment-health-and-safety-hsse",
+     "eye-face-and-head",
+     "carried-interest",
+     "state-local-municipal",
+     "coupons-and-deals",
+     "broadly",
+     "customer-success-management",
+     "product-marketing",
+     "territory-planning",
+     "hubspot",
+     "interoperability",
+     "clubs-organizations",
+     "workflow",
+     "indirect-sales",
+     "information-technology",
+     "digital-health",
+     "healthcare-revenue-cycle",
+     "reporting-and-disclosure",
+     "adaptive-project-management-and-reporting",
+     "candidate-relationship-management",
+     "crm",
+     "customer-relationship-management-crm",
+     "planning-and-forecasting",
+     "financial-forecasting",
+     "health-information-exchange-hie",
+     "telehealth",
+     "care-coordination",
+     "telemedicine",
+     "partner-enablement",
+     "training-certification",
+     "certificate-programs",
+     "ecology-environment",
+     "sales-territory-mapping",
+     "paid-time-off",
+     "holidays-seasonal-events",
+     "health-savings-account-hsa",
+     "health-savings-accounts-hsa",
+     "retirement-savings-401-k",
+     "sep-ira-401k",
+     "401k",
+     "life-insurance",
+     "employee-assistance",
+     "counseling-employee-assistance-programs-eaps",
+     "professional-development",
+     "training-and-development",
+     "salary-range",
+     "staffing",
+     "employment-agencies",
+     "contingent-staffing-employment-agencies",
+     "search-and-retrieval",
+     "trade-shows-events"
+    ],
+    "description": "**About XCures**\nThe best of medicine should belong to everyone. Nobody dreams of becoming good at being a patient. We have people to love, things we want to do, and plans we hope to keep. Illness already asks enough of us.\n  \n  \nxCures® exists to give healthcare the capacity to care for everyone. Healthcare has more to give. Too much of its time, money, and talent goes into unnecessary work that keeps people waiting and drives up the cost of care. Freeing those resources can make excellent care possible for far more people.\n  \n  \nxCures understands a patient’s history across the places they receive care and keeps that understanding current. It puts trusted information in the hands of the people who need it, when they need it, and uses that knowledge to take on more of the administrative work around care. Every extracted data point traces back to the exact document and page it came from.\n  \n  \nOur ambition is to empower doctors to make better decisions, enable researchers to develop better treatments faster, and help healthcare organizations serve more people with fewer errors and lower costs. We work with diagnostic labs, providers, telehealth companies, health systems, payers, and consumer health platforms. We are a fully remote, venture-backed team that holds itself to the same standard as our product: trustworthy, precise, and purposeful.\n  \n  \nWe are building for the lives people want to live.\n  \n  \n**This Role Is Perfect For You If You**\n\n- Like being the second voice on someone else's call, and know how to earn that seat\n- Get satisfaction from a partner rep who finally leads with your capability unprompted\n- Are energized by field work, ride-alongs, regional sales meetings, and airport mornings\n- Believe adoption is won account by account, not announced in a press release\n- Enjoy translating clinical data workflows into language a health system buyer acts on\n- Work well when your quota depends on people who do not report to you\n\n**Here’s Where You’ll Make An Impact**\nWe are looking for a Channel Territory Manager to work alongside the field teams of our channel partners: telehealth and care coordination platforms that sell into health systems.\n  \n  \nOur partners embed Clinical Clarity inside their own products and stay the face of the customer relationship. Their commercial teams carry a long list of competing priorities. Your job is to make our capability the one their reps reach for first, in the accounts where it matters most.\n  \n  \nYou will spend your time in the field. You will travel with partner regional and local commercial teams, join their health system calls, and help them win the deal in front of them. Every joint win expands how broadly the partner deploys us across their customer footprint.\n  \n  \nThis role reports to the Vice President of Sales. You will work closely with Customer Success, Product Marketing, and Solutions Engineering.\n  \n  \n**Key Responsibilities**\n\n- Own a named territory of channel partner field teams, and build a territory plan by partner region\n- Travel with partner account executives and customer success managers into health system accounts\n- Join partner customer calls as the clinical data subject expert, and help close the deal in front of you\n- Grow share of mind with partner reps through a consistent cadence of ride-alongs, office hours, and regional check-ins\n- Represent xCures at partner regional and national sales meetings, kickoffs, and enablement sessions\n- Train and certify partner reps on positioning, discovery questions, demo flow, and objection handling\n- Expand deployment breadth from a single department or service line to the wider health system footprint\n- Track attach rate and enabled-account coverage by partner region, and report on both monthly\n- Build joint account plans with partner leadership, and keep partner-sourced pipeline current in HubSpot\n- Coordinate with Interoperability on network registration for a partner's downstream provider organizations\n- Partner with Customer Success on go-live, first-value milestones, and usage growth after the sale\n- Bring the field back to the building: report what health system buyers ask for to Product and Product Marketing\n- Escalate partner blockers early, and name the specific account, workflow, and date at risk\n\n**Qualifications**\n****Required:****\n\n- At least 5 years in field sales, channel sales, or partner-facing commercial roles\n- At least 3 years selling healthcare IT, digital health, or clinical software into health systems\n- Bachelors degree preferred; equivalent experience will be considered\n- Demonstrated experience selling with or through a partner field team you did not manage\n- Track record of quota attainment in a territory you owned\n- Experience navigating multi-stakeholder health system deals across clinical, IT, and revenue cycle\n- Experience working in a remote, distributed commercial organization\n- Strong discovery and whiteboarding skills in front of a customer you have just met\n- Ability to earn credibility fast with partner reps who did not ask for your help\n- Clear written and verbal communication, including account plans and territory reporting\n- Comfort with CRM discipline in HubSpot, including accurate forecasting and activity logging\n- Sound judgment on where to spend the week when three regions all want you\n- Willingness to travel 50% to 60% of the time within your territory\n\n**Bonus Points**\n\n- Familiarity with TEFCA, Carequality, QHIN, or HIE data pathways\n- Experience at or selling to telehealth, care coordination, or virtual care platforms\n- Background in oncology, care management, or revenue cycle workflows\n- Experience building partner enablement content, certification programs, or field playbooks\n\n****Location****\nxCures operates in a distributed, remote-first environment. Candidates must be based in the United States, within reasonable travel distance of a major airport. Candidates must expect to travel 50% to 60% of the time within your territory. Territory assignment will be discussed during the interview process.\n  \n  \nThe successful candidate must already have authorization to work in the United States. At this time, xCures does not offer sponsorship. All candidate information will be held in confidence and in accordance with EEOC guidelines.\n  \n  \n**Additional Considerations**\nWe recognize that people bring a wealth of experience and talent beyond just the requirements listed in a job description. Diversity of experience and skills, combined with a shared passion for healthcare, is what drives us to innovate. We welcome candidates from all backgrounds and encourage you to apply, even if you don’t meet every qualification listed. xCures is an equal opportunity employer, committed to creating an inclusive environment for all employees.\n  \n  \n**Benefits**\nGreat work deserves great support. We believe our people are our greatest asset, and we’re committed to supporting them with a strong, competitive benefits package. Our goal is to be a place where people genuinely want to build their careers, and our benefits are designed to support our team in the ways that matter most.\n  \n  \n\n- Remote-First\n- Paid Time Off and 13 Company Holidays\n- Equity Package\n- Paid Parental Leave\n- Medical, Vision, and Dental\n- Employer HSA Contribution\n- Employer 401(k) Match\n- STD, LTD, Life Insurance and Critical Illness Plans\n- Employee Assistance Program\n- Adoption Assistance\n- Company Offsites\n- Monthly Internet Allowance\n- Professional Development Funds\n- And more!\n\n**Compensation**\nThe anticipated salary range for this role is $110,000 to $150,000.\n  \n  \n**Agency Notice: xCures does not accept unsolicited resumes from staffing agencies, search firms, or other third-party recruiters. Any resumes submitted without a signed, active agreement with xCures will not be considered, and no fee will be paid in the event of a hire.**",
+    "company_object": {
+     "id": "tHkePv4htp8i4Ese8g3XbA==",
+     "name": "xCures",
+     "domain": "xCures.com",
+     "industry": "Software Development",
+     "country": "United States",
+     "country_code": "US",
+     "employee_count": 43,
+     "logo": "https://media.theirstack.com/company/logo/3/xCures.jpeg",
+     "num_jobs": 26,
+     "num_technologies": 5,
+     "num_keywords": 0,
+     "num_buying_intent_topics": -5,
+     "possible_domains": [
+      "xCures.com",
+      "xcures.com"
+     ],
+     "url": "https://xCures.com",
+     "industry_id": 4,
+     "linkedin_url": "https://www.linkedin.com/company/xcures/",
+     "num_jobs_last_30_days": 7,
+     "num_jobs_found": null,
+     "yc_batch": null,
+     "apollo_id": null,
+     "linkedin_id": "18737368",
+     "url_source": null,
+     "is_recruiting_agency": false,
+     "founded_year": null,
+     "annual_revenue_usd": null,
+     "annual_revenue_usd_readable": null,
+     "total_funding_usd": null,
+     "last_funding_round_date": "2023-12-01",
+     "last_funding_round_amount_readable": null,
+     "employee_count_range": "11-50",
+     "long_description": "Founded in 2018, xCures operates a real-time healthcare data platform that automatically aggregates medical records, normalizes and structures them into a searchable database. \n\nAssisted by artificial intelligence, the platform auto-extracts configurable checklists and patient summaries to give easy access to accurate clinical information needed to deliver care.\n\nAll data extraction models are validated, and each data element is linked to its source document, fostering trust in the information provided by xCures.",
+     "seo_description": "AI-Assisted Medical Record Aggregation and Information Retrieval",
+     "city": "Oakland",
+     "postal_code": "94612",
+     "company_keywords": [],
+     "company_tags": [],
+     "alexa_ranking": null,
+     "publicly_traded_symbol": null,
+     "publicly_traded_exchange": null,
+     "investors": [],
+     "funding_stage": "convertible_note",
+     "has_blurred_data": false,
+     "keyword_slugs": [],
+     "technology_slugs": [
+      "amazon-web-services",
+      "power-bi",
+      "amazon-quicksight",
+      "hubspot",
+      "python"
+     ],
+     "technology_names": [
+      "amazon-web-services",
+      "power-bi",
+      "amazon-quicksight",
+      "hubspot",
+      "python"
+     ]
+    },
+    "locations": [
+     {
+      "id": 6252001,
+      "name": "United States",
+      "type": "country",
+      "feature_code": "PCLI",
+      "country_code": "US",
+      "admin1_name": null,
+      "admin1_code": "00",
+      "admin2_name": null,
+      "admin2_code": null,
+      "continent": "NA",
+      "latitude": 39.76,
+      "longitude": -98.5,
+      "city": null,
+      "address": null,
+      "postal_code": null,
+      "state": null,
+      "state_code": "00",
+      "display_name": "United States",
+      "country_name": "United States"
+     }
+    ],
+    "normalized_title": "",
+    "manager_roles": [],
+    "matching_phrases": [
+     "- Experience building partner enablement content, certification programs, or field playbooks"
+    ],
+    "matching_words": [
+     "enablement content"
+    ]
+   }
+  ]
+ }
+}
