@@ -1,0 +1,155 @@
+{
+ "call_id": "fam_size_desc_learning_content_flex",
+ "phase": "family",
+ "url": "https://api.jobven.com/v1/public/jobs?q=-%22account+executive%22+-%22account+manager%22+-%22sales+representative%22+-%22sales+manager%22+-%22customer+service+representative%22+-%22help+desk%22+-%22customer+success+manager%22+-%22support+specialist%22&descriptionQuery=learning+content&country=US&remoteType%5B%5D=remote&remoteType%5B%5D=flexible&postedAfter=1789702200&limit=1&includeTotal=true",
+ "params": [
+  [
+   "q",
+   "-\"account executive\" -\"account manager\" -\"sales representative\" -\"sales manager\" -\"customer service representative\" -\"help desk\" -\"customer success manager\" -\"support specialist\""
+  ],
+  [
+   "descriptionQuery",
+   "learning content"
+  ],
+  [
+   "country",
+   "US"
+  ],
+  [
+   "remoteType[]",
+   "remote"
+  ],
+  [
+   "remoteType[]",
+   "flexible"
+  ],
+  [
+   "postedAfter",
+   1789702200
+  ],
+  [
+   "limit",
+   1
+  ],
+  [
+   "includeTotal",
+   "true"
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:27:19 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "transfer-encoding": "chunked",
+  "connection": "close",
+  "server": "cloudflare",
+  "vary": "Accept-Encoding",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "86bce3c7-ddd4-44ef-9c62-5dfe7ad9896a",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2369",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "427",
+  "etag": "W/\"20b3-puhU8hBo8ZicA2MZZBr6lpKYZ6c\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=z1dptIBibXzuxWqiZ6wGU7uMzwWD4W3NnxLOotbV52dKTuIS5nPfYt6SuhMAe8AGuQGQ7hJIIXqjcqShLVaLnYtrjDXI%2FxfKYde4aEiwFQ2ehqXaH7q8Ap0eAWceWIoelmHx566nEe%2BaG9bSqw%3D%3D\"}]}",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "cf-ray": "a406eeb25a1b7c81-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "id": "2fdb2558-0fc5-4a99-8b2e-6cb36f6839a9",
+    "title": "Senior Director, Client Education - Healthcare SaaS",
+    "description": "<h2>Company Description</h2><p>Experian is a global data and technology company, powering opportunities for people and businesses around the world. We operate across a range of markets, from financial services to healthcare, automotive, agribusiness, insurance, and many more. Experian invests in people and new advanced technologies to unlock the power of data. We have an amazing team of 25,200 people in 32 countries.</p><h2>Job Description</h2><p>The Senior Director, Client Education provides strategic and operational leadership for the Learning &amp; Development function that serves Experian Health's external clients across the product portfolio.</p><p>You will own the vision, roadmap, and execution of a scalable, high-quality client education program spanning instructor-led training, on-demand eLearning, video tutorials, learning labs, and the client Learning Portal.</p><p>You will be accountable for building and leading a team of instructional designers and client educators, operationalizing modern learning practices, and championing innovation including the responsible use of AI to increase the speed, quality, and scale of learning content.</p><p>You will be a senior escalation point and expert, ensuring learning experiences remain current amid frequent product changes while measurably improving client capability, confidence, and satisfaction.</p><ul><li>Improve client adoption, self-service use, product proficiency, and customer satisfaction through measurable education programs and learning experiences.</li><li>Lead the vision, strategy, and multi-year roadmap for our Client Education program across multiple Experian Health products.</li><li>Lead the design/delivery of blended learning solutions including instructor-led, on-demand eLearning, video tutorials, and learning labs in consideration of client implementation and ongoing adoption needs.</li><li>Set standards for instructional quality, accessibility, and consistency across curricula, job aids, assessments, and our client-facing course catalog.</li><li>Provide capacity, prioritization, and risk insights to leadership to guide investment and resourcing decisions.</li><li>Guide development and refresh of eLearning and training materials to keep pace with frequent product and system updates.</li><li>Establish scalable authoring workflows, templates, and governance to reduce manual effort and shorten content update cycles.</li><li>Operationalize and administer the client Learning Portal (LMS), including learning plans, enrollment, and reporting.</li><li>Apply learning-effectiveness measures and client feedback to improve curricula and delivery.</li><li>Guide organizational change management activities related to product releases, workflow changes, and client adoption plans by ensuring education strategies and communication plans are in place.</li><li>Develop product adoption strategies that guide clients from initial implementation through advanced utilization and optimization of Experian Health solutions.</li></ul><h2>Qualifications</h2><ul><li>8+ years' experience in Learning &amp; Development</li><li>8+ years' experience with Client Education</li><li>8+ years' experience training leadership, including building teams, leading teams, within healthcare technology, SaaS, or revenue cycle management environments&nbsp;</li><li>Demonstrated experience developing and scaling blended learning programs (instructor-led, virtual, and on-demand eLearning) for external clients or end-users</li><li>Experience applying AI in L&amp;D to accelerate content development, improve quality, and increase efficiency</li><li>Hands-on experience with eLearning authoring tools and learning management system (LMS) administration</li><li>Healthcare revenue cycle knowledge and familiarity with Experian Health solutions are beneficial</li><li>Experience contributing to process improvement, automation, or operational transformation plans</li><li>Epic experience is beneficial</li><li>5+ years' experience managing people</li><li><strong>10% travel required</strong></li></ul><h2>Additional Information</h2><p>Our uniqueness is that we celebrate yours. Experian's people first, inclusive and purpose driven culture is multi award-winning; World's Best Workplaces™ 2025 (Fortune Global Top 25), Great Place To Work™ in 26 countries to name a few. Check out Experian Life on social or explore our Careers Site to understand why.</p><p>Our compensation reflects the cost of labor across several U.S. geographic markets. The base pay range for this position is listed above. Within this range, individual pay is determined by work location and additional factors such as job-related skills, experience, and education. You will be also eligible for a variable pay opportunity.</p><p>Experian is proud to be an Equal Opportunity Employer for all groups protected under applicable federal, state and local law, including protected veterans and individuals with disabilities. If you have a disability or special need that requires accommodation, please let us know at the earliest opportunity.</p><p><strong>Benefits/Perks:</strong></p><ul><li>Great compensation package and bonus plan</li><li>Core benefits including medical, dental, vision, and matching 401K</li><li>Flexible work environment, ability to work remote, hybrid or in-office</li><li>Flexible time off including volunteer time off, vacation, sick and 12-paid holidays</li><li>Explore all our exciting benefits here: <a href=\"https://myexperianbenefits.com/\">https://myexperianbenefits.com/</a></li></ul><p><strong>Recruitment Fraud Awareness </strong>- Experian's recruitment process is conducted only through authorised channels. Recruitment communications will only be sent from an <strong>@<a href=\"http://experian.com\">experian.com</a></strong> email address.</p><p><strong>Experian will never ask candidates to make any payment</strong> as part of an application, interview, assessment, onboarding, or recruitment process. To apply for roles or verify opportunities, please visit <strong><a href=\"http://experian.com/careers\">experian.com/careers</a></strong></p>",
+    "summary": "The Senior Director, Client Education leads the strategy, roadmap, and operations of Experian Health’s client learning programs across its product portfolio. Responsibilities include building and leading the education team, developing scalable blended learning, administering the client Learning Portal, using AI to improve content creation, and strengthening client adoption and product proficiency through measurable learning experiences.",
+    "locations": [
+     {
+      "workLocation": "flexible",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "flexible",
+    "skills": {
+     "soft_skills": [
+      "Leadership"
+     ],
+     "primary_skills": [
+      "Learning and Development",
+      "Client Education",
+      "Blended Learning",
+      "Instructional Design",
+      "Learning Management System Administration",
+      "eLearning Authoring Tools",
+      "Artificial Intelligence",
+      "Learning Effectiveness Measurement",
+      "Organizational Change Management",
+      "Product Adoption Strategy"
+     ],
+     "secondary_skills": [
+      "Healthcare Revenue Cycle Management",
+      "Experian Health Solutions",
+      "Process Improvement",
+      "Automation",
+      "Operational Transformation",
+      "Epic"
+     ]
+    },
+    "benefits": [
+     "health_insurance",
+     "dental_insurance",
+     "vision_care",
+     "pension_contribution_matching",
+     "pensions_401k",
+     "performance_bonuses",
+     "flexible_work_hours",
+     "remote_work_hybrid_work_options",
+     "paid_time_off_vacation_personal_days",
+     "sick_leave",
+     "other_benefits"
+    ],
+    "salary": null,
+    "experienceLevel": "executive",
+    "employmentType": "full_time",
+    "minYearsExperience": 8,
+    "educationRequirement": null,
+    "industry": [
+     "healthcare_medical",
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": true,
+    "travelPercentage": null,
+    "postedAt": 1790288366,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.smartrecruiters.com/Experian/744000151713789-senior-director-client-education-healthcare-saas",
+    "status": "active",
+    "companies": [
+     {
+      "name": "Experian",
+      "website": "experian.com"
+     }
+    ]
+   }
+  ],
+  "meta": {
+   "total": 7,
+   "count": 1,
+   "nextCursor": "eyJpZCI6IjJmZGIyNTU4LTBmYzUtNGE5OS04YjJlLTZjYjM2ZjY4MzlhOSIsInNvcnRWYWx1ZSI6MTc5MDI4ODM2NiwidGllQnJlYWtlciI6IjIwMjYtMDktMjVUMDI6MzU6MzcuMDkxWiJ9",
+   "hasMore": true,
+   "requestTimeMs": 427,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

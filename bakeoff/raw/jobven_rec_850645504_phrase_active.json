@@ -1,0 +1,62 @@
+{
+ "call_id": "rec_850645504_phrase_active",
+ "phase": "recall",
+ "url": "https://api.jobven.com/v1/public/jobs?q=%22Curriculum+and+Instruction%22&descriptionQuery=Ensure+instructional+content+aligns+with&status=active&postedAfter=1783036800&limit=1",
+ "params": [
+  [
+   "q",
+   "\"Curriculum and Instruction\""
+  ],
+  [
+   "descriptionQuery",
+   "Ensure instructional content aligns with"
+  ],
+  [
+   "status",
+   "active"
+  ],
+  [
+   "postedAfter",
+   1783036800
+  ],
+  [
+   "limit",
+   1
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:20:22 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "108",
+  "connection": "close",
+  "server": "cloudflare",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "2e8830e5-75d7-4051-b706-950d61169640",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2473",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "11",
+  "etag": "W/\"6c-53tHMAFB0oFA47D/P1l2qF8fLW8\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=%2FH0j7p8au%2BKTFxLJZZ8BxOpq4wv6GIKaR1KtE%2FHYyI2DW%2FUr7d1aYf6duKVy20kk7O4Fv%2FinolwE3ZfVr42U1UzYzjF752LpHripEYWx28ymO3ZnwSNMohI0N0gX0O%2FH2odFST4qenoUHLHWnQ%3D%3D\"}]}",
+  "cf-ray": "a406e4836c6fe0ee-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [],
+  "meta": {
+   "count": 0,
+   "hasMore": false,
+   "requestTimeMs": 10,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

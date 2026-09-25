@@ -1,0 +1,50 @@
+{
+ "call_id": "rec_851544831_co_udacity",
+ "phase": "recall",
+ "url": "https://api.jobven.com/v1/public/companies?search=Udacity&limit=10",
+ "params": [
+  [
+   "search",
+   "Udacity"
+  ],
+  [
+   "limit",
+   10
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:19:38 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "65",
+  "connection": "close",
+  "server": "cloudflare",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "29e34c5d-1716-4f90-8316-b8520e6471c7",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2479",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "4",
+  "etag": "W/\"41-c0On01lj8RZhy+1JbnXQRdKB5vI\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=IXj0EKcHQEPtqnG%2FlcXeW%2BqpT1ijGSgKwzjr7mfR73Xp8kvATG%2BSE3pXzdNeOcFbXqtfbJbqeR%2FNnmm1e1B1n0uFdePYiSvkyFuGfO9%2B3CzaUndJU6HahdDnPTE%2FAQFAF8HCoBwJYsTgGd%2F6wg%3D%3D\"}]}",
+  "cf-ray": "a406e373f8760fa1-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [],
+  "meta": {
+   "page": 1,
+   "limit": 10,
+   "total": 0,
+   "totalPages": 0
+  }
+ }
+}

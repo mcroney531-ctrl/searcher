@@ -1,0 +1,50 @@
+{
+ "call_id": "rec_851873213_co_nychealth",
+ "phase": "recall",
+ "url": "https://api.jobven.com/v1/public/companies?search=NYC+Health&limit=10",
+ "params": [
+  [
+   "search",
+   "NYC Health"
+  ],
+  [
+   "limit",
+   10
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:22:54 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "65",
+  "connection": "close",
+  "server": "cloudflare",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "a79789f3-98f9-4db2-b70a-bcfdebba9bb9",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2449",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "8",
+  "etag": "W/\"41-c0On01lj8RZhy+1JbnXQRdKB5vI\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=pjqj%2BscT6nvb%2FTV%2BIMoeS6W22MnYpxPYWKuUbafsOPLp%2Fsu1qapRufObMI6AtBKkOJGxeHFJ9q9zv7cnfAgBnvrS74TBC%2BTiHGgr%2BJpDIoDzGuh0Sk%2B2z3U%2FLiFq6p%2BQ0LvsfYPHtaEazTHQMQ%3D%3D\"}]}",
+  "cf-ray": "a406e837ebb6423b-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [],
+  "meta": {
+   "page": 1,
+   "limit": 10,
+   "total": 0,
+   "totalPages": 0
+  }
+ }
+}

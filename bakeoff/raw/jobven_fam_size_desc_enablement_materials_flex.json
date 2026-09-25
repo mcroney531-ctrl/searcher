@@ -1,0 +1,159 @@
+{
+ "call_id": "fam_size_desc_enablement_materials_flex",
+ "phase": "family",
+ "url": "https://api.jobven.com/v1/public/jobs?q=-%22account+executive%22+-%22account+manager%22+-%22sales+representative%22+-%22sales+manager%22+-%22customer+service+representative%22+-%22help+desk%22+-%22customer+success+manager%22+-%22support+specialist%22&descriptionQuery=enablement+materials&country=US&remoteType%5B%5D=remote&remoteType%5B%5D=flexible&postedAfter=1789702200&limit=1&includeTotal=true",
+ "params": [
+  [
+   "q",
+   "-\"account executive\" -\"account manager\" -\"sales representative\" -\"sales manager\" -\"customer service representative\" -\"help desk\" -\"customer success manager\" -\"support specialist\""
+  ],
+  [
+   "descriptionQuery",
+   "enablement materials"
+  ],
+  [
+   "country",
+   "US"
+  ],
+  [
+   "remoteType[]",
+   "remote"
+  ],
+  [
+   "remoteType[]",
+   "flexible"
+  ],
+  [
+   "postedAfter",
+   1789702200
+  ],
+  [
+   "limit",
+   1
+  ],
+  [
+   "includeTotal",
+   "true"
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:28:07 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "transfer-encoding": "chunked",
+  "connection": "close",
+  "server": "cloudflare",
+  "vary": "Accept-Encoding",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "0b7196b6-a8de-4c57-b00c-823ba9f3009f",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2349",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "434",
+  "etag": "W/\"2c01-Rpt6ZPJhXJaBtPufIT7MtA/Za3k\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=%2BwDkohkTx%2FGxcy66FCgUz7VGlExq3MsnIDZSAOm71lug81%2F6D0niTbEkMmcKiHp9ealxYipNyR0tTQpt6NwSL7SSeUR7etddmYqcxbmz4T9owRLQT4%2FqgwwtX0uQplODFrmw%2Fa%2BQMiVbmhw2Rw%3D%3D\"}]}",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "cf-ray": "a406efdd88ab58af-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "id": "3a086114-afc2-4e7b-ba9a-3cace3f3be2a",
+    "title": "PostgreSQL Solution Architect - Presales",
+    "description": "&lt;p&gt;Spinnaker Support provides global enterprise software support, managed services, and project-based consulting to many of the world’s most recognized and respected brands. Founded in 2008, our customer focus, business integrity, exacting standards, and depth of expertise have earned us the trust and loyalty of over 1,300 organizations located in 104 countries. Our dedicated international team works closely with every customer to ensure they receive exceptional, customized services that clear the way for their operational success. Today, Spinnaker Support is proud to be the industry’s highest-rated provider for third-party software support services for Oracle, SAP and VMware.&lt;/p&gt; &lt;p&gt;Spinnaker Support has an immediate opening for a PostgreSQL Solution Architect (SA) to join our team in the US.&amp;nbsp;&amp;nbsp;&lt;/p&gt; &lt;p&gt;The &lt;strong&gt;Postgres Solution Architect&lt;/strong&gt; serves as a trusted technical advisor throughout the sales cycle and as an early technical leader for Spinnaker Support’s PostgreSQL practice. The role helps prospective and existing customers understand the value of PostgreSQL support, modernization, Oracle-to-PostgreSQL and other migration paths, long-term maintenance, and enterprise operating models in support of their business and technical objectives. Partnering closely with Account Executives, Product, Marketing, Delivery, Engineering, and Customer Success to deliver discovery, solution design, demonstrations, technical validation, and repeatable practice assets.&lt;/p&gt; &lt;p&gt;This role is also central to establishing Spinnaker Support’s PostgreSQL practice in the US. Beyond supporting individual sales opportunities, the Postgres Solution Architect will help shape repeatable solution patterns, customer discovery methods, Oracle-to-PostgreSQL migration approaches, field enablement, and technical credibility for a new strategic growth area.&lt;/p&gt; &lt;p&gt;The ideal candidate combines &lt;strong&gt;strong PostgreSQL expertise&lt;/strong&gt;, customer-facing communication skills, and the ability to translate complex technical capabilities into clear business outcomes. This role supports opportunities across the United States and requires collaboration across multiple countries, cultures, and stakeholder groups.&lt;/p&gt; &lt;h3&gt;Key Responsibilities&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Partner with &lt;strong&gt;sales teams&lt;/strong&gt; to qualify opportunities and identify customer business drivers, technical requirements, and decision criteria&lt;/li&gt; &lt;li&gt;Lead &lt;strong&gt;technical discovery&lt;/strong&gt; conversations with customers and prospects to understand current environments, challenges, and future-state goals&lt;/li&gt; &lt;li&gt;Assess &lt;strong&gt;Oracle-to-PostgreSQL&lt;/strong&gt; opportunities, including current-state architecture, application dependencies, schema and code compatibility, extensions, data movement, cutover strategy, testing approach, and target operating model&lt;/li&gt; &lt;li&gt;Deliver tailored &lt;strong&gt;product demonstrations&lt;/strong&gt;, technical presentations, workshops, and proof-of-value engagements&lt;/li&gt; &lt;li&gt;Design solution approaches that align &lt;strong&gt;Postgres capabilities&lt;/strong&gt; with customer requirements, architecture, and operational priorities&lt;/li&gt; &lt;li&gt;Respond to technical portions of &lt;strong&gt;RFPs, RFIs, and security questionnaires&lt;/strong&gt; in collaboration with internal stakeholders&lt;/li&gt; &lt;li&gt;Support customer evaluations by addressing architecture, performance, Oracle-to-PostgreSQL and other migration paths, application compatibility, extension strategy, security, integration, operational support, and long-term maintainability questions&lt;/li&gt; &lt;li&gt;Act as a trusted advisor on &lt;strong&gt;database modernization&lt;/strong&gt;, platform strategy, and best practices related to PostgreSQL environments&lt;/li&gt; &lt;li&gt;Advise on PostgreSQL enterprise support, incident and escalation handling, patch and minor-version maintenance, extension and tooling assessment, backup and recovery strategy, high availability, performance engineering, security, and operational readiness for production workloads&lt;/li&gt; &lt;li&gt;Collaborate with Product and Product Marketing to communicate field feedback, market needs, and competitive insights&lt;/li&gt; &lt;li&gt;Work with Sales, Product, and Delivery to translate discovery findings into appropriately scoped services, support models, estimates, assumptions, exclusions, and handover materials that can be delivered reliably after contract signature&lt;/li&gt; &lt;li&gt;Maintain a strong understanding of the PostgreSQL ecosystem, including community PostgreSQL, major cloud providers, open-source tooling, relevant extensions, commercial PostgreSQL vendors, migration partners, and emerging competitors, and use that knowledge to position Spinnaker’s differentiated value clearly with customers&lt;/li&gt; &lt;li&gt;Contribute to enablement assets, demo environments, reusable collateral, and internal knowledge sharing&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;Required Qualifications&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Bachelor’s degree in &lt;strong&gt;Computer Science&lt;/strong&gt;, Information Systems, Engineering, or equivalent practical experience&lt;/li&gt; &lt;li&gt;A minimum 8+ years hands-on experience with &lt;strong&gt;PostgreSQL&lt;/strong&gt; administration, architecture, performance tuning, query optimization, high availability, backup/recovery, security, extensions, replication, upgrade planning, patch management, and production operations&lt;/li&gt; &lt;li&gt;In addition to this, 5+ years of experience in &lt;strong&gt;solution consulting, sales engineering, database consulting, or technical pre-sales&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;Experience with &lt;strong&gt;Oracle-to-PostgreSQL migration&lt;/strong&gt;, including architecture assessment, application and schema compatibility, migration tooling, performance validation, cutover planning, and post-migration support requirements&lt;/li&gt; &lt;li&gt;Experience supporting customer conversations around &lt;strong&gt;cloud infrastructure&lt;/strong&gt;, especially AWS, Azure, or Google Cloud&lt;/li&gt; &lt;li&gt;Ability to communicate technical concepts effectively to both &lt;strong&gt;technical and executive audiences&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;Experience leading technical demonstrations, workshops, and proof-of-concept or proof-of-value engagements&lt;/li&gt; &lt;li&gt;Strong written communication skills for proposals, technical responses, and customer follow-up&lt;/li&gt; &lt;li&gt;Ability to work across &lt;strong&gt;US time zones&lt;/strong&gt; and travel as needed&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;Preferred Qualifications&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Familiarity with &lt;strong&gt;Kubernetes, containers, DevOps workflows&lt;/strong&gt;, and automation tools&lt;/li&gt; &lt;li&gt;Exposure to enterprise sales methodologies such as &lt;strong&gt;MEDDPICC, Challenger, or value-based selling&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;Experience in open-source database, PostgreSQL ecosystem, enterprise support, database migration, cloud database, or data infrastructure markets&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;Success Measures&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Technical win rate and influence on &lt;strong&gt;pipeline progression&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;Quality and impact of customer-facing &lt;strong&gt;technical engagements&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;Contribution to achievement of &lt;strong&gt;bookings, revenue, and pipeline&lt;/strong&gt; targets&lt;/li&gt; &lt;li&gt;Sales team and customer feedback on &lt;strong&gt;responsiveness and effectiveness&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;Development of scalable technical assets, discovery templates, reference architectures, Oracle-to-PostgreSQL migration assessment materials, demo environments, competitive battlecards, and field enablement materials that improve sales quality and delivery readiness&lt;/li&gt; &lt;/ul&gt;&lt;div class=\"content-pay-transparency\"&gt;&lt;div class=\"pay-input\"&gt;&lt;div class=\"description\"&gt;&lt;p&gt;We are committed to fair and equitable compensation practices. As such, compensation will ultimately be in line with the labor market data, and the location in which the position is filled. Final compensation for this role will be determined by various factors such as education, experience, knowledge, skills, and abilities of the candidate, and alignment with labor market data and geographic location.&lt;/p&gt;&lt;/div&gt;&lt;div class=\"title\"&gt;US - Pay Transparency &lt;/div&gt;&lt;div class=\"pay-range\"&gt;&lt;span&gt;$170,000&lt;/span&gt;&lt;span class=\"divider\"&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$190,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\"content-conclusion\"&gt;&lt;p&gt;For California based applicants, see our CCPA policy here - &lt;a href=\"https://www.spinnakersupport.com/privacy-policy/\"&gt;Privacy Policy&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;",
+    "summary": "The PostgreSQL Solution Architect supports the sales cycle as a customer-facing technical advisor, leading discovery, solution design, demonstrations, technical validation, and responses to technical RFPs and security questionnaires. The role also helps establish Spinnaker Support’s PostgreSQL practice by shaping migration approaches, reusable technical assets, and field enablement, drawing on expertise in PostgreSQL operations and Oracle-to-PostgreSQL migration.",
+    "locations": [
+     {
+      "workLocation": "flexible",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "flexible",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Collaboration",
+      "Customer Focus"
+     ],
+     "primary_skills": [
+      "PostgreSQL Administration",
+      "PostgreSQL Architecture",
+      "Database Performance Tuning",
+      "Query Optimization",
+      "High Availability",
+      "Backup and Recovery",
+      "Database Security",
+      "Database Replication",
+      "Oracle-to-PostgreSQL Migration",
+      "Solution Consulting"
+     ],
+     "secondary_skills": [
+      "Kubernetes",
+      "Containerization",
+      "DevOps",
+      "Automation",
+      "MEDDPICC",
+      "Challenger Sales Methodology",
+      "Value-Based Selling",
+      "AWS",
+      "Microsoft Azure",
+      "Google Cloud"
+     ]
+    },
+    "benefits": [],
+    "salary": {
+     "max": 190000,
+     "min": 170000,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 8,
+    "educationRequirement": {
+     "required": [],
+     "preferred": [
+      "bachelor_degree"
+     ]
+    },
+    "industry": [
+     "technology_software",
+     "consulting_professional"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": true,
+    "travelPercentage": null,
+    "postedAt": 1790271875,
+    "expiresAt": null,
+    "applyUrl": "https://job-boards.greenhouse.io/spinnakersupport/jobs/5247866007",
+    "status": "active",
+    "companies": [
+     {
+      "name": "spinnakersupport.com",
+      "website": "spinnakersupport.com"
+     }
+    ]
+   }
+  ],
+  "meta": {
+   "total": 12,
+   "count": 1,
+   "nextCursor": "eyJpZCI6IjNhMDg2MTE0LWFmYzItNGU3Yi1iYTlhLTNjYWNlM2YzYmUyYSIsInNvcnRWYWx1ZSI6MTc5MDI3MTg3NSwidGllQnJlYWtlciI6IjIwMjYtMDktMjRUMjI6MDU6NTkuNzMzWiJ9",
+   "hasMore": true,
+   "requestTimeMs": 433,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

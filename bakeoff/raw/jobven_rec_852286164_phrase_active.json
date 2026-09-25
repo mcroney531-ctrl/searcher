@@ -1,0 +1,62 @@
+{
+ "call_id": "rec_852286164_phrase_active",
+ "phase": "recall",
+ "url": "https://api.jobven.com/v1/public/jobs?q=%22Offensive+Security+Training+Content+Developer%22&descriptionQuery=and+maintain+practical+lab+environments&status=active&postedAfter=1783036800&limit=1",
+ "params": [
+  [
+   "q",
+   "\"Offensive Security Training Content Developer\""
+  ],
+  [
+   "descriptionQuery",
+   "and maintain practical lab environments"
+  ],
+  [
+   "status",
+   "active"
+  ],
+  [
+   "postedAfter",
+   1783036800
+  ],
+  [
+   "limit",
+   1
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:24:26 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "108",
+  "connection": "close",
+  "server": "cloudflare",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "0e8a8766-d949-47bc-a81f-190bcce25e22",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2411",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "12",
+  "etag": "W/\"6c-I2Z/chV4d0q4Z2aNI+IFqWE0J8U\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=pWRqms7n5FKXJmpJ00PkoHsF59BgtB6pVfvSxUQwuTymYxiVQo0tW6swAi2X4%2BT4%2B54SHCyCvtFMcX0nQAkwYzlINzrwdmN7JK7dISZTgF8Roz4%2Fwx1v%2FEGRqIacBxxITyiKphGD%2BdFTWRrTeQ%3D%3D\"}]}",
+  "cf-ray": "a406ea7a9c1b430f-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [],
+  "meta": {
+   "count": 0,
+   "hasMore": false,
+   "requestTimeMs": 11,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

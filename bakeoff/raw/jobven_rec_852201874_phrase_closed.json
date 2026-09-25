@@ -1,0 +1,62 @@
+{
+ "call_id": "rec_852201874_phrase_closed",
+ "phase": "recall",
+ "url": "https://api.jobven.com/v1/public/jobs?q=%22Customer+Education+Specialist%22&descriptionQuery=Providing+training+to+these+individuals&status=closed&postedAfter=1783036800&limit=1",
+ "params": [
+  [
+   "q",
+   "\"Customer Education Specialist\""
+  ],
+  [
+   "descriptionQuery",
+   "Providing training to these individuals"
+  ],
+  [
+   "status",
+   "closed"
+  ],
+  [
+   "postedAfter",
+   1783036800
+  ],
+  [
+   "limit",
+   1
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:19:34 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "107",
+  "connection": "close",
+  "server": "cloudflare",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "f4a25979-2fa2-4ce5-9002-8a28db30831c",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2479",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "10",
+  "etag": "W/\"6b-3h83znkf3c+6t9idZI3FbUIYAJE\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=V%2Bm%2Bj0rhNKirxOvs0wtm8wG5ay9%2BtTaaHQ%2FGlOUSmNs0nzSp33LhSeYVeecH0m9nCXY%2B7jLaVcKkFmP%2BRp5eNC90iXh3JkyPZkhZx48x61EbdataG4ZJkZcmw4bNO2tJi1kq6hlUycyP8979IQ%3D%3D\"}]}",
+  "cf-ray": "a406e3593aa59608-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [],
+  "meta": {
+   "count": 0,
+   "hasMore": false,
+   "requestTimeMs": 9,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

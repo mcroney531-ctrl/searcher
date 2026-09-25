@@ -1,0 +1,149 @@
+{
+ "call_id": "rec_852303520_title",
+ "phase": "recall",
+ "url": "https://api.jobven.com/v1/public/jobs?q=%22Technical+Training+Specialist%22&country=US&postedAfter=1788220800&limit=10",
+ "params": [
+  [
+   "q",
+   "\"Technical Training Specialist\""
+  ],
+  [
+   "country",
+   "US"
+  ],
+  [
+   "postedAfter",
+   1788220800
+  ],
+  [
+   "limit",
+   10
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:20:54 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "transfer-encoding": "chunked",
+  "connection": "close",
+  "server": "cloudflare",
+  "vary": "Accept-Encoding",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "da6dbeec-5a81-400f-827c-26c46d6ffd9f",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2462",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "14",
+  "etag": "W/\"4805-9RFlaFwxrxCG28s5giMWwGOwR70\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=q%2FCNxo%2BREtCuyIVhqGzerUXKguS2kE93vdOmrmDg7E5rdz6YsBbRBVY10Fse0dm0%2FloXy0jjo9IwlpIYKyD0WfmFQ9jg9i0NCVuOesFKRV88mN5ADGwGHpHqPuiSIWkMcRlkzTFjSiSnSnypQQ%3D%3D\"}]}",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "cf-ray": "a406e54f3e7df793-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "id": "4f8155d0-2810-4275-8efc-fd02df161be2",
+    "title": "Laboratory Technical Training Specialist / Flexforce Start-up Tech",
+    "description": "<p><span>Join us in pioneering breakthroughs in healthcare. For everyone. Everywhere. Sustainably.</span><br><br><span>Our inspiring and caring environment forms a global community that celebrates diversity and individuality. We encourage you to step beyond your comfort zone, offering resources and flexibility to foster your professional and personal growth, all while valuing your unique contributions.</span></p>Conducts individual and group training courses and activities. Is involved in designing new training offers.<p>Join us in pioneering breakthroughs in healthcare. For everyone. Everywhere. Sustainably.</p><p>Our inspiring and caring environment forms a global community that celebrates diversity and individuality. We encourage you to step beyond your comfort zone, offering resources and flexibility to foster your professional and personal growth, all while valuing your unique contributions.</p><p>Apply now for the position <span>as a <b>Laboratory</b></span><b>Technical Training Specialist /</b><b>FlexForce</b>®<b>Start‑Up (hybrid role)</b><span>where you will be responsible for delivering technical training and FlexForce assignments for our Core Laboratory Solutions business.</span><br>&nbsp;</p><p><b><span>Location:</span></b><span>Commuting distance to Tarrytown, NY</span></p><p><b><span>Travel</span></b><span>: Up to 75%</span><br>&nbsp;</p><p>The <b><span>Laboratory</span></b><b><span>Technical Training Specialist /</span></b><b>FlexForce</b>®<b>Start‑Up</b> role is part of the Customer Solutions team and is responsible for delivering approved training curriculum to North America customers for Core Lab products. The technical training will include basic operations and troubleshooting, and will be delivered either in a training center, virtually, or at the customer site. This position will support all Siemens Healthineers Core Lab portfolio, with an initial focus on the Atellica Solution and CI Analyzer, the most innovative solutions in the Laboratory Diagnostics industry. This hybrid role is also responsible for delivering FlexForce Start-Up engagements at customer sites. FlexForce assignments will vary based on contracts and can take place anywhere in the US for several consecutive weeks at a time.</p><p>The ideal candidate is a medical technologist with experience in technical training. This role is based in the Tarrytown, NY office and the candidate should live within commuting distance from Tarrytown, NY. Travel needs will vary based on business needs, up to 75%.</p><p><b><span>This is a role well suited to a dynamic and ambitious professional, looking for the next step in their career. As a Technical Training Specialist, you will</span></b><span>:</span><br>&nbsp;</p><ul><li>Facilitate in-person and remote, basic and advanced training programs.</li><li>Provide technical input and update instructor-led and computer-based training curriculum and pilot new programs as needed.</li><li>Lead advanced programs curriculum updates to meet customer’s needs and business goals</li><li>Troubleshoot problems and successfully maintain instruments when working in the training laboratory.</li><li>Collaborate cross-functionally to stay current and standardize training content. Work independently to interface with outside departments and effectively represent the Customer Solutions team.</li><li>Participate in continuous improvement efforts to increase customer satisfaction and customer retention.</li></ul><p><b>Responsibilities during FlexForce assignments:</b></p><ul><li>Serve as a FlexForce Start-Up Tech specialist during customer post go‑live stabilization periods, supporting medical laboratories across North America.</li><li>Provide on‑the‑job coaching and workflow guidance to customer laboratory staff during live operations.</li><li>As needed, communicate cross functionally and escalate system, workflow, and operational issues to support successful customer transitions.</li><li>Act as a trusted on‑site technical expert, ensuring customer confidence and continuity of laboratory operations.</li><li>Maintain compliance and Siemens Healthineers Diagnostics Quality System requirements.</li><li>Protect patient confidentiality and customer data at all times.</li><li>Travel as needed and sometimes extensively for consecutive weeks as required by FlexForce engagements.</li></ul><p><b>Required skills to have for the success of this role:</b></p><ul><li>Excellent written, verbal, and interpersonal communication skills with people in a wide range of organizational roles and education levels are required</li><li>Excellent organizational skills and demonstrated ability to work independently</li><li>Must be flexible, reliable, and demonstrate sound judgment and initiative</li><li>Excellent attention to detail, good problem solving and analytical skills</li><li>Understanding of the operations and workflow of a laboratory</li><li>Customer focused mindset</li><li>Team player with a high degree of flexibility and capacity for adaptation to a changing business environment</li><li>Bachelor’s degree in Medical Technology or equivalent required with a minimum of 2 years laboratory experience in <span>chemistry/immunoassays</span></li><li>Experience with training on laboratory equipment</li><li>Computer skills are required including proficiency with Microsoft TEAMS, MS Word, PowerPoint, and Outlook</li></ul><p>Siemens Healthineers offers a variety of health and wellness benefits to employees. Details regarding our benefits can be found <a href=\"https://www.siemens-healthineers.com/en-us/careers/employee-benefits\"><u>here</u></a>.</p><p><b>Equal Employment Opportunity Statement</b><br>Siemens Healthineers is an Equal Opportunity and Affirmative Action Employer encouraging diversity in the workplace. All qualified applicants will receive consideration for employment without regard to their race, color, creed, religion, national origin, citizenship status, ancestry, sex, age, physical or mental disability unrelated to ability, marital status, family responsibilities, pregnancy, genetic information, sexual orientation, gender expression, gender identity, transgender, sex stereotyping, order of protection status, protected veteran or military status, or an unfavorable discharge from military service, and other categories protected by federal, state or local law.</p><p><b>EEO is the Law</b><br>Applicants and employees are protected under Federal law from discrimination. To learn more,&nbsp;<a href=\"https://www.dol.gov/ofccp/regs/compliance/posters/ofccpost.htm\"><u>Click here</u></a><u>.</u></p><p><b>Reasonable Accommodations</b><br>Siemens Healthineers is committed to equal employment opportunity. As part of this commitment, we will ensure that persons with disabilities are provided reasonable accommodations.</p><p>If you require a reasonable accommodation in completing a job application, interviewing, completing any pre-employment testing, or otherwise participating in the employee selection process, please fill out the accommodations form <a href=\"https://www.siemens-healthineers.com/en-us/careers/accommodation-for-disability\"><u>here</u></a>.&nbsp; If you’re unable to complete the form, you can reach out to our HR People Connect People Contact Center for support at <a href=\"mailto:peopleconnectvendorsnam.func@siemens-healthineers.com\"><span>peopleconnectvendorsnam.func@siemens-healthineers.com</span></a>. Please note HR People Connect People Contact Center will not have visibility of your application or interview status.&nbsp; &nbsp;</p><p><b>Pay Transparency Non-Discrimination Provision</b><br>Siemens Healthineers follows Executive Order 11246, including the Pay Transparency Nondiscrimination Provision. To learn more,&nbsp;<a href=\"https://www.dol.gov/sites/dolgov/files/OFCCP/pdf/pay-transp_%20English_formattedESQA508c.pdf\"><u>Click here</u></a></p><p><b>California Privacy Notice</b><br>California residents have the right to receive additional notices about their personal information. To learn more,<u>click&nbsp;</u><a href=\"https://www.siemens-healthineers.com/en-us/siemens-website-privacy-policy/state-rights\"><u>here</u></a>.</p><p><b>Beware of Job Scams</b></p><p>Please beware of potentially fraudulent job postings or suspicious recruiting activity by persons that are currently posing as Siemens Healthineers <span>recruiters/employees.&nbsp;</span> These scammers may attempt to collect your confidential personal or financial information.&nbsp; If you are concerned that an offer of employment with Siemens Healthineers might be a scam or that the recruiter is not legitimate, please verify by searching for the posting on the Siemens Healthineers Career Site.</p><p>“Successful candidate must be able to work with controlled technology in accordance with US export control law.” “It is Siemens Healthineers’ policy to comply fully and completely with all United States export control laws and regulations, including those implemented by the Department of Commerce through the Export Administration Regulations (EAR), by the Department of State through the International Traffic in Arms Regulations (ITAR), and by the Treasury Department through the Office of Foreign Assets Control (OFAC) sanctions regulations.”</p><p>We care about your data privacy and take compliance with GDPR as well as other data protection legislation seriously. For this reason, we ask you not to send us your CV or resume by email. We ask instead that you create a profile in our talent community where you can upload your CV. Setting up a profile lets us know you are interested in career opportunities with us and makes it easy for us to send you an alert when relevant positions become open. Register <a href=\"https://careers.siemens-healthineers.com/global/en/jointalentcommunity\"><u>here</u></a> to get started.&nbsp;</p><p><b>To all recruitment agencies:</b> Siemens Healthineers does not accept agency resumes. Please do not forward resumes to our jobs alias, employees, or any other company location. Siemens Healthineers is not responsible for any fees related to unsolicited resumes.</p><p><b>Who we are</b>: We are a team of more than 72,000 highly dedicated Healthineers in more than 70 countries. As a leader in medical technology, we constantly push the boundaries to create better outcomes and experiences for patients, no matter where they live or what health issues they are facing. Our portfolio is crucial for clinical decision-making and treatment pathways.</p><p><b>How we work:</b> When you join Siemens Healthineers, you become one in a global team of scientists, clinicians, developers, researchers, professionals, and skilled specialists, who believe in each individual’s potential to contribute with diverse ideas. We are from different backgrounds, cultures, religions, political and/or sexual orientations, and work together, to fight the world’s most threatening diseases and enable access to care, united by one purpose: to pioneer breakthroughs in healthcare. For everyone. Everywhere. Sustainably.</p><p>To find out more about Siemens Healthineers businesses, please visit our company page <a href=\"https://www.siemens-healthineers.com/en-us\">here</a>.</p><p>The base pay range for this position is:</p>$89,220 - $122,683<p>Factors which may affect starting pay within this range may include geography/market, skills, education, experience, and other qualifications of the successful candidate.</p><p>If this is a commission eligible position the commission eligibility will be in accordance with the terms of the Company's plan. Commissions are based on individual performance and/or company performance.</p><p>The Company offers the following benefits for this position, subject to applicable eligibility requirements: medical insurance, dental insurance, vision insurance, 401(k) retirement plan. life insurance, long-term and short-term disability insurance, paid parking/public transportation, paid time off, paid sick and safe time.</p><p><b>Equal Employment Opportunity Statement:</b> Siemens Healthineers is an Equal Opportunity and Affirmative Action Employer encouraging diversity in the workplace. All qualified applicants will receive consideration for employment without regard to their race, color, creed, religion, national origin, citizenship status, ancestry, sex, age, physical or mental disability unrelated to ability, marital status, family responsibilities, pregnancy, genetic information, sexual orientation, gender expression, gender identity, transgender, sex stereotyping, order of protection status, protected veteran or military status, or an unfavorable discharge from military service, and other categories protected by federal, state or local law.</p><p><b>EEO is the Law:</b> Applicants and employees are protected under Federal law from discrimination. To learn more, click <a href=\"https://www.dol.gov/agencies/ofccp\"><span><u>here</u></span></a>.</p><p><b>Reasonable Accommodations:</b> Siemens Healthineers is committed to equal employment opportunity. As part of this commitment, we will ensure that persons with disabilities are provided reasonable accommodations.</p><p>If you require a reasonable accommodation in completing a job application, interviewing, completing any pre-employment testing, or otherwise participating in the employee selection process, please fill out the accommodations form <a href=\"https://www.siemens-healthineers.com/en-us/careers/accommodation-for-disability\">here</a>. If you’re unable to complete the form, you can reach out to our HR People Connect People Contact Center for support at <span>peopleconnectvendorsnam.func@siemens-healthineers.com.</span> Please note HR People Connect People Contact Center will not have visibility of your application or interview status.</p><p><b>California Privacy Notice:</b> California residents have the right to receive additional notices about their personal information. To learn more, click <a href=\"https://www.siemens-healthineers.com/en-us/siemens-website-privacy-policy/state-rights\">here</a>.</p><p><b>Export Control:</b>“A successful candidate must be able to work with controlled technology in accordance with US export control law.” “It is Siemens Healthineers’ policy to comply fully and completely with all United States export control laws and regulations, including those implemented by the Department of Commerce through the Export Administration Regulations (EAR), by the Department of State through the International Traffic in Arms Regulations (ITAR), and by the Treasury Department through the Office of Foreign Assets Control (OFAC) sanctions regulations.”</p><p><b>Data Privacy:</b> We care about your <a href=\"https://www.siemens-healthineers.com/careers/recruitment-application-privacy-notice\"><span><u>data privacy</u></span></a> and take compliance with GDPR as well as other data protection legislation seriously. For this reason, we ask you not to send us your CV or resume by email. We ask instead that you create a profile in our talent community where you can upload your CV. Setting up a profile lets us know you are interested in career opportunities with us and makes it easy for us to send you an alert when relevant positions become open. Register <a href=\"https://careers.siemens-healthineers.com/global/en/jointalentcommunity\">here</a> to get started.</p><p><b>Beware of Job Scams:</b> Please beware of potentially fraudulent job postings or suspicious recruiting activity by persons that are currently posing as Siemens Healthineers <span>recruiters/employees.</span> These scammers may attempt to collect your confidential personal or financial information. If you are concerned that an offer of employment with Siemens Healthineers might be a scam or that the recruiter is not legitimate, please verify by searching for the posting on the Siemens Healthineers career site.</p><p><b>To all recruitment agencies:</b> Siemens Healthineers does not accept agency resumes. Please do not forward resumes to our jobs alias, employees, or any other company location. Siemens Healthineers is not responsible for any fees related to unsolicited resumes.</p>",
+    "summary": "The Laboratory Technical Training Specialist / FlexForce Start-Up Tech delivers technical training, troubleshooting support, and curriculum updates for Siemens Healthineers Core Laboratory Solutions. The role also provides on-site coaching and technical support to medical laboratories during post-go-live stabilization, with travel of up to 75% and assignments potentially lasting several consecutive weeks.",
+    "locations": [
+     {
+      "workLocation": "hybrid",
+      "addressRegion": "New York",
+      "addressCountry": "US",
+      "addressLocality": "Tarrytown"
+     }
+    ],
+    "remoteType": "hybrid",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Organizational Skills",
+      "Independent Work",
+      "Problem-solving",
+      "Adaptability"
+     ],
+     "primary_skills": [
+      "Technical Training",
+      "Laboratory Operations",
+      "Laboratory Workflow",
+      "Laboratory Equipment Troubleshooting",
+      "Medical Technology",
+      "Chemistry",
+      "Immunoassays",
+      "Microsoft Teams",
+      "Microsoft Word",
+      "Microsoft PowerPoint"
+     ],
+     "secondary_skills": [
+      "Microsoft Outlook",
+      "Training Curriculum Development",
+      "Computer-Based Training",
+      "Instrument Maintenance",
+      "Continuous Improvement",
+      "Quality System Compliance",
+      "Customer Data Protection"
+     ]
+    },
+    "benefits": [
+     "health_insurance",
+     "dental_insurance",
+     "vision_care",
+     "pensions_401k",
+     "life_insurance",
+     "disability_insurance",
+     "paid_time_off_vacation_personal_days",
+     "sick_leave",
+     "other_benefits"
+    ],
+    "salary": {
+     "max": 122683,
+     "min": 89220,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "mid",
+    "employmentType": "full_time",
+    "minYearsExperience": 2,
+    "educationRequirement": {
+     "required": [
+      "bachelor_degree"
+     ],
+     "preferred": []
+    },
+    "industry": [
+     "healthcare_medical"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": true,
+    "travelPercentage": null,
+    "postedAt": 1789430400,
+    "expiresAt": null,
+    "applyUrl": "https://onehealthineers.wd3.myworkdayjobs.com/en-US/SHSJB/job/TAR-B/Laboratory-Technical-Training-Specialist---FlexForce-Start-Up-Tech_R-30757-1",
+    "status": "active",
+    "companies": [
+     {
+      "name": "Siemens Healthineers",
+      "website": "siemens-healthineers.com"
+     }
+    ]
+   }
+  ],
+  "meta": {
+   "count": 1,
+   "hasMore": false,
+   "requestTimeMs": 13,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

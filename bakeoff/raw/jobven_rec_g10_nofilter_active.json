@@ -1,0 +1,50 @@
+{
+ "call_id": "rec_g10_nofilter_active",
+ "phase": "recall",
+ "url": "https://api.jobven.com/v1/public/jobs?q=%22AI+Learning+Operations%22&limit=5",
+ "params": [
+  [
+   "q",
+   "\"AI Learning Operations\""
+  ],
+  [
+   "limit",
+   5
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:25:14 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "107",
+  "connection": "close",
+  "server": "cloudflare",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "fb6589da-90df-41b9-b038-a46fc3a59793",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2395",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "9",
+  "etag": "W/\"6b-3h83znkf3c+6t9idZI3FbUIYAJE\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=uFeWZSoel7ReN1vAjQxJx6GVIBtGRdL8ChQAiZQozbc0d4zI7YCEqX60zmetilZgdsGPSqTcSMJy9E15sR0sFGAHgsztwNJlA2hcfJmVvWX3%2B8OjGteJc2UGO2HzJZ5rjOH1xMVRWkvA901NUA%3D%3D\"}]}",
+  "cf-ray": "a406eba65d0227f6-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [],
+  "meta": {
+   "count": 0,
+   "hasMore": false,
+   "requestTimeMs": 9,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

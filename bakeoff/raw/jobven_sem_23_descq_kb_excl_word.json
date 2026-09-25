@@ -1,0 +1,164 @@
+{
+ "call_id": "sem_23_descq_kb_excl_word",
+ "phase": "semantics",
+ "url": "https://api.jobven.com/v1/public/jobs?descriptionQuery=knowledge+base&q=-client&country=US&remoteType%5B%5D=remote&postedAfter=1789701463&limit=1&includeTotal=true",
+ "params": [
+  [
+   "descriptionQuery",
+   "knowledge base"
+  ],
+  [
+   "q",
+   "-client"
+  ],
+  [
+   "country",
+   "US"
+  ],
+  [
+   "remoteType[]",
+   "remote"
+  ],
+  [
+   "postedAfter",
+   1789701463
+  ],
+  [
+   "limit",
+   1
+  ],
+  [
+   "includeTotal",
+   "true"
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:17:46 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "transfer-encoding": "chunked",
+  "connection": "close",
+  "server": "cloudflare",
+  "vary": "Accept-Encoding",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "386c1862-818f-4986-8048-776e4133c46b",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2483",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "293",
+  "etag": "W/\"2bbe-NXuOEHYk9o6bX9MRZBKrLXOC7is\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=o4DUck4ioNw3uiOP960wnpB%2BtCA%2BvBXpDcvaEDPPcDXTKT8dVUc0oioQqZNff7R6gV4aPynrP1AFjxz%2F4wzXAznL%2BPGjaHZUAgN4Re5qyLPhjhyVYTsdDZ9UNrgScj8NX9l0sEVXXDvm3vCa8w%3D%3D\"}]}",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "cf-ray": "a406e0b4b961f152-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "id": "38c2285b-dc93-4104-9e2d-c4d09d8aaf88",
+    "title": "Sr. Technical Account Manager - Falcon Cloud Security (remote)",
+    "description": "<p>As a global leader in cybersecurity, CrowdStrike protects the people, processes and technologies that drive modern organizations. Since 2011, our mission hasn’t changed — we’re here to stop breaches, and we’ve redefined modern security with the world’s most advanced AI-native platform. We work on large scale distributed systems, processing almost 3 trillion events per day and this traffic is growing daily. Our customers span all industries, and they count on CrowdStrike to keep their businesses running, their communities safe and their lives moving forward. We're proud to work for a mission-driven company leveraging AI to transform the way we work. CrowdStrikers drive their careers through flexibility and autonomy while also being expected to contribute to a culture of responsible AI adoption, experimentation, and innovation. We use an AI-first mindset as a force multiplier to proactively and continuously accelerate execution, build expertise, uncover insights, and solve complex problems. We’re always looking to add talented CrowdStrikers to the team who have limitless passion, a relentless focus on innovation and a fanatical commitment to our customers, our community and each other. Ready to join a mission that matters? The future of cybersecurity starts with you.</p><br><p><b>About the Role:</b></p><p>Are you passionate about Cloud Security and Customer Advocacy?&nbsp; Do you want to work where the people are as committed and as passionate as you are? As a Senior Technical Account Manager with CrowdStrike you will provide proactive technical support to our Strategic Premium Support <span>customers. </span></p><p>At CrowdStrike, you will be working with people who “wrote the book” on hacking and internet security.&nbsp; We care deeply about our customers’ success.&nbsp; We ensure they are protected, stable, and empowered to stop breaches.&nbsp; To be successful in this role, you must be a motivated self-starter, be committed to ongoing self-education, possess strong customer service skills and have excellent technical problem-solving skills</p><p><b>What You'll Do:</b></p><ul><li><p>Serve as primary technical contact and augment our customer support teams</p></li><li><p>Onboard new customers to the CrowdStrike platforms.</p></li><li><p>Ensure customer success through proactive periodic health checks, product training, and developing and sharing best practices.</p></li><li><p>Serve as customer advocate with internal CrowdStrike stakeholders to ensure needed customer feedback is adequately documented and assessed by internal parties.</p></li><li><p>Engage with customers at all levels of their organization, from the front lines of the SOC to the C-suite.</p></li><li><p>Research customers’ technical issues in a timely manner and follow up with recommendations and action plans.</p></li><li><p>Escalate customer issues to management when appropriate.</p></li><li><p>Maintain control of the overall resolution for any escalated case, leading cross-functional groups as needed.</p></li><li><p>Leverage internal technical expertise, including development engineers, knowledge base, and other internal tools to provide the most effective solutions to customer issues.</p></li><li><p>Create knowledge base content to capture new learning for reuse throughout the company and user base.</p></li><li><p>Participate in technical communications within the team to share best practices and learn about new technologies and complimentary security applications.</p></li><li><p>Identify renewal risk and collaborate with internal teams to remediate and ensure a successful renewal.</p></li><li><p>Support the sales teams in identifying account expansion opportunities.</p></li><li><p>Drive support cases to ensure issues are being resolved in a timely manner.</p></li></ul><p><b>What You'll Need:</b></p><ul><li><p>Bachelor’s Degree or equivalent experience</p></li><li><p>Experience with cloud-native services, infrastructure, and environments</p></li><li><p>Knowledge of enterprise application technologies, security and cutting-edge infrastructures</p></li><li><p>Technical understanding of incident response, computer forensics, network administration and management and cloud architecture and workload security technologies.</p></li><li><p>Excellent customer service skills and ability to quickly establish technical credibility with customers</p></li><li><p>Excellent communication skills, written and verbal</p></li><li><p>Ability to manage complex success plans for our largest customers</p></li><li><p>Proven problem-solving and organizational skills</p></li><li><p>Coachable and collaborative attitude</p></li><li><p>Ability to travel up to 25%</p></li><li><p>Commitment to customer success</p></li><li><p>Proven experience utilizing AI technologies to enhance decision-making, streamline workflows and processes, improve efficiency and drive business outcomes.</p></li></ul><p><b>Bonus Points: </b></p><ul><li><p>Bachelor’s Degree in Computer Science or equivalent</p></li><li><p>CISSP or ITIL Certification</p></li><li><p>5+ years of Customer <span>Success/Support/Technical</span> Account Management experience in SaaS organization</p></li><li><p>Deep expertise in Cloud and Application Infrastructure</p></li><li><p>Experience in scaling large organizations</p></li></ul><p>#LI-Remote</p><p>#LI-RL1</p><p><b>Benefits of Working at CrowdStrike:</b></p><ul><li><p>Market leader in compensation and equity awards</p></li><li><p>Comprehensive physical and mental wellness programs&nbsp;</p></li><li><p>Competitive vacation and holidays for recharge &nbsp;</p></li><li><p>Paid parental and adoption leaves</p></li><li><p>Professional development opportunities for all employees regardless of level or role</p></li><li><p>Employee Networks, geographic neighborhood groups, and volunteer opportunities to build connections</p></li><li><p>Vibrant office culture with world class amenities</p></li><li><p>Great Place to Work Certified™ across the globe</p></li></ul><p>CrowdStrike is proud to be an equal opportunity employer. We are committed to fostering a culture of belonging where everyone is valued for who they are and empowered to succeed. We support veterans and individuals with disabilities through our affirmative action program.</p><p>CrowdStrike is committed to providing equal employment opportunity for all employees and applicants for employment. The Company does not discriminate in employment opportunities or practices on the basis of race, color, creed, ethnicity, religion, sex (including pregnancy or pregnancy-related medical conditions), sexual orientation, gender identity, marital or family status, veteran status, age, national origin, ancestry, physical disability (including HIV and AIDS), mental disability, medical condition, genetic information, membership or activity in a local human rights commission, status with regard to public assistance, or any other characteristic protected by law. We base all employment decisions--including recruitment, selection, training, compensation, benefits, discipline, promotions, transfers, lay-offs, return from lay-off, terminations and social/recreational programs--on valid job requirements.</p><p>If you need assistance accessing or reviewing the information on this website or need help submitting an application for employment or requesting an accommodation, please contact us at <a href=\"mailto:recruiting@crowdstrike.com\"><span><span>recruiting@crowdstrike.com</span></span></a> for further assistance.</p><p><a href=\"http://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf\"><span>Find out more about your rights as an applicant.</span></a></p><p>CrowdStrike participates in the E-Verify program.</p><p><a href=\"https://www.e-verify.gov/sites/default/files/everify/posters/EVerifyParticipationPoster.pdf\"><span><u>Notice of E-Verify Participation</u></span></a></p><p><a href=\"https://www.e-verify.gov/sites/default/files/everify/posters/IER_RightToWorkPoster%20Eng_Es.pdf\"><span>Right to Work</span></a></p>CrowdStrike, Inc. is committed to fair and equitable compensation practices. Placement within the pay range is dependent on a variety of factors including, but not limited to, relevant work experience, skills, certifications, job level, supervisory status, and location. The base salary range for this position for all U.S. candidates is $110,000 - $160,000 per year, with eligibility for bonuses, equity grants and a comprehensive benefits package that includes health insurance, 401k and paid time off.<p><span>For detailed information about the U.S. benefits package, please </span><a href=\"http://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/page/a78c53e64ec61001f47d48a4699e0000\">click here</a><span>.&nbsp;</span></p>Expected Close Date of Job Posting is:11-24-2026",
+    "summary": "The Senior Technical Account Manager provides proactive technical support and customer advocacy for CrowdStrike's Strategic Premium Support customers. Responsibilities include onboarding, customer health checks and training, resolving and escalating technical issues, coordinating internal teams, managing renewals, and identifying account expansion opportunities.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressRegion": "Texas",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Customer Service",
+      "Communication",
+      "Problem-Solving",
+      "Organization",
+      "Collaboration"
+     ],
+     "primary_skills": [
+      "Cloud-Native Services",
+      "Cloud Infrastructure",
+      "Cloud Architecture",
+      "Cloud Workload Security",
+      "Incident Response",
+      "Computer Forensics",
+      "Network Administration",
+      "Network Management",
+      "Enterprise Application Technologies",
+      "AI Technologies"
+     ],
+     "secondary_skills": [
+      "Customer Success",
+      "Technical Account Management",
+      "Software as a Service",
+      "CISSP",
+      "ITIL",
+      "Application Infrastructure",
+      "Customer Support"
+     ]
+    },
+    "benefits": [
+     "stock_options_equity",
+     "wellness_program",
+     "paid_time_off_vacation_personal_days",
+     "parental_leave",
+     "professional_development",
+     "company_events_retreats",
+     "health_insurance",
+     "pensions_401k"
+    ],
+    "salary": {
+     "max": 160000,
+     "min": 110000,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 5,
+    "educationRequirement": {
+     "required": [],
+     "preferred": [
+      "bachelor_degree",
+      "professional_certificate"
+     ]
+    },
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": true,
+    "travelPercentage": null,
+    "postedAt": 1790208000,
+    "expiresAt": 1795564799,
+    "applyUrl": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Sr-Technical-Account-Manager---Falcon-Cloud-Security--Remote-_R30062",
+    "status": "active",
+    "companies": [
+     {
+      "name": "crowdstrike.com",
+      "website": "crowdstrike.com"
+     }
+    ]
+   }
+  ],
+  "meta": {
+   "total": 16,
+   "count": 1,
+   "nextCursor": "eyJpZCI6IjM4YzIyODViLWRjOTMtNDEwNC05ZTJkLWM0ZDA5ZDhhYWY4OCIsInNvcnRWYWx1ZSI6MTc5MDIwODAwMCwidGllQnJlYWtlciI6IjIwMjYtMDktMjRUMjM6MDU6NDAuMzgwWiJ9",
+   "hasMore": true,
+   "requestTimeMs": 292,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

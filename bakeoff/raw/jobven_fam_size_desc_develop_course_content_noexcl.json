@@ -1,0 +1,67 @@
+{
+ "call_id": "fam_size_desc_develop_course_content_noexcl",
+ "phase": "family",
+ "url": "https://api.jobven.com/v1/public/jobs?descriptionQuery=develop+course+content&country=US&remoteType%5B%5D=remote&postedAfter=1789702200&limit=1&includeTotal=true",
+ "params": [
+  [
+   "descriptionQuery",
+   "develop course content"
+  ],
+  [
+   "country",
+   "US"
+  ],
+  [
+   "remoteType[]",
+   "remote"
+  ],
+  [
+   "postedAfter",
+   1789702200
+  ],
+  [
+   "limit",
+   1
+  ],
+  [
+   "includeTotal",
+   "true"
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:27:01 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "119",
+  "connection": "close",
+  "server": "cloudflare",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "d9ce5a71-02c8-4246-93e1-7cdecd97d543",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2379",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "522",
+  "etag": "W/\"77-fqaTDZY1W+evTgEV8Irin+3Bi8s\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=oafuRYPiQyGp17fCp5PXl5rXEqQ7Xk7%2BEUDahMLDxk%2FRx0QNq8cq0GX4xZuKHTNBEsrfzVSLXy8S6Q%2FjxYxeBHAs6IIhGCGkJ%2FIKqQ8SiZ2UyDle1iSAmpsPHayk%2B4rzYHSozFbnNwdceWRJEQ%3D%3D\"}]}",
+  "cf-ray": "a406ee3ded1d8e3e-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [],
+  "meta": {
+   "total": 0,
+   "count": 0,
+   "hasMore": false,
+   "requestTimeMs": 521,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

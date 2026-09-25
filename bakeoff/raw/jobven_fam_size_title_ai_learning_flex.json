@@ -1,0 +1,145 @@
+{
+ "call_id": "fam_size_title_ai_learning_flex",
+ "phase": "family",
+ "url": "https://api.jobven.com/v1/public/jobs?q=%22AI+enablement%22+OR+%22AI+adoption%22+OR+%22AI+learning%22+OR+%22AI+education%22+OR+%22AI+trainer%22+OR+%22AI+literacy%22+OR+%22AI+content%22&country=US&remoteType%5B%5D=remote&remoteType%5B%5D=flexible&postedAfter=1789702200&limit=1&includeTotal=true",
+ "params": [
+  [
+   "q",
+   "\"AI enablement\" OR \"AI adoption\" OR \"AI learning\" OR \"AI education\" OR \"AI trainer\" OR \"AI literacy\" OR \"AI content\""
+  ],
+  [
+   "country",
+   "US"
+  ],
+  [
+   "remoteType[]",
+   "remote"
+  ],
+  [
+   "remoteType[]",
+   "flexible"
+  ],
+  [
+   "postedAfter",
+   1789702200
+  ],
+  [
+   "limit",
+   1
+  ],
+  [
+   "includeTotal",
+   "true"
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:26:56 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "transfer-encoding": "chunked",
+  "connection": "close",
+  "server": "cloudflare",
+  "vary": "Accept-Encoding",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "bd30de3a-185f-4383-b229-5c0635c42b1c",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2379",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "45",
+  "etag": "W/\"211c-OM4WvjssqN/Kd15x2ULr1l9T1I4\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=zdrFfvGJ8fSSogqwII%2FBG%2BFRHk4vqqJHjYmHBp%2FSFGaat3UPDeia2CgWdTOrU31HNCHrtzdYTCQM7OlcZczXSAp7N7XgQxD0Qxhf%2BIJjh%2B4rM4PI8DfYrq%2F1Z2Vpp%2BRUvVqUoSlKIzhTa6U39A%3D%3D\"}]}",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "cf-ray": "a406ee20effadb49-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "id": "90384a27-2ef0-42cd-96b6-feaa042a1fb4",
+    "title": "Regional Vice President of AI Enablement & Implementation",
+    "description": "<h3><span>Help Shape What AI Looks Like in Hospitality.</span></h3><p><span>AI is changing how businesses operate. At Crescent Hotels &amp; Resorts, we’re focused on something bigger than simply adopting new technology—we want to put AI to work solving real business problems across our hotels.</span></p><p>We are seeking a Regional Vice President of AI Enablement &amp; Implementation <span> to help turn that vision into reality.</span></p><p><span>This is an opportunity for a builder.</span></p><p><span>You’ll work alongside Crescent leaders, hotel operators, ownership partners, and functional experts to identify where AI can create meaningful value—and then help take those ideas from </span> opportunity to solution to implementation to measurable results.</p><p><span>We aren’t looking for someone to simply tell us what AI </span><em><span>could</span></em><span> do.</span></p><p><span>We’re looking for someone who can help us </span> make it happen.</p><h2><span>What You’ll Build</span></h2><p><span>Imagine helping create AI-enabled solutions that could:</span></p><ul><li><span>Give a General Manager a daily </span><strong><span>“GM Pulse”</span></strong><span> that brings together revenue, labor, cost, guest satisfaction, and operational signals into one actionable briefing.</span></li><li><span>Help a sales team qualify an inbound RFP and develop a tailored group proposal in a fraction of the time.</span></li><li><span>Optimize hotel labor schedules against forecasted demand to reduce overtime, overstaffing, and unnecessary contract labor.</span></li><li><span>Automate repetitive accounting processes, reconciliations, cash-flow forecasting, and reporting.</span></li><li><span>Monitor F&amp;B inventory and purchasing patterns to identify waste and over-ordering.</span></li><li><span>Help recruiting teams source, screen, schedule, and communicate with candidates more efficiently.</span></li><li><span>Turn financial, STR, guest satisfaction, revenue, and operating data into recurring ownership and investor reporting.</span></li><li><span>Make it easier for hotel associates and leaders to find information, make decisions, and spend less time on administrative work.</span></li></ul><p><span>And those are just the opportunities we see today.</span></p><p><span>A major part of your role will be helping us discover </span><strong><span>what we haven’t thought of yet.</span></strong></p><h2><span>What You’ll Do</span></h2><p><span>You’ll help establish and execute the AI roadmap for a designated portfolio of Crescent-managed hotels, identifying the opportunities with the greatest potential business impact.</span></p><p><span>You’ll work across </span><strong><span>Operations, Commercial, Revenue Management, Sales, Marketing, Finance, Human Resources, and Technology</span></strong><span> to understand how work gets done today—and where AI, automation, data, or process redesign can make it better.</span></p><p><span>You’ll help determine whether the right solution should be </span><strong><span>built, bought, configured, or integrated</span></strong><span>, and you’ll lead initiatives beyond the idea stage through implementation, adoption, measurement, and optimization.</span></p><p><span>You’ll partner closely with Crescent’s technology teams around systems, integrations, data, security, and governance while helping operators translate business challenges into practical AI-enabled solutions.</span></p><p><span>Most importantly, you’ll make sure the solutions we introduce actually get used.</span></p><p><span>Because successful AI transformation isn’t measured by how many pilots we launch.</span></p><p><strong><span>It’s measured by what changes because of them.</span></strong></p><h2><span>Who We’re Looking For</span></h2><p><span>You understand AI—but you think like a business leader.</span></p><p><span>You naturally start with:</span></p><p><strong><span>“What problem are we trying to solve?”</span></strong></p><p><span>Then you determine whether AI, automation, data, process redesign—or some combination—is the right answer.</span></p><p><span>You’re comfortable discussing strategy with executives one moment and sitting with an operator to understand a manual process the next.</span></p><p><span>You understand technologies such as </span><strong><span>generative AI, AI agents, workflow automation, APIs, data integration, and emerging AI platforms</span></strong><span>, but you don’t believe technology is the objective.</span></p><p><strong><span>Business impact is.</span></strong></p><p><span>You know how to build a business case, evaluate technology and vendors, lead cross-functional implementation, drive organizational adoption, and measure ROI.</span></p><p><span>Hospitality experience would be valuable, but we’re also interested in leaders who have successfully driven AI or digital transformation in other complex, multi-unit businesses.</span></p><h2><span>What Success Looks Like</span></h2><p><span>Your work should ultimately help Crescent and our hotels achieve measurable outcomes:</span></p><p><strong><span>More revenue.</span><br><span>Better productivity.</span><br><span>Smarter labor deployment.</span><br><span>Faster decision-making.</span><br><span>Less administrative work.</span><br><span>Better guest experiences.</span><br><span>More empowered associates.</span><br><span>And demonstrable ROI from AI investments.</span></strong></p><h2><span>Why Crescent?</span></h2><p><span>At </span><strong><span>Crescent Hotels &amp; Resorts</span></strong><span>, hospitality is a people business—and we believe technology should make our people better at what they do, not take away from the human experience that defines great hospitality.</span></p><p><span>This role offers the opportunity to help shape our approach to AI at an important moment in its evolution.</span></p><p><span>You won’t be stepping into a mature AI program and maintaining someone else’s roadmap.</span></p><p><strong><span>You’ll help build it.</span></strong></p><p><span>If you are energized by the opportunity to turn emerging technology into practical solutions, challenge how work gets done, and help shape the future of AI in hospitality, we’d like to hear from you.</span></p>",
+    "summary": "The Regional Vice President of AI Enablement & Implementation will establish and execute AI roadmaps for a portfolio of Crescent-managed hotels, identifying high-impact opportunities and leading solutions from evaluation through implementation, adoption, measurement, and optimization. The role partners with hotel operators and cross-functional teams to apply AI, automation, data, and process redesign to business challenges and deliver measurable operational and financial outcomes.",
+    "locations": [
+     {
+      "postalCode": "22030",
+      "workLocation": "flexible",
+      "addressRegion": "Virginia",
+      "addressCountry": "US",
+      "addressLocality": "Fairfax"
+     }
+    ],
+    "remoteType": "flexible",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Leadership",
+      "Adaptability",
+      "Problem-Solving"
+     ],
+     "primary_skills": [
+      "Generative AI",
+      "AI Agents",
+      "Workflow Automation",
+      "API Integration",
+      "Data Integration",
+      "AI Strategy",
+      "Technology and Vendor Evaluation",
+      "Business Case Development",
+      "Cross-Functional Implementation",
+      "ROI Measurement"
+     ],
+     "secondary_skills": [
+      "Hospitality Operations",
+      "Digital Transformation",
+      "Process Redesign",
+      "AI Platforms",
+      "Systems Integration",
+      "Data Governance",
+      "Security"
+     ]
+    },
+    "benefits": [],
+    "salary": null,
+    "experienceLevel": "executive",
+    "employmentType": "full_time",
+    "minYearsExperience": null,
+    "educationRequirement": null,
+    "industry": [
+     "hospitality_food"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790121600,
+    "expiresAt": null,
+    "applyUrl": "https://recruiting.ultipro.com/CRE1007CREHR/JobBoard/453ac982-2a83-4723-a69a-3dd3ff799d14/OpportunityDetail?opportunityId=c440fee5-381f-4c2e-b036-93e353906cfb",
+    "status": "active",
+    "companies": [
+     {
+      "name": "Crescent Hotels & Resorts",
+      "website": "crescenthotels.com"
+     }
+    ]
+   }
+  ],
+  "meta": {
+   "total": 2,
+   "count": 1,
+   "nextCursor": "eyJpZCI6IjkwMzg0YTI3LTJlZjAtNDJjZC05NmI2LWZlYWEwNDJhMWZiNCIsInNvcnRWYWx1ZSI6MTc5MDEyMTYwMCwidGllQnJlYWtlciI6IjIwMjYtMDktMjRUMDM6MDU6MzguMTkxWiJ9",
+   "hasMore": true,
+   "requestTimeMs": 44,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

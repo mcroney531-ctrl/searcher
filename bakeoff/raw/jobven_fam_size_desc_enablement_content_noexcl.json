@@ -1,0 +1,150 @@
+{
+ "call_id": "fam_size_desc_enablement_content_noexcl",
+ "phase": "family",
+ "url": "https://api.jobven.com/v1/public/jobs?descriptionQuery=enablement+content&country=US&remoteType%5B%5D=remote&postedAfter=1789702200&limit=1&includeTotal=true",
+ "params": [
+  [
+   "descriptionQuery",
+   "enablement content"
+  ],
+  [
+   "country",
+   "US"
+  ],
+  [
+   "remoteType[]",
+   "remote"
+  ],
+  [
+   "postedAfter",
+   1789702200
+  ],
+  [
+   "limit",
+   1
+  ],
+  [
+   "includeTotal",
+   "true"
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:28:12 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "transfer-encoding": "chunked",
+  "connection": "close",
+  "server": "cloudflare",
+  "vary": "Accept-Encoding",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "3579f1cd-7a8c-41a7-be3c-cabd52e881b7",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2332",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "230",
+  "etag": "W/\"2ec8-PxZGxAzFo74NMS1KgmdlplmTZbU\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=5hJB%2B7Y0YOi3imt%2Fz4lBfQlp7q0bkHmmrZ6xXMByEfvtBCmWzvIlnBxn5EKqMgdvttmaapMOwcqLA1iSngQ%2BkveLlo61lckqfn%2B1LczBCjU2L7ZtCcU0U%2BlOrLfI6Qg5x8NcqGzGZISlJW2Q%2FA%3D%3D\"}]}",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "cf-ray": "a406effdbdf77a02-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "id": "a494641c-b4a3-4b36-a2c4-6f1e8bdafb88",
+    "title": "Salesforce Manager, AI & Agentforce Delivery",
+    "description": "&lt;div class=\"content-intro\"&gt;&lt;h3&gt;Why NeuraFlash, Part of Accenture:&lt;/h3&gt; &lt;p&gt;At NeuraFlash, Part of Accenture, we are redefining the future of business through the power of AI and groundbreaking technologies like Agentforce. As a trusted leader in AI, AWS, and Salesforce innovation, we craft intelligent solutions—integrating Salesforce Einstein, Service Cloud Voice, Amazon Connect, Agentforce and more—to revolutionize workflows, elevate customer experiences, and deliver tangible results. From conversational AI to predictive analytics, we empower organizations to stay ahead in an ever-evolving digital landscape with cutting-edge, tailored strategies.&lt;/p&gt; &lt;p&gt;We are proud to be creating the future of generative AI and AI agents. Salesforce has launched Agentforce, and NeuraFlash, Part of Accenture, was selected as the only partner for the private beta prior to launch. Post-launch, we’ve earned the distinction of being Salesforce’s #1 partner for Agentforce, reinforcing our role as pioneers in this transformative space.&lt;/p&gt; &lt;p&gt;Be part of the NeuraFlash, Part of Accenture journey and help shape the next wave of AI-powered transformation. Here, you’ll collaborate with trailblazing experts who are passionate about pushing boundaries and leveraging technologies like Agentforce to create impactful customer outcomes. Whether you're developing advanced AI-powered bots, streamlining business operations, or building solutions using the latest generative AI technologies, your work will drive innovation at scale. If you’re ready to make your mark in the AI space, NeuraFlash, Part of Accenture is the place for you.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;As a &lt;strong&gt;Manager, AI &amp;amp; Agentforce Delivery&lt;/strong&gt;, you will lead a team of delivery professionals who design and build Agentforce and AI-powered solutions for our clients. You'll balance hands-on project delivery with people leadership: staying close to client work as an individual contributor while managing, mentoring, and growing the teammates who report to you.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;You will have the opportunity to:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Deliver hands-on client project work as an individual contributor, staying current with Agentforce and Salesforce delivery practices&lt;/li&gt; &lt;li&gt;Lead and own complete project technical solution design, including designing and understanding agentic topics, instructions, actions with corresponding automation/code, agent deployment methods, and supporting data structures&lt;/li&gt; &lt;li&gt;Explore the limits and push the boundaries of automated agents, finding novel solutions to drive business outcomes&lt;/li&gt; &lt;li&gt;Manage a team of Experience Architects, Technical Architects, Consultants, Developers, and/or similar technical delivery roles&lt;/li&gt; &lt;li&gt;Provide mentorship, career guidance, and regular performance feedback, including corrective action when necessary&lt;/li&gt; &lt;li&gt;Own forecasting and staffing input for your team, in partnership with delivery and operations leadership&lt;/li&gt; &lt;li&gt;Coordinate and lead solution design reviews to maintain quality and consistency across client engagements&lt;/li&gt; &lt;li&gt;Author content for, and help facilitate, enablement workshops and office hours&lt;/li&gt; &lt;li&gt;Participate in and help lead skill-based guilds that foster knowledge sharing&lt;/li&gt; &lt;li&gt;Support hiring by conducting interviews and helping update interview materials&lt;/li&gt; &lt;li&gt;Champion NeuraFlash delivery standards and best practices across your team and accounts&lt;/li&gt; &lt;li&gt;Travel up to 25% for customer projects and company events&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;&lt;strong&gt;Required Qualifications:&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;5+ years of hands-on experience delivering technology solutions, including experience with Agentforce or other generative AI-driven platforms&lt;/li&gt; &lt;li&gt;2+ years of experience managing or mentoring delivery team members such as architects, developers, and consultants&lt;/li&gt; &lt;li&gt;Demonstrated ability to balance billable client delivery work with team leadership responsibilities&lt;/li&gt; &lt;li&gt;Experience giving performance feedback, holding career development conversations, and managing corrective action processes&lt;/li&gt; &lt;li&gt;Experience participating in hiring for technical roles, including conducting interviews&lt;/li&gt; &lt;li&gt;Strong communication skills, comfortable moving between technical delivery conversations and people-management conversations&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;&lt;strong&gt;Preferred Skills:&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Experience designing or facilitating enablement content (workshops, office hours, guilds)&lt;/li&gt; &lt;li&gt;Certifications relevant to architect-level roles&lt;/li&gt; &lt;li&gt;Experience forecasting and managing staffing/resourcing for a technical team&lt;/li&gt; &lt;li&gt;Prior experience specifically delivering Agentforce projects&lt;/li&gt; &lt;li&gt;Familiarity with multiple foundational LLMs, prompt engineering frameworks, and AI orchestration tools&lt;/li&gt; &lt;li&gt;Understanding of enterprise AI integrations, RAG architecture, and fine-tuning strategies&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;&lt;strong&gt;What can you expect in the interview process?&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Recruiter screen (phone) - 30 minutes&lt;/li&gt; &lt;li&gt;Peer interview (Video) - 45 minutes&lt;/li&gt; &lt;li&gt;Panel interview with real-time exercise (Video) - 60 minutes, covering both a hands-on architecture exercise and management scenario discussion&lt;/li&gt; &lt;li&gt;Leadership interview (Video) - 45 minutes&lt;/li&gt; &lt;/ul&gt; &lt;p class=\"p1\"&gt;&amp;nbsp;&lt;/p&gt; &lt;hr&gt; &lt;p class=\"p1\"&gt;&amp;nbsp;&lt;/p&gt; &lt;p class=\"p1\"&gt;&lt;strong&gt;Equal Employment Opportunity Statement&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;We believe that no one should be discriminated against because of their differences. All employment&amp;nbsp;decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry,&amp;nbsp;disability status, veteran status, sexual orientation, gender identity or expression, genetic information, marital&amp;nbsp;status, citizenship status or any other basis as protected by federal, state, or local law. Our rich diversity&amp;nbsp;makes us more innovative, more competitive, and more creative, which helps us better serve our clients and&amp;nbsp;our communities.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;For details, view a copy of the &lt;a class=\"cmp-text__link cmp-text__link--default\" href=\"https://www.accenture.com/content/dam/accenture/final/accenture-com/document-3/Accenture-Equal-Employment-Opportunity-Statement.pdf#zoom=50\" target=\"_blank\" data-tooltip=\"Opens the PDF full report, Annual policy statement regarding equal employment opportunity and affirmative action statement , in a new tab.\" data-cmp-clickable=\"\" data-cmp-data-layer=\"{&amp;quot;jobdetail-1e0b7e5710-Additional Information-item1&amp;quot;:{&amp;quot;analytics-link-name&amp;quot;:&amp;quot;accenture equal opportunity statement&amp;quot;,&amp;quot;analytics-link-type&amp;quot;:&amp;quot;engagement&amp;quot;,&amp;quot;xdm:linkURL&amp;quot;:&amp;quot;/content/dam/accenture/final/accenture-com/document-3/Accenture-Equal-Employment-Opportunity-Statement.pdf#zoom=50&amp;quot;,&amp;quot;analytics-engagement&amp;quot;:&amp;quot;true&amp;quot;}}\"&gt;Accenture Equal Opportunity Statement&lt;/a&gt;&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Accenture is an EEO and Affirmative Action Employer of Veterans/Individuals with Disabilities.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Accenture is committed to providing veteran employment opportunities to our service men and women.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;hr&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=\"content-conclusion\"&gt;&lt;h3&gt;What’s it like to be a part of NeuraFlash, Part of Accenture?&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Remote &amp;amp; In-Person: Whether you work out of our HQ in Massachusetts, one of our regional hubs, or you're one of over half of our NeuraFlash, Part of Accenture Family who work remotely, we’re focused on keeping everyone connected and unified as one team.&lt;/li&gt; &lt;li&gt;Travel: Get ready to pack your bags and hit the road! For certain roles, travel is an exciting part of the job, with an anticipated travel commitment of up to 25%. So, if you have a passion for adventure and don't mind a little jet-setting, this opportunity could be your ticket to exploring new places while making a positive impact on clients.&lt;/li&gt; &lt;li&gt;Flexibility: Do you have to take the dog to the vet, pick up the kids from school, or the in-laws from the airport? We know that a perfect 9-5 isn’t possible. So you have to jump out to do any of those, no problem! We build a culture of trust and understanding. We value good work not the hours in which you get it done&lt;/li&gt; &lt;li&gt;Collaboration: You have a voice here!&amp;nbsp; If you work with a team of smart people like we do, it’s a no-brainer to take suggestions and feedback on how to keep NeuraFlash, Part of Accenture thriving.&amp;nbsp; Our executive team holds town halls &amp;amp; company meetings where they address any suggestions or questions asked, no matter how big or small.&lt;/li&gt; &lt;li&gt;Celebrate Often: We take our work seriously, but we don’t take ourselves too seriously. Whether it is an arm wrestling contest, costume party, or ugly holiday sweaters our teams love to have fun. And while we work hard, we don’t forget to slow down and celebrate the big things and the small things together.&lt;/li&gt; &lt;/ul&gt;&lt;/div&gt;",
+    "summary": "The Salesforce Manager, AI & Agentforce Delivery leads a technical delivery team while contributing directly to client projects involving Agentforce and AI-powered solutions. Responsibilities include solution design, mentoring and performance management, staffing input, quality standards, hiring support, and enablement across client engagements.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Mentorship",
+      "Career Guidance",
+      "Leadership",
+      "Knowledge Sharing"
+     ],
+     "primary_skills": [
+      "Agentforce",
+      "Generative AI",
+      "Salesforce",
+      "Technical Solution Design",
+      "Agentic AI",
+      "Project Delivery",
+      "People Management",
+      "Performance Management",
+      "Technical Hiring",
+      "Staffing and Resource Forecasting"
+     ],
+     "secondary_skills": [
+      "Enablement Workshop Design",
+      "Salesforce Architect Certifications",
+      "Large Language Models",
+      "Prompt Engineering",
+      "AI Orchestration",
+      "Enterprise AI Integration",
+      "Retrieval-Augmented Generation",
+      "Model Fine-Tuning"
+     ]
+    },
+    "benefits": [
+     "flexible_work_hours",
+     "remote_work_hybrid_work_options",
+     "company_events_retreats"
+    ],
+    "salary": null,
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 5,
+    "educationRequirement": {
+     "required": [],
+     "preferred": [
+      "professional_certificate"
+     ]
+    },
+    "industry": [
+     "technology_software",
+     "consulting_professional"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": true,
+    "travelPercentage": null,
+    "postedAt": 1790271366,
+    "expiresAt": null,
+    "applyUrl": "https://job-boards.greenhouse.io/neuraflash/jobs/6206503004",
+    "status": "active",
+    "companies": [
+     {
+      "name": "neuraflash.com",
+      "website": "neuraflash.com"
+     }
+    ]
+   }
+  ],
+  "meta": {
+   "total": 16,
+   "count": 1,
+   "nextCursor": "eyJpZCI6ImE0OTQ2NDFjLWI0YTMtNGIzNi1hMmM0LTZmMWU4YmRhZmI4OCIsInNvcnRWYWx1ZSI6MTc5MDI3MTM2NiwidGllQnJlYWtlciI6IjIwMjYtMDktMjRUMjI6MDQ6MjAuOTI0WiJ9",
+   "hasMore": true,
+   "requestTimeMs": 229,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

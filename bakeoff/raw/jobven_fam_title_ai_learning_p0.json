@@ -1,0 +1,146 @@
+{
+ "call_id": "fam_title_ai_learning_p0",
+ "phase": "family",
+ "url": "https://api.jobven.com/v1/public/jobs?q=%22AI+enablement%22+OR+%22AI+adoption%22+OR+%22AI+learning%22+OR+%22AI+education%22+OR+%22AI+trainer%22+OR+%22AI+literacy%22+OR+%22AI+content%22&country=US&remoteType%5B%5D=remote&postedAfter=1789702200&limit=25",
+ "params": [
+  [
+   "q",
+   "\"AI enablement\" OR \"AI adoption\" OR \"AI learning\" OR \"AI education\" OR \"AI trainer\" OR \"AI literacy\" OR \"AI content\""
+  ],
+  [
+   "country",
+   "US"
+  ],
+  [
+   "remoteType[]",
+   "remote"
+  ],
+  [
+   "postedAfter",
+   1789702200
+  ],
+  [
+   "limit",
+   25
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:26:53 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "transfer-encoding": "chunked",
+  "connection": "close",
+  "server": "cloudflare",
+  "vary": "Accept-Encoding",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "c61dfb80-9d0e-4225-95c8-ad543faede38",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2380",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "28",
+  "etag": "W/\"2ed5-rrgpZ9I2t12CMS3YLJGDVmx2008\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=ip7DzJh%2BzNy%2Bcc%2Bp7OYO46SnTMXy%2FmyhSo9KKaKt6BdNvhtCdZganIs4G%2BCijKW9%2BgfM3JFPKlS3heY1tZx1Cq9QmAl2zEPqXCTMlSzoAGS%2Bs%2Bm9F6h4DWNMlFlT%2BDfpfTngT990ikwfc0Oz%2FQ%3D%3D\"}]}",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "cf-ray": "a406ee12faaadcf2-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "id": "c2e78a13-222d-44a2-8311-e9cd85eea852",
+    "title": "Senior AI Learning Designer, Rapid Content",
+    "description": "<p><strong>🚀 About WRITER</strong></p><p>WRITER is where the world's leading enterprises orchestrate AI-powered work. Our vision is to expand human capacity through superintelligence. And we're proving it's possible – through powerful, trustworthy AI that unites IT and business teams together to unlock enterprise-wide transformation. With WRITER's end-to-end platform, hundreds of companies like Mars, Marriott, Uber, and Vanguard are building and deploying AI agents that are grounded in their company's data and fueled by WRITER's enterprise-grade LLMs. Valued at $1.9B and backed by industry-leading investors including Premji Invest, Radical Ventures, and ICONIQ Growth, WRITER is rapidly cementing its position as the leader in enterprise generative AI.</p><p>Founded in 2020 with office hubs in San Francisco, New York City, Seattle, Austin, Chicago, and London, our team thinks big and moves fast, and we're looking for smart, hardworking builders and scalers to join us on our journey to create a better future of work with AI.</p><p><strong>📐 About the role</strong></p><p>In an AI-native environment, the product shifts fast, new workflows emerge weekly, and customers and internal teams surface needs in real time. Someone has to meet those needs at the speed they arise. That's this role.</p><p>As a lead learning experience designer, you'll own a fast-paced, high-volume learning design track focused on short, targeted, just-in-time courses — typically 15–45 minutes each, built in sprints of three weeks or less, shipping roughly 15+ courses per year. You'll build focused one-off courses that plug specific gaps: a new workflow, a role-specific skill, a tool that just shipped, an AI topic that can't wait for the next curriculum cycle.</p><p>These courses are standalone, purpose-built, and often shorter-lived — responding to the moment. You'll work both proactively (scanning for emerging needs) and reactively (fielding requests from across the company and from customers). The pace is fast, the iteration cycles are tight, and the environment is dynamic. If you're energized by change, comfortable shipping at speed, and able to balance strategic proactivity with rapid reactive response, this is your role.</p><p>In addition, you'll deliver live and virtual trainings on these topics as needed — bringing the same speed and adaptability from your on-demand work into the live environment, whether in person or on a webinar platform.</p><p>The primary medium for this role is video-based learning. You'll be the voice and face of your own instruction — recording voiceover or appearing on camera to teach software and AI topics, combined with screencaptures, screen recordings, and graphics. This is not a role where you'll hand off to a video team or rely on AI-generated voice. You are the teacher, and your voice is part of the craft.</p><p>This role complements our end-to-end learning experience designers, who own robust, polished curricula built over longer timelines. You're not integrated within those larger curriculum builds; you're filling the space they can't reach. Your courses are shorter, faster, and more targeted, designed to serve a specific need and plug a gap where the larger curriculum moves too slowly. Think of it as the agile track of the LXD team: smaller scope, faster cadence, and a bias toward shipping. You won't be building three- to four-hour flagship programs. You'll be building tight, high-impact courses that get someone up to speed on a specific thing, quickly, and then moving on to the next one.</p><p><strong>🦸🏻‍♀️ What you'll do</strong></p><ul><li><p>Design and build focused, standalone courses — typically 15–45 minutes — in sprints of three weeks or less, shipping roughly 15 courses per year across topics that are specific and targeted: particular workflows, role-based skills, individual tools, and timely AI topics that demand a fast response</p></li><li><p>Own the full design lifecycle for each course at speed — needs analysis, design, build, QA, and publish — without the extended timelines of end-to-end curriculum work, making smart scope decisions about what's essential, what can be cut, and how to deliver maximum learning value in a compact format</p></li><li><p>Deliver live and virtual training on the topics you build, with excellence — adapting on the fly to audience questions, skill levels, and industry-specific workflows, particularly across WRITER's verticals</p></li><li><p>Repurpose content across delivery modes (on-demand to live, live to on-demand, micro to full) maximizing reach without rebuilding from scratch</p></li><li><p>Scan proactively for emerging learning needs by monitoring product changes, customer signals, and internal feedback, and get ahead of them before they're formally requested, while also fielding and triaging incoming requests from across the company and from customers, responding quickly with targeted courses that address real, surfaced needs</p></li><li><p>Balance proactive and reactive work, making judgment calls about what's worth building, what can wait, and what should be deferred or declined, and ship at a cadence that keeps pace with the product and the business, prioritizing speed and relevance over exhaustive perfection</p></li><li><p>Partner with product, product marketing, customer-facing teams, and SMEs to gather what you need quickly and keep courses moving, coordinate with end-to-end learning experience designers to avoid duplication and ensure your rapid-response courses complement rather than compete with larger curriculum, flag topics that outgrow the rapid-response format, and share insights from the fast track to inform the team's longer-term roadmap</p></li><li><p>Deep experience creating video-based instructional content where you serve as the voiceover or on-camera talent for your own teaching. You do not rely on AI-generated voice for your training content.</p></li></ul><p><strong>⭐️ What you need</strong></p><ul><li><p>5+ years of experience in instructional design, learning experience design, or a related field, with demonstrated experience designing and shipping courses at a fast pace</p></li><li><p>Proven ability to design effective learning in compact formats — you know how to scope tight, cut ruthlessly, and deliver high-impact learning in 15–45 minutes rather than three to four hours</p></li><li><p>Comfort with rapid development cycles and short sprints; you've worked in fast-paced environments and you thrive there rather than burning out, embracing the pace of an AI-native environment where the topics you're building for may shift mid-sprint — and adapting without losing momentum</p></li><li><p>Strong prioritization and triage skills — you can juggle proactive and reactive work, make tradeoffs, and say no when something doesn't warrant a course</p></li><li><p>Excellent live facilitation skills — you're confident and effective delivering in person and virtually, able to read a room (physical or virtual), adapt on the fly, and keep learners engaged, and you're as comfortable in front of an audience as you are behind a slide deck</p></li><li><p>Excellent stakeholder management — you can gather what you need from SMEs and partners quickly, keep things moving, and communicate clearly about expectations, with proficiency in standard LXD tools including authoring tools (e.g., Parta), LMS platforms (e.g., Skilljar), slide/presentation tools, video production tools, and basic design tools</p></li><li><p>A portfolio that demonstrates your craft — At least 2 video-based course excerpts where you serve as the voiceover or on-camera talent for your own teaching — combining your own voice with screencaptures, screen recordings, and graphics to teach software or AI topics. Static text- and graphics-based samples alone don't demonstrate what this role requires. This is a chance to show us the full breadth of what you can do — video, graphics, interactive elements, slide design, in-product walkthroughs, or any combination — but video-based teaching with your own voice should be central.</p></li></ul><p><br><strong>🍩 Benefits &amp; perks (US Full-time employees)</strong></p><ul><li><p>Generous PTO, plus company holidays</p></li><li><p>Medical, dental, and vision coverage for you and your family</p></li><li><p>Paid parental leave for all parents (16 weeks)</p></li><li><p>Fertility and family planning support</p></li><li><p>Early-detection cancer testing <a href=\"https://www.galleri.com/partner/writer\"><u>through Galleri</u></a></p></li><li><p>Flexible spending account and dependent FSA options</p></li><li><p>Health savings account for eligible plans with company contribution</p></li><li><p>Annual work-life stipends for:</p><ul><li><p>Wellness stipend for gym, massage/chiropractor, personal training, etc.</p></li><li><p>Learning and development stipend</p></li></ul></li><li><p>Company-wide off-sites and team off-sites</p></li><li><p>Competitive compensation, company stock options and 401k</p></li></ul><p><em>WRITER is an equal-opportunity employer and is committed to diversity. We don't make hiring or employment decisions based on race, color, religion, creed, gender, national origin, age, disability, veteran status, marital status, pregnancy, sex, gender expression or identity, sexual orientation, citizenship, or any other basis protected by applicable local, state or federal law. Under the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.</em></p><p>By submitting your application on the application page, you acknowledge and agree to <a href=\"https://writer.com/legal/candidate-privacy-notice/\">WRITER's Global Candidate Privacy Notice</a>.</p>",
+    "summary": "WRITER is seeking a senior AI learning designer to create and ship short, targeted video-based courses on software, workflows, role-specific skills, tools, and timely AI topics. The role owns the full course lifecycle, delivers live and virtual training, repurposes content across formats, and balances proactive learning needs with rapid incoming requests. It also involves collaborating with product, marketing, customer-facing teams, and subject-matter experts while serving as the voiceover or on-camera instructor.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressRegion": "California",
+      "addressCountry": "US",
+      "addressLocality": "San Francisco"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Adaptability",
+      "Communication",
+      "Prioritization",
+      "Problem-solving",
+      "Time Management"
+     ],
+     "primary_skills": [
+      "Instructional Design",
+      "Learning Experience Design",
+      "Video-Based Learning",
+      "Course Development",
+      "Needs Analysis",
+      "Learning Content Authoring",
+      "Live Training Facilitation",
+      "Virtual Training Facilitation",
+      "Stakeholder Management",
+      "Learning Management Systems"
+     ],
+     "secondary_skills": [
+      "Parta",
+      "Skilljar",
+      "Presentation Design",
+      "Video Production",
+      "Graphic Design",
+      "Screen Recording",
+      "Screencapture",
+      "Interactive Learning Design"
+     ]
+    },
+    "benefits": [
+     "paid_time_off_vacation_personal_days",
+     "health_insurance",
+     "dental_insurance",
+     "vision_care",
+     "parental_leave",
+     "wellness_program",
+     "professional_development",
+     "company_events_retreats",
+     "stock_options_equity",
+     "pensions_401k",
+     "other_benefits"
+    ],
+    "salary": null,
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 5,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790105580,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/writer/263cd86b-f19d-455d-858e-a85acdbe7578",
+    "status": "active",
+    "companies": [
+     {
+      "name": "writer.com",
+      "website": "writer.com"
+     }
+    ]
+   }
+  ],
+  "meta": {
+   "count": 1,
+   "hasMore": false,
+   "requestTimeMs": 27,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

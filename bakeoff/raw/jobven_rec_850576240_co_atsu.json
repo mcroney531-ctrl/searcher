@@ -1,0 +1,50 @@
+{
+ "call_id": "rec_850576240_co_atsu",
+ "phase": "recall",
+ "url": "https://api.jobven.com/v1/public/companies?search=atsu&limit=10",
+ "params": [
+  [
+   "search",
+   "atsu"
+  ],
+  [
+   "limit",
+   10
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:20:00 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "65",
+  "connection": "close",
+  "server": "cloudflare",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "c2ee698c-5d58-4abd-9c93-56a123f65982",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2479",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "6",
+  "etag": "W/\"41-c0On01lj8RZhy+1JbnXQRdKB5vI\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=%2B%2FNNx%2FRQ4cjGWpgnfiOZPC73eKdHK9BhMqkEZkSK6LVsBTcusE0Nyu8VwXCT%2Bjj5MRnLn2%2BHw9KVUuBqjf0YrsQ0IlHe6Uhg%2FymE0ablls9VBkwGockr%2FDBUrfNGHNMC2p12o5IYsYOwWLFGfw%3D%3D\"}]}",
+  "cf-ray": "a406e3fafacfc463-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [],
+  "meta": {
+   "page": 1,
+   "limit": 10,
+   "total": 0,
+   "totalPages": 0
+  }
+ }
+}

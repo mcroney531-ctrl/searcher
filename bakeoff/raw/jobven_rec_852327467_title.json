@@ -1,0 +1,378 @@
+{
+ "call_id": "rec_852327467_title",
+ "phase": "recall",
+ "url": "https://api.jobven.com/v1/public/jobs?q=%22Customer+Education%22&country=US&postedAfter=1788220800&limit=10",
+ "params": [
+  [
+   "q",
+   "\"Customer Education\""
+  ],
+  [
+   "country",
+   "US"
+  ],
+  [
+   "postedAfter",
+   1788220800
+  ],
+  [
+   "limit",
+   10
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:22:21 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "transfer-encoding": "chunked",
+  "connection": "close",
+  "server": "cloudflare",
+  "vary": "Accept-Encoding",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "a8a34ac9-6dba-428b-b0ba-97f66551c27f",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2449",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "30",
+  "etag": "W/\"b499-V7WD8OU6+EfA+Cq7Z7WZF07I2uM\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=w3bNJJ6lZmOlhaL22dSrEmW1ZjOPsanMqs6Y18UxXJn9HFMJ0ziIteAUJ8zOQwiKVcpb6qnqOe0zFmG%2BzMfa%2Bx0qjjboB0tEUmuIqN5P74B4%2BqUuqpIcBSdwdnGjjwvYUTGBq%2Brx5ZUVCQJ1GA%3D%3D\"}]}",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "cf-ray": "a406e76d2bf15541-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "id": "fe982a40-84f4-45f1-b735-fee76d82de5d",
+    "title": "Customer Education Specialist",
+    "description": "<p>We are building AI to simulate the world through merging art and science.<br><br>We believe that world models are at the frontier of progress in artificial intelligence. Language models alone won’t solve the world’s hardest problems – robotics, disease, scientific discovery. Real progress requires models that experience the world and learn from their mistakes, the same way that humans do. And this kind of trial and error can be massively accelerated when done in simulation, rather than in the real world.<br><br>World models offer the most clear path to general-purpose simulation, changing how stories are told, how scientific progress is made and how the next frontiers of humanity are reached.</p><p>Our team consists of creative, open minded, caring and ambitious people who are determined to change the world. We aspire to continuously build impossible things and our ability to do so relies on building an incredible team. If you are driven to do the same, we'd love to hear from you.</p><h2>About the role</h2><p>*<em>Open to hiring remote across the US — we also have offices in NYC, San Francisco, and Seattle</em></p><p>Runway is growing fast, and so is the surface area of what users need to learn. We're looking for an Education Content Specialist to keep our Help Center accurate, our Academy content well-produced, and our users set up for success from day one.</p><p>You'll sit within the Experience &amp; Enterprise Enablement team, working closely with the Education &amp; Enablement lead to execute against a content roadmap that spans written documentation, video scripts, and self-service resources. Every feature launch will have your fingerprints on it. You're the person who makes sure users don't have to guess.</p><h2>What you’ll do</h2><ul><li><p>Write, update, and maintain Help Center articles across product features, billing, policies, and troubleshooting — keeping documentation accurate as the product moves fast</p></li><li><p>Coordinate with engineering and product at launch time to ensure articles are live before features ship</p></li><li><p>Audit existing Help Center content for accuracy and discoverability; surface recommendations based on support ticket trends and user feedback</p></li><li><p>Create and maintain self-service content — FAQs, quick-start guides, troubleshooting flows — that reduces ticket volume and helps users help themselves</p></li><li><p>Draft scripts for Runway Academy video tutorials, walkthroughs, and course modules</p></li><li><p>Support production of Academy content: create supporting assets, prepare materials for recording, and help get finished content published and organized</p></li><li><p>Build and maintain a library of templates, prompt guides, and project starters across Runway's tools</p></li><li><p>Support production and publishing of office hours, webinars, and live Q&amp;A sessions</p></li><li><p>Keep Help Center documentation and Academy content consistent and cross-referenced</p></li><li><p>Track the performance of content you've produced — article engagement, search deflection, CSAT — and flag gaps to the Education &amp; Enablement lead</p></li><li><p>Work with legal to ensure usage policies and terms are accurately reflected in customer-facing content</p></li></ul><h2>What you’ll need</h2><ul><li><p>2-3 years of experience in technical writing, documentation, education content, or a similar role at a software or SaaS company</p></li><li><p>Ability to translate complex product features into clear, user-friendly language — across articles, scripts, and guides</p></li><li><p>Experience shipping documentation on tight timelines with cross-functional dependencies</p></li><li><p>Comfort with help center platforms (Zendesk, Intercom, or similar) and content management systems</p></li><li><p>Familiarity with video content production and an instinct for how to structure and pace educational content</p></li><li><p>Strong editorial judgment — you catch inconsistencies before they go live</p></li><li><p>Organized and autonomous working style; you can manage a documentation backlog while staying responsive to urgent launch needs</p></li><li><p>A bias toward action and a belief that no task is too small</p></li><li><p>Familiarity building with LLMs to streamline and automate processes</p></li></ul><h2><strong>Nice to have</strong></h2><ul><li><p>Experience with AI or creative tools — with genuine curiosity about how they work</p></li><li><p>Background in or passion for the creative space — video, design, animation, or related fields</p></li><li><p>Experience using support data (ticket volume, search queries, CSAT, completion rates) to prioritize content work</p></li></ul><p>Runway strives to recruit and retain exceptional talent from diverse backgrounds while ensuring pay equity for our team. Our salary ranges are based on competitive market rates for our size, stage and industry, and salary is just one part of the overall compensation package we provide.</p><p>There are many factors that go into salary determinations, including relevant experience, skill level and qualifications assessed during the interview process, and maintaining internal equity with peers on the team. The range shared below is a general expectation for the function as posted, but we are also open to considering candidates who may be more or less experienced than outlined in the job description. In this case, we will communicate any updates in the expected salary range.</p><p>Lastly, the provided range is the expected salary for candidates in the U.S. Outside of those regions, there may be a change in the range, which again, will be communicated to candidates.</p><h3><strong>Working at Runway</strong></h3><p><a href=\"https://www.youtube.com/watch?v=kwmj4ato2kw&amp;ab_channel=Runway\"><strong>Great things come from great teams.</strong></a><strong> We’d love to hear from you.</strong></p><p>We’re committed to creating a space where our employees can bring their full selves to work and have equal opportunity to succeed. So regardless of race, gender identity or expression, sexual orientation, religion, origin, ability, age, veteran status, if joining this mission speaks to you, we encourage you to apply.</p><p><u>More about Runway</u></p><ul><li><p><a href=\"https://runwayml.com/world-simulator.html\">Universal World Simulator</a></p></li><li><p><a href=\"https://runwayml.com/research/introducing-runway-gwm-1\">GWM-1</a></p></li><li><p><a href=\"https://runwayml.com/research/introducing-runway-gen-4.5\">Gen-4.5</a></p></li><li><p><a href=\"https://runwayml.com/research/introducing-general-world-models\">General World Models</a></p></li><li><p><a href=\"https://runwayml.com/research/introducing-runway-gwm-1#robotics-section\">Robotics SDK</a></p></li><li><p><a href=\"https://runwayml.com/research/introducing-runway-gwm-1#avatars-section\">Conversational Real-time Agents</a></p></li><li><p><a href=\"https://runwayml.com/studios\">Runway Studios</a></p></li></ul><p>We're excited to be recognized as a best place to work:</p><p><a href=\"https://www.crainsnewyork.com/awards/best-places-work-2023\">Crain's</a> | <a href=\"https://www.inhersight.com/companies/best/city/new-york-city-ny\">InHerSight</a> | <a href=\"https://builtin.com/awards/new-york-city/2024/best-places-to-work\">BuiltIn NYC</a> | <a href=\"https://www.inc.com/best-workplaces/2024\">INC</a></p>",
+    "summary": "The Customer Education Specialist creates and maintains Help Center documentation, self-service resources, and Runway Academy materials, including video scripts and tutorials. The role coordinates content launches with product and engineering teams, tracks content performance, and ensures customer-facing usage policies and terms are accurate.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Organization",
+      "Autonomy",
+      "Attention to Detail",
+      "Initiative"
+     ],
+     "primary_skills": [
+      "Technical Writing",
+      "Content Development",
+      "Help Center Platforms",
+      "Content Management Systems",
+      "Video Content Production",
+      "Cross-Functional Collaboration",
+      "Content Performance Analysis",
+      "Legal Content Review",
+      "Large Language Models"
+     ],
+     "secondary_skills": [
+      "Artificial Intelligence",
+      "Creative Tools",
+      "Support Data Analysis"
+     ]
+    },
+    "benefits": [],
+    "salary": null,
+    "experienceLevel": "entry",
+    "employmentType": "full_time",
+    "minYearsExperience": 2,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790226419,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/runway-ml/4f8e18a4-0f26-4b28-a44d-3ba1afaada74",
+    "status": "active",
+    "companies": [
+     {
+      "name": "Runway",
+      "website": "runwayml.com"
+     }
+    ]
+   },
+   {
+    "id": "0a6c4d91-4c72-46a4-8ff1-cae5ab29d9ec",
+    "title": "Customer Education & Learning Experience Designer",
+    "description": "<h3>About CubX</h3><p>CubX is a modern Managed Service Provider (MSP) transforming how businesses experience technology.</p><p>We believe IT should be simple, secure, and enjoyable—not confusing or intimidating. Through automation, thoughtful design, and world-class customer experiences, we're changing what businesses expect from their technology partner.</p><p>As we continue building the future of our platform and services, we're looking for someone who can redefine how customers learn.</p><p>If you're passionate about education, design, storytelling, and making complex technology easy to understand, we'd love to meet you.</p><p><strong>Why CubX?</strong></p><p>At CubX, we believe our clients are more than just tickets—they're our friends. We're committed to providing top-notch service with a personal touch. We like to take a creative approach, think outside the box, and get ahead of issue before they arise. We also believe in providing a balanced environment, with benefits that include:</p><ul><li>Competitive Salary &amp; Comprehensive Benefits Package: Health, dental, vision, 401(k), and PTO.</li><li>Professional Development: Access to training and certification programs to grow your skills in areas like Microsoft 365, Azure, and networking.</li><li>Fun &amp; Inclusive Company Culture: Team events, social activities, onsite gym for physical wellness, and a supportive work environment that values your ideas and input.</li></ul><p><strong>Want to see what what It’s really like to work at CubX?</strong></p><p><a href=\"https://youtu.be/8jTGCRLUb54?si=FY9SN_43otdGCLNN\">What It’s Really Like to Work at CubX (Inside Our Team)</a></p><h3>About the Role</h3><p>We're looking for a <strong>Customer Education &amp; Learning Experience Designer</strong> to create one of the best customer education programs in the MSP industry.</p><p>This is far more than a documentation role.</p><p>You'll own how customers learn everything from Microsoft 365 and cybersecurity best practices to AI tools, CubX products, and everyday technology workflows.</p><p>You'll partner with engineers, designers, leadership, and support teams to transform technical knowledge into engaging, polished learning experiences that customers actually enjoy using.</p><p>Your work will directly improve customer adoption, reduce support requests, accelerate onboarding, and become a core part of the CubX experience.</p><h3>What You'll Create</h3><p>You'll build a modern education ecosystem including:</p><ul><li>Professional product walkthrough videos</li><li>Customer onboarding courses</li><li>Interactive learning paths</li><li>Help center articles and knowledge base content</li><li>In-app guidance and tutorials</li><li>Product documentation</li><li>AI-assisted training experiences</li><li>Visual graphics and illustrations</li><li>Customer success playbooks</li><li>Internal employee onboarding and training</li><li>Feature release education</li><li>Security awareness content</li><li>Microsoft 365 adoption guides</li></ul><p>Your mission is simple:</p><p><strong>Make technology feel effortless.</strong></p><h3>What You'll Do</h3><ul><li>Design exceptional learning experiences for end users</li><li>Plan, script, record, and edit professional training videos</li><li>Create graphics, diagrams, and visual explainers</li><li>Build structured onboarding journeys for new customers</li><li>Develop learning paths based on different user roles</li><li>Interview engineers and subject matter experts</li><li>Translate complex technical concepts into everyday language</li><li>Maintain and expand our customer knowledge base</li><li>Improve adoption of Microsoft 365, AI, cybersecurity, and CubX services</li><li>Analyze customer feedback and improve educational content over time</li><li>Help shape the voice and personality of the CubX brand</li><li>Build scalable education systems that grow with the company</li></ul><h3>Tools You'll Likely Use</h3><ul><li>Microsoft 365</li><li>ChatGPT &amp; Microsoft Copilot</li><li>Figma</li><li>Canva</li><li>Adobe Creative Suite</li><li>Camtasia</li><li>Premiere Pro</li><li>DaVinci Resolve</li><li>Synthesia</li><li>Loom</li><li>Notion</li><li>SharePoint</li><li>Screen Studio</li><li>Articulate Rise (or similar)</li><li>CubX Platform</li></ul><h3>Success in Your First Year</h3><p>Within your first year, you'll have:</p><ul><li>Built <strong>CubX University</strong></li><li>Created a modern customer learning center</li><li>Produced 100+ professional training videos</li><li>Standardized onboarding for every CubX client</li><li>Built learning paths for every CubX product and service</li><li>Reduced common support requests through better education</li><li>Increased customer adoption of Microsoft 365, AI, and security features</li><li>Created an internal employee training program that scales with company growth</li><li>Established CubX as an industry leader in customer education</li></ul><h3>Why This Role Matters</h3><p>At CubX, we believe great support starts long before someone opens a ticket.</p><p>The best customer experiences happen when people feel confident using technology from day one.</p><p>You'll help shape how thousands of users learn, work, and succeed with technology while building a customer education program that becomes a competitive advantage for CubX.</p><p>Your work will influence nearly every customer who interacts with our company.</p><p><strong>Requirements</strong></p><h3>What We're Looking For</h3><h3>Required</h3><ul><li>Experience creating instructional videos or educational content</li><li>Strong visual design skills and experience creating visual designs, graphics, diagrams, or other visual explainers</li><li>Experience creating graphics using Figma, Canva, Adobe Creative Suite, or similar tools</li><li>Experience writing documentation, SOPs, or knowledge base articles</li><li>Experience interviewing and communicating with technical subject matter experts</li><li>Eligible to work in the United States</li></ul><h3>Preferred</h3><ul><li>Experience as an Instructional Designer, Learning Experience Designer, Technical Trainer, or Customer Education Specialist</li><li>Experience building SaaS or software education programs</li><li>Experience with customer onboarding or product adoption programs</li><li>Experience with motion graphics or animation</li><li>Experience with video editing software such as Premiere Pro, Camtasia, Final Cut Pro, DaVinci Resolve, or similar tools</li><li>Familiarity with Microsoft 365</li><li>Experience with AI tools such as ChatGPT, Microsoft Copilot, Claude, or Gemini</li><li>Experience with Learning Management Systems (LMS)</li><li>Basic understanding of cloud technology, cybersecurity, or IT</li></ul><p><strong>Benefits</strong></p><h3>Compensation &amp; Benefits</h3><ul><li>Health benefits</li><li>Paid time off</li><li>Opportunities for professional development and certifications</li><li>Modern office environment</li><li>High-impact role with significant ownership</li><li>Work alongside a fast-growing, technology-focused leadership team</li><ul><li>Competitive salary of $55,000–$75,000 USD</li><li>Paid time off and company holidays</li><li>Health, dental, and vision insurance options</li><li>401(k) retirement plan with company match</li><li>On-site gym for employee wellness</li><li>Modern, collaborative office environment</li><li>Ongoing training and professional development</li><li>Opportunity to work with cutting-edge technology</li><li>Team events and employee appreciation initiatives</li><li>Strong company culture focused on innovation and teamwork</li></ul></ul>",
+    "summary": "The Customer Education & Learning Experience Designer will create and manage customer education programs covering Microsoft 365, cybersecurity, AI tools, CubX products, and technology workflows. Responsibilities include producing instructional videos and visual content, building onboarding journeys and learning paths, maintaining documentation, collaborating with technical subject matter experts, and improving content based on customer feedback and adoption data.",
+    "locations": [
+     {
+      "workLocation": "onsite",
+      "addressRegion": "New Jersey",
+      "addressCountry": "US",
+      "addressLocality": "Lakewood"
+     }
+    ],
+    "remoteType": "onsite",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Teamwork",
+      "Creativity",
+      "Problem-solving"
+     ],
+     "primary_skills": [
+      "Instructional Video Production",
+      "Visual Design",
+      "Graphic Design",
+      "Figma",
+      "Canva",
+      "Adobe Creative Suite",
+      "Technical Documentation",
+      "Knowledge Base Management",
+      "Subject Matter Expert Interviewing",
+      "Learning Experience Design"
+     ],
+     "secondary_skills": [
+      "Customer Onboarding",
+      "Product Adoption",
+      "Motion Graphics",
+      "Video Editing",
+      "Microsoft 365",
+      "Machine Learning",
+      "Learning Management Systems",
+      "Cloud Technology",
+      "Cybersecurity",
+      "IT Training"
+     ]
+    },
+    "benefits": [
+     "health_insurance",
+     "dental_insurance",
+     "vision_care",
+     "pensions_401k",
+     "pension_contribution_matching",
+     "paid_time_off_vacation_personal_days",
+     "professional_development",
+     "company_events_retreats",
+     "wellness_program",
+     "other_benefits"
+    ],
+    "salary": {
+     "max": 75000,
+     "min": 55000,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": null,
+    "employmentType": "full_time",
+    "minYearsExperience": null,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1788480000,
+    "expiresAt": null,
+    "applyUrl": "https://apply.workable.com/j/B00A52B580",
+    "status": "active",
+    "companies": [
+     {
+      "name": "cubx.com",
+      "website": "cubx.com"
+     }
+    ]
+   },
+   {
+    "id": "0f6b2a78-eaba-48a1-974e-beba4a9ce90d",
+    "title": "Senior Scaled Customer Education Specialist",
+    "description": "<div><p><span><strong>Who we are</strong></span></p><p><span>Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical operations that power our global economy. Representing more than 40% of global GDP, these industries are the infrastructure of our planet, including agriculture, construction, field services, transportation, and manufacturing — and we are excited to help digitally transform their operations at scale.</span></p><p><span>Working at Samsara means you’ll help define the future of physical operations and be on a team that’s shaping an exciting array of product solutions, including Video-Based Safety, Vehicle Telematics, Apps and Driver Workflows, and Equipment Monitoring. As part of a recently public company, you’ll have the autonomy and support to make an impact as we build for the long term.</span></p></div><p><strong>About the role:<br></strong></p><p>Do you want to join a dynamic, creative team? Samsara's Customer &amp; Partner Education team is looking for a trainer to help us scale our reach and customer support globally. As a Senior Scaled Customer Education Specialist focused primarily on our Scale segment (i.e. Commercial and Mid-market accounts), you'll help thousands of customers derive immediate value from our connected operations platform. Across one:many digital programs, live webinars, and cohort-based training sessions, you'll guide customers through structured learning journeys, make complex platform concepts accessible and actionable, and ensure success at every stage of their journey — across transportation, construction, field services, and the many other industries Samsara serves.</p><p><strong>This is a remote position open to candidates residing in the US</strong><strong><u>except</u></strong><strong>the San Francisco Bay Metro Area, NYC Metro Area, and Washington, D.C. Metro Area.&nbsp;</strong></p><p><strong>You should apply if:</strong></p><ul><li><strong>You want to impact the industries that run our world:</strong> Every session you deliver can affect whether truck drivers deliver goods on time and without accidents, whether students get dropped off safely from school, or whether power gets restored quickly after a natural disaster.</li><li><strong>You thrive the most when solving problems:</strong> Our constantly expanding technology and the complexities faced by our customers provide an exciting range of challenges for our Customer Success teams. With a growth mindset and a desire to learn, you will strategically design and deliver training that helps keep operations safe, efficient, and sustainable.</li><li><strong>You are a natural relationship builder:</strong> Whether with customers or cross-functional teams at Samsara, you are in constant communication and collaboration with key stakeholders to win as a team.</li><li><strong>You are the architect of your own career:</strong> If you put in the work, this role won't be your last at Samsara. This Customer Success team is still shaping its future and you will have plenty of autonomy and opportunities to master your craft in a hyper-growth environment.</li><li><strong>You want to be with the best:</strong> At Samsara, we win together, celebrate together, and support each other. You will be surrounded by the best and brightest professionals out there.</li></ul><p><strong>In this role, you will:</strong></p><ul><li>Build, deliver and facilitate cohort-based one:many programs for customers, guiding groups through structured learning journeys from onboarding through advanced product adoption</li><li>Design new, innovative experiences tying together physical and digital assets to live sessions and/or Community experiences</li><li>Produce new and leverage existing training materials in accordance with team standards and brand guidelines; adapt existing materials to reflect product changes and audience needs</li><li>Proactively leverage in-house and external tools and platforms to optimize the training you deliver (e.g., Samsara Community, in-house AI tools; Slido)</li><li>Demonstrate expertise across the Samsara platform and show confidence in fielding a wide range of customer questions during live sessions</li><li>Manage all live session logistics, including training registration, session delivery, Q&amp;A facilitation, polling, and post-session follow-up resources</li><li>Collaborate closely with the CS Scale as well as the rest of the Education team to shape content for live training and share customer feedback from training events</li><li>Identify common knowledge gaps across the Scale customer base and partner with Customer Success and Product teams to address them through programming</li><li><span>Champion, role model, and embed Samsara’s cultural principles (Focus on Customer Success, Build for the Long Term, Adopt a Growth Mindset, Be Inclusive, Win as a Team) as we scale globally and across new offices</span></li></ul><p><strong>Minimum requirements for the role:</strong></p><ul><li>Excellent communication, presentation, and facilitation skills. You make complex platform concepts clear and compelling for large, diverse audiences, both in your verbal delivery and in the materials you produce.</li><li>Demonstrated experience delivering at-scale programs and live webinars or vILT to external audiences.</li><li>Excellent interpersonal skills. You're dynamic and enthusiastic, and you connect well with people at any level of an organization.</li><li>Ability to build digital learning assets when needed, e.g., video tutorials, job aids, and presentation decks, using AI models, authoring and editing tools.</li><li>A working grasp of instructional design: you structure content around clear learning objectives and can help shape a program, not just deliver it.</li><li>Self-directed and analytical. You can teach yourself new products and tools quickly and assess what customers most need to know.</li><li>Ability to analyze engagement and impact data, then iterate on your content to improve what's working and fix what isn't.</li><li>Strong prioritization skills. You handle multiple programs and sessions concurrently while staying organized, methodical, and detail-oriented.</li><li>An eye for detail and polish in everything you produce.</li><li>Comfortable working independently and as part of a team.</li><li>3–4 years of experience teaching or delivering training, with at least 1 year in a one-to-many or scaled delivery model.</li></ul><p><strong>An ideal candidate also has:</strong></p><ul><li>Familiarity with webinar and virtual classroom platforms and tools&nbsp;</li><li>Experience with LMS and Community platforms, and customer education content development tools&nbsp;</li><li>Background in SaaS product training</li></ul><div><div><div><p><span>The range of annual base salary for full-time employees for this position is below. Please note that base pay offered may vary depending on factors including your city of residence, job-related knowledge, skills, and experience. Learn more about our total rewards and benefits below.</span></p></div><div>Annual Base Salary</div><div><span>$80,622.50</span><span>—</span><span>$121,950 USD</span></div></div></div><div><p><strong>Total Rewards</strong></p><p>At Samsara, we build for the people who keep the global economy moving. We want owners, not passengers, which is why <a href=\"https://www.samsara.com/company/careers/benefits\">our rewards</a> are designed to fuel high-impact builders. Our compensation program delivers above-market total compensation through a combination of base salary, performance-based bonus/variable pay, and equity (for eligible roles) in a high-growth public company. We meaningfully differentiate pay for our top performers, who have the opportunity to earn above-market compensation that can outpace the broader market over time.</p><p>Beyond compensation, we provide the foundations that enable long-term success: a flexible, employee-led remote model, a professional development stipend, comprehensive health and parental leave plans, and more. If you’re ready to build for the long term and own the outcome, your journey starts here.</p><p><strong>Flexible Working&nbsp;</strong></p><p><span>At Samsara, we embrace a flexible working model that caters to the diverse needs of our teams. Our offices are open for those who prefer to work in-person and we also support remote work where it aligns with our operational requirements. For certain positions, being close to one of our offices or within a specific geographic area is important to facilitate collaboration, access to resources, or alignment with our service regions. In these cases, the job description will clearly indicate any working location requirements. Our goal is to ensure that all members of our team can contribute effectively, whether they are working on-site, in a hybrid model, or fully remotely. All offers of employment are contingent upon an individual’s ability to secure and maintain the legal right to work at the company and in the specified work location, if applicable.</span></p><p><strong>Belonging at Samsara</strong></p><p>At Samsara, we welcome everyone regardless of their background. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, gender, gender identity, sexual orientation, protected veteran status, disability, age, and other characteristics protected by law. We depend on the unique approaches of our team members to help us solve complex problems and want to ensure that Samsara is a place where people from all backgrounds can make an impact.</p><p><strong>Accommodations&nbsp;</strong></p><p>Samsara is an inclusive work environment, and we are committed to ensuring equal opportunity in employment for qualified persons with disabilities. Please email <a href=\"mailto:accessibleinterviewing@samsara.com\">accessibleinterviewing@samsara.com</a> or <a href=\"https://forms.gle/DrM6DFQUiSgfPtCVA\">click here</a> if you require any reasonable accommodations throughout the recruiting process.</p><p><strong>Our Commitment to Authenticity</strong></p><p>We use <a href=\"https://hiretofu.com/privacyPolicy\">Tofu</a>, a fraud detection tool, to validate the authenticity of applications and protect against identity fraud. This ensures we are connecting with real people and allows us to prioritize genuine candidates. Please see Samsara’s <a href=\"https://www.samsara.com/legal/candidate-privacy-notice\">Candidate Privacy Notice</a> for more information.</p><p><strong>Fraudulent Employment Offers</strong></p><p>Samsara is aware of scams involving fake job interviews and offers. Please know we do not charge fees to applicants at any stage of the hiring process. Official communication about your application will only come from emails ending in @samsara.com, @us-greenhouse-mail.io or @mail3.guide.co. For more information regarding fraudulent employment offers, please visit our&nbsp;<a href=\"https://samsara.com/blog/avoiding-fake-job-offers\">blog post here</a>.</p></div>",
+    "summary": "The Senior Scaled Customer Education Specialist will design, deliver, and facilitate scalable customer education programs, including digital learning programs, live webinars, and cohort-based training. The role develops learning assets, manages live-session logistics, supports customer questions, analyzes engagement data, and collaborates with Customer Success and Product teams to improve customer adoption of Samsara’s connected operations platform.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Interpersonal Skills",
+      "Problem-solving",
+      "Prioritization",
+      "Adaptability"
+     ],
+     "primary_skills": [
+      "Customer Education",
+      "Training Delivery",
+      "Webinar Delivery",
+      "Virtual Instructor-Led Training",
+      "Facilitation",
+      "Instructional Design",
+      "Digital Learning Asset Development",
+      "Learning Management Systems",
+      "Customer Education Content Development",
+      "Engagement Data Analysis"
+     ],
+     "secondary_skills": [
+      "SaaS Product Training",
+      "Virtual Classroom Platforms",
+      "Community Platforms",
+      "Video Tutorial Development",
+      "Job Aid Development",
+      "Presentation Deck Development",
+      "AI Tools",
+      "Slido"
+     ]
+    },
+    "benefits": [
+     "performance_bonuses",
+     "stock_options_equity",
+     "remote_work_hybrid_work_options",
+     "professional_development",
+     "health_insurance",
+     "parental_leave"
+    ],
+    "salary": {
+     "max": 121950,
+     "min": 80622.5,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 3,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1788455535,
+    "expiresAt": null,
+    "applyUrl": "https://www.samsara.com/company/careers/roles/8177646?gh_jid=8177646",
+    "status": "active",
+    "companies": [
+     {
+      "name": "Samsara",
+      "website": "samsara.com"
+     }
+    ]
+   },
+   {
+    "id": "787a15bb-c616-490a-9b85-9b2ba67aa36d",
+    "title": "Customer Education Manager",
+    "description": "<p>Drata is building the trust layer between great companies - automating compliance, managing risk, and helping organizations prove trust continuously as they scale. We're Dratanauts: a global crew of 600+ professionals united by a culture that rewards integrity, ownership, and raising the bar, no matter where in the world we're working from.<br><br><strong>Why Join the Drata Team?</strong><br>At Drata, you're not maintaining legacy compliance software - you're building the agentic AI platform defining what trust looks like for the next generation of companies. Here's what makes the work itself worth showing up for:</p><ul><li><p><strong>Problems without a playbook:</strong> You'll work at the edge of AI and security, building agentic governance, continuous compliance, and real-time trust verification to solve problems that don't have an established answer yet. You're writing it as you go.</p></li><li><p><strong>Real ownership, not just process:</strong> Our values center on owning outcomes and raising the bar, not checking boxes. You're expected to have opinions and back them.</p></li><li><p><strong>A seat at the table:</strong> Your perspective is unique and valued. Open debate and diverse viewpoints are built into how decisions actually get made here, at every level.</p></li><li><p><strong>Growth at rocketship speed:</strong> Drata is scaling fast, which means scope grows fast too. High performers get more ownership, visibility, and experience.</p></li><li><p><strong>A crew, not just coworkers:</strong> Dratanauts consistently describe a \"come as you are\" culture with sharp, curious people—the kind of team that makes hard problems genuinely fun to solve. See <a href=\"https://drata.com/about/careers/life\"><u>what they say here</u></a> and follow us on <a href=\"https://www.linkedin.com/company/drata/posts/?feedView=all\"><u>LinkedIn</u></a> for company news, employee stories, and career updates.</p></li></ul><p><strong>Job Summary:</strong></p><p>Drata is building a world-class customer education function — and we're looking for the person who will own it.</p><p>As Learning &amp; Development Specialist, you'll be the architect of how Drata customers learn: designing the programs, building the certifications, and creating the infrastructure that helps thousands of security and compliance practitioners get value from Drata faster and more independently. A critical part of this role is understanding that Enterprise and SMB customers don't learn the same way — you'll design programs that meet each segment where they are, with the right depth, format, and pacing for their needs.</p><p>You'll sit within the Digital CS team — alongside Community, in-app guidance, automated playbooks, and 1:M events — and you'll be the expert who defines what great customer education looks like at Drata across every customer segment.</p><p>This is a senior IC role. You won't manage people on day one, but you'll lead the discipline. You'll set the strategy, own the roadmap, and be the voice of customer education across the company. As the function matures, there's a clear path to building a team under you.</p><p>You'll report directly to the Sr. Director of Digital CS, who leads all of Drata's Digital CS programs.</p><p><strong>What you'll do:</strong></p><p><strong>Build and mature the Drata Academy program</strong></p><ul><li><p>Own the Drata Academy roadmap — course library strategy, learning path design, and the overall curriculum architecture across Drata's product suite (GRC, Trust Center, AIQA, TPRM)</p></li><li><p>Design distinct learning experiences for Enterprise and SMB customers — Enterprise teams need depth, role-based paths, and content that scales across large orgs; SMB customers need fast time-to-value, opinionated guidance, and lean formats that fit a lean team</p></li><li><p>Take Academy from a newly launched platform to a mature, comprehensive education program with measurable customer outcomes</p></li><li><p>Define what 'good' looks like for customer education at Drata — frameworks, standards, and content quality bar</p></li><li><p>Build a scalable content production process using AI-assisted authoring tools (Claude Design, Arcade, and similar) to create high-quality courses without engineering dependency</p></li><li><p>Partner with Product to stay ahead of feature releases and ensure education content ships in sync with the product</p></li></ul><p><strong>Launch and own the Drata Admin Certification program</strong></p><ul><li><p>Design and build Drata's first customer certification program — the Drata Admin Certification — from curriculum design through to assessment, badging, and renewal</p></li><li><p>Define the certification framework: competency model, exam structure, passing criteria, and credential lifecycle</p></li><li><p>Partner with the Customer Success, Sales, and Marketing teams to position the Drata Admin Certification as a meaningful credential in the GRC and security compliance market</p></li><li><p>Build the ecosystem around certification: study guides, prep courses, practice assessments, and community-based peer learning</p></li></ul><p><strong>Drive education impact with AI and data</strong></p><ul><li><p>Use AI tools meaningfully throughout the content lifecycle — not just for drafting, but for personalization, adaptive learning paths, and content gap identification at scale</p></li><li><p>Define and own education KPIs: course completion rates, certification pass rates, time-to-proficiency, and correlation between education engagement and GRR/NRR</p></li><li><p>Partner with the Digital CS team's data infrastructure (Snowflake, Catalyst) to connect Academy engagement to customer health scores and retention outcomes</p></li><li><p>Report education program performance in the quarterly Digital CS QBR and continuously improve based on what the data shows</p></li></ul><p><strong>Integrate education across the Digital CS ecosystem</strong></p><ul><li><p>Connect Academy to the broader Digital CS motion — surface course recommendations in automated playbooks, in-app tooltips, and community content</p></li><li><p>Partner with the Community Manager to make community a learning accelerator: expert-led sessions, peer knowledge sharing, and certification prep cohorts</p></li><li><p>Collaborate with the 1:M events program to create learning continuity between live sessions and self-paced Academy content</p></li><li><p>Ensure education content reinforces the in-app guidance experience — tooltips, Arcade videos, and Academy courses telling a consistent story</p></li></ul><p><strong>What you'll bring:</strong></p><ul><li><p>5–8 years of experience in customer education, learning &amp; development, or instructional design at a B2B SaaS company</p></li><li><p>Proven track record building or maturing a customer education program — ideally across companies at different stages (early-stage build to scaled program)</p></li><li><p>Experience designing L&amp;D programs for both Enterprise and SMB customers — you understand that a Fortune 500 security team and a 20-person startup have fundamentally different learning needs, timelines, and success metrics, and you've built programs that reflect that</p></li><li><p>Certification program experience — you've designed, launched, or owned a professional certification or credentialing program end-to-end</p></li><li><p>Hands-on LMS expertise — deep experience with Skilljar, Gainsight Academy, Docebo, Thought Industries, or similar platforms</p></li><li><p>AI fluency with real business impact — you've used AI tools to meaningfully accelerate content creation, improve learning outcomes, or scale a program; you can speak to the results</p></li><li><p>Strong instructional design instincts — you understand adult learning principles, can design for different modalities (video, interactive, assessment), and know what makes content actually stick</p></li><li><p>Data-driven — you track completion rates, certification outcomes, and business impact, and you use that data to make decisions</p></li><li><p>Cross-functional collaborator — comfortable working with Product, CS, Marketing, and Support to align education to the customer journey</p></li><li><p>Bonus: experience in the GRC, security compliance, or trust space; familiarity with Drata, SOC 2, ISO 27001, or similar frameworks</p></li></ul><p><strong>Why this role?</strong></p><ul><li><p>You'll own a discipline, not just a program — this is the person who defines what customer education means at Drata, with full strategic ownership</p></li><li><p>Academy just launched — you're coming in at the moment of maximum leverage, when the platform exists but the real program-building work is just beginning</p></li><li><p>The certification you build will matter in the market — Drata has thousands of customers in the GRC space; a Drata Admin Certification has real credentialing potential</p></li><li><p>You'll be embedded in one of the most forward-thinking Digital CS functions in B2B SaaS — with Community, AI-driven playbooks, in-app guidance, and 1:M events all working together</p></li><li><p>Clear growth path — as the education function matures, this role grows with it</p></li></ul><p><strong>How we support you:<br></strong> At Drata, our people are our strongest advantage—and we prove it with support that exceeds industry standards. Our total rewards package is designed to power your well-being, accelerate your growth, and keep your work-life balance thriving.</p><p>Explore how we invest in your <a href=\"https://drata.com/about/life-at-drata?utm_source=chatgpt.com\"><u>Life at Drata</u></a><u>.</u></p><ul><li><p><strong>Shared Success</strong>: We provide stock equity to ensure that as the company grows, you share directly in that success. Equity gives every employee a sense of ownership and the opportunity to celebrate our wins together—because your contributions don’t just support our progress; they help drive our collective success.</p></li><li><p><strong>Health &amp; Wellness:</strong> Up to <strong>100% employer-paid premiums</strong> for medical, dental, and vision coverage for employees <em>and their dependents</em>, along with comprehensive wellness benefits and healthcare concierge services designed to support your needs beyond traditional insurance.</p></li><li><p><strong>Financial Well-being:</strong> A comprehensive suite of financial benefits, including a <strong>401(k) plan</strong>, company-paid <strong>life and disability insurance</strong>,<strong>tax-advantaged spending accounts</strong>, and a range of <strong>discounted voluntary offerings</strong> to help you customize and strengthen your overall financial position.</p></li><li><p><strong>Family Support:</strong> We want to support you in life's most important moments, so we offer a paid Parental Leave policy, after six months of employment. Employees also receive access to <strong>Kindbody fertility and family-building benefits</strong> and dedicated leave specialists who help guide you through the entire process.</p></li><li><p><strong>Growth &amp; Development:</strong> Generous annual stipends for both professional and personal development, empowering you to invest in your continued growth. You’ll also have access to a wide range of internal learning opportunities, ensuring you can build new skills, deepen your expertise, and advance your career with confidence.</p></li><li><p><strong>Time Off &amp; Flexibility:</strong> We believe that to do your best work, you should get the time you need for rest, rejuvenation and recovery. Drata offers a flexible vacation policy, paid holidays, and other perks to recharge.</p></li></ul><p><em>The expected base salary range for this role is between $125,000 - $161,000 and is listed to provide transparency. Actual base pay will vary based on multiple factors — market location, job-related knowledge, skills, experience, and overall alignment to the role.</em></p><p><em>Candidates shouldn't expect automatic placement at any particular point within the range. Offer amounts are determined by the qualifications each candidate brings to the position. Total compensation may also include equity designed to provide meaningful ownership in the company, as well as health and wellbeing benefits.</em></p>",
+    "summary": "Drata is seeking a senior individual contributor to own and mature its customer education function. The role will lead the Drata Academy roadmap, design Enterprise and SMB learning experiences, launch the Drata Admin Certification, use AI and data to improve education outcomes, and integrate education across the Digital Customer Success ecosystem.",
+    "locations": [
+     {
+      "workLocation": "hybrid",
+      "addressRegion": "California",
+      "addressCountry": "US",
+      "addressLocality": "San Francisco"
+     }
+    ],
+    "remoteType": "hybrid",
+    "skills": {
+     "soft_skills": [
+      "Leadership",
+      "Strategic Thinking",
+      "Communication",
+      "Problem-solving"
+     ],
+     "primary_skills": [
+      "Customer Education",
+      "Learning and Development",
+      "Instructional Design",
+      "Curriculum Development",
+      "Certification Program Management",
+      "Learning Management Systems",
+      "Artificial Intelligence",
+      "Adult Learning",
+      "Data-Driven Decision Making",
+      "Cross-Functional Collaboration"
+     ],
+     "secondary_skills": [
+      "Skilljar",
+      "Gainsight Academy",
+      "Docebo",
+      "Thought Industries",
+      "Snowflake",
+      "Catalyst",
+      "GRC",
+      "SOC 2",
+      "ISO 27001"
+     ]
+    },
+    "benefits": [
+     "stock_options_equity",
+     "health_insurance",
+     "dental_insurance",
+     "vision_care",
+     "wellness_program",
+     "pensions_401k",
+     "life_insurance",
+     "disability_insurance",
+     "parental_leave",
+     "professional_development",
+     "paid_time_off_vacation_personal_days"
+    ],
+    "salary": {
+     "max": 161000,
+     "min": 125000,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 5,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1788401955,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/drata/b7216aa8-5f0a-4c44-bf3d-e68c59467bdb",
+    "status": "active",
+    "companies": [
+     {
+      "name": "drata.com",
+      "website": "drata.com"
+     }
+    ]
+   }
+  ],
+  "meta": {
+   "count": 4,
+   "hasMore": false,
+   "requestTimeMs": 29,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

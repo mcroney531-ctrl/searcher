@@ -1,0 +1,422 @@
+{
+ "call_id": "rec_851969875_title",
+ "phase": "recall",
+ "url": "https://api.jobven.com/v1/public/jobs?q=%22Learning+Experience+Designer%22&country=US&postedAfter=1788220800&limit=10",
+ "params": [
+  [
+   "q",
+   "\"Learning Experience Designer\""
+  ],
+  [
+   "country",
+   "US"
+  ],
+  [
+   "postedAfter",
+   1788220800
+  ],
+  [
+   "limit",
+   10
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:23:13 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "transfer-encoding": "chunked",
+  "connection": "close",
+  "server": "cloudflare",
+  "vary": "Accept-Encoding",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "69388de1-2cf8-4f4a-93b8-cd93da383fb7",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2439",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "17",
+  "etag": "W/\"aac0-MrTVCUzObq6PByNt6uNw0F2rlWo\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=qKuD8WwbSNZER5qyMLhQy3L25yP4veyBDp2IIOFV7crjPBXpfzdAq4OtGe6zoJBBZr1QlTVo7rQuYGppugH9QUaY0r%2BLjzJYabM30q%2FSyGU6nqRBUVYtr%2BVA9nR1l2L%2BMPo2xdaRsIiJw8oCVg%3D%3D\"}]}",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "cf-ray": "a406e8b04e340f45-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "id": "6856e2e3-5992-40a4-815e-36f67fbddcdc",
+    "title": "AI Learning Experience Designer",
+    "description": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;&lt;strong&gt;Company Overview:&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;a href=\"https://www.blinkhealth.com/\"&gt;Blink Health &lt;/a&gt;is the fastest growing healthcare technology company that builds products to make prescriptions accessible and affordable to everybody.&amp;nbsp; Our two primary products – BlinkRx and Quick Save – remove traditional roadblocks within the current prescription supply chain, resulting in better access to critical medications and improved health outcomes for patients.&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;a href=\"https://www.blinkhealth.com/blinkrx\"&gt;BlinkRx &lt;/a&gt;is the world’s first pharma-to-patient cloud that offers a digital concierge service for patients who are prescribed branded medications. Patients benefit from transparent low prices, free home delivery, and world-class support on this first-of-its-kind centralized platform. With BlinkRx, never again will a patient show up at the pharmacy only to discover that they can’t afford their medication, their doctor needs to fill out a form for them, or the pharmacy doesn’t have the medication in stock.&amp;nbsp;&lt;br&gt;&lt;br&gt;We are a highly collaborative team of builders and operators who invent new ways of working in an industry that historically has resisted innovation. Join us!&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;The Role: &lt;/strong&gt;As our AI Learning Experience Designer, you'll drive our organization's shift toward AI-powered, simulation-based training. You won't just write training content — you'll design, build, and continuously improve realistic practice environments, from conversational role-play scenarios to procedural and technical simulations, that let employees rehearse high-stakes skills safely, repeatedly, and at scale. This role sits deliberately at the intersection of three disciplines: instructional design, live facilitation, and Product/Engineering. You'll translate learning needs into technical requirements that designers or Product and Engineering can build against, and translate those outputs back into the classroom experience for our learners. Success means simulation-based training that is both instructionally sound and technically scalable — and that demonstrably improves performance.&lt;/p&gt; &lt;p&gt;&lt;em&gt;This is a hybrid role based in either New York or Seattle location&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What you’ll do:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Simulation Design &amp;amp; Strategy&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Design branching scenarios, role-play conversations, and procedural/technical simulations grounded in adult learning principles and real on-the-job situations.&lt;/li&gt; &lt;li&gt;Define what “realistic” and “effective” mean for each simulation — personas, difficulty curves, failure states, and feedback loops — in partnership with SMEs and facilitators.&lt;/li&gt; &lt;li&gt;Build and maintain a simulation roadmap aligned to the organization’s highest-priority skill gaps, rather than defaulting to whichever tool is easiest to deploy.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;AI Tooling, Prompt Engineering &amp;amp; Build&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Own the prompt engineering and configuration behind AI-driven simulations (conversational AI role-play, AI-generated scenario content, adaptive difficulty), working within licensed platforms and/or custom-built tools.&lt;/li&gt; &lt;li&gt;Evaluate and pilot AI simulation vendors and in-house technologies (e.g., conversational role-play platforms, authoring tools with AI generation, avatar/voice tools) against defined learning outcomes and total cost of ownership.&lt;/li&gt; &lt;li&gt;Maintain a working knowledge of the AI/LLM capabilities and constraints relevant to training use cases, translating this into realistic scope and timelines.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Bridging Instructional Design, Facilitation &amp;amp; Product/Engineering&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Act as the primary liaison between the L&amp;amp;D function and P&amp;amp;E teams building or supporting simulation tooling — writing clear requirements, user stories, and acceptance criteria on the learning side. Serve as a product owner for L&amp;amp;D outcomes.&lt;/li&gt; &lt;li&gt;Partner with facilitators and trainers to pressure-test simulations before rollout, incorporating live-delivery feedback into design and technical iteration.&lt;/li&gt; &lt;li&gt;Translate technical/platform constraints (data privacy, integration limits, latency, model behavior) into design trade-offs that instructional design and facilitation stakeholders can understand and plan around.&lt;/li&gt; &lt;li&gt;Represent L&amp;amp;D in Product/Engineering planning processes where simulation tooling, data, or infrastructure decisions affect training outcomes.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Innovation &amp;amp; Process Ownership&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Pioneer AI-driven design and production processes that let the team scale simulation output while maintaining quality — this role owns how simulations get built, not just what gets built.&lt;/li&gt; &lt;li&gt;Stay current on emerging AI tools and techniques relevant to simulation and instructional design, and make the call on when to adopt, pilot, or pass.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Measurement &amp;amp; Continuous Improvement&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Define and track success metrics for each simulation (e.g., time-to-competency, skill transfer, manager/coach ratings, performance-data correlation), not just completion or satisfaction scores.&lt;/li&gt; &lt;li&gt;Use practice and performance analytics to identify where simulations are and aren’t closing real skill gaps, and iterate accordingly.&lt;/li&gt; &lt;li&gt;Report on simulation program impact to L&amp;amp;D leadership, tying results to business outcomes rather than production speed alone.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Governance &amp;amp; Quality&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Ensure simulations meet accessibility standards (e.g., WCAG, Section 508) and organizational data privacy/security requirements for any AI tool used.&lt;/li&gt; &lt;li&gt;Establish and maintain a quality/review process for AI-generated simulation content before it reaches learners.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;A successful applicant will fit the following criteria:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;We want someone who lives at the intersection of learning design and technology. You’ll thrive here if:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;You have 7+ years in instructional design, learning experience design, or a closely related L&amp;amp;D role.&lt;/li&gt; &lt;li&gt;You have demonstrated experience building with AI to design, develop, and scale learning experiences, including AI-assisted content generation, prompt engineering, content transformation, and workflow optimization — not just general AI familiarity.&lt;/li&gt; &lt;li&gt;You have demonstrated experience creating AI-generated learning assets, specifically simulations, chatbots, branching scenarios, role-play conversations, assessments, and coaching/reinforcement activities (a portfolio or work samples demonstrating this is required).&lt;/li&gt; &lt;li&gt;You have experience partnering directly with P&amp;amp;E teams or other technical partners in their planning process, and you communicate effectively with both technical and non-technical audiences.&lt;/li&gt; &lt;li&gt;You have experience designing for and/or delivering live facilitation (virtual or in-person), or working closely with facilitators to pressure-test and shape training content before rollout.&lt;/li&gt; &lt;li&gt;You have experience translating business priorities and performance gaps into scalable learning solutions, ideally in a fast-paced or customer-facing organization.&lt;/li&gt; &lt;li&gt;You have a strong grounding in instructional design methodology (e.g., ADDIE, adult learning theory) and scenario/branching-logic design.&lt;/li&gt; &lt;li&gt;You have working proficiency with at least one AI simulation/role-play platform (e.g., Second Nature, Hyperbound, Mindtickle, Zenarate, SmartWinnr, or comparable) and one standard authoring/content tool stack (e.g., Articulate Storyline/Rise, Vyond, Claude Design) with AI-assisted features.&lt;/li&gt; &lt;li&gt;You’re familiar with the systems a Product/Engineering-adjacent L&amp;amp;D role needs to operate in: an LMS (e.g., Cornerstone, Absorb, Moodle), a CMS (e.g., Showpad), and a project-tracking tool used by Engineering (e.g., Jira) — enough to work inside these systems, not just consume their output.&lt;/li&gt; &lt;li&gt;You have strong project management skills, with the ability to manage multiple concurrent initiatives and competing stakeholder priorities without losing quality.&lt;/li&gt; &lt;li&gt;You’re comfortable reading and acting on learning/performance analytics — engagement, adoption, time-to-competency, and business performance data — to demonstrate program impact, not just completion.&lt;/li&gt; &lt;li&gt;You communicate clearly and technically — able to write requirements Engineering can build from and explain platform constraints to non-technical stakeholders.&lt;/li&gt; &lt;li&gt;You have an innovation-oriented mindset: you’re comfortable proposing and piloting AI-driven processes that compress traditional development timelines, and comfortable being wrong sometimes in service of moving faster.&lt;/li&gt; &lt;li&gt;You have a bachelor’s degree in Instructional Design, Learning Experience Design, Educational Technology, or a related field; equivalent professional experience will be considered in lieu of a degree.&lt;/li&gt; &lt;/ul&gt;&lt;div class=\"content-conclusion\"&gt;&lt;p&gt;&lt;strong&gt;Why Join Us:&lt;br&gt;&lt;br&gt;&lt;/strong&gt;It is rare to have a company that both deeply impacts its customers and is able to provide its services across a massive population.&amp;nbsp; At Blink, we have a huge impact on people when they are most vulnerable: at the intersection of their healthcare and finances. We are also the fastest growing healthcare company in the country and are driving that impact across millions of new patients every year.&amp;nbsp; Our business model not only helps people, but drives economics that allow us to build a generational company. We are a relentlessly learning, constantly curious, and aggressively collaborative cross-functional team dedicated to inventing new ways to improve the lives of our customers.&lt;br&gt;&lt;br&gt;We are an equal opportunity employer and value diversity of all kinds. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.&lt;br&gt;&lt;br&gt;Applicants who provide their phone number and consent to receive text messages may receive SMS or MMS updates from Blink Health regarding their application.&lt;/p&gt;&lt;/div&gt;",
+    "summary": "The AI Learning Experience Designer will design, build, and improve AI-powered, simulation-based training, including role-play scenarios, procedural simulations, and adaptive learning experiences. The role bridges instructional design, facilitation, and Product/Engineering by translating learning needs into technical requirements, managing simulation tooling, measuring learning impact, and ensuring accessibility and data privacy.",
+    "locations": [
+     {
+      "workLocation": "hybrid",
+      "addressRegion": "New York",
+      "addressCountry": "US",
+      "addressLocality": "New York"
+     },
+     {
+      "workLocation": "hybrid",
+      "addressRegion": "Washington",
+      "addressCountry": "US",
+      "addressLocality": "Seattle"
+     }
+    ],
+    "remoteType": "hybrid",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Project Management",
+      "Adaptability",
+      "Collaboration",
+      "Problem-solving"
+     ],
+     "primary_skills": [
+      "Instructional Design",
+      "Learning Experience Design",
+      "Machine Learning",
+      "Prompt Engineering",
+      "Simulation Design",
+      "Scenario-Based Learning",
+      "Branching Logic Design",
+      "AI-Assisted Content Generation",
+      "Learning Analytics",
+      "Product Ownership"
+     ],
+     "secondary_skills": [
+      "Adult Learning Theory",
+      "ADDIE",
+      "Conversational AI",
+      "Articulate Storyline",
+      "Articulate Rise",
+      "Vyond",
+      "Learning Management Systems",
+      "Content Management Systems",
+      "Jira",
+      "WCAG Accessibility"
+     ]
+    },
+    "benefits": [],
+    "salary": null,
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 7,
+    "educationRequirement": {
+     "required": [],
+     "preferred": [
+      "bachelor_degree"
+     ]
+    },
+    "industry": [
+     "healthcare_medical",
+     "technology_software"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790178107,
+    "expiresAt": null,
+    "applyUrl": "https://job-boards.greenhouse.io/blinkhealth/jobs/8837000002",
+    "status": "active",
+    "companies": [
+     {
+      "name": "blinkhealth.com",
+      "website": "blinkhealth.com"
+     }
+    ]
+   },
+   {
+    "id": "f7e911b6-6477-4c8b-8157-c480994f72fb",
+    "title": "Senior Digital Learning Experience Designer - Learning & Inclusion",
+    "description": "<div><p>We’re looking for a Senior Digital Learning Experience Designer to join our Learning &amp; Inclusion team, the group responsible for creating learning experiences that help every Spotify band member grow, belong, and do their best work.</p><p>You’ll bring together instructional design, visual design, storytelling, and broader learning and development expertise to create inclusive and effective experiences at scale. You’ll partner with subject-matter experts, people leaders, and Learning &amp; Inclusion colleagues on company-wide initiatives, from leadership development to programs that bring Spotify’s values to life.</p></div><h3>What You'll Do</h3><div><li>Lead the end-to-end design of learning experiences, from needs analysis and curriculum architecture through development, launch, and evaluation.</li><li>Partner with subject-matter experts and stakeholders to identify performance needs and turn them into clear learning objectives and practical solutions.</li><li>Design learning journeys across live, digital, blended, and self-directed formats using evidence-based learning principles.</li><li>Create engaging learning materials, including eLearning, facilitator guides, participant resources, job aids, presentations, and micro-learning experiences.</li><li>Use visual design and storytelling to make complex ideas clear, memorable, and engaging while creating experiences that feel unmistakably Spotify.</li><li>Build interactive digital learning experiences using AI-assisted workflows and authoring tools such as Articulate Storyline or Rise, Adobe Captivate, or similar platforms.</li><li>Design inclusive learning experiences that reflect different perspectives, reduce barriers to participation, and support a culture of belonging.</li><li>Pilot and iterate on learning experiences using learner feedback, stakeholder input, and performance data.</li><li>Define meaningful measures of success and evaluate learning effectiveness, knowledge transfer, learner experience, and behavior change.</li><li>Manage multiple learning projects from initial scoping through delivery while creating clarity around priorities, timelines, and stakeholder expectations.</li><li>Explore emerging approaches in learning design, including AI-assisted authoring and adaptive learning, and apply them where they can meaningfully improve the learner experience.</li></div><h3>Who You Are</h3><div><li>You have 5+ years of professional instructional design experience and a portfolio demonstrating thoughtful work across multiple learning formats.</li><li>You apply learning science principles such as cognitive load, retrieval practice, spaced learning, and adult learning theory to practical design decisions.</li><li>You know how to uncover learning and performance needs, translate them into measurable objectives, and design learning journeys that build knowledge and skills over time.</li><li>You create meaningful practice through scenarios, simulations, assessments, and other interactive experiences rather than relying on passive content.</li><li>You have strong visual and UX design judgment and understand how typography, hierarchy, layout, and visual storytelling can make learning clearer and easier to navigate.</li><li>You have experience with rapid authoring tools such as Articulate 360, Captivate, Lectora, or similar platforms, along with design tools such as Figma, Adobe Creative Suite, Canva, or equivalent.</li><li>You can create clear storyboards, scripts, facilitator guides, and supporting materials that help others confidently deliver consistent learning experiences.</li><li>You use learner feedback and data to evaluate effectiveness, iterate on your work, and connect learning experiences to meaningful outcomes.</li><li>You communicate complex ideas clearly and collaborate effectively with subject-matter experts, leaders, and cross-functional partners.</li><li>You’re comfortable navigating ambiguity, balancing multiple priorities, and taking ownership from an early idea through a polished learning experience.</li><li>You bring experience in areas such as inclusive learning design, leadership development, learning technology, short-form learning video or animation, LMS/LXP platforms, or SCORM/xAPI.</li><li>You have a degree in instructional design, learning sciences, education, human-computer interaction, or a related discipline, or equivalent practical experience.</li></div><h3>Where You'll Be</h3><div><li>This role is based in New York</li><li>We offer you the flexibility to work where you work best! There will be some in person meetings, but still allows for flexibility to work from home.</li></div><div>The United States base range for this position is $87,000 – $125,000 USD, plus equity. The benefits available for this position include health insurance, six-month paid parental leave, 401(k) retirement plan, monthly meal allowance, 23 paid days off, paid flexible holidays, and paid sick leave. These ranges may be modified in the future.</div><div><br></div><div><span>Spotify is an equal opportunity employer. You are welcome at Spotify for who you are, no matter where you come from, what you look like, or what’s playing in your headphones. Our platform is for everyone, and so is our workplace. The more voices we have represented and amplified in our business, the more we will all thrive, contribute, and be forward-thinking! So bring us your personal experience, your perspectives, and your background. It’s in our differences that we will find the power to keep revolutionizing the way the world listens.</span></div><div><span>At Spotify, we are passionate about inclusivity and making sure our entire recruitment process is accessible to everyone. We have ways to request reasonable accommodations during the interview process and help assist in what you need. If you need accommodations at any stage of the application or interview process, please let us know - we’re here to support you in any way we can.</span></div>",
+    "summary": "Spotify is seeking a Senior Digital Learning Experience Designer to create inclusive, effective learning experiences across digital, live, blended, and self-directed formats. The role leads end-to-end instructional design, partners with subject-matter experts and stakeholders, develops interactive learning materials using authoring and design tools, and evaluates outcomes through feedback and performance data.",
+    "locations": [
+     {
+      "workLocation": "hybrid",
+      "addressRegion": "New York",
+      "addressCountry": "US",
+      "addressLocality": "New York"
+     }
+    ],
+    "remoteType": "hybrid",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Collaboration",
+      "Adaptability",
+      "Ownership",
+      "Problem-solving"
+     ],
+     "primary_skills": [
+      "Instructional Design",
+      "Learning Experience Design",
+      "Learning Science",
+      "Curriculum Development",
+      "Needs Analysis",
+      "Learning Objectives",
+      "Visual Design",
+      "User Experience Design",
+      "Articulate 360",
+      "Adobe Captivate"
+     ],
+     "secondary_skills": [
+      "Figma",
+      "Adobe Creative Suite",
+      "Canva",
+      "Lectora",
+      "Storyboarding",
+      "Learning Management Systems",
+      "Learning Experience Platforms",
+      "SCORM",
+      "xAPI",
+      "Adaptive Learning"
+     ]
+    },
+    "benefits": [
+     "health_insurance",
+     "parental_leave",
+     "pensions_401k",
+     "free_subsidized_meals",
+     "paid_time_off_vacation_personal_days",
+     "sick_leave",
+     "flexible_work_hours",
+     "remote_work_hybrid_work_options",
+     "stock_options_equity"
+    ],
+    "salary": {
+     "max": 125000,
+     "min": 87000,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 5,
+    "educationRequirement": {
+     "required": [],
+     "preferred": [
+      "bachelor_degree"
+     ]
+    },
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1789646284,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.lever.co/spotify/9d1c90b5-a8a4-4218-b2f3-7bbaefae7fd1",
+    "status": "active",
+    "companies": [
+     {
+      "name": "Spotify",
+      "website": "spotify.com"
+     }
+    ]
+   },
+   {
+    "id": "0ea4647f-3229-4725-9187-d24a6a83563a",
+    "title": "Learning Experience Designer",
+    "description": "Sentry’s Learning Experience Designers leverage technology and learning theory to design innovative learning solutions.<div><div><p><span><span>As a Learning Experience Designer,</span><span>you’ll</span><span>craft engaging, effective, and innovative learning experiences that empower our associates and drive business outcomes.</span><span>You’ll</span><span>apply principles of performance-based learning in the workplace, User Experience methodologies, and modern technologies to create holistic learning journeys that support continuous development and performance. Partnering closely with subject matter experts and stakeholders,</span><span>you’ll</span><span>assess performance needs, design learner-centric solutions, and develop multimedia-rich learning assets to ensure every interaction is intuitive, impactful, and aligned with Sentry’s strategic goals.</span></span><br><br><b><span>What You'll Do</span></b></p></div><div><ul><li><p><b><span>Collaborate &amp; Assess Needs:</span></b><span><span>Partner with subject matter experts and business stakeholders to conduct thorough needs assessments, define performance-based learning</span><span>objectives</span><span>, and align solutions with business priorities.</span></span></p></li></ul></div><div><ul><li><p><b><span>Design &amp; Develop Engaging Experiences:</span></b><span><span>Create and develop engaging, learner-centric experiences across diverse modalities, including e-learning, live</span><span>facilitated</span><span>learning, immersive simulations, blended programs, and performance support systems.</span></span></p></li></ul></div><div><ul><li><p><b><span>Apply UX &amp; Technology:</span></b><span><span>Utilize</span><span>User Experience design principles and apply learning technology and authoring tools to ensure</span><span>optimal</span><span>learning effectiveness and transfer to on-the-job performance.</span></span></p></li></ul></div><div><ul><li><p><b><span>Create Multimedia Content:</span></b><span><span>Design visually appealing, interactive, and multimedia-rich learning materials (storyboards, scripts, visual designs, e-learning, videos, assessments) that incorporate graphic design principles and brand standards.</span></span></p></li></ul></div><div><ul><li><p><b><span>Manage Projects &amp; Evaluate Impact:</span></b><span><span>Apply effective project management principles, including Agile methodologies, to deliver learning projects on time and within budget. Develop and implement evaluation strategies using data analytics to measure business impact and provide data-driven recommendations.</span></span></p></li></ul></div><div><ul><li><p><b><span>Innovate &amp; Grow:</span></b><span><span>Stay current with industry trends and best practices in performance-based learning, UX, and emerging technologies. Contribute to researching</span><span>new approaches</span><span>and</span><span>participate</span><span>in peer reviews, actively</span><span>seeking</span><span>and providing constructive feedback.</span></span></p></li></ul></div><div><p><b><span>What it Takes</span></b><br><span><span>To be eligible for this career-launching opportunity, you must meet the following criteria:</span></span></p></div><div><ul><li><p><span><span>Bachelors</span><span>Degree</span><span>or equivalent work experience. Degree in Learning Experience Design, Instructional Design, user Experience Design, Talent</span><span>Development</span><span>or a related field highly preferred</span><span>.</span></span></p></li></ul></div><div><ul><li><p><span><span>Minimum of</span><span>3</span><span>years related work experience.</span></span></p></li></ul></div><div><ul><li><p><span><span>Experience</span><span>designing,</span><span>developing</span><span>and implementing learning solutions using rapid prototyping,</span><span>storyboards</span><span>and instructional script writing techniques.</span></span></p></li></ul></div><div><ul><li><p><span><span>Experience</span><span>with e-learning authoring</span><span>tools and</span><span>integrat</span><span>ing with</span><span>LMS platforms.</span><span>P</span><span>roficient</span><span>in writing,</span><span>editing,</span><span>and proofreading learning content.</span></span></p></li></ul></div><div><ul><li><p><span><span>Knowledge</span><span>of contemporary adult learning theories and instructional design models and the ability to develop innovative learning solutions with minimal supervision.</span></span></p></li></ul></div><div><ul><li><p><span><span>Experience in applying adult learning theories and instructional design frameworks into professional learning engagements.</span></span></p></li></ul></div><div><ul><li><p><span><span>Ability to write effective instructional text and media scripts that support learning and instructional resources.</span><span>Visual &amp; graphic design skills with ability to storyboard and produce finished graphics.</span></span></p></li></ul></div><div><ul><li><p><span><span>Proficient in current instructional design tools,</span><span>video</span><span>and audio creation, editing tools and applicable programming languages. Research and remain current with emerging technologies.</span></span></p></li></ul></div><div><ul><li><p><span><span>Experience with virtual delivery, podcasts, micro learning, learner centric design, eLearning and social media</span><span>, and video</span><span>solutions.</span></span></p></li></ul></div><div><p><b><span>Here is what you can look forward to as part of our team</span><span>:</span></b></p></div><div><p><span><span>At Sentry, your total rewards go beyond competitive compensation.</span><span>We’re</span><span>committed to supporting the</span><span>whole</span><span>you, which is why we offer a comprehensive package designed to help you thrive both professionally and personally.&nbsp;</span></span></p></div></div><div><div><ul><li><p><b><span>Hybrid Flexibility:</span></b><span><span>Enjoy the best of both worlds. With optional work from home on Mondays and Fridays and join your team in the office Tuesday through Thursday to collaborate and learn.</span><span>We provide the technology and tools you need for both your office and home workspace from day one.</span></span></p></li></ul></div><div><ul><li><p><b><span>Dining on</span><span>Us:</span></b><span><span>Depending on your location, we</span><span>may</span><span>provide a stipend that can be used at our on-site cafeteria or a meal allowance to keep you fueled.</span></span></p></li></ul></div><div><ul><li><p><b><span>Continuous Learning:</span></b><span><span>Unlock your potential through Sentry University and take advantage of our tuition reimbursement program.</span></span></p></li></ul></div><div><ul><li><p><b><span>Comprehensive Benefits:</span></b><span><span>We support your whole self with</span><span>group</span><span>medical, dental, and vision</span><span>insurance</span><span>along with parental leave,</span><span>pet insurance,</span><span>caregiver</span><span>leave,</span><span>and wellness resources.</span><span>Options for HSA, FSA, and Dependent Care FSA are available.</span></span></p></li></ul></div><div><ul><li><p><b><span>Work-Life Balance:</span></b><span><span>Enjoy your generous Paid Time Off allowance to rest and take advantage of paid Volunteer Time Off to support your community.&nbsp;</span></span></p></li></ul></div><div><ul><li><p><b><span>Investing in Your Future:</span></b><span><span>We’re</span><span>committed to your long-term financial well-being. We offer a 100% company match on the first 8% you contribute to your 401(k) each pay period, and those funds</span><span>vest</span><span>immediately</span><span>.</span></span></p></li></ul></div><div><ul><li><p><b><span>Giving Back:</span></b><span><span>Through the Sentry Foundation,</span><span>we’re</span><span>proud to support the United Way and make a difference in our communities.&nbsp;</span></span></p></li></ul></div><div><p><b><span>Why Join Sentry?</span></b></p></div><div><p><span><span>At Sentry, we believe our people are the heart of our success.</span><span>We’re</span><span>proud to be recognized for the culture</span><span>we’ve</span><span>built, earning spots on Forbes’ lists for</span></span><i><span>America’s Best Midsize Employers</span></i><span><span>and</span></span><i><span>Best Employers for New Grads</span></i><span><span>, as well as Newsweek’s</span></span><i><span>America’s Greatest Workplaces for Women</span></i><span><span>and</span></span><i><span>Diversity</span></i><span><span>. These honors reflect our commitment to your professional satisfaction and growth.</span></span></p></div><div><p><b><span>Building on</span><span>a Legacy</span></b></p></div><div><p><span><span>Our future is bright, but</span><span>it’s</span><span>anchored in a long history of stability. Since our founding in 1904,</span><span>we’ve</span><span>dedicated ourselves to helping businesses protect their futures. That trust has made us one of the largest and most financially stable mutual insurance companies in the U.S.</span><span>We’re</span><span>proud to have</span><span>maintained</span><span>an A+ rating from A.M. Best, the industry’s leading authority, for</span><span>over 30</span><span>years.</span></span></p></div><div><p><b><span>Your Career, Our Community</span></b></p></div><div><p><span><span>Whether</span><span>you’re</span><span>working at our headquarters in Stevens Point, Wisconsin, or one of our many offices across the country,</span><span>you’ll</span><span>find a challenging and rewarding environment.</span><span>Explore the</span></span><b><span>Our Teams</span></b><span><span>tab on our Career Page to see the diverse career paths we offer, with a focus on ongoing development and professional growth.</span></span></p></div><div><p><b><span>Ready to own your future? Join us at Sentry, opportunities await</span><span>!</span></b></p><p><b>For this position, Sentry does not offer employment to holders of F-1, J-1, and H-1 Visas.</b></p><p><b>Talent Acquisition Specialist</b></p><p>Thank you for your interest in Sentry!</p><p>Katelynne Rivera</p><p><a href=\"mailto:Katelynne.Rivera@Sentry.com\"><span>Katelynne.Rivera@Sentry.com</span></a></p></div></div><p><b>Equal Employment Opportunity</b></p><p>Sentry is an Equal Opportunity Employer. It is our policy that there be no discrimination in employment based on race, color, national origin, religion, sex, disability, age, marital status, or sexual orientation.</p>",
+    "summary": "Sentry is seeking a Learning Experience Designer to create innovative, learner-centric learning solutions by applying instructional design principles, UX methodologies, and modern technologies. The role involves collaborating with stakeholders, designing multimedia-rich learning experiences, and measuring impact through data analytics. The position requires a Bachelor's degree (or equivalent experience) and 3+ years of related experience.",
+    "locations": [
+     {
+      "workLocation": "hybrid",
+      "addressRegion": "Wisconsin",
+      "addressCountry": "US",
+      "addressLocality": "Stevens Point"
+     }
+    ],
+    "remoteType": "hybrid",
+    "skills": {
+     "soft_skills": [
+      "Collaboration",
+      "Communication",
+      "Problem-Solving",
+      "Creativity",
+      "Adaptability"
+     ],
+     "primary_skills": [
+      "Instructional Design",
+      "Learning Experience Design",
+      "User Experience Design",
+      "Performance-Based Learning",
+      "E-Learning Development",
+      "Learning Management Systems",
+      "Rapid Prototyping",
+      "Instructional Script Writing",
+      "Adult Learning Theories",
+      "Multimedia Content Creation"
+     ],
+     "secondary_skills": [
+      "Agile Methodologies",
+      "Project Management",
+      "Graphic Design",
+      "Video Production",
+      "Audio Production",
+      "Programming Languages",
+      "Virtual Delivery",
+      "Podcast Production",
+      "Microlearning",
+      "Social Media Learning Solutions"
+     ]
+    },
+    "benefits": [
+     "health_insurance",
+     "dental_insurance",
+     "vision_care",
+     "parental_leave",
+     "pet_insurance",
+     "wellness_program",
+     "pensions_401k",
+     "tuition_reimbursement",
+     "paid_time_off_vacation_personal_days",
+     "volunteer_time_off",
+     "flexible_work_hours",
+     "remote_work_hybrid_work_options",
+     "company_laptop_equipment",
+     "free_subsidized_meals"
+    ],
+    "salary": null,
+    "experienceLevel": "mid",
+    "employmentType": "full_time",
+    "minYearsExperience": 3,
+    "educationRequirement": {
+     "required": [
+      "bachelor_degree"
+     ],
+     "preferred": [
+      "master_degree"
+     ]
+    },
+    "industry": [
+     "technology_software",
+     "education"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1789516800,
+    "expiresAt": null,
+    "applyUrl": "https://sentryinsurance.wd1.myworkdayjobs.com/en-US/SentryCareers/job/Stevens-Point-WI/Learning-Experience-Designer_JR-142816",
+    "status": "active",
+    "companies": [
+     {
+      "name": "Sentry",
+      "website": "sentry.com"
+     }
+    ]
+   },
+   {
+    "id": "0a6c4d91-4c72-46a4-8ff1-cae5ab29d9ec",
+    "title": "Customer Education & Learning Experience Designer",
+    "description": "<h3>About CubX</h3><p>CubX is a modern Managed Service Provider (MSP) transforming how businesses experience technology.</p><p>We believe IT should be simple, secure, and enjoyable—not confusing or intimidating. Through automation, thoughtful design, and world-class customer experiences, we're changing what businesses expect from their technology partner.</p><p>As we continue building the future of our platform and services, we're looking for someone who can redefine how customers learn.</p><p>If you're passionate about education, design, storytelling, and making complex technology easy to understand, we'd love to meet you.</p><p><strong>Why CubX?</strong></p><p>At CubX, we believe our clients are more than just tickets—they're our friends. We're committed to providing top-notch service with a personal touch. We like to take a creative approach, think outside the box, and get ahead of issue before they arise. We also believe in providing a balanced environment, with benefits that include:</p><ul><li>Competitive Salary &amp; Comprehensive Benefits Package: Health, dental, vision, 401(k), and PTO.</li><li>Professional Development: Access to training and certification programs to grow your skills in areas like Microsoft 365, Azure, and networking.</li><li>Fun &amp; Inclusive Company Culture: Team events, social activities, onsite gym for physical wellness, and a supportive work environment that values your ideas and input.</li></ul><p><strong>Want to see what what It’s really like to work at CubX?</strong></p><p><a href=\"https://youtu.be/8jTGCRLUb54?si=FY9SN_43otdGCLNN\">What It’s Really Like to Work at CubX (Inside Our Team)</a></p><h3>About the Role</h3><p>We're looking for a <strong>Customer Education &amp; Learning Experience Designer</strong> to create one of the best customer education programs in the MSP industry.</p><p>This is far more than a documentation role.</p><p>You'll own how customers learn everything from Microsoft 365 and cybersecurity best practices to AI tools, CubX products, and everyday technology workflows.</p><p>You'll partner with engineers, designers, leadership, and support teams to transform technical knowledge into engaging, polished learning experiences that customers actually enjoy using.</p><p>Your work will directly improve customer adoption, reduce support requests, accelerate onboarding, and become a core part of the CubX experience.</p><h3>What You'll Create</h3><p>You'll build a modern education ecosystem including:</p><ul><li>Professional product walkthrough videos</li><li>Customer onboarding courses</li><li>Interactive learning paths</li><li>Help center articles and knowledge base content</li><li>In-app guidance and tutorials</li><li>Product documentation</li><li>AI-assisted training experiences</li><li>Visual graphics and illustrations</li><li>Customer success playbooks</li><li>Internal employee onboarding and training</li><li>Feature release education</li><li>Security awareness content</li><li>Microsoft 365 adoption guides</li></ul><p>Your mission is simple:</p><p><strong>Make technology feel effortless.</strong></p><h3>What You'll Do</h3><ul><li>Design exceptional learning experiences for end users</li><li>Plan, script, record, and edit professional training videos</li><li>Create graphics, diagrams, and visual explainers</li><li>Build structured onboarding journeys for new customers</li><li>Develop learning paths based on different user roles</li><li>Interview engineers and subject matter experts</li><li>Translate complex technical concepts into everyday language</li><li>Maintain and expand our customer knowledge base</li><li>Improve adoption of Microsoft 365, AI, cybersecurity, and CubX services</li><li>Analyze customer feedback and improve educational content over time</li><li>Help shape the voice and personality of the CubX brand</li><li>Build scalable education systems that grow with the company</li></ul><h3>Tools You'll Likely Use</h3><ul><li>Microsoft 365</li><li>ChatGPT &amp; Microsoft Copilot</li><li>Figma</li><li>Canva</li><li>Adobe Creative Suite</li><li>Camtasia</li><li>Premiere Pro</li><li>DaVinci Resolve</li><li>Synthesia</li><li>Loom</li><li>Notion</li><li>SharePoint</li><li>Screen Studio</li><li>Articulate Rise (or similar)</li><li>CubX Platform</li></ul><h3>Success in Your First Year</h3><p>Within your first year, you'll have:</p><ul><li>Built <strong>CubX University</strong></li><li>Created a modern customer learning center</li><li>Produced 100+ professional training videos</li><li>Standardized onboarding for every CubX client</li><li>Built learning paths for every CubX product and service</li><li>Reduced common support requests through better education</li><li>Increased customer adoption of Microsoft 365, AI, and security features</li><li>Created an internal employee training program that scales with company growth</li><li>Established CubX as an industry leader in customer education</li></ul><h3>Why This Role Matters</h3><p>At CubX, we believe great support starts long before someone opens a ticket.</p><p>The best customer experiences happen when people feel confident using technology from day one.</p><p>You'll help shape how thousands of users learn, work, and succeed with technology while building a customer education program that becomes a competitive advantage for CubX.</p><p>Your work will influence nearly every customer who interacts with our company.</p><p><strong>Requirements</strong></p><h3>What We're Looking For</h3><h3>Required</h3><ul><li>Experience creating instructional videos or educational content</li><li>Strong visual design skills and experience creating visual designs, graphics, diagrams, or other visual explainers</li><li>Experience creating graphics using Figma, Canva, Adobe Creative Suite, or similar tools</li><li>Experience writing documentation, SOPs, or knowledge base articles</li><li>Experience interviewing and communicating with technical subject matter experts</li><li>Eligible to work in the United States</li></ul><h3>Preferred</h3><ul><li>Experience as an Instructional Designer, Learning Experience Designer, Technical Trainer, or Customer Education Specialist</li><li>Experience building SaaS or software education programs</li><li>Experience with customer onboarding or product adoption programs</li><li>Experience with motion graphics or animation</li><li>Experience with video editing software such as Premiere Pro, Camtasia, Final Cut Pro, DaVinci Resolve, or similar tools</li><li>Familiarity with Microsoft 365</li><li>Experience with AI tools such as ChatGPT, Microsoft Copilot, Claude, or Gemini</li><li>Experience with Learning Management Systems (LMS)</li><li>Basic understanding of cloud technology, cybersecurity, or IT</li></ul><p><strong>Benefits</strong></p><h3>Compensation &amp; Benefits</h3><ul><li>Health benefits</li><li>Paid time off</li><li>Opportunities for professional development and certifications</li><li>Modern office environment</li><li>High-impact role with significant ownership</li><li>Work alongside a fast-growing, technology-focused leadership team</li><ul><li>Competitive salary of $55,000–$75,000 USD</li><li>Paid time off and company holidays</li><li>Health, dental, and vision insurance options</li><li>401(k) retirement plan with company match</li><li>On-site gym for employee wellness</li><li>Modern, collaborative office environment</li><li>Ongoing training and professional development</li><li>Opportunity to work with cutting-edge technology</li><li>Team events and employee appreciation initiatives</li><li>Strong company culture focused on innovation and teamwork</li></ul></ul>",
+    "summary": "The Customer Education & Learning Experience Designer will create and manage customer education programs covering Microsoft 365, cybersecurity, AI tools, CubX products, and technology workflows. Responsibilities include producing instructional videos and visual content, building onboarding journeys and learning paths, maintaining documentation, collaborating with technical subject matter experts, and improving content based on customer feedback and adoption data.",
+    "locations": [
+     {
+      "workLocation": "onsite",
+      "addressRegion": "New Jersey",
+      "addressCountry": "US",
+      "addressLocality": "Lakewood"
+     }
+    ],
+    "remoteType": "onsite",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Teamwork",
+      "Creativity",
+      "Problem-solving"
+     ],
+     "primary_skills": [
+      "Instructional Video Production",
+      "Visual Design",
+      "Graphic Design",
+      "Figma",
+      "Canva",
+      "Adobe Creative Suite",
+      "Technical Documentation",
+      "Knowledge Base Management",
+      "Subject Matter Expert Interviewing",
+      "Learning Experience Design"
+     ],
+     "secondary_skills": [
+      "Customer Onboarding",
+      "Product Adoption",
+      "Motion Graphics",
+      "Video Editing",
+      "Microsoft 365",
+      "Machine Learning",
+      "Learning Management Systems",
+      "Cloud Technology",
+      "Cybersecurity",
+      "IT Training"
+     ]
+    },
+    "benefits": [
+     "health_insurance",
+     "dental_insurance",
+     "vision_care",
+     "pensions_401k",
+     "pension_contribution_matching",
+     "paid_time_off_vacation_personal_days",
+     "professional_development",
+     "company_events_retreats",
+     "wellness_program",
+     "other_benefits"
+    ],
+    "salary": {
+     "max": 75000,
+     "min": 55000,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": null,
+    "employmentType": "full_time",
+    "minYearsExperience": null,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1788480000,
+    "expiresAt": null,
+    "applyUrl": "https://apply.workable.com/j/B00A52B580",
+    "status": "active",
+    "companies": [
+     {
+      "name": "cubx.com",
+      "website": "cubx.com"
+     }
+    ]
+   }
+  ],
+  "meta": {
+   "count": 4,
+   "hasMore": false,
+   "requestTimeMs": 17,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

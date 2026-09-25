@@ -1,0 +1,192 @@
+{
+ "title": {
+  "content_dev": {
+   "remote": 2,
+   "remote_flex": 2,
+   "us_any_workplace": 7
+  },
+  "instructional_lxd": {
+   "remote": 2,
+   "remote_flex": 3,
+   "us_any_workplace": 4
+  },
+  "curriculum_training": {
+   "remote": 0,
+   "remote_flex": 0,
+   "us_any_workplace": 0
+  },
+  "enablement_education": {
+   "remote": 4,
+   "remote_flex": 6,
+   "us_any_workplace": 10
+  },
+  "technical_content": {
+   "remote": 2,
+   "remote_flex": 4,
+   "us_any_workplace": 15
+  },
+  "ai_learning": {
+   "remote": 1,
+   "remote_flex": 2,
+   "us_any_workplace": 7
+  }
+ },
+ "desc": {
+  "develop course content": {
+   "family": "course_content",
+   "remote_excl": 0,
+   "remote_noexcl": 0,
+   "remote_flex_excl": 0
+  },
+  "developing course content": {
+   "family": "course_content",
+   "remote_excl": 0,
+   "remote_noexcl": 0,
+   "remote_flex_excl": 0
+  },
+  "course development": {
+   "family": "course_content",
+   "remote_excl": 1,
+   "remote_noexcl": 1,
+   "remote_flex_excl": 2
+  },
+  "learning content": {
+   "family": "course_content",
+   "remote_excl": 5,
+   "remote_noexcl": 5,
+   "remote_flex_excl": 7
+  },
+  "e-learning content": {
+   "family": "course_content",
+   "remote_excl": 0,
+   "remote_noexcl": 0,
+   "remote_flex_excl": 0
+  },
+  "curriculum development": {
+   "family": "curriculum",
+   "remote_excl": 4,
+   "remote_noexcl": 4,
+   "remote_flex_excl": 4
+  },
+  "design curriculum": {
+   "family": "curriculum",
+   "remote_excl": 0,
+   "remote_noexcl": 0,
+   "remote_flex_excl": 0
+  },
+  "designing curriculum": {
+   "family": "curriculum",
+   "remote_excl": 0,
+   "remote_noexcl": 0,
+   "remote_flex_excl": 0
+  },
+  "design the curriculum": {
+   "family": "curriculum",
+   "remote_excl": 0,
+   "remote_noexcl": 0,
+   "remote_flex_excl": 0
+  },
+  "designing the curriculum": {
+   "family": "curriculum",
+   "remote_excl": 0,
+   "remote_noexcl": 0,
+   "remote_flex_excl": 0
+  },
+  "training curriculum": {
+   "family": "curriculum",
+   "remote_excl": 0,
+   "remote_noexcl": 2,
+   "remote_flex_excl": 3
+  },
+  "enablement materials": {
+   "family": "enablement_material",
+   "remote_excl": 10,
+   "remote_noexcl": 11,
+   "remote_flex_excl": 12
+  },
+  "enablement content": {
+   "family": "enablement_material",
+   "remote_excl": 16,
+   "remote_noexcl": 16,
+   "remote_flex_excl": 17
+  },
+  "playbooks and training": {
+   "family": "enablement_material",
+   "remote_excl": 1,
+   "remote_noexcl": 1,
+   "remote_flex_excl": 1
+  },
+  "customer training": {
+   "family": "customer_training",
+   "remote_excl": 7,
+   "remote_noexcl": 8,
+   "remote_flex_excl": 12
+  },
+  "customer education": {
+   "family": "customer_training",
+   "remote_excl": 6,
+   "remote_noexcl": 7,
+   "remote_flex_excl": 8
+  },
+  "onboarding content": {
+   "family": "customer_training",
+   "remote_excl": 1,
+   "remote_noexcl": 1,
+   "remote_flex_excl": 1
+  },
+  "academy content": {
+   "family": "customer_training",
+   "remote_excl": 1,
+   "remote_noexcl": 1,
+   "remote_flex_excl": 1
+  },
+  "knowledge base": {
+   "family": "knowledge_content",
+   "remote_excl": 15,
+   "remote_noexcl": 17,
+   "remote_flex_excl": 30
+  },
+  "help center content": {
+   "family": "knowledge_content",
+   "remote_excl": 2,
+   "remote_noexcl": 2,
+   "remote_flex_excl": 2
+  },
+  "content operations": {
+   "family": "knowledge_content",
+   "remote_excl": 3,
+   "remote_noexcl": 3,
+   "remote_flex_excl": 3
+  },
+  "content governance": {
+   "family": "knowledge_content",
+   "remote_excl": 3,
+   "remote_noexcl": 3,
+   "remote_flex_excl": 3
+  },
+  "AI adoption": {
+   "family": "ai_adoption",
+   "remote_excl": 44,
+   "remote_noexcl": 50,
+   "remote_flex_excl": 57
+  },
+  "AI literacy": {
+   "family": "ai_adoption",
+   "remote_excl": 2,
+   "remote_noexcl": 2,
+   "remote_flex_excl": 5
+  },
+  "AI training program": {
+   "family": "ai_adoption",
+   "remote_excl": 0,
+   "remote_noexcl": 0,
+   "remote_flex_excl": 0
+  },
+  "teach teams to use AI": {
+   "family": "ai_adoption",
+   "remote_excl": 0,
+   "remote_noexcl": 0,
+   "remote_flex_excl": 0
+  }
+ }
+}

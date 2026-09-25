@@ -1,0 +1,62 @@
+{
+ "call_id": "rec_852046205_phrase_closed",
+ "phase": "recall",
+ "url": "https://api.jobven.com/v1/public/jobs?q=%22Digital+Product+Analyst%22&descriptionQuery=maintain+a+global+taxonomy&status=closed&postedAfter=1783036800&limit=1",
+ "params": [
+  [
+   "q",
+   "\"Digital Product Analyst\""
+  ],
+  [
+   "descriptionQuery",
+   "maintain a global taxonomy"
+  ],
+  [
+   "status",
+   "closed"
+  ],
+  [
+   "postedAfter",
+   1783036800
+  ],
+  [
+   "limit",
+   1
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:19:25 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "107",
+  "connection": "close",
+  "server": "cloudflare",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "bc41c35c-ebf1-4453-b341-25c03be7fc3e",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2481",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "11",
+  "etag": "W/\"6b-3h83znkf3c+6t9idZI3FbUIYAJE\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=SOLORIqn42Shs4QtJuOOli8ozXONNLksxMCFDhcG8Uxi1gGIrk1ie1l%2BYe8HffEiyI%2Bjt9RkzN7PYqFH2G251EPbZu7RFvylcK74QOUf30lmU5EtjpgClcVcxz9ydh7XKranKsQ56AHs1EfFkQ%3D%3D\"}]}",
+  "cf-ray": "a406e322ea1b43ed-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [],
+  "meta": {
+   "count": 0,
+   "hasMore": false,
+   "requestTimeMs": 9,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

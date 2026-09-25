@@ -1,0 +1,147 @@
+{
+ "call_id": "fam_size_desc_content_operations_noexcl",
+ "phase": "family",
+ "url": "https://api.jobven.com/v1/public/jobs?descriptionQuery=content+operations&country=US&remoteType%5B%5D=remote&postedAfter=1789702200&limit=1&includeTotal=true",
+ "params": [
+  [
+   "descriptionQuery",
+   "content operations"
+  ],
+  [
+   "country",
+   "US"
+  ],
+  [
+   "remoteType[]",
+   "remote"
+  ],
+  [
+   "postedAfter",
+   1789702200
+  ],
+  [
+   "limit",
+   1
+  ],
+  [
+   "includeTotal",
+   "true"
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:29:04 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "transfer-encoding": "chunked",
+  "connection": "close",
+  "server": "cloudflare",
+  "vary": "Accept-Encoding",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "37a584c4-a8ee-4e7c-b363-6c8ca694566b",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2280",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "471",
+  "etag": "W/\"2196-N6GgmmIEUwF3JYB7lLaIpyYARNA\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=xxC3nQsxbSYMgwsBmSdpQBs0tvvk6Ej0ODHXWd17ujcM7lD%2B6Hv1N8Jkvnn5uST4bxsj2xzbh%2ByC27yQlUFhfxjVkXWyVNCbeYBwbpKCwfTO3GlggmnxP12%2FMG%2FrOWa0pgjEY%2Bn%2FVfU6I7NupA%3D%3D\"}]}",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "cf-ray": "a406f1407e397611-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "id": "c9138b14-16d1-434d-b583-f9c0760612d0",
+    "title": "Senior Content Strategist - Freelance",
+    "description": "&lt;div&gt;At AKQA (part of WPP) we believe in the imaginative application of art and science to create beautiful ideas, products and services. With an entrepreneurial and collaborative approach, we design adaptive digital services and applications that capture the imagination, delivering impressive returns for our clients.&lt;/div&gt; &lt;div&gt;&lt;br&gt;Content strategists at AKQA are curious thinkers who want to investigate, understand, and organize to create a better future, with a specific focus on the content that powers our clients' experiences. To us, content is more than words on a screen; it is the story and information that drives our clients' brands and products forward.&lt;br&gt;&lt;br&gt;In this role, the Freelance Senior Content Strategist will support end-to-end content experience strategy for a flagship digital platform and connected product ecosystem for one of the most recognized and trusted names in financial services, a brand with deep roots in helping people plan, protect, and secure their futures. Responsibilities span auditing current experiences, identifying gaps and opportunities, defining an ideal-state vision, and developing a pragmatic roadmap to get there. The Strategist will work closely with senior client stakeholders and an integrated AKQA team to formulate and deliver smart, tailored content frameworks, recommendations, and systems that serve our client's needs across digital products and platforms.&lt;br&gt;&lt;br&gt;&lt;/div&gt; &lt;div&gt;&amp;nbsp;&lt;/div&gt; &lt;div&gt;ROLE REQUIREMENTS&lt;/div&gt; &lt;ul&gt; &lt;li&gt;8+ years of experience in content strategy for digital products, apps, and web platforms, with a portfolio that demonstrates structured thinking and measurable outcomes on complex, high-visibility consumer experiences&lt;/li&gt; &lt;li&gt;Strong writing and editing skills, with the ability to define voice, tone, messaging hierarchies, and editorial guidelines across product and marketing surfaces&lt;/li&gt; &lt;li&gt;Demonstrated ability to analyze user, client, and business needs and develop relevant content strategies, frameworks, and taxonomies that measurably improve outcomes&lt;/li&gt; &lt;li&gt;Comfort consuming large quantities of research and data, including behavioral, consumer, industry, and academic sources, to inform perspectives, set KPIs, and partner on measurement&lt;/li&gt; &lt;li&gt;Experience driving content for high-traffic digital surfaces, including information architecture, navigation, personalization, SEO, accessibility, experimentation, and content operations&lt;/li&gt; &lt;li&gt;Proven success working cross-functionally with strategists, product managers, UX designers, copywriters, creatives, engineering, and analytics teams&lt;/li&gt; &lt;li&gt;Strong presentation skills, with the ability to craft persuasive narratives and present confidently to senior clients and internal leadership&lt;/li&gt; &lt;li&gt;Knowledge of contemporary practice across digital product development, including agile delivery, content governance, and operational frameworks&lt;/li&gt; &lt;li&gt;Ability to take responsibility for on-time deliverables and expertly crafted perspectives within an accelerated timeline&lt;/li&gt; &lt;/ul&gt; &lt;div&gt;&lt;br&gt;&lt;br&gt;QUALITIES AND CHARACTERISTICS&lt;/div&gt; &lt;ul&gt; &lt;li&gt;Undaunted by the unknown; ambiguity sparks your curiosity and accelerates your learning&lt;/li&gt; &lt;li&gt;A love of hard problems and a drive to inspire new ways of thinking across teams and stakeholders&lt;/li&gt; &lt;li&gt;A passion for transforming large amounts of disorganized information into clarity through structure, rigor, and systems&lt;/li&gt; &lt;li&gt;Deep affinity for the end user, with empathy that translates into usable, valuable content experiences&lt;/li&gt; &lt;li&gt;Extreme attention to detail coupled with the ability to zoom out to a compelling strategic narrative&lt;/li&gt; &lt;li&gt;Phenomenal communication skills and the ability to partner with senior clients and executive stakeholders&lt;/li&gt; &lt;li&gt;8+ years working across digital experience, brand experience, customer experience, or communications; an intersection of more than one is ideal; experience with financial services, membership and loyalty programs, or mobile app ecosystems is a plus&lt;/li&gt; &lt;li&gt;Self-directed and proactive; comfortable operating independently in a fast-paced, high-visibility environment&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;Location &amp;amp; Commitment&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Remote (US Based)&lt;/li&gt; &lt;li&gt;Available during core business hours, U.S. Eastern Time&lt;/li&gt; &lt;li&gt;ASAP through December 23, 2026&lt;/li&gt; &lt;li&gt;40 hours/week&lt;/li&gt; &lt;li&gt;Expected weekly compensation: 3,000 to 3,400 USD&lt;/li&gt; &lt;/ul&gt;&lt;div class=\"content-conclusion\"&gt;&lt;p&gt;&lt;span style=\"font-weight: 300;\"&gt;We believe great work happens when we're together, fostering creativity, collaboration, and connection. That's why we’ve adopted a hybrid approach including required in-office days. If you require accommodations or flexibility, please discuss this with the hiring team during the interview process.&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span style=\"font-weight: 300;\"&gt;AKQA is an equal opportunity employer and considers applicants for all positions without discrimination or regard to particular characteristics. We are committed to fostering a culture of respect in which everyone feels they belong and has the same opportunities to progress in their careers.&lt;/span&gt;&lt;/p&gt; &lt;hr&gt; &lt;p&gt;&lt;span style=\"font-weight: 300;\"&gt;&lt;/span&gt;&lt;/p&gt; &lt;p class=\"x_MsoNormal\"&gt;&lt;strong&gt;&lt;span data-olk-copy-source=\"MessageBody\"&gt;About WPP&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p class=\"x_MsoNormal\"&gt;WPP is the trusted growth partner for the world’s leading brands. We unite&amp;nbsp;cutting-edge media intelligence and data solutions, world-class creativity, next-generation production, transformative enterprise solutions and expert strategic counsel&amp;nbsp;in a single company –&amp;nbsp;powered by exceptional talent and our agentic marketing platform, WPP Open,&amp;nbsp;to help our clients navigate change, capture opportunity and deliver transformational growth. For more information, visit&amp;nbsp;&lt;a href=\"http://wpp.com/\" data-auth=\"NotApplicable\" data-linkindex=\"0\"&gt;WPP.com&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;&lt;span style=\"font-weight: 300;\"&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;",
+    "summary": "The Freelance Senior Content Strategist will shape end-to-end content experience strategy for a major digital platform and connected product ecosystem in financial services. Responsibilities include auditing current experiences, identifying opportunities, defining a target vision and roadmap, and developing content frameworks and systems with senior client stakeholders and integrated teams.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "US",
+      "addressLocality": "New York"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Attention to Detail",
+      "Empathy",
+      "Self-Direction",
+      "Proactivity"
+     ],
+     "primary_skills": [
+      "Content Strategy",
+      "Content Auditing",
+      "Content Experience Strategy",
+      "Content Frameworks",
+      "Content Taxonomy",
+      "Writing and Editing",
+      "Information Architecture",
+      "Search Engine Optimization",
+      "Accessibility",
+      "Agile Delivery"
+     ],
+     "secondary_skills": [
+      "Personalization",
+      "Experimentation",
+      "Content Operations",
+      "Content Governance",
+      "Measurement and KPI Development",
+      "Financial Services",
+      "Membership and Loyalty Programs",
+      "Mobile Applications"
+     ]
+    },
+    "benefits": [],
+    "salary": {
+     "max": 3400,
+     "min": 3000,
+     "period": "weekly",
+     "currency": "USD"
+    },
+    "experienceLevel": "senior",
+    "employmentType": "contract",
+    "minYearsExperience": 8,
+    "educationRequirement": null,
+    "industry": [
+     "consulting_professional",
+     "finance_banking"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790270509,
+    "expiresAt": null,
+    "applyUrl": "https://www.akqa.com/jobs/8224008/?gh_jid=8224008",
+    "status": "active",
+    "companies": [
+     {
+      "name": "akqa.com",
+      "website": "akqa.com"
+     }
+    ]
+   }
+  ],
+  "meta": {
+   "total": 3,
+   "count": 1,
+   "nextCursor": "eyJpZCI6ImM5MTM4YjE0LTE2ZDEtNDM0ZC1iNTgzLWY5YzA3NjA2MTJkMCIsInNvcnRWYWx1ZSI6MTc5MDI3MDUwOSwidGllQnJlYWtlciI6IjIwMjYtMDktMjRUMjE6NDA6MjIuODUxWiJ9",
+   "hasMore": true,
+   "requestTimeMs": 471,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "call_id": "rec_852099703_co_440strategy",
+ "phase": "recall",
+ "url": "https://api.jobven.com/v1/public/companies?search=440+Strategy&limit=10",
+ "params": [
+  [
+   "search",
+   "440 Strategy"
+  ],
+  [
+   "limit",
+   10
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:21:10 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "65",
+  "connection": "close",
+  "server": "cloudflare",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "352153a1-e8ad-4b0f-a95f-1b36b0d1696b",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2460",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "5",
+  "etag": "W/\"41-c0On01lj8RZhy+1JbnXQRdKB5vI\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=DkJoXnxUEzK%2Fyz9Vguwknz7ebE87W2bDAtQMnRqjwC9pZMjaZu%2Bbs3ko9CCJvg%2FgfXTFFLbSvdWAV7SBpr8iwWS2W%2Fc7L%2FbzH7yGGk0ub5%2BEntXmQoYeOR93SBMIjcYdDN8AM6rSKvqlWz%2BO1g%3D%3D\"}]}",
+  "cf-ray": "a406e5af3ebfd954-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [],
+  "meta": {
+   "page": 1,
+   "limit": 10,
+   "total": 0,
+   "totalPages": 0
+  }
+ }
+}

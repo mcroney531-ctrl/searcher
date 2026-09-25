@@ -1,0 +1,66 @@
+{
+ "call_id": "fam_desc_e_learning_content_p0",
+ "phase": "family",
+ "url": "https://api.jobven.com/v1/public/jobs?q=-%22account+executive%22+-%22account+manager%22+-%22sales+representative%22+-%22sales+manager%22+-%22customer+service+representative%22+-%22help+desk%22+-%22customer+success+manager%22+-%22support+specialist%22&descriptionQuery=e-learning+content&country=US&remoteType%5B%5D=remote&postedAfter=1789702200&limit=25",
+ "params": [
+  [
+   "q",
+   "-\"account executive\" -\"account manager\" -\"sales representative\" -\"sales manager\" -\"customer service representative\" -\"help desk\" -\"customer success manager\" -\"support specialist\""
+  ],
+  [
+   "descriptionQuery",
+   "e-learning content"
+  ],
+  [
+   "country",
+   "US"
+  ],
+  [
+   "remoteType[]",
+   "remote"
+  ],
+  [
+   "postedAfter",
+   1789702200
+  ],
+  [
+   "limit",
+   25
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:27:22 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "109",
+  "connection": "close",
+  "server": "cloudflare",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "6cf8d7d3-1984-4607-bad9-0a73ea836251",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2369",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "270",
+  "etag": "W/\"6d-gIMQpfjeuD9QJD7tnS4PPtv32k4\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=dDl8KEtJNgK%2FB4H6B8XS7ahNELu%2Fu2l0Bcqt%2FR5SL5tuzymwcfLNmQdX63has1ldHugFicQjMnvtQbR3ztQv0aoNRbYVsNPl%2BzF7%2BgdAnu9u7wJK1WL38PLFdwZ3rlWse50LTgm4UsWDjKy82g%3D%3D\"}]}",
+  "cf-ray": "a406eec25bfb9051-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [],
+  "meta": {
+   "count": 0,
+   "hasMore": false,
+   "requestTimeMs": 270,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

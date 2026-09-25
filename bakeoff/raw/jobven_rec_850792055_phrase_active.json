@@ -1,0 +1,62 @@
+{
+ "call_id": "rec_850792055_phrase_active",
+ "phase": "recall",
+ "url": "https://api.jobven.com/v1/public/jobs?q=%22Technical+Curriculum+Developer%22&descriptionQuery=build+the+training+that+teaches&status=active&postedAfter=1783036800&limit=1",
+ "params": [
+  [
+   "q",
+   "\"Technical Curriculum Developer\""
+  ],
+  [
+   "descriptionQuery",
+   "build the training that teaches"
+  ],
+  [
+   "status",
+   "active"
+  ],
+  [
+   "postedAfter",
+   1783036800
+  ],
+  [
+   "limit",
+   1
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:21:49 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "107",
+  "connection": "close",
+  "server": "cloudflare",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "d46c5f17-41f7-4c3b-a228-2525f4a9a497",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2453",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "9",
+  "etag": "W/\"6b-3h83znkf3c+6t9idZI3FbUIYAJE\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=bW8UtK8NOgBKsXpi%2BqL0CPdnYxHc5i4oWO2rvCVuBCvvxntAjIuimDhY0pWnoyz9QC%2F6Pt2ZV8e%2Fzb8KYGSWxH7huCS4XEQ7tiUsB8TJsemnbYvAPXZietbkh%2Fyvc8%2BVZVvzE27bg6mBPqKkcA%3D%3D\"}]}",
+  "cf-ray": "a406e6a1bde058af-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [],
+  "meta": {
+   "count": 0,
+   "hasMore": false,
+   "requestTimeMs": 9,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

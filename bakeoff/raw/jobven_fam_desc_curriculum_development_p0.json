@@ -1,0 +1,393 @@
+{
+ "call_id": "fam_desc_curriculum_development_p0",
+ "phase": "family",
+ "url": "https://api.jobven.com/v1/public/jobs?q=-%22account+executive%22+-%22account+manager%22+-%22sales+representative%22+-%22sales+manager%22+-%22customer+service+representative%22+-%22help+desk%22+-%22customer+success+manager%22+-%22support+specialist%22&descriptionQuery=curriculum+development&country=US&remoteType%5B%5D=remote&postedAfter=1789702200&limit=25",
+ "params": [
+  [
+   "q",
+   "-\"account executive\" -\"account manager\" -\"sales representative\" -\"sales manager\" -\"customer service representative\" -\"help desk\" -\"customer success manager\" -\"support specialist\""
+  ],
+  [
+   "descriptionQuery",
+   "curriculum development"
+  ],
+  [
+   "country",
+   "US"
+  ],
+  [
+   "remoteType[]",
+   "remote"
+  ],
+  [
+   "postedAfter",
+   1789702200
+  ],
+  [
+   "limit",
+   25
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:27:28 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "transfer-encoding": "chunked",
+  "connection": "close",
+  "server": "cloudflare",
+  "vary": "Accept-Encoding",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "5913d967-57ff-42e9-98e8-e48741ecc8e6",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2365",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "280",
+  "etag": "W/\"bef5-Re/0HrPG6Ok2vaSM9R3KN3pn/+8\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=Qo2xnFLV%2FApj9%2Fe%2BiUJXZmfstcOL21RhO9blk8A%2BQtKKQun6VLscm0Ne2NHv0%2FoWBq0nviNHUJhImJsYNLBIoZHpLg2BowvveQvxykl92xPtOCJdmG7nhBmHNJIap%2FLOm0IjFeW284Aa3oGZ9Q%3D%3D\"}]}",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "cf-ray": "a406eee95fe59608-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "id": "4fa3daf7-fb75-45d3-b0b3-a91b3e434f89",
+    "title": "Clinical Quality Specialist",
+    "description": "<p>Join the dynamic journey at Vynca, where we're passionate about transforming care for individuals with complex needs.<br><br>We’re more than just a team; we're a close-knit community. Our shared commitment to caring for each other and those we serve is what sets us apart. Guided by our unwavering core values: Excellence, Compassion, Curiosity, and Integrity, we forge paths of success together. Join us in this transformative movement where you can contribute to making a profound difference every day.<br><br>At Vynca, our mission is to provide comprehensive care for more quality days at home.</p><p><strong>About the Job</strong><br>The Clinical Quality Specialist for the Enhanced Care Management (ECM) program is a newly created role supporting all aspects of ECM quality. This position conducts internal chart audits across Vynca’s contracted health plans, provides clinical oversight of care management documentation, and translates audit findings into operational and educational improvement in partnership with ECM Operations and the Training and Development team. The role requires active clinical licensure and combines independent chart review with cross-functional collaboration, and flexes into training delivery as program needs require. This is a highly visible position that directly supports audit readiness for health plan and regulatory review while advancing internal standards beyond what any single plan measures.</p><p><em>At this time we are only considering applicants in the following states: California, Arizona, Colorado, Florida, Georgia, Illinois, Nevada, North Carolina, Oregon, Texas, Utah and Washington.</em></p><p><br></p><p><strong>What you'll do</strong></p><p><em>Internal Auditing and Monitoring</em></p><ul><li><p>Conduct internal chart audits of Lead Care Managers across contracted health plans, applying each plan’s own audit criteria alongside Vynca internal quality standards.</p></li><li><p>Maintain audit cadence in accordance with the ECM Internal Audit Cadence Stanard Operation Procedure, including elevated cadence for new hires and staff on performance improvement plans.</p></li><li><p>Select audit samples according to defined chart composition requirements, including discharge and enrollment mix and minimum enrollment tenure.</p></li><li><p>Document findings objectively with supporting evidence locations so internal audit records can be used to respond to health plan documentation requests.</p></li><li><p>Analyze results at the criterion, category, Lead Care Manager, and health plan level to identify trends, areas of opportunity, and emerging risk.</p></li><li><p>Participate in inter-rater calibration exercises to confirm scoring consistency across auditors.</p></li><li><p>Support audit readiness for health plan and regulatory audits, including self-audit submissions and corrective action plan (CAP) responses.</p></li><li><p>Maintain the master audit record and reporting surfaces used for monthly and quarterly quality review.</p></li></ul><p><em>Secondary Clinical Review and Clinical Oversight</em></p><ul><li><p>Provide secondary clinical review of comprehensive assessments, care management plans, and transitional care documentation for clinical appropriateness, completeness, and defensibility, in addition to the oversight provided by Clinical Managers.</p></li><li><p>Provide clinical oversight as needed, including coverage and escalation support where Clinical Manager oversight is unavailable or additional clinical review is warranted.</p></li><li><p>Serve as a clinical resource to Lead Care Managers on complex member scenarios, escalation pathways, and documentation of clinical decision-making.</p></li><li><p>Support interdisciplinary and multidisciplinary care team activity, including documentation of clinical oversight requirements.</p></li><li><p>Review clinical content within training materials, assessments, and job aids for accuracy and alignment with scope of practice.</p></li><li><p>Escalate identified clinical risk, member safety concerns, or quality-of-care issues through appropriate channels.</p></li></ul><p><em>Cross-Functional Collaboration</em></p><ul><li><p>Partner with ECM Operations leadership to translate audit findings into workflow change, documentation standards, and targeted remediation.</p></li><li><p>Collaborate with Clinical and Program Managers on performance improvement plans, including audit-based evidence, progress monitoring, and tier and titration decisions.</p></li><li><p>Partner with Training and Development Specialists to convert identified gaps into curriculum updates, education huddle content, and remediation training.</p></li><li><p>Support the Compliance department on ECM audit readiness, regulatory monitoring, and quality assurance and performance improvement (QAPI) activities.</p></li><li><p>Communicate results, trends, and at-risk staff to Clinical and Program Managers and to Directors.</p></li></ul><p><em>Training and Education Support</em></p><ul><li><p>Flex into training delivery as program needs require, including onboarding, ongoing education, and post-remediation reinforcement for Lead Care Managers.</p></li><li><p>Develop and deliver audit-related education, including criteria walkthroughs, documentation standards, and findings review sessions.</p></li><li><p>Contribute to the design and maintenance of knowledge checks, test-out assessments, and competency validation tools.</p></li><li><p>Support preceptor and shadowing activities as a clinical subject matter resource.</p></li></ul><p><em>General Duties</em></p><ul><li><p>Maintain organized, audit-ready documentation of all internal quality activities.</p></li><li><p>Monitor CalAIM policy changes, Department of Health Care Services (DHCS) guidance, and health plan criteria updates, and assess their impact on audit tools and documentation standards.</p></li><li><p>Support the build and maintenance of plan-specific audit tools as health plan contracts are added or criteria change.</p></li><li><p>Support ad-hoc quality initiatives, policy development, and special projects as assigned.</p></li></ul><p><strong>Your experience and qualifications</strong></p><ul><li><p>Bachelor’s degree required. Master’s in Nursing, Social Work, Public Health, or Health Care Administration preferred.</p></li><li><p>Active, unrestricted California clinical licensure required (RN, LCSW, LMFT, LPCC, or equivalent), or the ability to obtain California licensure within the first six months of employment.</p></li><li><p>5+ years of experience in care management, case management, or direct clinical practice.</p></li><li><p>1+ years of experience in quality auditing, chart review, utilization review, or quality assurance and performance improvement (QAPI) activities.</p></li><li><p>Previous experience with documentation integrity, including review of clinical documentation for accuracy, completeness, timeliness, and defensibility under audit.</p></li><li><p>Willing and able to work Monday through Friday 8:30am to 5pm Pacific Time.</p></li><li><p>Experience working with Medi-Cal populations, ECM, or CalAIM programs is highly desirable.</p></li><li><p>Working knowledge of clinical documentation standards, care plan development, and transitional care requirements.</p></li><li><p>Strong analytical skills with the ability to identify patterns across data and translate findings into actionable recommendations.</p></li><li><p>Exceptional written communication skills, particularly for documenting audit findings objectively and defensibly.</p></li><li><p>Ability to deliver difficult feedback constructively while maintaining professional credibility with clinical staff.</p></li><li><p>Proficiency with Google Suite, electronic health records, and virtual collaboration platforms (e.g., Zoom, Microsoft Teams).</p></li><li><p>Highly organized with the ability to manage multiple priorities and competing deadlines within a dynamic setting.</p></li><li><p>Cultural competence and the ability to interact effectively with diverse populations.</p></li></ul><p><em>Preferred Qualifications</em></p><ul><li><p>Bilingual proficiency in English and Spanish.</p></li><li><p>Familiarity with the CalAIM initiative, Enhanced Care Management, and community-based care models.</p></li><li><p>Experience conducting or responding to health plan delegation audits, including corrective action plans.</p></li><li><p>Certification in healthcare quality (CPHQ) or healthcare compliance (CHC).</p></li><li><p>Experience with training delivery, curriculum development, or adult learning principles.</p></li><li><p>Experience with trauma-informed care, motivational interviewing, or other relevant therapeutic approaches.</p></li><li><p>Advanced spreadsheet skills, including formula-driven tracking and reporting tools.</p></li></ul><h2><strong>Additional Information</strong></h2><ul><li><p>The hiring process for this role may consist of applying, followed by a phone screen, online assessment(s), interview(s), an offer, and background/reference checks.</p></li><li><p>Background Screening: A background check, which may include a drug test or other health screenings depending on the role, will be required prior to employment.</p></li><li><p>Job Description Scope: This job description is not exhaustive and may include additional activities, duties, and responsibilities not listed herein.</p></li><li><p>Vaccination Requirement: Employees in patient, client, or customer-facing roles must be vaccinated against influenza. Requests for religious or medical accommodations will be considered but may not always be approved.</p></li><li><p>Employment Eligibility: Compliance with federal law requires identity and work eligibility verification using E-Verify upon hire.</p></li><li><p>Equal Opportunity Employer: At Vynca Inc., we embrace diversity and are committed to fostering an inclusive workplace. We value all applicants regardless of race, color, religion, age, national origin, ancestry, ethnicity, gender, gender identity, gender expression, sexual orientation, marital status, veteran status, disability, genetic information, citizenship status, or membership in any other protected group under federal, state, or local law.</p></li><li><p>Environmental Conditions and Physical Requirements: Works with Vynca patients/clients remotely and/or in-person. Successfully performs the essential duties and responsibilities of the position through the use of physical activities as described below:</p><ul><li><p>Regularly requires sitting, standing, walking, talking, use of hands, listening, and observing.</p></li><li><p>Regularly requires working at a computer for an entire shift (with appropriate breaks).</p></li><li><p>Regularly requires use of laptop and video-conferencing technology.</p></li><li><p>Occasionally requires reaching, stooping, bending, kneeling, and lifting items weighing 25 pounds or less.</p></li><li><p>Occasional travel may be required to perform job duties, attend training, or company events.</p></li></ul></li></ul>",
+    "summary": "The Clinical Quality Specialist supports Vynca’s Enhanced Care Management program through internal chart audits, clinical documentation review, and oversight of care management quality. The role analyzes audit findings and partners with operations, clinical leadership, compliance, and training teams to improve workflows, documentation, education, and audit readiness.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Analytical Skills",
+      "Written Communication",
+      "Organization",
+      "Cultural Competence",
+      "Constructive Feedback"
+     ],
+     "primary_skills": [
+      "Clinical Quality Auditing",
+      "Chart Review",
+      "Clinical Documentation",
+      "Care Management",
+      "Clinical Oversight",
+      "Quality Assurance and Performance Improvement",
+      "Clinical Documentation Standards",
+      "Care Plan Development",
+      "Transitional Care",
+      "Google Workspace"
+     ],
+     "secondary_skills": [
+      "Enhanced Care Management",
+      "CalAIM",
+      "Medi-Cal",
+      "Electronic Health Records",
+      "Zoom",
+      "Microsoft Teams",
+      "Healthcare Quality Certification",
+      "Healthcare Compliance Certification",
+      "Curriculum Development",
+      "Motivational Interviewing"
+     ]
+    },
+    "benefits": [],
+    "salary": null,
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 5,
+    "educationRequirement": {
+     "required": [
+      "bachelor_degree",
+      "professional_certificate"
+     ],
+     "preferred": [
+      "master_degree"
+     ]
+    },
+    "industry": [
+     "healthcare_medical"
+    ],
+    "inLanguage": [
+     "en",
+     "es"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": true,
+    "travelPercentage": null,
+    "postedAt": 1790282569,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/vynca/c7231593-dbc9-4159-b5c1-9f289baa3ad3",
+    "status": "active",
+    "companies": [
+     {
+      "name": "vyncacare.com",
+      "website": "vyncacare.com"
+     }
+    ]
+   },
+   {
+    "id": "1c4f636b-0107-48db-b1fd-44e298a97323",
+    "title": "Senior Revenue Enablement Manager",
+    "description": "<h2><strong>About Payscale </strong></h2><p>Payscale is the pioneer of compensation intelligence, helping organizations make smarter pay decisions that drive business performance. For more than 20 years, Payscale has combined trusted market data with AI-powered technology to deliver actionable insights that turn pay from a cost into a catalyst for growth. The Payscale Intelligence Cloud portfolio of solutions — Ascent, JobNav, and Paycycle — empower top companies and businesses like Cintas, Leidos, Chipotle, Ohio State University, and TJX Companies.</p><p>Create confidence in your compensation. Payscale.</p><p>To learn more, visit <a href=\"http://www.payscale.com\"><u>www.payscale.com</u></a>.</p><p><strong>Job Summary</strong></p><p>We are seeking an experienced Revenue Enablement Manager to design, implement, and optimize scalable learning programs that drive revenue impact and organizational effectiveness. This role sits at the intersection of execution and strategy—you will own enablement initiatives end-to-end while beginning to shape broader enablement frameworks and business strategy. Reporting to Director, Solutions Consulting &amp; Enablement, you will partner with Revenue organization, Product, Marketing, and Customer Success to diagnose performance gaps, deliver targeted solutions, and measure impact.</p><p><strong>What You'll Do</strong></p><h3>Enablement Strategy &amp; Program Design</h3><ul><li><p>Design and launch scalable enablement programs and learning initiatives that directly impact sales productivity, product adoption, and customer retention</p></li><li><p>Develop specialized expertise in learning methodologies and engagement techniques; apply these to assess organizational performance gaps and recommend targeted solutions</p></li><li><p>Design and contribute to onboarding programs for new Revenue team members, including curriculum development, content creation, facilitation, practice activities, and ongoing reinforcement</p></li><li><p>Establish or refine enablement frameworks that align with quarterly business goals and annual company strategy</p></li><li><p>Conduct formal training needs assessments using surveys, data analysis, and stakeholder interviews to identify root causes of performance shortfalls</p></li><li><p>Create comprehensive enablement roadmaps with clear timelines, success metrics, and resource requirements</p></li></ul><h3>Revenue &amp; Business Impact</h3><ul><li><p>Measure and communicate the revenue impact of enablement programs; link training initiatives directly to key sales outcomes (pipeline, win rates, quota attainment)</p></li><li><p>Analyze enablement effectiveness through data; design and implement KPIs to track adoption, completion, and performance outcomes</p></li><li><p>Proactively review company goals and revenue metrics to identify enablement gaps and improvement opportunities</p></li><li><p>Collaborate with leadership to define enablement priorities and ROI; recommend program adjustments based on business results</p></li><li><p>Connect enablement efforts to competitive positioning and market dynamics</p></li></ul><h3>Cross-Functional Leadership &amp; Execution</h3><ul><li><p>Lead cross-functional teams to develop content, run workshops, and deliver training at scale</p></li><li><p>Navigate competing enablement priorities between Sales, Product, Marketing, and Customer Success; build influence to resolve adoption friction</p></li><li><p>Manage stakeholder expectations and feedback loops; synthesize input from end-users and partners to continuously improve programs</p></li><li><p>Partner with L&amp;D, HR, and People teams on organizational change management for major enablement launches</p></li><li><p>Coordinate with Product and Marketing on go-to-market enablement for new features and product launches</p></li></ul><h3>Change Management &amp; Adoption</h3><ul><li><p>Design and execute change management strategies for major enablement initiatives</p></li><li><p>Measure adoption and engagement; identify and address barriers to adoption through dialogue and data-driven problem-solving</p></li><li><p>Coach team members and stakeholders on program changes; deliver constructive feedback on enablement effectiveness</p></li><li><p>Demonstrate strong organizational change management capabilities to drive adoption and organizational alignment</p></li></ul><h3>Content &amp; Technical Excellence</h3><ul><li><p>Create and oversee development of enablement content across formats: e-learning, presentations, guides, video, and knowledge management systems</p></li><li><p>Use advanced analytics and reporting to assess training impact and identify trends</p></li><li><p>Integrate and optimize the enablement technology stack (LMS, CRM, knowledge bases), leveraging automation and AI-powered solutions to increase personalization and efficiency</p></li><li><p>Maintain documentation standards and processes that scale as the enablement function grows</p></li></ul><h2>We'd love to talk with you if you have:</h2><ul><li><p>5-7 years of experience in enablement, training, learning &amp; development, revenue operations, or related field</p></li><li><p>Demonstrated expertise in designing and launching training programs that have improved sales or business outcomes</p></li><li><p>Strong analytical skills; comfort with data reporting, performance metrics, and using insights to drive decisions</p></li><li><p>Excellent collaboration and influence skills; ability to navigate cross-functional environments and competing priorities</p></li><li><p>Proficiency with enablement tools (LMS, CRM, knowledge management platforms) and data analytics; experience with Gong, Claude, Seismic a plus</p></li><li><p>Experience conducting needs assessments and diagnosing root causes of performance gaps</p></li><li><p>Ability to manage multiple initiatives simultaneously while maintaining quality and attention to detail</p></li><li><p>Strong presentation and facilitation skills, with demonstrated experience delivering engaging training, workshops, and practice-based sessions to both small and large audiences</p></li><li><p>Strong written and verbal communication skills; ability to present</p></li></ul><p><strong>Nice to Have</strong></p><ul><li><p>Experience with change management frameworks and stakeholder engagement strategies</p></li><li><p>Background in sales, product, or customer-facing functions (to deepen product/market understanding)</p></li><li><p>Familiarity with Revenue tools such as Salesforce, ZoomInfo, Outreach, Nooks, and related best practices to drive tool adoption and performance</p></li><li><p>Track record of implementing new tools, platforms, or processes</p></li><li><p>Knowledge of sales methodologies, buyer journeys, or go-to-market strategy</p></li><li><p>Project management certification or experience leading large-scale organizational initiatives</p></li></ul><p><strong>Location</strong></p><p>Payscale has an employee centric remote-first model that provides you the flexibility to do your best work in a space that supports you, while also finding time to collaborate in person for the moments that matter.<br><br>In our remote-first model, employees can work from the location that works best for them. We do not have centralized corporate offices. Employees can choose to work from home, in company-paid co-working spaces, or any combination of the two that best suits their unique needs.</p><p>If you work from home, we recommend ensuring that you can meet the following technology, equipment and workspace requirements:</p><ul><li><p>High-Speed Internet - A stable broadband or fiber connection (satellite is highly discouraged) with a minimum speed of 100 Mbps in a dedicated workspace that has a reliable Wi-Fi signal.</p></li><li><p>Device for Multifactor Authentication (MFA/2FA) - smartphone, tablet, etc.</p></li></ul><p>When it matters (usually no more than a few times a year) we take the time to gather for in-person events.</p><p>Payscale has employees across the US, Canada, UK, The Philippines and Romania however we are currently unable to hire in the Quebec Province, Northern Ireland, and Hawaii.</p><p><strong>Benefits and Perks</strong></p><p>All around awesome culture where together we strive to live our 5 values:</p><ul><li><p>Data informed decision making.</p></li><li><p>Customer first. Always.</p></li><li><p>Succeed together.</p></li><li><p>Relentless about results. Obsessed with excellence.</p></li><li><p>Lead the change. Shape the standard.</p></li></ul><p>An open and inclusive environment where you’ll learn and grow through programs and resources like:</p><ul><li><p>Monthly company All Hands meetings</p></li><li><p>Regular opportunities for executive leadership exposure through things like AMAs</p></li><li><p>Access to continued learning &amp; development opportunities</p></li><li><p>Our commitment to a continuous feedback culture which allows us to drive performance and career growth</p></li><li><p>A growing network of Employee Resource Groups</p></li><li><p>Company sponsored volunteer hours</p></li><li><p>And more!</p></li></ul><p><strong>Our more standard benefits</strong></p><ul><li><p>Flexible paid time off, giving you the opportunity to rest, relax and recharge away from work</p></li><li><p>14 Paid Company Holidays, includes 2 floating holidays (you choose!)</p></li><li><p>A comprehensive benefits plan including medical, dental, life, vision, disability, and life insurance covered up to 100% by Payscale</p></li><li><p>Unlimited infertility coverage benefits through our medical plans</p></li><li><p>Additional supplemental health benefits offered to you and your family</p></li><li><p>401(k) retirement program with a fully vested immediate company match</p></li><li><p>16 weeks of paid parental leave for birthing and non-birthing parents</p></li><li><p>Health Savings Account (HSA) options and company contributions each pay period</p></li><li><p>Flexible Spending Account (FSA) options for pre-tax employee allocations</p></li><li><p>Annual remote work stipend to be used on wellness or home office equipment</p></li></ul><p><strong>Equal Opportunity Employer:</strong></p><p>We embrace equal employment opportunity. Payscale is committed to a policy of equal employment opportunity for all applicants and employees. It is our policy that employees will not be subjected to unlawful discrimination on the basis of race, color, religion, sex, age, national origin, or ancestry, physical or mental disability, veteran or military status, marital status, sexual orientation, political ideology, and any other basis protected by federal, state, or local laws. This policy applies to all terms and conditions of employment, including but not limited to: recruitment, hiring, transfers, promotions, training, discipline, termination, compensation and benefits, performance appraisals, education, and social and recreational programs.</p><p>We know the <a href=\"https://www.theatlantic.com/magazine/archive/2014/05/the-confidence-gap/359815/\"><strong><u>confidence gap</u></strong></a> and <a href=\"https://fortune.com/2024/06/21/high-functioning-achievers-imposter-syndrome-career-ladder/\"><strong><u>imposter syndrome</u></strong></a> can get in the way of meeting spectacular candidates, so please don’t hesitate to apply — we’d love to hear from you.</p><p>If you have a disability or impairment and need assistance with the application process, please email <a href=\"mailto:recruiting@payscale.com\"><strong><u>recruiting@payscale.com</u></strong></a> for support.</p><p><strong>Fraud Alert:</strong></p><p>Payscale values security and privacy. During your job application and interview process, we will never ask for your personal banking or financial information, social security number, or other sensitive information, if you are unsure if a message is from Payscale, please email <a href=\"mailto:recruiting@payscale.com\"><strong><u>recruiting@payscale.com</u></strong></a></p>",
+    "summary": "The Senior Revenue Enablement Manager designs, launches, and improves scalable learning and enablement programs to boost sales productivity, product adoption, and customer retention. The role measures program impact, develops enablement content and frameworks, and partners across Revenue, Product, Marketing, Customer Success, and other teams to drive adoption and organizational effectiveness.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressRegion": "United States",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Collaboration",
+      "Influence",
+      "Communication",
+      "Organization",
+      "Attention to Detail"
+     ],
+     "primary_skills": [
+      "Enablement Program Design",
+      "Learning and Development",
+      "Training Needs Assessment",
+      "Sales Enablement",
+      "Revenue Operations",
+      "Data Analysis",
+      "Key Performance Indicator Development",
+      "Learning Management Systems",
+      "Customer Relationship Management",
+      "Knowledge Management"
+     ],
+     "secondary_skills": [
+      "Gong",
+      "Claude",
+      "Seismic",
+      "Salesforce",
+      "ZoomInfo",
+      "Outreach",
+      "Nooks",
+      "Change Management",
+      "Go-to-Market Strategy",
+      "Project Management"
+     ]
+    },
+    "benefits": [
+     "professional_development",
+     "paid_time_off_vacation_personal_days",
+     "health_insurance",
+     "dental_insurance",
+     "life_insurance",
+     "vision_care",
+     "disability_insurance",
+     "pensions_401k",
+     "parental_leave",
+     "wellness_program",
+     "remote_work_hybrid_work_options",
+     "other_benefits"
+    ],
+    "salary": null,
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 5,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790270427,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/payscale/8300af8d-afb3-422d-a02c-1fec625dfe4d",
+    "status": "active",
+    "companies": [
+     {
+      "name": "payscale.com",
+      "website": "payscale.com"
+     }
+    ]
+   },
+   {
+    "id": "5e68d7d3-93f7-4af7-977f-db4a91abae63",
+    "title": "Founding Clinical Coordinator, Radiography",
+    "description": "<p><strong>About Stepful</strong>:</p><p>Stepful is a workforce platform redefining how America's largest health systems build, train, and retain their talent. Since our founding in 2021, Stepful’s trained over 32,000 practice-ready healthcare workers.</p><p><br>Layering onto our successful direct-to-consumer training, Stepful partners with leading healthcare institutions to address the growing national shortage of healthcare workers. We’re improving access to quality healthcare for everyone, everywhere, and improving access to healthcare career ladders for those who need them most.</p><p><br>Our students form the talent pipelines for major employers such as NY-Presbyterian, Mt. Sinai, HCA, Providence, CVS, and Walgreens. We have partnerships with half of the top 10 health systems in the US and are in process with many more.</p><p><br>Stepful is backed by Y Combinator, Reach Capital, and AlleyCorp, with <a href=\"https://www.stepful.com/post/stepful-announces-55m-series-c-to-scale-its-ai-powered-training-platform-across-the-healthcare-workforce\"><u>a recent $55M Series C led by Oak HC/FT</u></a>. <a href=\"https://www.stepful.com/post/stepful-named-1-edtech-company-in-us-top-10-globally-times-2025-list\"><u>We were named the #1 EdTech company in the U.S. by TIME for 2025</u></a>.</p><p><strong>Our values</strong>:</p><p>We credit much of our success to our exceptional team. We’re looking for mission-driven builders who thrive in fast-paced, ambiguous environments, and embody our four core values:</p><ul><li><p><strong>Care first</strong>: We do whatever it takes for our students to succeed.</p></li><li><p><strong>Learn quickly</strong>: We test, learn with data, and iterate.</p></li><li><p><strong>Build together</strong>: We win when we rely on each other.</p></li><li><p><strong>Own it</strong>: We show up, take initiative, and show pride.</p></li></ul><h2><strong>The opportunity:</strong></h2><p>Stepful is launching a Radiologic Technology A.A.S. program leading to ARRT (R) certification eligibility. We're partnering directly with employers to help them build their own RadTech programs, powered by Stepful: they sponsor the education of new talent, and we bring the accreditation, curriculum, instruction, and operations. Labs and clinicals happen inside their facilities, so students train where they'll eventually work, and employers build their own talent pipelines exactly where they need them.</p><p>You'll be the Clinical Coordinator of record for the program: you'll build the clinical education component from the ground up, decide which partner facilities are ready to take students, and make sure what happens at the bedside actually connects to what students learned in the classroom. Success in this role is measured through the program's clinical outcomes data and the term-by-term evaluation of how well clinical rotations correlate with classroom learning. You'll work alongside the Program Director, who owns overall program operations and accreditation, and you'll be supported by dedicated operations and partnerships teams.</p><p>This role is remote with travel to partner sites in Texas required, and reports to our Imagine Programs Lead. Per accreditation requirements, the Clinical Coordinator is a distinct role from the Program Director and is not identified as a clinical preceptor at any clinical setting.</p><h2><strong>What you'll do:</strong></h2><p><strong>Clinical curriculum and site network</strong></p><ul><li><p>Correlate clinical and didactic education: own the alignment between what students learn in didactic and lab courses and what they're asked to do in clinical rotations, sequence clinical objectives against the curriculum, and formally evaluate how well that correlation is working each term</p></li><li><p>Build and qualify the clinical site network: conduct and document a pre-placement evaluation of every prospective partner facility to confirm a viable learning environment and sufficient procedure volume; secure accreditor recognition of each clinical setting before any student is assigned; maintain current, signed clinical affiliation agreements; and designate at least one clinical preceptor at each recognized setting</p></li></ul><p><strong>Placement, supervision, and safety</strong></p><ul><li><p>Run clinical placement and scheduling: determine student clinical placement (placement is decided solely by the program), assure equitable access to mobile, surgical, and trauma procedures, hold the 1:1 student-to-clinical-staff ratio, cap clinical involvement at ten hours per day, and orient every student to every site</p></li><li><p>Enforce supervision and radiation safety in the clinical setting: assure direct supervision until competency is achieved and for all repeats, surgical procedures, and mobile procedures; assure indirect supervision thereafter; distribute student radiation exposure reports within thirty school days; and complete MRI safety screening before clinical experience</p></li></ul><p><strong>Preceptor and student development</strong></p><ul><li><p>Develop and support clinical preceptors: onboard preceptors at each site, train them on the clinical objectives and competency evaluation system, keep them current on program policies and student progress, and serve as their day-to-day point of contact</p></li><li><p>Track clinical competency and advise students: monitor competency progression and completed clinical hours, provide timely and documented clinical advisement, and build remediation plans for students who fall behind</p></li></ul><p><strong>Accreditation, teaching, and travel</strong></p><ul><li><p>Support accreditation and assessment: contribute clinical evidence to the self-study report, annual reports, substantive change filings, and site visit preparation for accreditors; participate in the program's systematic assessment plan and the annual analysis of clinical outcomes data</p></li><li><p>Teach: participate in didactic and/or clinical instruction, with the opportunity to teach clinical courses for the first cohort</p></li><li><p>Maintain professional currency: keep current knowledge of radiography practice and educational methodologies through documented continuing professional development, and stay current on program policies, procedures, and student progress</p></li><li><p>Travel to partner sites for site readiness evaluations, preceptor development, clinical visits, student advisement, and accreditation visits, weighted toward new site launches — likely up to once monthly in 2026, scaling to up to 50% travel starting 2027; all travel and program-related expenses reimbursed</p></li></ul><h2><strong>What you'll bring:</strong></h2><ul><li><p>Reliable access to a major airport and availability to travel to Texas</p></li><li><p>Bachelor's degree or higher from an institution accredited by an agency recognized by the U.S. Secretary of Education or CHEA</p></li><li><p>Current ARRT R.T.(R) certification</p></li><li><p>Current Texas GMRT certificate from the Texas Board of Medical Radiologic Technology</p></li><li><p>Minimum two years' clinical experience in radiography</p></li><li><p>Minimum one year's experience as an instructor in a JRCERT-accredited program</p></li><li><p>Proficient in curriculum development, supervision, instruction, evaluation, and academic advising</p></li><li><p>Working knowledge of the JRCERT Standards for an Accredited Educational Program in Radiography and of ABHES clinical experience requirements (or willingness to learn)</p></li></ul><h2><strong>Bonus points if:</strong></h2><ul><li><p>Prior clinical coordinator or clinical instructor experience in a JRCERT-accredited radiography program</p></li><li><p>Experience managing clinical education across multiple sites or health systems</p></li></ul><h2><strong>Interview Process:</strong></h2><ul><li><p>Introductory call with Talent Acquisition</p></li><li><p>Interview with Hiring Manager</p></li><li><p>Take-Home Assignment</p></li><li><p>Final Panel Interviews</p></li></ul><h2><strong>Benefits and Compensation:</strong></h2><ul><li><p>Meaningful Equity Stake</p></li><li><p>Subsidized Medical, Dental, and Vision insurance plan options</p></li><li><p>401(k)</p></li><li><p>FSA, HSA and commuter benefits</p></li><li><p>Learning stipend</p></li><li><p>Open vacation policy, including:</p></li></ul><ul><li><p>Guidance of 15 days PTO annually</p></li><li><p>Stepful closed the last week of December</p></li><li><p>15 work-from-anywhere days</p></li><li><p>10 public holidays observed for 2026</p></li></ul><p>The target base salary range for this opportunity is <strong>$80,000 - $90,000</strong>, and is part of a competitive total rewards package including equity and benefits. Individual pay may vary from the target range and is determined by a number of factors including experience, internal pay equity and other relevant business considerations.</p><p><strong>Stepful is proud to be an equal opportunity employer</strong>. We do not discriminate in hiring or any employment decision based on race, color, religion, national origin, age, sex, marital status, ancestry, disability, genetic information, veteran status, gender identity or expression, sexual orientation, pregnancy, or other applicable legally protected characteristic.</p>",
+    "summary": "The Founding Clinical Coordinator will build and oversee the clinical education component of Stepful’s Radiologic Technology program, including curriculum alignment, clinical-site qualification, student placement, supervision, safety, and preceptor development. The role also supports accreditation and assessment, may teach clinical courses, advises students, and requires travel to partner sites in Texas while working remotely.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Problem-solving",
+      "Adaptability",
+      "Initiative",
+      "Teamwork"
+     ],
+     "primary_skills": [
+      "Radiography",
+      "Clinical Education",
+      "Clinical Curriculum Development",
+      "Clinical Placement Scheduling",
+      "Radiation Safety",
+      "Clinical Supervision",
+      "Clinical Competency Evaluation",
+      "Academic Advising",
+      "Curriculum Development",
+      "JRCERT Standards"
+     ],
+     "secondary_skills": [
+      "ABHES Clinical Experience Requirements",
+      "Clinical Coordinator Experience",
+      "Multi-Site Clinical Education Management",
+      "Accreditation Support",
+      "Continuing Professional Development"
+     ]
+    },
+    "benefits": [
+     "stock_options_equity",
+     "health_insurance",
+     "dental_insurance",
+     "vision_care",
+     "pensions_401k",
+     "professional_development",
+     "paid_time_off_vacation_personal_days",
+     "remote_work_hybrid_work_options",
+     "other_benefits"
+    ],
+    "salary": {
+     "max": 90000,
+     "min": 80000,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 2,
+    "educationRequirement": {
+     "required": [
+      "bachelor_degree"
+     ],
+     "preferred": []
+    },
+    "industry": [
+     "education",
+     "healthcare_medical",
+     "technology_software"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": true,
+    "travelPercentage": null,
+    "postedAt": 1790004723,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/stepful/bc19e3fe-34fb-4c0b-ae35-1ff8b8679dad",
+    "status": "active",
+    "companies": [
+     {
+      "name": "stepful.com",
+      "website": "stepful.com"
+     }
+    ]
+   },
+   {
+    "id": "5797ed15-1011-41b1-b3ce-ff6afa866b22",
+    "title": "Localization Strategist (fixed-term)",
+    "description": "<p><strong>About Amplify</strong></p><p>Amplify helps teachers bring delight and rigor to students every day. We have become a leader in K–12 literacy, biliteracy, math, and science by building inspiring teaching and learning experiences based on research. The Amplify Classroom platform combines curriculum, assessment, and supplemental learning into one coherent high-quality instructional system. A pioneer in education since 2000, Amplify has developed deep relationships in states and districts by partnering with educators to drive implementation quality and improved outcomes. Today, Amplify serves more than 18 million students and teachers across all 50 states and on six continents. For more information, visit <a href=\"http://amplify.com\">Amplify.com</a>.</p><p><strong><u>Job Description:</u></strong></p><p>The Localization Strategist plays a critical role in Amplify’s evolving customer experience model, providing consultation and services that lead to deep product adoption and impact, including program customization/contextualization; the development of additional assets and reports; and direct-to-leader and teacher knowledge and skills development. This role is part of a pioneering group of talented team members who will set the stage for Amplify's long-term customer engagement model. Individuals in this role will be creative, entrepreneurial, and reflective– identifying and codifying successful practices in real time.</p><p>This role will be strategically embedded directly within schools and districts, engaging throughout the school year and during summer planning, helping educators and leaders reflect on their practices and supporting their effective use of Amplify's platform and instructional materials. You will serve as a consultant, coach, and content developer: partnering with curiosity, developing people, customizing content, and continuously reflecting.</p><p>The Localization Strategist partners closely with educators, instructional leaders, and internal teams to bridge the gap between product design and classroom practice. This role is highly collaborative and works across Customer Experience, Product, Sales, and Design to both support customers and inform product design, ensuring our Amplify products best meet customer needs.</p><p><strong><u>Essential Responsibilities</u>:</strong></p><p><strong>1. Consultation, Coaching, and Customization</strong></p><ul><li><p>Provide high-impact, on-site and virtual consultation and support, ensuring successful initial implementation, continuous adoption refinement, and ongoing program customization across schools and districts.</p></li><li><p>Serve as a deep product and platform expert, delivering high-impact, embedded instructional coaching and modeling of effective use of digital tools to educators and administrators on how to effectively use, customize, and integrate Amplify tools into their instructional practice.</p></li><li><p>Partner directly with instructional and school leaders to identify implementation needs, troubleshoot challenges, and develop tailored supports that drive strong outcomes.</p></li><li><p>Deploy into customer environments during critical moments (e.g., back-to-school, mid-year implementation) to provide high-impact, hands-on support.</p></li><li><p>Maintain strong ownership and follow-through across all customer engagements, proactively tracking commitments and leveraging systems to communicate progress and prioritize support across multiple schools and priorities.</p></li><li><p>Exercise strong professional judgment to navigate complex customer contexts, consistently modeling effective usage, balancing hands-on support with capacity-building, and serving as a trusted Amplify ambassador.</p></li></ul><p><strong>2. Cross-Functional Collaboration &amp; Product Iteration</strong></p><ul><li><p>Collaborate cross-functionally with Customer Success, Sales, Product, and Design teams to align on customer needs, proactively sharing key learning, customer insights, and documented feature requests/bugs to inform product iteration and continuous improvement.</p></li><li><p>Test and iterate on program implementation in real time, gathering feedback from educators and translating it into actionable insights for internal teams, specifically elevating learning from pilot programs to inform future strategy and product development.</p></li><li><p>Contribute to continuous improvement of implementation strategies, helping define best practices and scalable approaches for customer support.</p></li></ul><p><strong>3. Developing Scalable Resources &amp; General Support</strong></p><ul><li><p>Design and develop customized resources (e.g., tailored guides, checklists, instructional videos) and communication materials that align to Amplify programs’ pedagogical approach and support effective implementation in bespoke, high-touch ways.</p></li><li><p>Identify and codify the highest-leverage workflow transformations within the Localization team's day-to-day work by building a deep understanding of internal processes, workflows, and outputs</p></li><li><p>Mentor and coach peer team members on best practices for high-impact consultation, technical solutions development, and effective cross-functional collaboration, helping to build the team's collective expertise and capacity.</p></li><li><p>Develop custom tools, agents, automations, and skills that streamline and enhance operational effectiveness</p></li><li><p>Recognize and document successful intervention patterns across your cohort to systematically scale best practices and ensure tools built for one specialist are reusable for their peers</p></li><li><p>Support the development of asynchronous and other teacher support development efforts</p></li><li><p>Perform other duties as assigned</p></li></ul><p><strong><u>Minimum Qualifications:</u></strong></p><ul><li><p>Bachelor’s degree</p></li><li><p>8+ years of related professional experience, including K–12 education, educational technology, or curriculum implementation</p></li><li><p>3+ years of experience working directly with schools or districts in a coaching, training, or implementation support capacity</p></li><li><p>Demonstrated expertise in instructional practices and/or curriculum implementation (Math or Literacy preferred)</p></li><li><p>Familiarity with the Amplify platform and experience in curriculum development, having the ability to create and modify content</p></li><li><p>Strong ability to lead professional learning and coach educators on instructional tools and platforms</p></li><li><p>Experience troubleshooting and supporting technology-enabled instructional products</p></li><li><p>Curiosity about and willingness to leverage AI tools in overall tooling and development</p></li><li><p>Proven capacity for execution, prioritization, and maintaining strong organization and follow-up across multiple schools, stakeholders, and priorities.</p></li><li><p>Ability to travel up to 50–70% of the time, including extended on-site district engagements with customers</p></li><li><p>Excellent communication, facilitation, and relationship-building skills with both educators and district leaders</p></li><li><p>Ability to work independently in dynamic environments while maintaining strong cross-functional collaboration</p></li></ul><p><strong><u>Preferred Qualifications:</u></strong></p><ul><li><p>Experience working with Amplify programs</p></li><li><p>Background in instructional coaching, district leadership, or change management</p></li><li><p>Experience supporting district implementations or system-wide rollouts</p></li><li><p>Ability to analyze implementation data and translate insights into actionable recommendations</p></li><li><p>Experience creating educator-facing resources, training materials, and/or implementation guides</p></li></ul><p><em>Amplify is an Equal Opportunity Employer. Amplify makes employment decisions based on qualifications and merit, and does not discriminate based on race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability status, veteran status, or any other legally protected characteristic or status.</em></p><p><em>Amplify is committed to providing reasonable accommodations for qualified individuals with disabilities, including disabled veterans. If you have a disability and need an accommodation in connection with the application or hiring process, please email</em><a href=\"mailto:hiringaccommodations@amplify.com\"><em>hiringaccommodations@amplify.com</em></a><em>.</em></p><p><em>If you are selected for employment, a background check will be required. As required by state and local laws and district policies, you may be required to provide additional documentation, such as proof of vaccination, or submit to enhanced background screening, such as fingerprinting.</em></p><p><em>Amplify is an E-Verify participant.</em></p>",
+    "summary": "The Localization Strategist provides consultation, coaching, customization, and implementation support to schools and districts using Amplify’s educational products and instructional materials. The role develops scalable resources, collaborates cross-functionally to inform product iteration, mentors peers, and supports effective adoption of Amplify’s platform, with travel of up to 50–70% despite the remote designation.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Facilitation",
+      "Relationship-Building",
+      "Organization",
+      "Prioritization"
+     ],
+     "primary_skills": [
+      "Instructional Coaching",
+      "Curriculum Implementation",
+      "Professional Learning",
+      "Educational Technology",
+      "Curriculum Development",
+      "Content Customization",
+      "Technology Troubleshooting",
+      "Implementation Strategy",
+      "Cross-Functional Collaboration",
+      "AI Tools"
+     ],
+     "secondary_skills": [
+      "Implementation Data Analysis",
+      "Change Management",
+      "Resource Development",
+      "Training Material Development",
+      "Workflow Automation"
+     ]
+    },
+    "benefits": [],
+    "salary": null,
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 8,
+    "educationRequirement": {
+     "required": [
+      "bachelor_degree"
+     ],
+     "preferred": []
+    },
+    "industry": [
+     "education",
+     "technology_software"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": true,
+    "travelPercentage": null,
+    "postedAt": 1789760033,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/amplify/bbf801cb-1b92-42dc-8d0d-51e908f2bc32",
+    "status": "active",
+    "companies": [
+     {
+      "name": "Amplify",
+      "website": "amplify.com"
+     }
+    ]
+   }
+  ],
+  "meta": {
+   "count": 4,
+   "hasMore": false,
+   "requestTimeMs": 278,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

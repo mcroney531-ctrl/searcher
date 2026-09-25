@@ -1,0 +1,50 @@
+{
+ "call_id": "rec_850746530_co_calculatedhire",
+ "phase": "recall",
+ "url": "https://api.jobven.com/v1/public/companies?search=Calculated+Hire&limit=10",
+ "params": [
+  [
+   "search",
+   "Calculated Hire"
+  ],
+  [
+   "limit",
+   10
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:21:36 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "65",
+  "connection": "close",
+  "server": "cloudflare",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "2d896bca-3d30-4be0-bfca-e7d01a935f4e",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2453",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "4",
+  "etag": "W/\"41-c0On01lj8RZhy+1JbnXQRdKB5vI\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=e7a6QDtby6lj%2Bx9Jmfa4dymD0mdn7gbaujGoNoD%2B8rbHvWQHz6f5KH4bFWRLjE98i8BWByGguc9Kd%2FNBZgHFUIpYksM2BFq8JSIMss8yldnd3jVHxFxHbCj%2Bo%2BGoU8%2FwZd9mkKefsI40t8RPWw%3D%3D\"}]}",
+  "cf-ray": "a406e650fabb25dc-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [],
+  "meta": {
+   "page": 1,
+   "limit": 10,
+   "total": 0,
+   "totalPages": 0
+  }
+ }
+}

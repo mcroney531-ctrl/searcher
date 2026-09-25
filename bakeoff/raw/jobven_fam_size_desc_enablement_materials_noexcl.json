@@ -1,0 +1,143 @@
+{
+ "call_id": "fam_size_desc_enablement_materials_noexcl",
+ "phase": "family",
+ "url": "https://api.jobven.com/v1/public/jobs?descriptionQuery=enablement+materials&country=US&remoteType%5B%5D=remote&postedAfter=1789702200&limit=1&includeTotal=true",
+ "params": [
+  [
+   "descriptionQuery",
+   "enablement materials"
+  ],
+  [
+   "country",
+   "US"
+  ],
+  [
+   "remoteType[]",
+   "remote"
+  ],
+  [
+   "postedAfter",
+   1789702200
+  ],
+  [
+   "limit",
+   1
+  ],
+  [
+   "includeTotal",
+   "true"
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:28:05 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "transfer-encoding": "chunked",
+  "connection": "close",
+  "server": "cloudflare",
+  "vary": "Accept-Encoding",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "276a053f-0537-49f8-bc95-3f9ad12f5825",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2350",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "315",
+  "etag": "W/\"1b07-pZtacN/dm1e+ituRCLH1FfYpduw\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=KBVMCp%2BmeDqodsfTX98BWhXrf6jGVUy0Q6XuEdTT7eqOS8bVCEXHvwDu2HkRA8GgexxDwLFtEcvj6ocKfhBXt44GPQZlLzbk2CDsBun5vRD7HdxjHwmoBVJZ9ioWn%2FGgxdo7KjU5AfPN0wJXoQ%3D%3D\"}]}",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "cf-ray": "a406efce4c251906-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "id": "607a0a78-ff34-402a-813f-cfd8032e2274",
+    "title": "Field Marketing Manager",
+    "description": "<h1><strong>Field Marketing Manager, US</strong></h1><p><strong>Location:</strong> Remote (US), Eastern time zone preferred<br><strong>Travel:</strong> ~30% for conferences, dinners, and regional events<br></p><h2><strong>About Haast</strong></h2><p>We're building one of the first agentic systems for enterprise legal and compliance teams that actually automates their manual work. End-to-end. Delivering 80% faster compliance reviews and 4x productivity gains.</p><p>We recently closed a $12M USD Series A (Peak XV Partners, DST Global, Airtree) and are ramping hard; building the infrastructure that will completely re-define how enterprises think about compliance.</p><p>Think Canva for design. Atlassian for projects. Haast for compliance.</p><h2><strong>Why This Role Exists</strong></h2><p>As Haast enters the US market after building traction in Australia, we know buyers don't find us by accident. They see us at the right conference. They get pulled into the right campaign. They hear from a rep with the right message at the right moment. All of that has to come together for a fast moving financial services buyer to actually pick Haast.</p><p>This role owns that work end to end: events, campaigns, ABM, digital activation, email, and the enablement that gets sales the tools and timing they need.</p><h2><strong>What You'll Own</strong></h2><ul><li><p>Run the US field marketing calendar end to end: conference sponsorships, executive dinners, roundtables, and webinars – from concept through budget, logistics, promotion, and follow-up</p></li><li><p>Build and execute account-based programs against Haast's priority accounts, working closely with sales to identify targets and tailor engagement</p></li><li><p>Run integrated, pain-based campaigns that pair field activity with outbound, content, and paid support</p></li><li><p>Manage HubSpot as our marketing system of record – campaign builds, workflows, list management, and reporting – keeping data clean and attribution accurate</p></li><li><p>Run email marketing that supports campaigns and nurtures accounts through the pipeline</p></li><li><p>Develop co-marketing relationships with partners as they're established, from joint events to shared campaigns</p></li><li><p>Support website work: content updates, landing pages, and ongoing optimization</p></li><li><p>Manage US paid media activation in support of campaigns and events</p></li><li><p>Build sales enablement materials and give the US sales team what they need, when they need it, to work field and campaign leads</p></li><li><p>Support execution of global (EU) campaigns, coordinating with the broader team</p></li></ul><h2><strong>What We're Looking For</strong></h2><ul><li><p>5+ years of B2B marketing experience spanning field marketing and hands-on digital execution, ideally in SaaS or a similarly complex sale</p></li><li><p>A track record of running events – conferences, dinners, webinars – that generate real pipeline, not just attendance</p></li><li><p>Experience running or supporting ABM programs alongside a sales team</p></li><li><p>Strong, hands-on HubSpot experience</p></li><li><p>Comfort owning a budget and reporting on ROI – you know the difference between activity and impact</p></li><li><p>Experience supporting or coordinating global/multi-region marketing programs</p></li><li><p>Experience supporting website work (CMS, landing pages)</p></li><li><p>A self-starter who's equally comfortable setting strategy and executing the details</p></li><li><p>Based in the US, Eastern time zone preferred, with willingness to travel ~30% for events</p></li></ul><p><strong>Nice to have:</strong> experience marketing into financial services or another regulated industry; experience with paid media platforms (LinkedIn Ads, Google Ads); basic design skills (Canva) for quick landing page or asset turnaround.</p><h2><strong>Why Haast</strong></h2><ul><li><p>Own a function early: you'll shape how Haast shows up in market</p></li><li><p>Report directly to our newly hired VP of Marketing based in the US, building this function together from the ground up</p></li><li><p>Work on something real and trusted by major global enterprises</p></li><li><p>Grow fast: learn more in 12 months than most roles offer in three years</p></li><li><p>Equity and upside: we share success with the people building it</p></li><li><p>Culture: ambitious, engineering-led, no red tape</p></li><li><p>Benefits: Health Insurance, 401k, Generous PTO</p></li></ul><p><strong>How to Apply</strong></p><p>Apply with:</p><ol><li><p>Your resume/CV</p></li><li><p>A brief note on this question: <strong>Tell us about an event or campaign you've executed that you're genuinely proud of. What was the outcome?</strong></p></li></ol><p><br>No closing date. We review applications on a rolling basis.</p><p>At Haast, we believe bold ideas come from diverse perspectives. We're committed to building a team that reflects the world we work in. Even if you don't tick every box, we'd love to hear from you.</p><p><br></p>",
+    "summary": "The Field Marketing Manager will lead Haast’s US field marketing end to end, including events, account-based programs, integrated campaigns, email, paid media, and sales enablement. The role also manages HubSpot, marketing budgets and ROI reporting, supports website and global campaign work, and requires approximately 30% travel.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressRegion": "New York",
+      "addressCountry": "US",
+      "addressLocality": "New York City"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Self-Starter",
+      "Strategic Thinking",
+      "Attention to Detail"
+     ],
+     "primary_skills": [
+      "B2B Marketing",
+      "Field Marketing",
+      "Digital Marketing",
+      "Event Marketing",
+      "Account-Based Marketing",
+      "HubSpot",
+      "Email Marketing",
+      "Marketing Budget Management",
+      "Marketing ROI Reporting",
+      "Website Content Management"
+     ],
+     "secondary_skills": [
+      "Paid Media",
+      "Partner Marketing",
+      "Sales Enablement",
+      "Campaign Management",
+      "Canva"
+     ]
+    },
+    "benefits": [
+     "health_insurance",
+     "pensions_401k",
+     "paid_time_off_vacation_personal_days",
+     "stock_options_equity"
+    ],
+    "salary": null,
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 5,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software",
+     "finance_banking"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": true,
+    "travelPercentage": null,
+    "postedAt": 1790199047,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/haast/8920e44b-af1b-4b78-9270-d66cc4eef0ca",
+    "status": "active",
+    "companies": [
+     {
+      "name": "haast.io",
+      "website": "haast.io"
+     }
+    ]
+   }
+  ],
+  "meta": {
+   "total": 11,
+   "count": 1,
+   "nextCursor": "eyJpZCI6IjYwN2EwYTc4LWZmMzQtNDAyYS04MTNmLWNmZDgwMzJlMjI3NCIsInNvcnRWYWx1ZSI6MTc5MDE5OTA0NywidGllQnJlYWtlciI6IjIwMjYtMDktMjRUMDA6MDM6MTYuNzY4WiJ9",
+   "hasMore": true,
+   "requestTimeMs": 315,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

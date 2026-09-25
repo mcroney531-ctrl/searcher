@@ -1,0 +1,143 @@
+{
+ "call_id": "rec_g7_nofilter_closed",
+ "phase": "recall",
+ "url": "https://api.jobven.com/v1/public/jobs?q=%22Customer+Education+Specialist%22&status=closed&limit=5",
+ "params": [
+  [
+   "q",
+   "\"Customer Education Specialist\""
+  ],
+  [
+   "status",
+   "closed"
+  ],
+  [
+   "limit",
+   5
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:25:12 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "transfer-encoding": "chunked",
+  "connection": "close",
+  "server": "cloudflare",
+  "vary": "Accept-Encoding",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "c902b23c-53f0-4a77-9d57-e0e0d4367ec6",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2395",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "12",
+  "etag": "W/\"2120-zQ4C7l9vDObGZx5hR2l3ZlpzbTI\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=tuX55Kr82zj7XdrBuovt0PcAA1u4e%2BK2bBEUhtVdJeTDFglD2Zs8HQzCM79v3yjdxWwTCVtFjjRUVZLZ81kGYWM%2FmTa%2BvXZcY5zvhzTYaLRJRaMbQ%2FXKxiIvUGUpgnFEKCpLK8K1qNA82FQzYQ%3D%3D\"}]}",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "cf-ray": "a406eb992b8af8a7-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "id": "74017eea-6b84-4098-8bcf-990df94c130d",
+    "title": "Customer Education Specialist",
+    "description": "<h2>Company Description</h2><h2>Job Description</h2><p><strong>Join the team redefining how the world experiences design.</strong></p><p>Hello, hey, g'day, mabuhay, kia ora, 你好, hallo, vítejte!</p><p>Thanks for stopping by. We know job hunting can be a little time consuming and you're probably keen to find out what's on offer, so we'll get straight to the point.</p><p><strong>Where and how you can work</strong></p><p>Our flagship office is in Sydney, Australia, but we've made our way from down under, to a campus in Austin, Texas which is now home to our US operations. You have choice in where and how you work, we trust our Canvanauts to choose the balance that empowers them and their team to achieve their goals.</p><p><strong>What you’d be doing in this role</strong></p><p>Content Creation &amp; Learning Design</p><ul><li><p>Design and write learning content across courses, micro-lessons, guides, playbooks, and webinars.</p></li><li><p>Translate complex product concepts into clear, structured, and digestible learning sequences.</p></li><li><p>Create scenarios, examples, activities, and challenges that help learners apply skills.</p></li><li><p>Write natural, engaging scripts for video content and live training.</p></li></ul><p>Research &amp; Strategy</p><ul><li><p>Conduct research, analyze workflows, and gather SME insights to shape learning strategies.</p></li><li><p>Apply adult learning principles and behavior-change methodologies across all content.</p></li><li><p>Own the full content lifecycle—from outlining and writing to reviews, iteration, and publication.</p></li></ul><p>Collaboration</p><ul><li><p>Partner with Product, PMM, Customer Success, and Support to ensure accuracy and alignment.</p></li><li><p>Collaborate closely with Technical Writers to create cohesive instructional and technical resources.</p></li></ul><p>Publishing &amp; Optimization</p><ul><li><p>Use CMS/LMS tools to publish, organize, and update learning content.</p></li><li><p>Review engagement and performance data to continuously refine learning experiences.</p></li><li><p>Contribute to innovative formats like visual walkthroughs, guided workflows, and scenario-based microlearning.</p></li></ul><p><strong>You're probably a match if</strong></p><ul><li><p>5+ years of experience in instructional design, learning experience design, or educational content creation.</p></li><li><p>Exceptional writing skills, with samples that showcase clear, human, narrative-driven instructional content.</p></li><li><p>Experience creating learning that drives behavior change—not just procedural instruction.</p></li><li><p>Strong ability to translate complex concepts into intuitive, structured learning.</p></li><li><p>Solid understanding of adult learning principles and modern learning design practices.</p></li><li><p>Experience with CMS/LMS platforms and comfort using AI tools for ideation and drafting.</p></li><li><p>Ability to manage multiple projects, communicate clearly, and iterate quickly.</p></li><li><p>Comfort shaping ambiguous or unstructured inputs into polished outputs.</p></li><li><p>A track record of strong cross-functional collaboration and proactive communication.</p></li><li><p>Grit, ownership, curiosity, and a habit of asking thoughtful questions.</p></li></ul><p><strong>How we measure success</strong></p><ul><li><p>Content Output: High-quality learning content delivered consistently and on time.</p></li></ul><ul><li><p>Content Quality: Engagement, completion, learner satisfaction, CSAT impact, and feedback from customers &amp; partners.</p></li></ul><ul><li><p>Business Impact: Product adoption, workflow usage, retention metrics, and reduction in support tickets in trained areas.</p></li></ul><ul><li><p>Collaboration &amp; Craft: Clear documentation, cross-functional alignment, and strong contributions to team planning and processes.</p></li></ul><p><strong>About the role</strong></p><p>We’re looking for a Customer Education Specialist who loves turning complexity into clarity and teaching through storytelling. You’ll design engaging, intuitive learning experiences that help customers adopt new workflows, deepen product understanding, and feel confident using Canva.</p><p>While you’ll contribute to defining the broader learning journey, the core of this role is hands-on content creation—crafting high-quality learning that drives real behavior change. You’ll lead the full lifecycle from research and insights, to design and content development, to publication and iteration. You’ll partner closely with cross-functional teams to ensure learning is accurate, impactful, and aligned to customer needs.</p><p>If you're energized by narrative-driven teaching, simplifying complexity, and bringing ideas to life across multiple formats, this role is for you.</p><p><strong>What's in it for you?</strong></p><p>Achieving our crazy big goals motivates us to work hard - and we do - but you'll experience lots of moments of magic, connectivity and fun woven throughout life at Canva, too. We also offer a range of benefits to set you up for every success in and outside of work.</p><p>Here's a taste of what's on offer:</p><ul><li><p>Equity packages - we want our success to be yours too</p></li><li><p>Health benefits plans to support you and your wellbeing</p></li><li><p>401(k) retirement plan with company contribution</p></li><li><p>Inclusive parental leave policy that supports all parents &amp; carers</p></li><li><p>An annual Vibe &amp; Thrive allowance to support your wellbeing, social connection, office setup &amp; more</p></li><li><p>Flexible leave options that empower you to be a force for good, take time to recharge and supports you personally</p></li></ul><p>Check out lifeatcanva.com for more info.</p><p><strong>Other stuff to know</strong></p><p>We make hiring decisions based on your experience, skills, merit and business needs, in compliance with applicable local laws.</p><p>We celebrate all types of skills and backgrounds at Canva so even if you don’t feel like your skills quite match what’s listed above - we still want to hear from you!</p><p>When you apply, please tell us the pronouns you use and any reasonable adjustments you may need during the interview process. Please note that interviews are conducted virtually.</p><h2>Qualifications</h2><h2>Additional Information</h2>",
+    "summary": "This role focuses on designing and developing engaging learning content for Canva's customers, including courses, micro-lessons, guides, and webinars. The Customer Education Specialist will translate complex product concepts into intuitive learning experiences, apply adult learning principles, and collaborate with cross-functional teams to drive product adoption and customer success.",
+    "locations": [
+     {
+      "workLocation": "onsite",
+      "addressRegion": "Texas",
+      "addressCountry": "US",
+      "addressLocality": "Austin"
+     }
+    ],
+    "remoteType": "onsite",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Problem-Solving",
+      "Adaptability",
+      "Ownership",
+      "Curiosity"
+     ],
+     "primary_skills": [
+      "Instructional Design",
+      "Learning Experience Design",
+      "Content Creation",
+      "Learning Content Development",
+      "CMS/LMS Platforms",
+      "Adult Learning Principles",
+      "Behavior Change Methodologies",
+      "Cross-functional Collaboration",
+      "Technical Writing",
+      "AI Tools for Content Creation"
+     ],
+     "secondary_skills": [
+      "Microlearning Design",
+      "Scenario-Based Learning",
+      "Visual Walkthroughs",
+      "Guided Workflows",
+      "Product Adoption Strategies",
+      "Customer Success Collaboration",
+      "Data-Driven Content Optimization",
+      "Video Script Writing",
+      "Live Training Delivery"
+     ]
+    },
+    "benefits": [
+     "stock_options_equity",
+     "health_insurance",
+     "pensions_401k",
+     "parental_leave",
+     "wellness_program",
+     "flexible_work_hours",
+     "remote_work_hybrid_work_options",
+     "company_events_retreats"
+    ],
+    "salary": null,
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 5,
+    "educationRequirement": {
+     "required": [],
+     "preferred": [
+      "bachelor_degree"
+     ]
+    },
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1777513581,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.smartrecruiters.com/Canva/6000000001036121-customer-education-specialist",
+    "status": "closed",
+    "companies": [
+     {
+      "name": "canva.com",
+      "website": "canva.com"
+     }
+    ]
+   }
+  ],
+  "meta": {
+   "count": 1,
+   "hasMore": false,
+   "requestTimeMs": 11,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

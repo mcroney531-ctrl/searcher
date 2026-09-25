@@ -1,0 +1,62 @@
+{
+ "call_id": "rec_852195306_phrase_closed",
+ "phase": "recall",
+ "url": "https://api.jobven.com/v1/public/jobs?q=%22Email+Marketing%22&descriptionQuery=We+know+that+transforming+education&status=closed&postedAfter=1783036800&limit=1",
+ "params": [
+  [
+   "q",
+   "\"Email Marketing\""
+  ],
+  [
+   "descriptionQuery",
+   "We know that transforming education"
+  ],
+  [
+   "status",
+   "closed"
+  ],
+  [
+   "postedAfter",
+   1783036800
+  ],
+  [
+   "limit",
+   1
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:20:33 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "107",
+  "connection": "close",
+  "server": "cloudflare",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "e59799c4-9a75-474b-be68-6c8168594f27",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2465",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "8",
+  "etag": "W/\"6b-LAxHN3HAFZ1hMHIWDjrHPUPhUKE\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=9xo4PWaoppqvj029A3mKTeatvaAGYduFBCd8WmPR2V9I8KINolb82cwDw5sfhs7ghN3xDGPHOxulXBuXlEIKrghj8IqZof8bom2mNYbe2D5kyuEQHNBd%2ByKM6K8uVevDAlozomXJy%2B5Yma7TRQ%3D%3D\"}]}",
+  "cf-ray": "a406e4c80a3d43b9-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [],
+  "meta": {
+   "count": 0,
+   "hasMore": false,
+   "requestTimeMs": 8,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

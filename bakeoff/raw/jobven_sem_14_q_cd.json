@@ -1,0 +1,67 @@
+{
+ "call_id": "sem_14_q_cd",
+ "phase": "semantics",
+ "url": "https://api.jobven.com/v1/public/jobs?q=%22curriculum+developer%22&country=US&remoteType%5B%5D=remote&postedAfter=1789701404&limit=1&includeTotal=true",
+ "params": [
+  [
+   "q",
+   "\"curriculum developer\""
+  ],
+  [
+   "country",
+   "US"
+  ],
+  [
+   "remoteType[]",
+   "remote"
+  ],
+  [
+   "postedAfter",
+   1789701404
+  ],
+  [
+   "limit",
+   1
+  ],
+  [
+   "includeTotal",
+   "true"
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:17:05 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "117",
+  "connection": "close",
+  "server": "cloudflare",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "8e352655-f16f-4074-86d5-b114d63818f1",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2492",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "10",
+  "etag": "W/\"75-dFd2wCUEdDRuRIsJoMEPQPxk8Pk\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=9Vwu99wYcUznPvEPgE%2FZCeiBQBvbE84GouYLu0a%2FIVmv33pZ6W4DiX4AaiHOqJUM2FMGbRRgBteslhdmeuvNYlYRA8AaqiZM3Adi0FhNxbILaLf57x18S%2BxD47xdL2F%2FhN8nm2xjAxjkiV9NEg%3D%3D\"}]}",
+  "cf-ray": "a406dfb4490ba10a-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [],
+  "meta": {
+   "total": 0,
+   "count": 0,
+   "hasMore": false,
+   "requestTimeMs": 9,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

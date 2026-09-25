@@ -1,0 +1,67 @@
+{
+ "call_id": "sem_06_q_title_plus_descword",
+ "phase": "semantics",
+ "url": "https://api.jobven.com/v1/public/jobs?q=%22Lead+Instructional+Designer%22+Skilljar&country=US&remoteType%5B%5D=remote&postedAfter=1789701404&limit=1&includeTotal=true",
+ "params": [
+  [
+   "q",
+   "\"Lead Instructional Designer\" Skilljar"
+  ],
+  [
+   "country",
+   "US"
+  ],
+  [
+   "remoteType[]",
+   "remote"
+  ],
+  [
+   "postedAfter",
+   1789701404
+  ],
+  [
+   "limit",
+   1
+  ],
+  [
+   "includeTotal",
+   "true"
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:16:52 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "118",
+  "connection": "close",
+  "server": "cloudflare",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "aae4373d-6b0c-4bf1-9402-ba04128be472",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2496",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "21",
+  "etag": "W/\"76-ZP9QwilrF093yT/mSuc1ni3ZUqw\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=O4lPaqtFqvE8goIUyFb4JIIoZGnq26NB%2FSvKpKU6lADiVWlushvLaxjQUBAis%2F8M05Op%2B8MwzIXULgHt6pOJB4k%2BFaYyslB2Yc87wmwavCq76oR5MlXGCC8sxeIAeMDbM3kn4%2FEhLSY0veuSUg%3D%3D\"}]}",
+  "cf-ray": "a406df616ef59bb4-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [],
+  "meta": {
+   "total": 0,
+   "count": 0,
+   "hasMore": false,
+   "requestTimeMs": 20,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

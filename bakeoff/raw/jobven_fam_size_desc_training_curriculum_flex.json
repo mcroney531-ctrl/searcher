@@ -1,0 +1,166 @@
+{
+ "call_id": "fam_size_desc_training_curriculum_flex",
+ "phase": "family",
+ "url": "https://api.jobven.com/v1/public/jobs?q=-%22account+executive%22+-%22account+manager%22+-%22sales+representative%22+-%22sales+manager%22+-%22customer+service+representative%22+-%22help+desk%22+-%22customer+success+manager%22+-%22support+specialist%22&descriptionQuery=training+curriculum&country=US&remoteType%5B%5D=remote&remoteType%5B%5D=flexible&postedAfter=1789702200&limit=1&includeTotal=true",
+ "params": [
+  [
+   "q",
+   "-\"account executive\" -\"account manager\" -\"sales representative\" -\"sales manager\" -\"customer service representative\" -\"help desk\" -\"customer success manager\" -\"support specialist\""
+  ],
+  [
+   "descriptionQuery",
+   "training curriculum"
+  ],
+  [
+   "country",
+   "US"
+  ],
+  [
+   "remoteType[]",
+   "remote"
+  ],
+  [
+   "remoteType[]",
+   "flexible"
+  ],
+  [
+   "postedAfter",
+   1789702200
+  ],
+  [
+   "limit",
+   1
+  ],
+  [
+   "includeTotal",
+   "true"
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:28:01 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "transfer-encoding": "chunked",
+  "connection": "close",
+  "server": "cloudflare",
+  "vary": "Accept-Encoding",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "13c69d48-d5dd-4e6a-a7dd-2975778331a9",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2361",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "623",
+  "etag": "W/\"1fe2-uk42xKHSuQSWBnGKFkx8aC/fKuI\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=XWHmLzGT8FXLDLp3Xsebli01172SEtPGd3nHNta4aBc6rFDQw9VaC6W2N%2BQTF%2F6klTaQoRAvnaOSEJfAT0gN3Qpk7886IAAPqE1hJShjQ%2B9%2FQwVuOPcxwYNzvryaFuXbztRJcHeDH7x%2BFBVmWA%3D%3D\"}]}",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "cf-ray": "a406efb78c32b547-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "id": "8acba723-95e5-46f0-ba6e-11d5c159e57d",
+    "title": "Care Coordinator Rural Pathways - 7288",
+    "description": "<p><strong><em>Recognized as a Top Workplace for 13 consecutive years! Your career can mean different things in different workplaces. Apply with CHR now to see what it's like to work somewhere your voice is heard, your wellness is a priority, and your success matters.</em></strong></p><p><strong>JOB TITLE: </strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Care Coordinator</p><p><strong>EMPLOYMENT TYPE:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Full-time,&nbsp;40 hours/wk&nbsp;</p><p><strong>SCHEDULED HOURS:&nbsp;</strong>&nbsp; &nbsp; &nbsp; &nbsp; Monday - Friday&nbsp;</p><p><strong>PROGRAM/LOCATION:&nbsp; &nbsp; </strong> Rural Pathways, Danielson, CT</p><p><strong>PC#:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong> 3212</p><p><span><strong>ABOUT THE PROGRAM:</strong></span> <strong>Rural Pathways</strong></p><p>Rural Pathways is a new SAMHSA-funded initiative designed to expand access to evidence-based treatment, medication for opioid use disorder (MOUD), recovery support services, and behavioral healthcare across northeastern Connecticut. The program utilizes innovative service delivery models, including CHR's Mobile Pathways Unit, outpatient clinics, and community partnerships, to reduce barriers related to transportation, geography, and provider shortages. Rural Pathways focuses on rapid access to care, overdose prevention, integrated treatment for co-occurring mental health and substance use disorders, and long-term recovery support for individuals living in rural communities.</p><p><span><strong>ABOUT THE POSITION</strong><strong>:</strong></span></p><p><strong>Duties &amp; Responsibilities</strong></p><ul><li>Participate as member of multi-disciplinary treatment team</li><li>Track and coordinate client intake, discharge, services and referrals as applicable</li><li>Provide assistance to team including coordination of treatment planning and providing daily triage.</li><li>Educate and link individuals to self-help groups, natural support and other resources as needed.</li><li>Assist with linking clients with community support systems and agencies and in obtaining benefits for which they may be qualified: insurance, housing, treatment, representative payee, legal services, medical services, education and employment.</li><li>Maintain careful documentation of contacts and communication to maintain quality services. Complete all required documentation in compliance with agency policy.</li><li>Work as a liaison between agency and other relevant providers and teams to coordinate care for referred clients.</li><li>Assist with scheduling and providing transportation to and from appointments.</li><li>Maintains documentation in compliance with agency and program standards.</li><li>Participates in staff meetings, supervision, training and other meetings as assigned.</li><li>Establish knowledge of cultures and communication styles associated with various groups, particularly oppressed groups, to provide culturally sensitive and competent care.</li><li>Provides crisis intervention and support as clinically indicated.</li><li>Additional duties as required.</li></ul><p><span><strong>QUALIFICATIONS</strong><strong>:&nbsp;</strong></span></p><p><strong>Education:</strong> Bachelor’s degree in human service-related field required. Experience may be accepted in lieu of education for some positions.</p><p><strong> Experience:</strong> A minimum of two years’ related experience preferred.</p><p><strong>Licensure/Certification/Registration:</strong> Valid driver’s license required.</p><p><strong>Training:</strong> Complete any program specific training required. Complete required annual agency trainings. CPR/First-Aid Certification may be required within 6 months of hire</p><p><span><strong>Why Join CHR?</strong></span></p><p><strong>Be part of an exciting, supportive, and dynamic workplace where your growth and well-being are our top priorities!</strong></p><ul><li><strong>Comprehensive benefits packages</strong> include health insurance, ample paid time off (including your birthday!), employer contributions to your 403b Retirement Plan, and competitive insurance premiums with added discounts on pet, home and auto!</li><li><strong>Tuition reimbursement and professional development programs</strong>, including exclusive tuition discounts for CHR employees at several local colleges/universities</li><li><strong>Career development opportunities! </strong> FREE robust training curriculum, featuring our Clinical Training Series for interactive learning, practical skill enhancement, and professional growth! Clinical supervision and/or mentoring offered at several program</li><li><strong>Wellness program: </strong> Annual wellness stipend, FREE premium subscription to the Calm app, 6 FREE confidential counseling sessions through our Employee Assistance Program</li><li><strong>Employee appreciation and involvement, </strong> including contests, lunch &amp; learns (meet with our CEO!), employee appreciation events, employee-led resource groups open to all, and more!</li></ul><br><br><p><strong>And so much more! </strong>(Many benefits are available to all staff, regardless of the hours worked, with some subject to eligibility)</p><p><strong><span>COMPENSATION</span>*:</strong></p><p>$20.30/hr minimum-$28.71/hr maximum*</p><p>*Actual rates within this range are determined at the time of offer and are based on relevant experience, as well as adherence to our internal equity policy. (Please note, for part-time positions this range would be pro-rated based on hours worked)</p><p><strong>CHR is an equal opportunity employer, and we encourage all to apply.</strong></p><p><strong><em>Take the first step to a meaningful career and apply to CHR today!</em></strong></p>",
+    "summary": "The Care Coordinator supports the Rural Pathways behavioral healthcare program by coordinating client intake, services, referrals, treatment planning, and connections to community resources. The role also provides triage and crisis support, maintains compliant documentation, coordinates care with providers, and assists with appointment scheduling and transportation.",
+    "locations": [
+     {
+      "workLocation": "flexible",
+      "addressRegion": "Connecticut",
+      "addressCountry": "US",
+      "addressLocality": "Danielson"
+     }
+    ],
+    "remoteType": "flexible",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Teamwork"
+     ],
+     "primary_skills": [
+      "Care Coordination",
+      "Client Intake Coordination",
+      "Treatment Planning",
+      "Triage",
+      "Referral Coordination",
+      "Documentation",
+      "Crisis Intervention",
+      "Transportation Coordination",
+      "Benefits Coordination",
+      "Culturally Competent Care"
+     ],
+     "secondary_skills": [
+      "Medication for Opioid Use Disorder",
+      "Behavioral Healthcare",
+      "Overdose Prevention",
+      "Community Resource Navigation",
+      "CPR",
+      "First Aid"
+     ]
+    },
+    "benefits": [
+     "health_insurance",
+     "paid_time_off_vacation_personal_days",
+     "pension_contribution_matching",
+     "tuition_reimbursement",
+     "professional_development",
+     "wellness_program",
+     "mental_health_support",
+     "employee_discounts",
+     "company_events_retreats",
+     "other_benefits"
+    ],
+    "salary": {
+     "max": 28.71,
+     "min": 20.3,
+     "period": "hourly",
+     "currency": "USD"
+    },
+    "experienceLevel": "mid",
+    "employmentType": "full_time",
+    "minYearsExperience": 2,
+    "educationRequirement": {
+     "required": [
+      "bachelor_degree"
+     ],
+     "preferred": []
+    },
+    "industry": [
+     "healthcare_medical"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790208000,
+    "expiresAt": null,
+    "applyUrl": "https://recruiting.ultipro.com/COM1063CHRI/JobBoard/b94848f1-373d-444d-80f0-e324dae8d006/OpportunityDetail?opportunityId=b7ade201-cf90-4c92-9816-e059a241cba5",
+    "status": "active",
+    "companies": [
+     {
+      "name": "CHR Career Opportunities",
+      "website": "chrhealth.org"
+     }
+    ]
+   }
+  ],
+  "meta": {
+   "total": 3,
+   "count": 1,
+   "nextCursor": "eyJpZCI6IjhhY2JhNzIzLTk1ZTUtNDZmMC1iYTZlLTExZDVjMTU5ZTU3ZCIsInNvcnRWYWx1ZSI6MTc5MDIwODAwMCwidGllQnJlYWtlciI6IjIwMjYtMDktMjRUMjI6NDA6MDMuNzA1WiJ9",
+   "hasMore": true,
+   "requestTimeMs": 622,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

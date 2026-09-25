@@ -1,0 +1,151 @@
+{
+ "fe982a40-84f4-45f1-b735-fee76d82de5d": [
+  [
+   853261118,
+   "Customer Education Specialist",
+   "Runway",
+   "2026-09-24",
+   "proj_phrase_academy_content.json"
+  ],
+  [
+   853261118,
+   "Customer Education Specialist",
+   "Runway",
+   "2026-09-24",
+   "proj_phrase_help_center_content.json"
+  ]
+ ],
+ "fc303a23-63a8-4a04-9536-0e9b0232aea3": [
+  [
+   852185468,
+   "Principal Customer Success Executive, U.S. Federal",
+   "ServiceNow",
+   "2026-09-23",
+   "sample_desc_ai_adoption.json"
+  ]
+ ],
+ "4e6ee18a-e89c-4d8e-ad9f-c2b54369a11b": [
+  [
+   852185468,
+   "Principal Customer Success Executive, U.S. Federal",
+   "ServiceNow",
+   "2026-09-23",
+   "sample_desc_ai_adoption.json"
+  ]
+ ],
+ "b6944ddd-c1df-4bed-8f23-4ac3c6cd34ba": [
+  [
+   852477703,
+   "Customer Success Engineer",
+   "Roboflow",
+   "2026-09-24",
+   "proj_phrase_customer_training.json"
+  ]
+ ],
+ "88b36e14-a530-472c-b99f-7e65ed3a0324": [
+  [
+   852238579,
+   "Senior Manager, Customer Expansion",
+   "Dandy",
+   "2026-09-23",
+   "size_desc_customer_training.json"
+  ]
+ ],
+ "bb6400bd-9a8a-4bfe-985d-867be44543ce": [
+  [
+   851335042,
+   "Principal EP Mapping Specialist - CAS",
+   "Medtronic",
+   "2026-09-23",
+   "sample_wildcard_b.json"
+  ]
+ ],
+ "b9c9be88-117e-4427-8f9e-e63821956ba9": [
+  [
+   851894877,
+   "Technical Solutions Consultant (Pre-Sales)",
+   "Blockstream",
+   "2026-09-23",
+   "sample_desc_enablement_material.json"
+  ]
+ ],
+ "c1ced9fa-90ed-470c-9a37-34913300df95": [
+  [
+   852211120,
+   "Senior Market Development Manager- GI and Endo-surgical Innovation",
+   "Intuitive",
+   "2026-09-23",
+   "sample_desc_knowledge_content.json"
+  ],
+  [
+   852303345,
+   "Senior Market Development Manager- GI and Endo-surgical Innovation",
+   "Intuitive (Intuitive Surgical)",
+   "2026-09-23",
+   "sample_wildcard_a.json"
+  ]
+ ],
+ "644e5795-5e23-4fb5-b6d9-21998c97572a": [
+  [
+   852561950,
+   "Senior Director, Client Education - Healthcare SaaS",
+   "Experian",
+   "2026-09-24",
+   "proj_phrase_learning_content.json"
+  ]
+ ],
+ "2fdb2558-0fc5-4a99-8b2e-6cb36f6839a9": [
+  [
+   852561950,
+   "Senior Director, Client Education - Healthcare SaaS",
+   "Experian",
+   "2026-09-24",
+   "proj_phrase_learning_content.json"
+  ]
+ ],
+ "c6643f0a-c2b5-4284-a752-2b0abafbac65": [
+  [
+   850033302,
+   "Technical Content Writer (Contract)",
+   "AfterQuery",
+   "2026-09-21",
+   "sample_title_technical_content.json"
+  ]
+ ],
+ "acbff928-1957-478a-b9e6-fd18396e7674": [
+  [
+   851952124,
+   "Staff (Technical) Writer & Editor",
+   "FAR.AI",
+   "2026-09-23",
+   "size_title_technical_content.json"
+  ]
+ ],
+ "24d926cf-f554-42c8-a885-c2aea6f25a4e": [
+  [
+   851058374,
+   "Content Lead",
+   "White Circle",
+   "2026-09-22",
+   "sample_title_content_dev.json"
+  ]
+ ],
+ "559c52fa-c48e-4014-ac43-0a155c4c8a21": [
+  [
+   851383703,
+   "Senior Education Professional, Development",
+   "NICE",
+   "2026-09-23",
+   "sample_desc_course_content.json"
+  ]
+ ],
+ "aeaeeb5a-b04b-47b6-8346-7a68e7f91d68": [
+  [
+   852303520,
+   "Principal Field Service Technical Training Specialist",
+   "Medtronic",
+   "2026-09-23",
+   "sample_desc_curriculum.json"
+  ]
+ ]
+}

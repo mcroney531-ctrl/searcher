@@ -1,0 +1,436 @@
+{
+ "call_id": "rec_g7_nofilter_active",
+ "phase": "recall",
+ "url": "https://api.jobven.com/v1/public/jobs?q=%22Customer+Education+Specialist%22&limit=5",
+ "params": [
+  [
+   "q",
+   "\"Customer Education Specialist\""
+  ],
+  [
+   "limit",
+   5
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:25:10 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "transfer-encoding": "chunked",
+  "connection": "close",
+  "server": "cloudflare",
+  "vary": "Accept-Encoding",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "43fbb999-005e-49f8-bb7f-cce19c60c399",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2396",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "12",
+  "etag": "W/\"b9ca-t/ZFhkqiX0HCGEmHNcthmpPy0Eo\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=Go2R63Pll9hCEpePCqAszl4ftmg%2FHB56oZHypoAQ7EtMTqmUjF1Pqye%2B%2Fr0YPwKJA8H6nNW%2BZ7MYlyTyINLaHYQqxj4eG7dIpu%2BLOy1OLeETxc%2BgA6KPZS5%2FEQ4LimoWESH6bFP2HVSwfct%2Bcg%3D%3D\"}]}",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "cf-ray": "a406eb8b8f37de9a-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "id": "fe982a40-84f4-45f1-b735-fee76d82de5d",
+    "title": "Customer Education Specialist",
+    "description": "<p>We are building AI to simulate the world through merging art and science.<br><br>We believe that world models are at the frontier of progress in artificial intelligence. Language models alone won’t solve the world’s hardest problems – robotics, disease, scientific discovery. Real progress requires models that experience the world and learn from their mistakes, the same way that humans do. And this kind of trial and error can be massively accelerated when done in simulation, rather than in the real world.<br><br>World models offer the most clear path to general-purpose simulation, changing how stories are told, how scientific progress is made and how the next frontiers of humanity are reached.</p><p>Our team consists of creative, open minded, caring and ambitious people who are determined to change the world. We aspire to continuously build impossible things and our ability to do so relies on building an incredible team. If you are driven to do the same, we'd love to hear from you.</p><h2>About the role</h2><p>*<em>Open to hiring remote across the US — we also have offices in NYC, San Francisco, and Seattle</em></p><p>Runway is growing fast, and so is the surface area of what users need to learn. We're looking for an Education Content Specialist to keep our Help Center accurate, our Academy content well-produced, and our users set up for success from day one.</p><p>You'll sit within the Experience &amp; Enterprise Enablement team, working closely with the Education &amp; Enablement lead to execute against a content roadmap that spans written documentation, video scripts, and self-service resources. Every feature launch will have your fingerprints on it. You're the person who makes sure users don't have to guess.</p><h2>What you’ll do</h2><ul><li><p>Write, update, and maintain Help Center articles across product features, billing, policies, and troubleshooting — keeping documentation accurate as the product moves fast</p></li><li><p>Coordinate with engineering and product at launch time to ensure articles are live before features ship</p></li><li><p>Audit existing Help Center content for accuracy and discoverability; surface recommendations based on support ticket trends and user feedback</p></li><li><p>Create and maintain self-service content — FAQs, quick-start guides, troubleshooting flows — that reduces ticket volume and helps users help themselves</p></li><li><p>Draft scripts for Runway Academy video tutorials, walkthroughs, and course modules</p></li><li><p>Support production of Academy content: create supporting assets, prepare materials for recording, and help get finished content published and organized</p></li><li><p>Build and maintain a library of templates, prompt guides, and project starters across Runway's tools</p></li><li><p>Support production and publishing of office hours, webinars, and live Q&amp;A sessions</p></li><li><p>Keep Help Center documentation and Academy content consistent and cross-referenced</p></li><li><p>Track the performance of content you've produced — article engagement, search deflection, CSAT — and flag gaps to the Education &amp; Enablement lead</p></li><li><p>Work with legal to ensure usage policies and terms are accurately reflected in customer-facing content</p></li></ul><h2>What you’ll need</h2><ul><li><p>2-3 years of experience in technical writing, documentation, education content, or a similar role at a software or SaaS company</p></li><li><p>Ability to translate complex product features into clear, user-friendly language — across articles, scripts, and guides</p></li><li><p>Experience shipping documentation on tight timelines with cross-functional dependencies</p></li><li><p>Comfort with help center platforms (Zendesk, Intercom, or similar) and content management systems</p></li><li><p>Familiarity with video content production and an instinct for how to structure and pace educational content</p></li><li><p>Strong editorial judgment — you catch inconsistencies before they go live</p></li><li><p>Organized and autonomous working style; you can manage a documentation backlog while staying responsive to urgent launch needs</p></li><li><p>A bias toward action and a belief that no task is too small</p></li><li><p>Familiarity building with LLMs to streamline and automate processes</p></li></ul><h2><strong>Nice to have</strong></h2><ul><li><p>Experience with AI or creative tools — with genuine curiosity about how they work</p></li><li><p>Background in or passion for the creative space — video, design, animation, or related fields</p></li><li><p>Experience using support data (ticket volume, search queries, CSAT, completion rates) to prioritize content work</p></li></ul><p>Runway strives to recruit and retain exceptional talent from diverse backgrounds while ensuring pay equity for our team. Our salary ranges are based on competitive market rates for our size, stage and industry, and salary is just one part of the overall compensation package we provide.</p><p>There are many factors that go into salary determinations, including relevant experience, skill level and qualifications assessed during the interview process, and maintaining internal equity with peers on the team. The range shared below is a general expectation for the function as posted, but we are also open to considering candidates who may be more or less experienced than outlined in the job description. In this case, we will communicate any updates in the expected salary range.</p><p>Lastly, the provided range is the expected salary for candidates in the U.S. Outside of those regions, there may be a change in the range, which again, will be communicated to candidates.</p><h3><strong>Working at Runway</strong></h3><p><a href=\"https://www.youtube.com/watch?v=kwmj4ato2kw&amp;ab_channel=Runway\"><strong>Great things come from great teams.</strong></a><strong> We’d love to hear from you.</strong></p><p>We’re committed to creating a space where our employees can bring their full selves to work and have equal opportunity to succeed. So regardless of race, gender identity or expression, sexual orientation, religion, origin, ability, age, veteran status, if joining this mission speaks to you, we encourage you to apply.</p><p><u>More about Runway</u></p><ul><li><p><a href=\"https://runwayml.com/world-simulator.html\">Universal World Simulator</a></p></li><li><p><a href=\"https://runwayml.com/research/introducing-runway-gwm-1\">GWM-1</a></p></li><li><p><a href=\"https://runwayml.com/research/introducing-runway-gen-4.5\">Gen-4.5</a></p></li><li><p><a href=\"https://runwayml.com/research/introducing-general-world-models\">General World Models</a></p></li><li><p><a href=\"https://runwayml.com/research/introducing-runway-gwm-1#robotics-section\">Robotics SDK</a></p></li><li><p><a href=\"https://runwayml.com/research/introducing-runway-gwm-1#avatars-section\">Conversational Real-time Agents</a></p></li><li><p><a href=\"https://runwayml.com/studios\">Runway Studios</a></p></li></ul><p>We're excited to be recognized as a best place to work:</p><p><a href=\"https://www.crainsnewyork.com/awards/best-places-work-2023\">Crain's</a> | <a href=\"https://www.inhersight.com/companies/best/city/new-york-city-ny\">InHerSight</a> | <a href=\"https://builtin.com/awards/new-york-city/2024/best-places-to-work\">BuiltIn NYC</a> | <a href=\"https://www.inc.com/best-workplaces/2024\">INC</a></p>",
+    "summary": "The Customer Education Specialist creates and maintains Help Center documentation, self-service resources, and Runway Academy materials, including video scripts and tutorials. The role coordinates content launches with product and engineering teams, tracks content performance, and ensures customer-facing usage policies and terms are accurate.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Organization",
+      "Autonomy",
+      "Attention to Detail",
+      "Initiative"
+     ],
+     "primary_skills": [
+      "Technical Writing",
+      "Content Development",
+      "Help Center Platforms",
+      "Content Management Systems",
+      "Video Content Production",
+      "Cross-Functional Collaboration",
+      "Content Performance Analysis",
+      "Legal Content Review",
+      "Large Language Models"
+     ],
+     "secondary_skills": [
+      "Artificial Intelligence",
+      "Creative Tools",
+      "Support Data Analysis"
+     ]
+    },
+    "benefits": [],
+    "salary": null,
+    "experienceLevel": "entry",
+    "employmentType": "full_time",
+    "minYearsExperience": 2,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790226419,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/runway-ml/4f8e18a4-0f26-4b28-a44d-3ba1afaada74",
+    "status": "active",
+    "companies": [
+     {
+      "name": "Runway",
+      "website": "runwayml.com"
+     }
+    ]
+   },
+   {
+    "id": "5c878351-1880-4aae-9a0d-c6a501cd6a13",
+    "title": "Senior Customer Education Specialist",
+    "description": "<p><em><strong>MaintainX is a leading mobile-first work execution platform</strong> for industrial and frontline teams.<strong>More than 13,000 customers</strong>, including Duracell, McDonald's, Shell, DHL and Volvo, use MaintainX to cut unplanned downtime and run better operations, across 13.9 million managed assets and 79.5 million completed work orders.</em></p><p><em><strong>In August 2026 MaintainX became part of Autodesk, joining</strong></em><a href=\"https://adsknews.autodesk.com/en/views/inside-autodesk-operations-solutions/\"><em><strong>Autodesk Operations Solutions</strong></em></a><em><strong>, the organization unifying Autodesk's operations platform alongside Tandem, FlexSim and Fusion Operations.</strong> Autodesk's strategy is to converge design, make and operate into one continuous lifecycle: design an asset, build it, run it, then feed what you learn running it back into the next design. Autodesk had design and make. Operate is the phase that tells you what actually happened, and it is ours.</em></p><h2>The role</h2><p>This Senior Customer Education Specialist will be responsible for designing, producing, and maintaining educational content for MaintainX’s customer learning channels. This role will focus on authoring and delivering content that enables MaintainX users to develop core competencies through scaled learning offerings such as webinars, virtual classes, and in-person trainings. In this role, you will report to the Senior Manager of Customer Education, and work closely with the Client Success, Product, and Marketing teams to understand the educational needs of our customers and integrate those insights with our organizational vision to develop high-quality skill-based learning experiences. You’ll also have the opportunity to help shape customer learning and training programming for an entirely new Autodesk business unit — Autodesk Operations Solutions (AOS).</p><h2>What you’ll do</h2><ul><li><p>Define educational content requirements, in consultation with internal subject matter experts, to support customers’ development of key MRO-related skills and competencies.</p></li><li><p>Conduct continuous research into your learning audience to stay current on their motivations to learn and any skill-related changes in their professional world.</p></li><li><p>Use models such as ADDIE and SAM to develop self-paced and instructor-led learning experiences that help customers achieve success with MaintainX.</p></li><li><p>Deliver (and/or coordinate the delivery of) the instructor-led learning experiences that you design, including live and on-demand webinars, virtual classes, and training sessions at field events.</p></li><li><p>Help define the Customer Education roadmap in collaboration with your broader team.</p></li><li><p>Provide consultation to other Customer Education team members on curriculum and content design.</p></li></ul><h2>About You:</h2><ul><li><p>A minimum of three (3) years experience in an education-related role, such Customer Education, Training &amp; Enablement, Learning &amp; Development, or teaching.</p></li><li><p>A minimum of one (1) years experience developing and delivering instructor-led learning experiences.</p></li><li><p>Proficiency with content development tools for live training material, such as Google Slides, PowerPoint, Canva, and Figma.</p></li><li><p>Familiarity with live training delivery systems, such as Zoom Webinar, Webex, or CloudShare.</p></li><li><p>Experience collaborating with subject matter experts (SMEs) for content ideation and review.</p></li><li><p>A strong ability to communicate technical concepts in accessible and concise language.</p></li><li><p>An acute eye for detail when it comes to grammar, aesthetics, and consistency.</p></li></ul><h2>Nice to have:</h2><ul><li><p>Work experience in industrial maintenance and/or manufacturing.</p></li><li><p>Experience using CMMSes and/or Enterprise Asset Management systems.</p></li><li><p>A maintenance and/or reliability-related certification, such as CMRP or CRE.</p></li><li><p>Experience working for companies with rapidly changing products, particularly software-as-a-service (SaaS).</p></li><li><p>Familiarity with project management tools, such as Jira or Notion.</p></li><li><p>Familiarity with course authoring, such as Articulate, Adobe Captivate, or Parta.</p></li><li><p>Familiarity with video production tools, such as Camtasia, DaVinci Resolve, or Clueso.</p></li><li><p>Familiarity with a Customer Academy LMS, such as WorkRamp or Skilljar.</p></li><li><p>Fluency in Spanish and/or French</p></li></ul><h2>About the team</h2><p>The Customer Education team makes it our mission to ensure that any knowledge customers need in order to achieve their goals with MaintainX is at their fingertips. We apply a humble and empathetic design methodology that keeps the deskless workforce at the center of everything we do. We deliver content through eLearning and instructor-led training channels to educate MaintainX customers in the medium that best suits their needs. Above all, we have an unwavering commitment to quality and accuracy that is reflective of MaintainX’s world-class product.</p><p><strong>Our mission is to keep the physical world running.</strong> Factories, fleets, hospitals and campuses stay up because the people who maintain them have tools worth using. That is what we build.</p><p><strong>Compensation and benefits.</strong> Base pay is one part of the package. Depending on the role, compensation may also include commission, an annual bonus and equity. Benefits differ by country. For roles in the United States, Autodesk’s benefits are described at <a href=\"http://benefits.autodesk.com\">benefits.autodesk.com</a>. For roles in Canada and other countries, the plan differs on health coverage, retirement and leave, and your recruiter will walk you through it.</p><p><strong>Belonging.</strong> We take pride in a culture where everyone can thrive. More at <a href=\"http://autodesk.com/company/global-belonging\">autodesk.com/company/global-belonging</a>. More on where this is going: Autodesk CEO Andrew Anagnost on building the future of connected operations, and AOS SVP Stephen Hooper on welcoming MaintainX to Autodesk.</p>",
+    "summary": "The Senior Customer Education Specialist designs, produces, maintains, and delivers educational content for MaintainX customer learning channels. The role develops self-paced and instructor-led experiences, including webinars, virtual classes, and field-event training, while collaborating with Client Success, Product, Marketing, and subject matter experts to support customer skill development and shape the Customer Education roadmap.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressRegion": "Quebec",
+      "addressCountry": "CA",
+      "addressLocality": "Montreal"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Attention to Detail",
+      "Empathy"
+     ],
+     "primary_skills": [
+      "Customer Education",
+      "Instructional Design",
+      "ADDIE",
+      "SAM",
+      "Instructor-Led Training",
+      "Educational Content Development",
+      "Webinar Delivery",
+      "Subject Matter Expert Collaboration",
+      "Technical Communication",
+      "Google Slides"
+     ],
+     "secondary_skills": [
+      "PowerPoint",
+      "Canva",
+      "Figma",
+      "Zoom Webinar",
+      "Webex",
+      "CloudShare",
+      "Industrial Maintenance",
+      "Manufacturing",
+      "Computerized Maintenance Management Systems",
+      "Enterprise Asset Management"
+     ]
+    },
+    "benefits": [
+     "stock_options_equity",
+     "performance_bonuses",
+     "commission_based_earnings",
+     "health_insurance",
+     "pension_plan",
+     "paid_time_off_vacation_personal_days"
+    ],
+    "salary": null,
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 3,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software",
+     "manufacturing"
+    ],
+    "inLanguage": [
+     "en",
+     "es",
+     "fr"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1789575970,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/maintainx/75630828-1399-4b16-8208-c45503d3487c",
+    "status": "active",
+    "companies": [
+     {
+      "name": "getmaintainx.com",
+      "website": "getmaintainx.com"
+     }
+    ]
+   },
+   {
+    "id": "f5488b09-05c6-4958-94a0-39b1ed5b2c9e",
+    "title": "Senior Customer Education Specialist",
+    "description": "<p><em><strong>MaintainX is a leading mobile-first work execution platform</strong> for industrial and frontline teams.<strong>More than 13,000 customers</strong>, including Duracell, McDonald's, Shell, DHL and Volvo, use MaintainX to cut unplanned downtime and run better operations, across 13.9 million managed assets and 79.5 million completed work orders.</em></p><p><em><strong>In August 2026 MaintainX became part of Autodesk, joining</strong></em><a href=\"https://adsknews.autodesk.com/en/views/inside-autodesk-operations-solutions/\"><em><strong>Autodesk Operations Solutions</strong></em></a><em><strong>, the organization unifying Autodesk's operations platform alongside Tandem, FlexSim and Fusion Operations.</strong> Autodesk's strategy is to converge design, make and operate into one continuous lifecycle: design an asset, build it, run it, then feed what you learn running it back into the next design. Autodesk had design and make. Operate is the phase that tells you what actually happened, and it is ours.</em></p><h2>The role</h2><p>This Senior Customer Education Specialist will be responsible for designing, producing, and maintaining educational content for MaintainX’s customer learning channels. This role will focus on authoring and delivering content that enables MaintainX users to develop core competencies through scaled learning offerings such as webinars, virtual classes, and in-person trainings. In this role, you will report to the Senior Manager of Customer Education, and work closely with the Client Success, Product, and Marketing teams to understand the educational needs of our customers and integrate those insights with our organizational vision to develop high-quality skill-based learning experiences. You’ll also have the opportunity to help shape customer learning and training programming for an entirely new Autodesk business unit — Autodesk Operations Solutions (AOS).</p><h2>What you’ll do</h2><ul><li><p>Define educational content requirements, in consultation with internal subject matter experts, to support customers’ development of key MRO-related skills and competencies.</p></li><li><p>Conduct continuous research into your learning audience to stay current on their motivations to learn and any skill-related changes in their professional world.</p></li><li><p>Use models such as ADDIE and SAM to develop self-paced and instructor-led learning experiences that help customers achieve success with MaintainX.</p></li><li><p>Deliver (and/or coordinate the delivery of) the instructor-led learning experiences that you design, including live and on-demand webinars, virtual classes, and training sessions at field events.</p></li><li><p>Help define the Customer Education roadmap in collaboration with your broader team.</p></li><li><p>Provide consultation to other Customer Education team members on curriculum and content design.</p></li></ul><h2>About You:</h2><ul><li><p>A minimum of three (3) years experience in an education-related role, such Customer Education, Training &amp; Enablement, Learning &amp; Development, or teaching.</p></li><li><p>A minimum of one (1) years experience developing and delivering instructor-led learning experiences.</p></li><li><p>Proficiency with content development tools for live training material, such as Google Slides, PowerPoint, Canva, and Figma.</p></li><li><p>Familiarity with live training delivery systems, such as Zoom Webinar, Webex, or CloudShare.</p></li><li><p>Experience collaborating with subject matter experts (SMEs) for content ideation and review.</p></li><li><p>A strong ability to communicate technical concepts in accessible and concise language.</p></li><li><p>An acute eye for detail when it comes to grammar, aesthetics, and consistency.</p></li></ul><h2>Nice to have:</h2><ul><li><p>Work experience in industrial maintenance and/or manufacturing.</p></li><li><p>Experience using CMMSes and/or Enterprise Asset Management systems.</p></li><li><p>A maintenance and/or reliability-related certification, such as CMRP or CRE.</p></li><li><p>Experience working for companies with rapidly changing products, particularly software-as-a-service (SaaS).</p></li><li><p>Familiarity with project management tools, such as Jira or Notion.</p></li><li><p>Familiarity with course authoring, such as Articulate, Adobe Captivate, or Parta.</p></li><li><p>Familiarity with video production tools, such as Camtasia, DaVinci Resolve, or Clueso.</p></li><li><p>Familiarity with a Customer Academy LMS, such as WorkRamp or Skilljar.</p></li><li><p>Fluency in Spanish and/or French</p></li></ul><h2>About the team</h2><p>The Customer Education team makes it our mission to ensure that any knowledge customers need in order to achieve their goals with MaintainX is at their fingertips. We apply a humble and empathetic design methodology that keeps the deskless workforce at the center of everything we do. We deliver content through eLearning and instructor-led training channels to educate MaintainX customers in the medium that best suits their needs. Above all, we have an unwavering commitment to quality and accuracy that is reflective of MaintainX’s world-class product.</p><p><strong>Our mission is to keep the physical world running.</strong> Factories, fleets, hospitals and campuses stay up because the people who maintain them have tools worth using. That is what we build.</p><p><strong>Compensation and benefits.</strong> Base pay is one part of the package. Depending on the role, compensation may also include commission, an annual bonus and equity. Benefits differ by country. For roles in the United States, Autodesk’s benefits are described at <a href=\"http://benefits.autodesk.com\">benefits.autodesk.com</a>. For roles in Canada and other countries, the plan differs on health coverage, retirement and leave, and your recruiter will walk you through it.</p><p><strong>Belonging.</strong> We take pride in a culture where everyone can thrive. More at <a href=\"http://autodesk.com/company/global-belonging\">autodesk.com/company/global-belonging</a>. More on where this is going: Autodesk CEO Andrew Anagnost on building the future of connected operations, and AOS SVP Stephen Hooper on welcoming MaintainX to Autodesk.</p>",
+    "summary": "The Senior Customer Education Specialist designs, produces, maintains, and delivers educational content for MaintainX customer learning channels. Responsibilities include developing self-paced and instructor-led learning experiences using ADDIE and SAM, delivering webinars and training sessions, researching customer learning needs, and collaborating with subject matter experts and Client Success, Product, and Marketing teams.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressRegion": "Ontario",
+      "addressCountry": "CA",
+      "addressLocality": "Toronto"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Attention to Detail",
+      "Empathy"
+     ],
+     "primary_skills": [
+      "ADDIE",
+      "SAM",
+      "Instructor-Led Learning",
+      "Learning Content Development",
+      "Webinar Delivery",
+      "Virtual Class Delivery",
+      "Training Delivery",
+      "Google Slides",
+      "PowerPoint",
+      "Canva"
+     ],
+     "secondary_skills": [
+      "Figma",
+      "Zoom Webinar",
+      "Webex",
+      "CloudShare",
+      "Customer Education",
+      "Subject Matter Expert Collaboration",
+      "Jira",
+      "Notion",
+      "Articulate",
+      "Adobe Captivate"
+     ]
+    },
+    "benefits": [
+     "stock_options_equity",
+     "performance_bonuses",
+     "commission_based_earnings",
+     "health_insurance",
+     "pension_plan",
+     "paid_time_off_vacation_personal_days"
+    ],
+    "salary": null,
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 3,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en",
+     "es",
+     "fr"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1789575070,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/maintainx/50dcc136-3689-43b1-8c21-5578d1c48ee8",
+    "status": "active",
+    "companies": [
+     {
+      "name": "getmaintainx.com",
+      "website": "getmaintainx.com"
+     }
+    ]
+   },
+   {
+    "id": "0f6b2a78-eaba-48a1-974e-beba4a9ce90d",
+    "title": "Senior Scaled Customer Education Specialist",
+    "description": "<div><p><span><strong>Who we are</strong></span></p><p><span>Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical operations that power our global economy. Representing more than 40% of global GDP, these industries are the infrastructure of our planet, including agriculture, construction, field services, transportation, and manufacturing — and we are excited to help digitally transform their operations at scale.</span></p><p><span>Working at Samsara means you’ll help define the future of physical operations and be on a team that’s shaping an exciting array of product solutions, including Video-Based Safety, Vehicle Telematics, Apps and Driver Workflows, and Equipment Monitoring. As part of a recently public company, you’ll have the autonomy and support to make an impact as we build for the long term.</span></p></div><p><strong>About the role:<br></strong></p><p>Do you want to join a dynamic, creative team? Samsara's Customer &amp; Partner Education team is looking for a trainer to help us scale our reach and customer support globally. As a Senior Scaled Customer Education Specialist focused primarily on our Scale segment (i.e. Commercial and Mid-market accounts), you'll help thousands of customers derive immediate value from our connected operations platform. Across one:many digital programs, live webinars, and cohort-based training sessions, you'll guide customers through structured learning journeys, make complex platform concepts accessible and actionable, and ensure success at every stage of their journey — across transportation, construction, field services, and the many other industries Samsara serves.</p><p><strong>This is a remote position open to candidates residing in the US</strong><strong><u>except</u></strong><strong>the San Francisco Bay Metro Area, NYC Metro Area, and Washington, D.C. Metro Area.&nbsp;</strong></p><p><strong>You should apply if:</strong></p><ul><li><strong>You want to impact the industries that run our world:</strong> Every session you deliver can affect whether truck drivers deliver goods on time and without accidents, whether students get dropped off safely from school, or whether power gets restored quickly after a natural disaster.</li><li><strong>You thrive the most when solving problems:</strong> Our constantly expanding technology and the complexities faced by our customers provide an exciting range of challenges for our Customer Success teams. With a growth mindset and a desire to learn, you will strategically design and deliver training that helps keep operations safe, efficient, and sustainable.</li><li><strong>You are a natural relationship builder:</strong> Whether with customers or cross-functional teams at Samsara, you are in constant communication and collaboration with key stakeholders to win as a team.</li><li><strong>You are the architect of your own career:</strong> If you put in the work, this role won't be your last at Samsara. This Customer Success team is still shaping its future and you will have plenty of autonomy and opportunities to master your craft in a hyper-growth environment.</li><li><strong>You want to be with the best:</strong> At Samsara, we win together, celebrate together, and support each other. You will be surrounded by the best and brightest professionals out there.</li></ul><p><strong>In this role, you will:</strong></p><ul><li>Build, deliver and facilitate cohort-based one:many programs for customers, guiding groups through structured learning journeys from onboarding through advanced product adoption</li><li>Design new, innovative experiences tying together physical and digital assets to live sessions and/or Community experiences</li><li>Produce new and leverage existing training materials in accordance with team standards and brand guidelines; adapt existing materials to reflect product changes and audience needs</li><li>Proactively leverage in-house and external tools and platforms to optimize the training you deliver (e.g., Samsara Community, in-house AI tools; Slido)</li><li>Demonstrate expertise across the Samsara platform and show confidence in fielding a wide range of customer questions during live sessions</li><li>Manage all live session logistics, including training registration, session delivery, Q&amp;A facilitation, polling, and post-session follow-up resources</li><li>Collaborate closely with the CS Scale as well as the rest of the Education team to shape content for live training and share customer feedback from training events</li><li>Identify common knowledge gaps across the Scale customer base and partner with Customer Success and Product teams to address them through programming</li><li><span>Champion, role model, and embed Samsara’s cultural principles (Focus on Customer Success, Build for the Long Term, Adopt a Growth Mindset, Be Inclusive, Win as a Team) as we scale globally and across new offices</span></li></ul><p><strong>Minimum requirements for the role:</strong></p><ul><li>Excellent communication, presentation, and facilitation skills. You make complex platform concepts clear and compelling for large, diverse audiences, both in your verbal delivery and in the materials you produce.</li><li>Demonstrated experience delivering at-scale programs and live webinars or vILT to external audiences.</li><li>Excellent interpersonal skills. You're dynamic and enthusiastic, and you connect well with people at any level of an organization.</li><li>Ability to build digital learning assets when needed, e.g., video tutorials, job aids, and presentation decks, using AI models, authoring and editing tools.</li><li>A working grasp of instructional design: you structure content around clear learning objectives and can help shape a program, not just deliver it.</li><li>Self-directed and analytical. You can teach yourself new products and tools quickly and assess what customers most need to know.</li><li>Ability to analyze engagement and impact data, then iterate on your content to improve what's working and fix what isn't.</li><li>Strong prioritization skills. You handle multiple programs and sessions concurrently while staying organized, methodical, and detail-oriented.</li><li>An eye for detail and polish in everything you produce.</li><li>Comfortable working independently and as part of a team.</li><li>3–4 years of experience teaching or delivering training, with at least 1 year in a one-to-many or scaled delivery model.</li></ul><p><strong>An ideal candidate also has:</strong></p><ul><li>Familiarity with webinar and virtual classroom platforms and tools&nbsp;</li><li>Experience with LMS and Community platforms, and customer education content development tools&nbsp;</li><li>Background in SaaS product training</li></ul><div><div><div><p><span>The range of annual base salary for full-time employees for this position is below. Please note that base pay offered may vary depending on factors including your city of residence, job-related knowledge, skills, and experience. Learn more about our total rewards and benefits below.</span></p></div><div>Annual Base Salary</div><div><span>$80,622.50</span><span>—</span><span>$121,950 USD</span></div></div></div><div><p><strong>Total Rewards</strong></p><p>At Samsara, we build for the people who keep the global economy moving. We want owners, not passengers, which is why <a href=\"https://www.samsara.com/company/careers/benefits\">our rewards</a> are designed to fuel high-impact builders. Our compensation program delivers above-market total compensation through a combination of base salary, performance-based bonus/variable pay, and equity (for eligible roles) in a high-growth public company. We meaningfully differentiate pay for our top performers, who have the opportunity to earn above-market compensation that can outpace the broader market over time.</p><p>Beyond compensation, we provide the foundations that enable long-term success: a flexible, employee-led remote model, a professional development stipend, comprehensive health and parental leave plans, and more. If you’re ready to build for the long term and own the outcome, your journey starts here.</p><p><strong>Flexible Working&nbsp;</strong></p><p><span>At Samsara, we embrace a flexible working model that caters to the diverse needs of our teams. Our offices are open for those who prefer to work in-person and we also support remote work where it aligns with our operational requirements. For certain positions, being close to one of our offices or within a specific geographic area is important to facilitate collaboration, access to resources, or alignment with our service regions. In these cases, the job description will clearly indicate any working location requirements. Our goal is to ensure that all members of our team can contribute effectively, whether they are working on-site, in a hybrid model, or fully remotely. All offers of employment are contingent upon an individual’s ability to secure and maintain the legal right to work at the company and in the specified work location, if applicable.</span></p><p><strong>Belonging at Samsara</strong></p><p>At Samsara, we welcome everyone regardless of their background. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, gender, gender identity, sexual orientation, protected veteran status, disability, age, and other characteristics protected by law. We depend on the unique approaches of our team members to help us solve complex problems and want to ensure that Samsara is a place where people from all backgrounds can make an impact.</p><p><strong>Accommodations&nbsp;</strong></p><p>Samsara is an inclusive work environment, and we are committed to ensuring equal opportunity in employment for qualified persons with disabilities. Please email <a href=\"mailto:accessibleinterviewing@samsara.com\">accessibleinterviewing@samsara.com</a> or <a href=\"https://forms.gle/DrM6DFQUiSgfPtCVA\">click here</a> if you require any reasonable accommodations throughout the recruiting process.</p><p><strong>Our Commitment to Authenticity</strong></p><p>We use <a href=\"https://hiretofu.com/privacyPolicy\">Tofu</a>, a fraud detection tool, to validate the authenticity of applications and protect against identity fraud. This ensures we are connecting with real people and allows us to prioritize genuine candidates. Please see Samsara’s <a href=\"https://www.samsara.com/legal/candidate-privacy-notice\">Candidate Privacy Notice</a> for more information.</p><p><strong>Fraudulent Employment Offers</strong></p><p>Samsara is aware of scams involving fake job interviews and offers. Please know we do not charge fees to applicants at any stage of the hiring process. Official communication about your application will only come from emails ending in @samsara.com, @us-greenhouse-mail.io or @mail3.guide.co. For more information regarding fraudulent employment offers, please visit our&nbsp;<a href=\"https://samsara.com/blog/avoiding-fake-job-offers\">blog post here</a>.</p></div>",
+    "summary": "The Senior Scaled Customer Education Specialist will design, deliver, and facilitate scalable customer education programs, including digital learning programs, live webinars, and cohort-based training. The role develops learning assets, manages live-session logistics, supports customer questions, analyzes engagement data, and collaborates with Customer Success and Product teams to improve customer adoption of Samsara’s connected operations platform.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Interpersonal Skills",
+      "Problem-solving",
+      "Prioritization",
+      "Adaptability"
+     ],
+     "primary_skills": [
+      "Customer Education",
+      "Training Delivery",
+      "Webinar Delivery",
+      "Virtual Instructor-Led Training",
+      "Facilitation",
+      "Instructional Design",
+      "Digital Learning Asset Development",
+      "Learning Management Systems",
+      "Customer Education Content Development",
+      "Engagement Data Analysis"
+     ],
+     "secondary_skills": [
+      "SaaS Product Training",
+      "Virtual Classroom Platforms",
+      "Community Platforms",
+      "Video Tutorial Development",
+      "Job Aid Development",
+      "Presentation Deck Development",
+      "AI Tools",
+      "Slido"
+     ]
+    },
+    "benefits": [
+     "performance_bonuses",
+     "stock_options_equity",
+     "remote_work_hybrid_work_options",
+     "professional_development",
+     "health_insurance",
+     "parental_leave"
+    ],
+    "salary": {
+     "max": 121950,
+     "min": 80622.5,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 3,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1788455535,
+    "expiresAt": null,
+    "applyUrl": "https://www.samsara.com/company/careers/roles/8177646?gh_jid=8177646",
+    "status": "active",
+    "companies": [
+     {
+      "name": "Samsara",
+      "website": "samsara.com"
+     }
+    ]
+   },
+   {
+    "id": "25fd7d37-0298-42bf-bf58-9d92b63dce5d",
+    "title": "Customer Education Specialist  Housing",
+    "description": "<p><strong>About EliseAI</strong></p><p>At EliseAI, we're improving the industries that matter most: housing and healthcare. Everyone needs a place to live and access to quality healthcare, yet both are often harder to secure than they should be.<br><br>By integrating AI agents deeply into existing workflows, we make them more efficient, reduce costs, and improve the experience for everyone.</p><ul><li><p><strong>Housing</strong>: We simplify how renters tour apartments, sign leases, submit maintenance requests, and stay connected with their property team—bringing everything they need for their home into one place.</p></li></ul><ul><li><p><strong>Healthcare</strong>: We make it easy to schedule appointments, complete intake forms, and we help patients communicate with providers, so everyone can focus on health instead of paperwork.</p></li></ul><p>With EliseAI, organizations reduce manual work, improve accessibility, and deliver a seamless experience across essential services. We recently raised a <a href=\"https://www.eliseai.com/blog/eliseai-raises-250m-series-e\"><u>$250 million Series E round</u></a> led by Andreessen Horowitz to accelerate this mission.</p><p><strong>About EliseAI</strong></p><p>EliseAI develops cutting-edge conversational AI technology for industries fundamental to our lives: housing and healthcare. Everything is built on the foundation of health and home. Broken systems or ineffective processes in these domains have a disproportionate impact on our quality of life and society’s overall wellbeing. Conversely, any solution or technology that solves problems in these areas will have an impact that ripples far beyond them.&nbsp;</p><p>That’s the only kind of impact we are interested in having at EliseAI. If you get excited by the thought of working really hard on these kinds of problems, then EliseAI is the right place for you.</p><p><strong>About The Role</strong></p><p>EliseAI is looking for a Customer Education Specialist to ensure a seamless onboarding process and transition for our clients as they adopt our products. You will work closely with the Director of Customer Success and other teams to develop and execute comprehensive onboarding strategies. This role requires a blend of customer-facing interactions, content creation, technical expertise, and a proactive approach to gathering and incorporating client feedback.</p><p><strong>Key Responsibilities</strong></p><ul><li><p>Conduct thorough onboarding sessions with new and existing customers, ensuring they have a deep understanding of our products and how to leverage them effectively</p></li><li><p>Develop and deliver engaging training sessions, both in-person and remotely, tailored to the specific needs and preferences of each client</p></li><li><p>Proactively seek feedback from customers throughout the onboarding process, identifying areas for improvement and implementing strategies to address any gaps or challenges</p></li><li><p>Act as a liaison between customers and internal teams, advocating for client needs and contributing to product enhancements based on user feedback</p></li><li><p>Stay informed about industry trends and best practices in customer training and onboarding, continuously seeking opportunities to enhance our approach and deliver exceptional experiences</p></li></ul><p><strong>Requirements</strong></p><ul><li><p>3+ years of experience in a customer-facing role, preferably in customer success, training, teaching, facilitation, or a related field</p></li><li><p>Willingness to travel as needed to conduct in-person training sessions with clients</p></li><li><p>Strong communication and presentation skills, with the ability to convey complex information in a clear and understandable manner</p></li><li><p>Technical proficiency, with the ability to quickly learn and demonstrate expertise in our products or services</p></li><li><p>Experience creating educational content, including videos, tutorials, and documentation preferred</p></li><li><p>Proven ability to build rapport with customers and establish trusted advisor relationships</p></li><li><p>Highly organized and detail-oriented, with the ability to manage multiple priorities and deadlines effectively</p></li><li><p>Willing to work in person at NYC headquarters with your team 4-5 days per week</p></li></ul><p><strong>Why Join</strong></p><p>Growth and impact. It’s not often that you can get in on the ground floor of a funded startup that’s scaling. That means that instead of following a playbook, you’ll be writing it. Every single day you will be challenged to identify how we can scale and execute on it. You’ll learn what works when you succeed and what doesn’t when you fail. Either way, the rest of the team will be here to support you.</p><p><strong>Benefits</strong></p><p>In addition to the growth and impact you’ll have at EliseAI, we offer competitive salaries along with the following benefits:</p><ul><li><p>Equity in the company</p></li><li><p>Medical, Dental and Vision premiums covered at 100%</p></li><li><p>Fully paid parental leave</p></li><li><p>Commuter benefits</p></li><li><p>401k benefits</p></li><li><p>Fitness &amp; home services stipend to cover part of your expenses so you can focus on what matters</p></li><li><p>A collaborative in-office environment with an open floor plan, fully stocked kitchen, and all meals covered in the office</p></li><li><p>Unlimited vacation and paid holidays</p></li><li><p>We'll cover relocation packages and make the move exciting, not painful!</p></li></ul><p><strong>Job Compensation Range:</strong></p><p>The salary range for this role is $90,000 - $120,000. EliseAI offers a competitive total rewards package which includes base salary, equity, and a comprehensive benefits &amp; perks package. Exact compensation is determined based on a number of factors including experience, skill level, location and qualifications which are assessed during the interview process. Additional details about total compensation and benefits will be provided by our Recruiting Team during the hiring process.<br><br></p><p>#li-onsite</p><p>EliseAI provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.</p><p>Please note that employment with EliseAI is on an \"at-will\" basis, which means that either the employee or the company may terminate the employment relationship at any time, with or without cause or notice.</p><p>Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.</p><p>If you need assistance and/or a reasonable accommodation in the application or recruiting process due to a disability, please contact us at <a href=\"mailto:recruiting@eliseai.com\">recruiting@eliseai.com</a></p>",
+    "summary": "EliseAI is seeking a Customer Education Specialist to manage and execute comprehensive onboarding strategies for new and existing clients adopting their AI products in the housing and healthcare sectors. Key responsibilities include conducting engaging training sessions (in-person/remote), developing educational materials, and gathering user feedback to advocate for product enhancements. This role demands strong technical aptitude, excellent presentation skills, and a proactive approach to ensuring clients fully leverage the platform's capabilities.",
+    "locations": [
+     {
+      "workLocation": "onsite",
+      "addressCountry": "US",
+      "addressLocality": "New York City"
+     }
+    ],
+    "remoteType": "onsite",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Presentation Skills",
+      "Organization",
+      "Detail Orientation"
+     ],
+     "primary_skills": [
+      "Customer Onboarding",
+      "Training Delivery",
+      "Technical Proficiency",
+      "Product Demonstration",
+      "Educational Content Creation",
+      "Customer Relationship Management",
+      "Cross-functional Collaboration"
+     ],
+     "secondary_skills": [
+      "Tutorial Creation",
+      "Documentation Creation",
+      "Industry Trend Analysis"
+     ]
+    },
+    "benefits": [
+     "health_insurance",
+     "pensions_401k",
+     "stock_options_equity",
+     "paid_time_off_vacation_personal_days",
+     "parental_leave",
+     "relocation_assistance",
+     "professional_development",
+     "company_laptop_equipment",
+     "free_subsidized_meals"
+    ],
+    "salary": {
+     "max": 120000,
+     "min": 90000,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "mid",
+    "employmentType": "full_time",
+    "minYearsExperience": 3,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": true,
+    "requiresTravel": true,
+    "travelPercentage": null,
+    "postedAt": 1760561759,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/eliseai/814b3781-a2ad-49f8-9b8f-eaaf8e54abb5",
+    "status": "active",
+    "companies": [
+     {
+      "name": "eliseai.com",
+      "website": "eliseai.com"
+     }
+    ]
+   }
+  ],
+  "meta": {
+   "count": 5,
+   "hasMore": false,
+   "requestTimeMs": 11,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

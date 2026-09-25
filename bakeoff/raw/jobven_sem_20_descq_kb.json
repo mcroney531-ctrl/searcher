@@ -1,0 +1,156 @@
+{
+ "call_id": "sem_20_descq_kb",
+ "phase": "semantics",
+ "url": "https://api.jobven.com/v1/public/jobs?descriptionQuery=knowledge+base&country=US&remoteType%5B%5D=remote&postedAfter=1789701404&limit=1&includeTotal=true",
+ "params": [
+  [
+   "descriptionQuery",
+   "knowledge base"
+  ],
+  [
+   "country",
+   "US"
+  ],
+  [
+   "remoteType[]",
+   "remote"
+  ],
+  [
+   "postedAfter",
+   1789701404
+  ],
+  [
+   "limit",
+   1
+  ],
+  [
+   "includeTotal",
+   "true"
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:17:19 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "transfer-encoding": "chunked",
+  "connection": "close",
+  "server": "cloudflare",
+  "vary": "Accept-Encoding",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "0253d09f-7f08-48b5-ab44-e460fb4d15d9",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2486",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "295",
+  "etag": "W/\"1dbf-96CjBCh5flngVDhqwngPCBzXs7I\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=gCO12HRVRJ0kSQn7mhOfM9Y3psMfwWr8mwqg10%2FTdvll2ZH0XTMdW0j8RcwO1TO2thXVlLB6Z4Gqzv8kIK2uiAvwwQ8wT9UbwEQ8T4P8LkTFFFgp1ua5OkshH0mX25UXYbQFu5m8DAxnWpyCaQ%3D%3D\"}]}",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "cf-ray": "a406e00bdce3f797-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "id": "fe60264e-79f6-4c92-aa2f-ab0e6d64dc71",
+    "title": "Client Support Representative - Healthcare Revenue Cycle",
+    "description": "<h2>Company Description</h2><p>Experian is a global data and technology company, powering opportunities for people and businesses around the world. We operate across a range of markets, from financial services to healthcare, automotive, agribusiness, insurance, and many more. Experian invests in people and new advanced technologies to unlock the power of data. We have an amazing team of 25,200 people in 32 countries.</p><h2>Job Description</h2><p>As our Healthcare Revenue Cycle, Tier 2 Client Support Representative, you will manage and resolve complex issues escalated from our teams and external clients.</p><p>You will partner with clients, payers, trading partners, and internal technical teams to investigate, troubleshoot, and resolve issues, while delivering a high level of customer support.</p><p>You will be a problem solver who can balance technical troubleshooting, client communication, and collaboration in a healthcare technology environment.</p><ul><li>Troubleshoot and resolve complex product, system, and workflow-related issues.</li><li>Investigate and resolve payer-related and transaction-processing issues.</li><li>Be an escalation point for Customer Support, Client Relationship Management, and other teams.</li><li>Manage a high-volume caseload of support requests, incidents, and inquiries while meeting established service level expectations.</li><li>Communicate with clients through support cases, email, telephone, and virtual meetings to guide issue resolution and maintain client relationships.</li><li>Determine the severity, scope, and effect of reported issues and coordinate appropriate resolution efforts.</li><li>Collaborate with internal technical teams, payers, vendors, and trading partners to investigate and resolve client-affecting issues.</li><li>Analyze, troubleshoot, and maintain client and user configurations.</li><li>Participate in small to medium-sized projects, including testing, implementations, process improvements, and operational plans.</li><li>Create, maintain, and enhance internal and external knowledge base documentation using Knowledge-Centered Service (KCS) best practices.</li><li>Identify recurring issues, trends, and process improvement opportunities and provide recommendations to improve our client experience.</li><li>Maintain a comprehensive understanding of supported products, workflows, and industry standards.</li></ul><h2>Qualifications</h2><ul><li>2+ year's experience with healthcare workflows, payer processes, and electronic healthcare transactions is beneficial</li><li>2+ years' experience with healthcare industry standards such as ANSI X12 transactions is beneficial</li><li>2+ years' experience using CRM or case management systems, such as Salesforce, is beneficial</li><li>Bachelor's degree in business, healthcare management, or a related field is beneficial</li><li>2+ years; experience in healthcare technology, healthcare operations, revenue cycle management, technical support, or a related field</li><li>Experience supporting client-facing software applications</li><li>Experience working with healthcare providers, payers, clearinghouses, or healthcare technology solutions</li></ul><h2>Additional Information</h2><p>Our uniqueness is that we celebrate yours. Experian's people first, inclusive and purpose driven culture is multi award-winning; World's Best Workplaces™ 2025 (Fortune Global Top 25), Great Place To Work™ in 26 countries to name a few. Check out Experian Life on social or explore our Careers Site to understand why.</p><p>Our compensation reflects the cost of labor across several U.S. geographic markets. The base pay range for this position is listed above. Within this range, individual pay is determined by work location and additional factors such as job-related skills, experience, and education. You will be also eligible for a variable pay opportunity.</p><p>Experian is proud to be an Equal Opportunity Employer for all groups protected under applicable federal, state and local law, including protected veterans and individuals with disabilities. If you have a disability or special need that requires accommodation, please let us know at the earliest opportunity.</p><p><strong>Benefits/Perks:</strong></p><ul><li>Great compensation package and bonus plan</li><li>Core benefits including medical, dental, vision, and matching 401K</li><li>Flexible work environment, ability to work remote, hybrid or in-office</li><li>Flexible time off including volunteer time off, vacation, sick and 12-paid holidays</li><li>Explore all our exciting benefits here: <a href=\"https://myexperianbenefits.com/\">https://myexperianbenefits.com/</a></li></ul><p><strong>Recruitment Fraud Awareness </strong>- Experian's recruitment process is conducted only through authorised channels. Recruitment communications will only be sent from an <strong>@</strong><a href=\"http://experian.com\"><strong>experian.com</strong></a> email address.</p><p><strong>Experian will never ask candidates to make any payment</strong> as part of an application, interview, assessment, onboarding, or recruitment process. To apply for roles or verify opportunities, please visit <a href=\"http://experian.com/careers\"><strong>experian.com/careers</strong></a></p>",
+    "summary": "The Client Support Representative handles escalated, complex issues for healthcare revenue cycle products and supports clients, payers, trading partners, and internal teams through investigation and resolution. Responsibilities include troubleshooting product, payer, transaction, and workflow issues; managing support cases; maintaining configurations and documentation; and contributing to testing, implementations, and process improvements.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Problem-Solving",
+      "Communication",
+      "Collaboration",
+      "Client Relationship Management"
+     ],
+     "primary_skills": [
+      "Healthcare Revenue Cycle Management",
+      "Healthcare Workflows",
+      "Payer Processes",
+      "Electronic Healthcare Transactions",
+      "ANSI X12",
+      "CRM Systems",
+      "Case Management Systems",
+      "Technical Support",
+      "Client-Facing Software Support",
+      "Knowledge-Centered Service"
+     ],
+     "secondary_skills": [
+      "Salesforce",
+      "Healthcare Operations",
+      "Client Configuration Management",
+      "Software Testing",
+      "Software Implementation",
+      "Process Improvement",
+      "Knowledge Base Documentation"
+     ]
+    },
+    "benefits": [
+     "health_insurance",
+     "dental_insurance",
+     "vision_care",
+     "pensions_401k",
+     "pension_contribution_matching",
+     "performance_bonuses",
+     "flexible_work_hours",
+     "remote_work_hybrid_work_options",
+     "paid_time_off_vacation_personal_days",
+     "sick_leave",
+     "company_events_retreats"
+    ],
+    "salary": null,
+    "experienceLevel": "mid",
+    "employmentType": "full_time",
+    "minYearsExperience": 2,
+    "educationRequirement": {
+     "required": [],
+     "preferred": [
+      "bachelor_degree"
+     ]
+    },
+    "industry": [
+     "healthcare_medical",
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790271413,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.smartrecruiters.com/Experian/744000151676369-client-support-representative-healthcare-revenue-cycle",
+    "status": "active",
+    "companies": [
+     {
+      "name": "Experian",
+      "website": "experian.com"
+     }
+    ]
+   }
+  ],
+  "meta": {
+   "total": 17,
+   "count": 1,
+   "nextCursor": "eyJpZCI6ImZlNjAyNjRlLTc5ZjYtNGM5Mi1hYTJmLWFiMGU2ZDY0ZGM3MSIsInNvcnRWYWx1ZSI6MTc5MDI3MTQxMywidGllQnJlYWtlciI6IjIwMjYtMDktMjRUMjI6MTE6NDYuODA5WiJ9",
+   "hasMore": true,
+   "requestTimeMs": 295,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

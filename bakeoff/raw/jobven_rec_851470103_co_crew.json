@@ -1,0 +1,55 @@
+{
+ "call_id": "rec_851470103_co_crew",
+ "phase": "recall",
+ "url": "https://api.jobven.com/v1/public/companies?search=Crew&limit=10",
+ "params": [
+  [
+   "search",
+   "Crew"
+  ],
+  [
+   "limit",
+   10
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:24:13 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "117",
+  "connection": "close",
+  "server": "cloudflare",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "c46e40fb-305e-4589-bbae-29a86e3d3e83",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2411",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "4",
+  "etag": "W/\"75-jWp/2351/j/j1H8wM4wJ57FfwY0\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=xvE0fYGURSBC81FBfDX%2BmmOZoBUuV7xyvZtVcoU06%2BtBuNvq80WTCZkL9%2FL0oC5LCalFHsjxJRsYP1C17M5ae77NRl354d8etpTwQdLi6KU36IhM9zKYAwtwXkjUnoxFz2Vftc1AoOJuJdnEow%3D%3D\"}]}",
+  "cf-ray": "a406ea29df832caf-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "name": "getonecrew.com",
+    "website": "getonecrew.com"
+   }
+  ],
+  "meta": {
+   "page": 1,
+   "limit": 10,
+   "total": 1,
+   "totalPages": 1
+  }
+ }
+}

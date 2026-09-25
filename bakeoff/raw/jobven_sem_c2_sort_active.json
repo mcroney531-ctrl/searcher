@@ -1,0 +1,75 @@
+{
+ "call_id": "sem_c2_sort_active",
+ "phase": "semantics",
+ "url": "https://api.jobven.com/v1/public/companies?sortBy=activeJobsCount&sortOrder=DESC&limit=5",
+ "params": [
+  [
+   "sortBy",
+   "activeJobsCount"
+  ],
+  [
+   "sortOrder",
+   "DESC"
+  ],
+  [
+   "limit",
+   5
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:17:55 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "296",
+  "connection": "close",
+  "server": "cloudflare",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "c964b392-d6d3-4400-a904-8f51451ac0e1",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2481",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "9",
+  "etag": "W/\"128-pj42ZuP7SnYYvZOZE2UP1w+bHZo\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=RaVc%2FPMQ7C%2FpB4fwP%2BO0mzJTCLPG8ujIsKs4mqhqYZMFwiM8z9kEfVpGK7DEWdkE50ky9GKV%2B83d51dH36D65zYKYCq1Y4jWV37UnWeL%2BhP03%2B6%2FAbQnDoN4AkxwWm%2FHUYKrXyJo7zapA%2FUb%2FQ%3D%3D\"}]}",
+  "cf-ray": "a406e0ee68f58815-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "name": "dominos.com",
+    "website": "dominos.com"
+   },
+   {
+    "name": "Centraprise",
+    "website": "centraprise.com"
+   },
+   {
+    "name": "Accor Group",
+    "website": "accor.com"
+   },
+   {
+    "name": "AECOM",
+    "website": "aecom.com"
+   },
+   {
+    "name": "Bosch Group",
+    "website": "bosch.com"
+   }
+  ],
+  "meta": {
+   "page": 1,
+   "limit": 5,
+   "total": 5510,
+   "totalPages": 1102
+  }
+ }
+}

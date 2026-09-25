@@ -1,0 +1,55 @@
+{
+ "call_id": "rec_852303520_co_medtronic",
+ "phase": "recall",
+ "url": "https://api.jobven.com/v1/public/companies?search=Medtronic&limit=10",
+ "params": [
+  [
+   "search",
+   "Medtronic"
+  ],
+  [
+   "limit",
+   10
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:20:52 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "115",
+  "connection": "close",
+  "server": "cloudflare",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "14c4fc86-8b0a-4be2-bf22-b2446c435a86",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2463",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "8",
+  "etag": "W/\"73-igQqk+ZjsJRnfj6IC7jw06tJQyw\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=RE3Je7F3kwytUJC5ecdq%2FextB%2F6k0I%2Bp0pvCz7in%2FHPxt7IYyZ%2BJ64IkoE0OJdA2DGEVBmqUw60mS55E4x%2FK3yD3zolbF9JfYb%2BsWoxMCHpvmqAQTYQiUJtQuwY3%2FdVU3rg4YDw4RQwV1IO0Dg%3D%3D\"}]}",
+  "cf-ray": "a406e541b9d7012e-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "name": "medtronic.com",
+    "website": "medtronic.com"
+   }
+  ],
+  "meta": {
+   "page": 1,
+   "limit": 10,
+   "total": 1,
+   "totalPages": 1
+  }
+ }
+}

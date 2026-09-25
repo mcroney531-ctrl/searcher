@@ -1,0 +1,156 @@
+{
+ "call_id": "fam_desc_playbooks_and_training_p0",
+ "phase": "family",
+ "url": "https://api.jobven.com/v1/public/jobs?q=-%22account+executive%22+-%22account+manager%22+-%22sales+representative%22+-%22sales+manager%22+-%22customer+service+representative%22+-%22help+desk%22+-%22customer+success+manager%22+-%22support+specialist%22&descriptionQuery=playbooks+and+training&country=US&remoteType%5B%5D=remote&postedAfter=1789702200&limit=25",
+ "params": [
+  [
+   "q",
+   "-\"account executive\" -\"account manager\" -\"sales representative\" -\"sales manager\" -\"customer service representative\" -\"help desk\" -\"customer success manager\" -\"support specialist\""
+  ],
+  [
+   "descriptionQuery",
+   "playbooks and training"
+  ],
+  [
+   "country",
+   "US"
+  ],
+  [
+   "remoteType[]",
+   "remote"
+  ],
+  [
+   "postedAfter",
+   1789702200
+  ],
+  [
+   "limit",
+   25
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:28:17 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "transfer-encoding": "chunked",
+  "connection": "close",
+  "server": "cloudflare",
+  "vary": "Accept-Encoding",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "5f5c4f7f-489e-4bf9-b7fe-689e337d8625",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2330",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "251",
+  "etag": "W/\"4578-U44vdwc2lQpJICI+9T3noTVuok8\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=HTtKCEYZGjvnE3EirnFm7Bwm%2FxwE3eIDPm3yn2sfFOx0thjWwV0Liot2I4lLQQc%2BqakLkAuvG7GmGByEDQcl032D6l%2Bd0ObxpVxzieDA2nAACQERFT1%2Fc4TEp731aUUZNCDa7xgpY9LpB%2BmSvw%3D%3D\"}]}",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "cf-ray": "a406f01c299557d4-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "id": "7255a2b8-5099-4fab-94bd-b50f9f786193",
+    "title": "Senior Sales Enablement Manager, Smb & Mid-market",
+    "description": "<div><strong>What we’re building and why we’re building it.&nbsp;</strong></div><div><br></div><div>Fetch helps people live rewarded every day, with a vision to become the rewards destination for everyone. We turn everyday activities into meaningful rewards, whether it’s grocery shopping, grabbing a quick meal, or playing a favorite mobile game. To date, we’ve awarded more than $1 billion in Fetch Points to our users.</div><div><br></div><div>Each day, more than 13 million receipts are submitted on Fetch, providing visibility into over $212 billion in gross merchandise value. This creates the largest retail-agnostic, SKU-level view of household spending, powering Fetch as an outcomes-based advertising platform that helps brands acquire and retain lifelong consumers.</div><div><br></div><div>The Fetch app is available on the App Store and Google Play, with more than 6 million five-star reviews from a highly engaged and loyal user base.</div><div><br></div><div><span>It’s not just our users who believe in Fetch: with investments from Softbank, ICONIQ, DST, Greycroft, and partnerships ranging from challenger brands to Fortune 500 companies, Fetch is reshaping how brands and consumers connect in the marketplace. When you work at Fetch, you play a vital role in a platform that drives brand loyalty and creates lifelong consumers with the power of Fetch points. User and partner success are at the heart of everything we do, and we extend that same commitment to our employees.</span></div><div><br></div><div><span>At Fetch, we value curiosity, adaptability, and the confidence to explore new tools, especially AI, to drive smarter, faster work. You don’t need to be an expert, but you should be ready to learn quickly and think critically. We welcome learners who move fast, challenge the status quo, and shape what’s next, with us.&nbsp; Ranked as one of America’s Best Startup Employers by Forbes for two years in a row, Fetch fosters a people-first culture rooted in trust, accountability, and innovation. We encourage our employees to challenge ideas, think bigger, and always bring the fun to Fetch.</span></div><div><strong>About the Role:</strong></div><div><br></div><div><span>Fetch is investing in dedicated enablement support for two important growth segments: Mid-Market, an established and rapidly expanding business, and SMB, a new business that is being built from the ground up.</span></div><div><br></div><div><span>We are seeking a Sales Enablement Manager to serve as the embedded enablement partner for both teams. This role will simplify how sellers understand and sell Fetch's packages, build and maintain segment-specific onboarding and playbooks, and create a repeatable go-to-market motion that helps new and existing sellers become productive faster.</span></div><div><span>This is a builder role for someone who can move between strategy and execution diagnosing what is getting in the way of performance, translating complex offerings into practical sales guidance, and partnering closely with leaders and managers to reinforce the right behaviors in the flow of work.</span></div><div><br></div><div><span>Reporting to the Director of Sales Enablement, this role will partner closely with the Director to translate the overall Sales Enablement strategy into an SMB and Mid-Market-specific roadmap. They will also work closely with a Sales Enablement Manager peer who leads broader programs and supports Fetch’s other verticals. Together, the team will preserve a consistent company-wide approach while ensuring MM and SMB needs are considered early and reflected wherever the sales motion requires a different approach.</span></div><div><br></div><div>This is a full-time role that can be held from one of our US offices or remotely in the United States.</div><div><br></div><div><strong>Responsibilities</strong>:</div><div><br></div><div><span>Segment Enablement Strategy &amp; GTM Motion</span></div><div><br></div><ul><li><span>&nbsp;Serve as the primary enablement partner to SMB and Mid-Market Sales leaders, aligning priorities and enablement roadmaps to each segment's goals, seller needs, and stage of maturity.</span></li><li><span>Build and operationalize a clear, repeatable SMB sales motion while continuously evolving the Mid-Market motion as the team and opportunity set grow.</span></li><li><span>Translate business priorities into the processes, skills, messaging, tools, and reinforcement sellers need to execute consistently.</span></li><li><span>Use seller feedback, call insights, pipeline data, and performance trends to identify the highest-impact skill, process, and content gaps.</span></li></ul><div><br></div><div><span>Onboarding, Ramp &amp; Readiness</span></div><div><br></div><ul><li><span>Take ownership of the customized Mid-Market onboarding already in development and continuously improve the end-to-end ramp experience for MM and future SMB sellers.</span></li><li><span>Build and maintain distinct learning paths for Mid-Market Growth, Mid-Market New Business, and future SMB roles, incorporating segment- and role-specific training, practice, certifications, and manager-led reinforcement.</span></li><li><span>Adapt shared onboarding content where the MM/SMB motion differs—for example, cold outreach and discovery for new business, segment-specific package details, and more accessible entry points.</span></li><li><span>Partner with frontline managers to define readiness expectations and ensure a consistent handoff from formal onboarding into in-role coaching.</span></li><li><span>Track time-to-readiness and time-to-productivity, using results to improve the ramp experience and remove friction for new hires.</span></li></ul><div><br></div><div><span>Sales Packages, Playbooks &amp; Training</span></div><div><br></div><ul><li><span>Partner with GTM, Product Marketing, Sales, and Revenue Operations to simplify Fetch's products and packages into clear, sellable solutions for SMB and Mid-Market customers.</span></li><li><span>Own the creation and ongoing maintenance of every required MM/SMB version of broader training, package guidance, pitch decks, playbooks, talk tracks, and seller tools.</span></li><li><span>Translate shared offerings into the right MM/SMB execution—including package variances and more accessible entry levels, cold-outreach and new-business discovery motions, segment-relevant positioning, and role-specific pitch guidance.</span></li><li><span>Build practical segment playbooks that include buyer needs, outreach and discovery guidance, positioning, talk tracks, package selection, objection handling, proof points, measurement guidance, and execution steps.</span></li><li><span>Develop and facilitate targeted live and on-demand training for ramped and unramped sellers, grounded in real opportunities and the skills most likely to improve performance.</span></li><li><span>Convert launches and one-time trainings into reusable learning, coaching tools, and reinforcement that drive sustained adoption and behavior change.</span></li><li><span>Maintain accurate, easy-to-use segment content in Letter AI in partnership with the broader enablement content owner and established governance standards.</span></li></ul><div><br></div><div><span>Enablement Peer &amp; Cross-Functional Partnership</span></div><div><br></div><ul><li><span>Work closely with the Sales Enablement Manager serving other verticals to co-plan the roadmap, preserve consistent core messaging and methods, and identify MM/SMB versioning needs before broader programs are finalized.</span></li><li><span>Operate from shared standards and sources of truth rather than building a parallel enablement system; clearly divide ownership of core assets and MM/SMB adaptations.</span></li><li><span>Equip frontline managers with coaching guides, call-review frameworks, readiness checkpoints, and team exercises that reinforce the segment motion.</span></li><li><span>Develop deep working relationships with GTM partners responsible for product launches, media units, and Moments, representing MM/SMB requirements while plans, packages, and activation details are still being shaped.</span></li><li><span>Influence cross-functional plans so new products and activations have a compelling, executable fit for MM/SMB customers rather than requiring late-stage retrofitting.</span></li><li><span>Partner closely with Sales, Product Marketing, Revenue Operations, AIM, and other subject-matter experts to turn complex inputs into clear seller actions.</span></li><li><span>Create a reliable feedback loop between the field and cross-functional partners so messaging, packages, processes, and training improve as the businesses evolve.</span></li><li><span>Represent SMB and Mid-Market enablement needs in broader Sales Enablement planning while reusing shared programs and standards wherever they create scale.</span></li></ul><div><br></div><div><span>Measurement &amp; Continuous Improvement</span></div><div><br></div><ul><li><span>Define and track success measures for onboarding, training, package adoption, and seller proficiency, including leading and lagging indicators.</span></li><li><span>Track MM and SMB participation and completion across required trainings, following up with sellers and managers to close gaps and maintain clear visibility into readiness.</span></li><li><span>Monitor Gong adoption and use call reviews, manager observation, assessments, content usage, seller feedback, and commercial performance data to determine whether training is being applied in the field.</span></li><li><span>Use observed field behaviors to target reinforcement, coaching, content updates, and future training rather than treating completion as the finish line.</span></li><li><span>Use Letter AI, Gong, Salesforce, and AI-enabled workflows to improve learning, surface performance insights, and make enablement easier to access in the flow of work.</span></li></ul><div><br></div><div><strong>Qualifications</strong></div><div><br></div><ul><li><span>8+ years of experience in Sales Enablement, Revenue Enablement, Sales Training, or a comparable commercial role; experience supporting SMB and/or Mid-Market sales teams is strongly preferred.</span></li><li><span>Demonstrated success building or improving onboarding, playbooks, training, coaching, or sales motions that produced measurable changes in seller performance.</span></li><li><span>Strong understanding of high-velocity SMB selling and consultative Mid-Market selling, with the judgment to tailor enablement to different cycle lengths, buyers, and levels of deal complexity.</span></li><li><span>Ability to simplify complex products, pricing, packaging, and processes into clear guidance sellers can confidently use with customers.</span></li><li><span>Experience using data and qualitative insights to diagnose performance gaps, prioritize programs, and measure impact.</span></li><li><span>Strong facilitation, coaching, program management, and stakeholder-management skills.</span></li><li><span>Ability to operate independently and build structure in a fast-paced, evolving environment.</span></li><li><span>Experience with LMS/CMS platforms, CRM, conversation intelligence, and AI-enabled sales or learning tools.</span></li><li><span>Prior quota-carrying sales experience or meaningful experience coaching sellers in-role is strongly preferred.</span></li></ul><div><br></div><div><strong>What Success Looks Like</strong></div><div><br></div><ul><li><span>A clear, repeatable SMB sales motion is documented, taught, reinforced, and improved as the new team scales.</span></li><li><span>Customized onboarding and ramp paths for Mid-Market Growth, Mid-Market New Business, and future SMB roles remain current and help sellers reach meaningful readiness milestones faster.</span></li><li><span>Every broader enablement initiative that requires MM/SMB nuance has a clear, current segment version without creating conflicting narratives or disconnected systems.</span></li><li><span>Fetch's packages are easier for MM/SMB sellers to understand, select, position, and execute, with appropriate entry points and guidance for their buyers and sales motions.</span></li><li><span>MM/SMB requirements influence product launches, media units, and Moments early enough that the resulting plans are compelling and executable for the segments.</span></li><li><span>Training completion and Gong-based field application are visible, with managers receiving timely follow-up and reinforcement support.</span></li><li><span>Segment playbooks and training are trusted, current, and consistently used in live selling situations.</span></li><li><span>Enablement priorities are driven by measurable performance needs, with visible improvement in proficiency, adoption, conversion, deal velocity, or other agreed commercial outcomes.</span></li></ul><div><strong>Compensation:</strong></div><div>At Fetch, we offer competitive compensation packages including base, equity, and benefits to the exceptional folks we hire. The base salary range for this position is <span>$141,131-$166,036</span>. Discover our benefits and how our employees live rewarded at <a href=\"https://fetch.com/careers\">https://fetch.com/careers</a><strong>.</strong></div><div><strong>At Fetch, we'll give you the tools to feel healthy, happy and secure through:</strong></div><div><br></div><ul><li>Equity:&nbsp;We offer full-time employees equity in Fetch, so that everyone can benefit from Fetch’s growth.</li><li>401k Match:&nbsp;Dollar-for-dollar match up to 4%.</li><li>Benefits for humans and pets: We offer comprehensive medical, dental and vision plans for everyone including your pets.</li><li>Continuing Education: Fetch provides ten thousand per year in education reimbursement.</li><li>Employee Resource Groups: Take part in employee-led groups that are centered around fostering a diverse and inclusive workplace through events, dialogue and advocacy. The ERGs participate in our Inclusion Council with members of executive leadership.</li><li>Paid Time Off:&nbsp;On top of our flexible PTO, Fetch observes 9 paid holidays, as well as our year-end week-long break.&nbsp;</li><li>Robust Leave Policies:&nbsp;20 weeks of paid parental leave for primary caregivers, 14 weeks for secondary caregivers, and a flexible return to work schedule.&nbsp;</li><li>Calvin Care Cash: Employees who are welcoming new family members will also receive a one time $2,000 incentive to assist employees with covering the cost of childcare, clothing, diapers and much more!</li><li>Flexible Work Environment: Collaborate with your team in one of our stunning offices, or you can work fully remotely from anywhere in the US. We’ll ensure you are equally equipped with the hardware and software you need to get your job done in the comfort of your home. (applicable for most roles)</li></ul><div><br></div><div>Fetch is an equal opportunity employer that embraces diversity, inclusion, and respect for all individuals. We do not discriminate on the basis of race, color, religion, gender, gender identity or expression, sexual orientation, age, national origin, marital status, veteran status, disability, or any other characteristic protected by applicable law. Our commitment to inclusivity ensures that everyone is treated with dignity and has the opportunity to succeed based on their talent, skills, and potential.</div><div><br></div><div>Fetch also provides reasonable accommodations to qualified individuals with disabilities or those with sincerely held religious beliefs, as required by law. If you need assistance with the application process or require an accommodation, please contact us at accommodations@fetch.com.</div>",
+    "summary": "Fetch is seeking a Senior Sales Enablement Manager to support its SMB and Mid-Market sales teams. The role will build segment-specific sales motions, onboarding paths, playbooks, training, coaching, and measurement programs while partnering cross-functionally to improve seller productivity and commercial performance.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Facilitation",
+      "Leadership",
+      "Adaptability",
+      "Problem-solving"
+     ],
+     "primary_skills": [
+      "Sales Enablement",
+      "Revenue Enablement",
+      "Sales Training",
+      "Sales Motion Development",
+      "Sales Onboarding",
+      "Sales Playbook Development",
+      "Sales Coaching",
+      "Program Management",
+      "Stakeholder Management",
+      "Salesforce"
+     ],
+     "secondary_skills": [
+      "Letter AI",
+      "Gong",
+      "Learning Management Systems",
+      "Content Management Systems",
+      "Conversation Intelligence",
+      "Artificial Intelligence",
+      "Revenue Operations",
+      "Quota-Carrying Sales"
+     ]
+    },
+    "benefits": [
+     "stock_options_equity",
+     "pension_contribution_matching",
+     "pensions_401k",
+     "health_insurance",
+     "dental_insurance",
+     "vision_care",
+     "tuition_reimbursement",
+     "employee_discounts",
+     "paid_time_off_vacation_personal_days",
+     "parental_leave",
+     "flexible_work_hours",
+     "remote_work_hybrid_work_options",
+     "company_laptop_equipment",
+     "other_benefits"
+    ],
+    "salary": {
+     "max": 166036,
+     "min": 141131,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 8,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1789759919,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.gem.com/fetch/am9icG9zdDr29lsEVoI2j4k95bL86s-M",
+    "status": "active",
+    "companies": [
+     {
+      "name": "fetch.com",
+      "website": "fetch.com"
+     }
+    ]
+   }
+  ],
+  "meta": {
+   "count": 1,
+   "hasMore": false,
+   "requestTimeMs": 250,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

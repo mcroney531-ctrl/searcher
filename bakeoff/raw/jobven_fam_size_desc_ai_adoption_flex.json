@@ -1,0 +1,164 @@
+{
+ "call_id": "fam_size_desc_ai_adoption_flex",
+ "phase": "family",
+ "url": "https://api.jobven.com/v1/public/jobs?q=-%22account+executive%22+-%22account+manager%22+-%22sales+representative%22+-%22sales+manager%22+-%22customer+service+representative%22+-%22help+desk%22+-%22customer+success+manager%22+-%22support+specialist%22&descriptionQuery=AI+adoption&country=US&remoteType%5B%5D=remote&remoteType%5B%5D=flexible&postedAfter=1789702200&limit=1&includeTotal=true",
+ "params": [
+  [
+   "q",
+   "-\"account executive\" -\"account manager\" -\"sales representative\" -\"sales manager\" -\"customer service representative\" -\"help desk\" -\"customer success manager\" -\"support specialist\""
+  ],
+  [
+   "descriptionQuery",
+   "AI adoption"
+  ],
+  [
+   "country",
+   "US"
+  ],
+  [
+   "remoteType[]",
+   "remote"
+  ],
+  [
+   "remoteType[]",
+   "flexible"
+  ],
+  [
+   "postedAfter",
+   1789702200
+  ],
+  [
+   "limit",
+   1
+  ],
+  [
+   "includeTotal",
+   "true"
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:29:20 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "transfer-encoding": "chunked",
+  "connection": "close",
+  "server": "cloudflare",
+  "vary": "Accept-Encoding",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "8dd59e16-b893-4646-b2e6-d1ec18d31fd5",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2228",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "350",
+  "etag": "W/\"1fc1-VZOWcKH0KUvdD8o1H4f+GzlK4Lk\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=mZIOuySAcDye82NRE4I96jEQu5cPewyzoso%2F%2BrpPqzq1Qgof4WRkRnEmsUUxG%2B9a2UGHunC3sMKIhPwkGwysCI9MsbEdr4cCSREwCuFd%2FZhW2XecOpKqtmrzVf3BvJxqSfE9BmYKyvYp%2F3EsPg%3D%3D\"}]}",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "cf-ray": "a406f1a6acb0429a-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "id": "4c20fe33-7b91-4b3e-80d6-5fa1f19806b6",
+    "title": "Engineering Manager, Cloud Infrastructure",
+    "description": "<p>Replit is the agentic software creation platform that enables anyone to build applications using natural language. With millions of users worldwide, Replit is democratizing software development by removing traditional barriers to application creation.</p><h2>About the Role</h2><p>Replit enables people to build software with AI. The infrastructure underneath that experience must make it straightforward to launch services, isolate workloads, and run reliable systems at scale.</p><p>We're hiring a hands-on Engineering Manager to lead Cloud Infrastructure: the shared <strong>infrastructure as code (IaC), networking, storage, compute, and service mesh</strong> platforms that Replit's product and platform teams depend on. You'll lead and grow an existing engineering team building and operating these foundations, including Kubernetes, shared edge networking, service mesh and workload identity.</p><p>This is a platform-building role with production accountability. You should be comfortable going deep on a design or incident while developing a team that does not depend on you for every decision.</p><h2>What You'll Do</h2><ul><li><p><strong>Own the cloud-platform roadmap.</strong> Lead the team's IaC, networking, storage, compute, and service mesh platforms. Translate product, platform, reliability, and security needs into sequenced outcomes, balancing foundational investment, lifecycle work, and delivery commitments against the team's capacity.</p></li><li><p><strong>Make infrastructure repeatable and self-service.</strong> Build maintained IaC interfaces for services, cells, connectivity, identities, and shared resources. Enable internal customer teams to provision infrastructure without bespoke coordination or dependence on individual experts.</p></li><li><p><strong>Operate what the team builds.</strong> Own platform availability, upgrades, isolation, recovery, and incident remediation. Maintain clear SLOs, sustainable on-call coverage, and primary and backup owners for critical systems.</p></li><li><p><strong>Stay technically engaged.</strong> Review designs and production changes, debug difficult failure modes, and use AI coding tools—including Replit—to prototype and automate. Apply rigorous review and verification to AI-generated infrastructure changes.</p></li><li><p><strong>Build and grow a high-ownership engineering team.</strong> Coach engineers, develop technical leaders, set clear expectations, manage performance, and hire against agreed needs. Delegate meaningful ownership as the team grows.</p></li></ul><h2>What You'll Bring</h2><ul><li><p><strong>Demonstrated engineering management.</strong> You have led and developed engineers, made prioritization and performance decisions, hired thoughtfully, and delivered through a team—not only acted as its strongest individual contributor.</p></li><li><p><strong>Software-oriented infrastructure depth.</strong> You have built and operated cloud platforms or distributed systems and can reason across infrastructure code, Kubernetes, networking, service identity, and stateful dependencies.</p></li><li><p><strong>Safe-change and production judgment.</strong> You have owned consequential migrations and incidents, can explain failure modes and rollback limits, and know when simplifying a system is better than adding another platform.</p></li><li><p><strong>Platform-product and engineering judgment.</strong> You understand internal customers, create interfaces other teams adopt, and make clear tradeoffs among reliability, developer autonomy, engineering effort, and workload efficiency.</p></li></ul><h2>Nice to Have</h2><ul><li><p>Experience with multi-tenant, cellular, regional, or dedicated enterprise infrastructure.</p></li><li><p>Familiarity with GCP/GKE, Terraform or similar IaC systems, Cloudflare, Envoy/Istio, SPIFFE/SPIRE, and managed data services.</p></li><li><p>Experience with large-fleet rightsizing, infrastructure consolidation, or migrating CI compute without disrupting developer workflows.</p></li><li><p>A track record using AI tools to increase engineering output while preserving production safeguards.</p></li></ul><p><strong>Full-Time Employee Benefits Include:</strong></p><p>💰 Competitive Salary &amp; Equity</p><p>💹 401(k) Program with a 4% match (<em>US Only</em>)</p><p>⚕️ Health, Dental, Vision and Life Insurance</p><p>🩼 Short Term and Long Term Disability</p><p>🚼 Paid Parental, Medical, Caregiver Leave</p><p>🏝 Flexible Time Off (FTO) + Holidays</p><p>🚗 Commuter Benefits (<em>In-Office &amp; US Only</em>)</p><p>📱 Monthly Wellness Stipend</p><p>🧑‍💻 Autonomous Work Environment</p><p>🖥 In Office Set-Up Reimbursement (<em>In-Office Only</em>)</p><p>🚀 Quarterly Team Gatherings</p><p>☕ In Office Amenities (<em>In-Office Only</em>)</p><p><strong>Want to learn more about what we are up to?</strong></p><ul><li><p><a href=\"https://replit.com/blog/self-driving-company\">Self-driving Company</a></p></li><li><p><a href=\"https://replit.com/blog/evaluating-and-improving-agent-at-scale\">Replit Agent at Scale</a></p></li><li><p><a href=\"https://replit.com/blog/ai-adoption\">AI Adoption</a></p></li><li><p><a href=\"https://replit.com/build/open-source-app-builder\">Build Open-Source Apps</a></p></li></ul><p><strong>Interviewing + Culture at Replit</strong></p><ul><li><p><a href=\"https://blog.replit.com/operating-principles\"><u>Operating Principles</u></a></p></li><li><p><a href=\"https://blog.replit.com/reasons-not-to-join-replit\"><u>Reasons not to work at Replit</u></a></p></li></ul><p>To achieve our mission of making programming more accessible around the world, we need our team to be representative of the world. We welcome your unique perspective and experiences in shaping this product. We encourage people from all kinds of backgrounds to apply, including and especially candidates from underrepresented and non-traditional backgrounds.</p>",
+    "summary": "Replit seeks a hands-on Engineering Manager to lead and grow its Cloud Infrastructure team, overseeing infrastructure as code, networking, storage, compute, Kubernetes, and service mesh platforms. The role owns the cloud-platform roadmap and production reliability, while coaching engineers, managing performance and hiring, and staying technically involved in design, incidents, and safe infrastructure changes.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressRegion": "California",
+      "addressCountry": "US",
+      "addressLocality": "Foster City"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Coaching",
+      "Leadership",
+      "Communication"
+     ],
+     "primary_skills": [
+      "Engineering Management",
+      "Infrastructure as Code",
+      "Cloud Infrastructure",
+      "Kubernetes",
+      "Networking",
+      "Storage",
+      "Compute",
+      "Service Mesh",
+      "Distributed Systems",
+      "Site Reliability Engineering"
+     ],
+     "secondary_skills": [
+      "Google Cloud Platform",
+      "Google Kubernetes Engine",
+      "Terraform",
+      "Cloudflare",
+      "Envoy",
+      "Istio",
+      "SPIFFE",
+      "SPIRE",
+      "Managed Data Services",
+      "AI-Assisted Software Development"
+     ]
+    },
+    "benefits": [
+     "stock_options_equity",
+     "pensions_401k",
+     "pension_contribution_matching",
+     "health_insurance",
+     "dental_insurance",
+     "vision_care",
+     "life_insurance",
+     "disability_insurance",
+     "parental_leave",
+     "paid_time_off_vacation_personal_days",
+     "wellness_program",
+     "company_events_retreats",
+     "other_benefits"
+    ],
+    "salary": null,
+    "experienceLevel": "lead",
+    "employmentType": "full_time",
+    "minYearsExperience": null,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790277652,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/replit/1015fa18-69d0-49e5-a785-afe5cbcc4760",
+    "status": "active",
+    "companies": [
+     {
+      "name": "Replit",
+      "website": "replit.com"
+     }
+    ]
+   }
+  ],
+  "meta": {
+   "total": 57,
+   "count": 1,
+   "nextCursor": "eyJpZCI6IjRjMjBmZTMzLTdiOTEtNGIzZS04MGQ2LTVmYTFmMTk4MDZiNiIsInNvcnRWYWx1ZSI6MTc5MDI3NzY1MiwidGllQnJlYWtlciI6IjIwMjYtMDktMjVUMDA6MDY6MzUuNzcwWiJ9",
+   "hasMore": true,
+   "requestTimeMs": 350,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

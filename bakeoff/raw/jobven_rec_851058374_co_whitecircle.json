@@ -1,0 +1,55 @@
+{
+ "call_id": "rec_851058374_co_whitecircle",
+ "phase": "recall",
+ "url": "https://api.jobven.com/v1/public/companies?search=White+Circle&limit=10",
+ "params": [
+  [
+   "search",
+   "White Circle"
+  ],
+  [
+   "limit",
+   10
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:21:27 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "115",
+  "connection": "close",
+  "server": "cloudflare",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "deb272f0-f4d9-410e-afdb-f2364a1a3def",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2457",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "4",
+  "etag": "W/\"73-qARJq1CLY0/Q3As5IfHNKMY/CNI\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=3ae2UL0lqlEuikOzbIujyZmpEmXrDLMTYuKVok9H7RXRuW70FhL9%2Fft0mKSFh2BzhU%2BcpK9%2B7DAI99AsVDlMqlcNo3fEwEj75bsu3czIdhvoGExVAEDMCpGsV0C9jb1F%2Bab5eJKGXgSWhDFxMw%3D%3D\"}]}",
+  "cf-ray": "a406e61adaf5de94-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "name": "White Circle",
+    "website": "whitecircle.ai"
+   }
+  ],
+  "meta": {
+   "page": 1,
+   "limit": 10,
+   "total": 1,
+   "totalPages": 1
+  }
+ }
+}

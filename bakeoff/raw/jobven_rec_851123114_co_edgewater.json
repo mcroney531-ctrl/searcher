@@ -1,0 +1,50 @@
+{
+ "call_id": "rec_851123114_co_edgewater",
+ "phase": "recall",
+ "url": "https://api.jobven.com/v1/public/companies?search=Edgewater&limit=10",
+ "params": [
+  [
+   "search",
+   "Edgewater"
+  ],
+  [
+   "limit",
+   10
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:22:02 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "65",
+  "connection": "close",
+  "server": "cloudflare",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "b576267e-8a81-4435-8bd5-ad87f7a9383a",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2453",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "4",
+  "etag": "W/\"41-c0On01lj8RZhy+1JbnXQRdKB5vI\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=hvnbX0laTSLm%2BvjqeK8fdogu0MpMHp2TvYFvX6WNPcl2porM2CZV0qSnPx3NRTsU0Z5SBaIWAOGj3cVcq%2FFQ1t0fZo0%2F7Rhfxdx4yysA%2BJKGc2ot3Vv77CifJuxeUn2XjAWFBWSKO8SQWAOC6Q%3D%3D\"}]}",
+  "cf-ray": "a406e6f3d810f3e6-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [],
+  "meta": {
+   "page": 1,
+   "limit": 10,
+   "total": 0,
+   "totalPages": 0
+  }
+ }
+}

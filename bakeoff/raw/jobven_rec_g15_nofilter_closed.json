@@ -1,0 +1,54 @@
+{
+ "call_id": "rec_g15_nofilter_closed",
+ "phase": "recall",
+ "url": "https://api.jobven.com/v1/public/jobs?q=%22Business+Development+Course+Developer%22&status=closed&limit=5",
+ "params": [
+  [
+   "q",
+   "\"Business Development Course Developer\""
+  ],
+  [
+   "status",
+   "closed"
+  ],
+  [
+   "limit",
+   5
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:25:29 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "107",
+  "connection": "close",
+  "server": "cloudflare",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "73567a29-c76f-4ea6-ac22-6607055ab9e7",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2395",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "6",
+  "etag": "W/\"6b-93WKVanc/OowxQpHSV7kClrxsOs\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=MGxehfNQm6kkSduwWOesH%2FJcdIDD7wvd98KX0q8w9C1s%2BoMXpEObYxmD%2B42xleOAA8EppHA2W1tl%2B8FIOZp0n5U1Cza%2F7vQ0EEvqY%2BZIEgVueHLt92sz5U02frQLOELU9ZKpQL194%2BdnQ28oIw%3D%3D\"}]}",
+  "cf-ray": "a406ec0418a542ca-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [],
+  "meta": {
+   "count": 0,
+   "hasMore": false,
+   "requestTimeMs": 5,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

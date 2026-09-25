@@ -1,0 +1,62 @@
+{
+ "call_id": "rec_850873020_phrase_active",
+ "phase": "recall",
+ "url": "https://api.jobven.com/v1/public/jobs?q=%22Learning+Technology+Specialist%22&descriptionQuery=Instructional+Designer+and+Learning+Technology&status=active&postedAfter=1783036800&limit=1",
+ "params": [
+  [
+   "q",
+   "\"Learning Technology Specialist\""
+  ],
+  [
+   "descriptionQuery",
+   "Instructional Designer and Learning Technology"
+  ],
+  [
+   "status",
+   "active"
+  ],
+  [
+   "postedAfter",
+   1783036800
+  ],
+  [
+   "limit",
+   1
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:23:34 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "108",
+  "connection": "close",
+  "server": "cloudflare",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "c4bcc173-8920-46b8-b3c1-384f0d7bab28",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2433",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "14",
+  "etag": "W/\"6c-0+qUlnR/KYqtXhw0AsenouLcDwA\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=2GLO%2BA9YGfTiDntnp%2FTmlf8E6S578DTPpfzw5TfxhA3SQv46ACT0JTcXJPF%2BHrvS5d6WgZ2C7zCgIrLeTPeyPzlvFv6V7tH6rrQFAJwtEz5uH3wxJ5WZuCHeGq3B%2BvUtInwOp6aUubHrIRKEeg%3D%3D\"}]}",
+  "cf-ray": "a406e9356850a62e-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [],
+  "meta": {
+   "count": 0,
+   "hasMore": false,
+   "requestTimeMs": 13,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

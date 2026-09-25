@@ -1,0 +1,342 @@
+{
+ "call_id": "rec_851275561_title",
+ "phase": "recall",
+ "url": "https://api.jobven.com/v1/public/jobs?q=%22Senior+Content+Designer%22&country=US&postedAfter=1788220800&limit=10",
+ "params": [
+  [
+   "q",
+   "\"Senior Content Designer\""
+  ],
+  [
+   "country",
+   "US"
+  ],
+  [
+   "postedAfter",
+   1788220800
+  ],
+  [
+   "limit",
+   10
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:21:21 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "transfer-encoding": "chunked",
+  "connection": "close",
+  "server": "cloudflare",
+  "vary": "Accept-Encoding",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "0d34a3d1-5934-494c-8b65-3db49408080a",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2457",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "30",
+  "etag": "W/\"877b-sxk5OrnjAL2xsUcpbE1lucI7nzQ\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=NnaCDDXLISa6JhrYTXtsXr7CiBYHoEJArVAthdJaPfhDavlPRuPqkCbJ6Ar1Iv7ft%2BR5vX3l%2F6DXBF3URqIS%2BG2BtXYJi05WuavrrwzhkCkL12VvnkVW3CWwLdrneqAVlLYez1bkwP%2FIF%2FnPIw%3D%3D\"}]}",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "cf-ray": "a406e5f27c85dafc-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "id": "f2db6c02-e44b-4a30-8944-39d8f0993a40",
+    "title": "Senior Content Designer",
+    "description": "&lt;div class=\"content-intro\"&gt;&lt;h2&gt;Join us in building the future of finance.&lt;/h2&gt; &lt;p&gt;Our mission is to democratize finance for all. &lt;a href=\"https://www.cerulli.com/press-releases/cerulli-anticipates-124-trillion-in-wealth-will-transfer-through-2048\" target=\"_blank\"&gt;An estimated $124 trillion of assets&lt;/a&gt; will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you’re ready to be at the epicenter of this historic cultural and financial shift, keep reading.&lt;/p&gt;&lt;/div&gt;&lt;h2 style=\"line-height: 1.5;\"&gt;&lt;strong&gt;About the team + role&lt;/strong&gt;&lt;/h2&gt; &lt;p style=\"line-height: 1.5;\"&gt;We are building an elite team, applying frontier technologies to the world’s biggest financial problems. We’re looking for bold thinkers. Sharp problem-solvers. Builders who are wired to make an impact. Robinhood isn’t a place for complacency, it’s where ambitious people do the best work of their careers. We’re a high-performing, fast-moving team with ethics at the center of everything we do. Expectations are high, and so are the rewards. We're looking for an exceptional Futures Risk Program Manager to help shape the future of our core platforms, products, and customer experiences. FinTech is one of the most complex and rapidly evolving spaces in technology, and the challenges we're tackling require deep innovation, critical thinking, and scale that don't always have strong precedents.&lt;/p&gt; &lt;p style=\"line-height: 1.5;\"&gt;You'll take on a highly influential role shaping vision and execution across key strategic initiatives. You'll partner with cross-functional leaders, contribute to high-impact decisions, guide complex projects from concept to completion, and mentor others on the team. This is a role for someone who leverages modern tools and cutting-edge methodologies as a core part of how they solve problems, and raises the bar for everyone around them.&lt;/p&gt; &lt;p style=\"line-height: 1.5;\"&gt;This role is based in our Chicago, IL, with in-person attendance expected at least 3 days per week.&lt;/p&gt; &lt;p style=\"line-height: 1.5;\"&gt;At Robinhood, we believe in the power of in-person work to accelerate progress, spark innovation, and strengthen community. Our office experience is intentional, energizing, and designed to fully support high-performing teams.&lt;/p&gt; &lt;h2 style=\"line-height: 1.5;\"&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Architect and govern content strategies and systemic taxonomies for high-frequency digital financial products, including multi-leg options, portfolio margin and advanced trading tools.&lt;/li&gt; &lt;li&gt;Define the logic and communication architecture for high-risk, time-sensitive regulatory events, including automated margin liquidations, complex options lifecycle events (assignments/exercises, sellouts), and real-time risk-mitigation protocols.&lt;/li&gt; &lt;li&gt;Establish the strategic governance and prompt-design frameworks for AI-native trading assistants and LLM-generated market insights, ensuring machine-generated content adheres to strict financial disclosure standards and algorithmic transparency requirements.&lt;/li&gt; &lt;li&gt;Interpret evolving SEC and FINRA regulatory mandates to proactively steer product direction and architect communication strategies that mitigate systemic legal risk.&lt;/li&gt; &lt;li&gt;Lead the strategic design and end-to-end evolution for brand-new financial instruments and asset classes from initial concept to global launch.&lt;/li&gt; &lt;li&gt;Direct the mentorship and capability building of junior designers, focusing on complex market mechanics, AI-integrated design workflows, and internal content-governance tooling.&lt;/li&gt; &lt;li&gt;Define the unified content logic and high-precision accuracy standards for real-time market data visualizations and multi-channel order-entry systems across iOS, Android, and Web platforms.&lt;/li&gt; &lt;li&gt;Establish frameworks for using quantitative telemetry (conversion funnels, error rates) and qualitative research to optimize the end-to-end algorithmic content ecosystem, ensuring high- precision accuracy across the Core Trading user journey.&lt;/li&gt; &lt;li&gt;Define requirements for internal content management systems and localization workflows to ensure the rapid deployment of high-stakes regulatory alerts and multi-region product launches.&lt;/li&gt; &lt;/ul&gt; &lt;h2 style=\"line-height: 1.5;\"&gt;&lt;strong&gt;What you bring&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Bachelor’s degree (or foreign equivalent) in Design, Communications, Human-Computer Interaction, Journalism, or a related field, and 3 years of experience in the job offered or a related occupation.&lt;/li&gt; &lt;li&gt;Education and/or experience must include: &lt;ul&gt; &lt;li&gt;Strategic content architecture &amp;amp; systemic governance;&lt;/li&gt; &lt;li&gt;High-precision linguistic frameworks for high-stakes transactional interfaces;&lt;/li&gt; &lt;li&gt;Advanced derivatives strategies, leverage, and clearing mechanics;&lt;/li&gt; &lt;li&gt;High-volatility incident response and automated financial risk-mitigation flows;&lt;/li&gt; &lt;li&gt;Proven ability to translate SEC/FINRA mandates into product implication;&lt;/li&gt; &lt;li&gt;Governance of AI-integrated systems &amp;amp; prompt engineering for algorithmic insights;&lt;/li&gt; &lt;li&gt;Strategic organizational influence &amp;amp; executive stakeholder alignment;&lt;/li&gt; &lt;li&gt;Leading zero-to-one product launches within a highly regulated fintech environment; and&lt;/li&gt; &lt;li&gt;Designing for high-stakes edge cases in financial trading, including assignment/exercise risk, T+1 settlement logic, and complex order-entry mechanics.&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;Background checks required.&lt;/li&gt; &lt;/ul&gt; &lt;h2 style=\"line-height: 1.5;\"&gt;&lt;strong&gt;What we offer&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Challenging, high-impact work to grow your career.&lt;/li&gt; &lt;li&gt;Performance driven compensation with multipliers for outsized impact, bonus programs, equity ownership, and 401(k) matching.&lt;/li&gt; &lt;li&gt;Best in class benefits to fuel your work, including 100% paid health insurance for employees with 90% coverage for dependents.&lt;/li&gt; &lt;li&gt;Lifestyle wallet - a highly flexible benefits spending account for wellness, learning, and more.&lt;/li&gt; &lt;li&gt;Employer-paid life &amp;amp; disability insurance, fertility benefits, and mental health benefits.&lt;/li&gt; &lt;li&gt;Time off to recharge including company holidays, paid time off, sick time, parental leave, and more!&lt;/li&gt; &lt;li&gt;Exceptional office experience with catered meals, events, and comfortable workspaces.&lt;/li&gt; &lt;/ul&gt; &lt;p style=\"line-height: 1.5;\"&gt;&lt;strong&gt;In addition to the base pay range listed below, this role is also eligible for bonus opportunities + equity + benefits.&lt;/strong&gt;&lt;/p&gt; &lt;p style=\"line-height: 1.5;\"&gt;Base pay for the successful applicant will depend on a variety of job-related factors, which may include education, training, experience, location, business needs, or market demands. The expected base pay range for this role is based on the location where the work will be performed and is aligned to the corresponding compensation zone.&lt;/p&gt; &lt;p style=\"line-height: 1.5;\"&gt;&lt;span style=\"text-decoration: underline;\"&gt;Base Pay Range:&lt;/span&gt;&lt;/p&gt; &lt;p style=\"line-height: 1.5;\"&gt;$82,056.00 - $150,000.00 per year&lt;/p&gt; &lt;p style=\"line-height: 1.5;\"&gt;&lt;span style=\"text-decoration: underline;\"&gt;Apply by clicking APPLY NOW. Indicate job code I-2725 in your application.&lt;/span&gt;&lt;/p&gt;&lt;div class=\"content-conclusion\"&gt;&lt;p&gt;Click &lt;a href=\"https://careers.robinhood.com/benefits\" target=\"_blank\"&gt;here&lt;/a&gt; to learn more about our Total Rewards, which vary by region and entity.&lt;/p&gt; &lt;p&gt;If our mission energizes you and you’re ready to build the future of finance, we look forward to seeing your application.&lt;/p&gt; &lt;p&gt;Robinhood provides equal opportunity for all applicants, offers reasonable accommodations upon request, and complies with applicable equal employment and privacy laws. Inclusion is built into how we hire and work—welcoming different backgrounds, perspectives, and experiences so everyone can do their best. Please review the&amp;nbsp;&lt;a href=\"https://careers.robinhood.com/applicantprivacypolicy\" target=\"_blank\"&gt;Privacy Policy&lt;/a&gt; for your country of application.&lt;/p&gt;&lt;/div&gt;",
+    "summary": "The Senior Content Designer will architect content strategies, taxonomies, governance frameworks, and communication systems for complex, high-risk financial trading products. The role leads regulatory and AI-content governance, designs content for new financial instruments and trading workflows, mentors junior designers, and partners with cross-functional stakeholders on regulated fintech initiatives.",
+    "locations": [
+     {
+      "workLocation": "hybrid",
+      "addressRegion": "Illinois",
+      "addressCountry": "US",
+      "addressLocality": "Chicago"
+     }
+    ],
+    "remoteType": "hybrid",
+    "skills": {
+     "soft_skills": [
+      "Problem-solving",
+      "Leadership",
+      "Mentorship",
+      "Communication",
+      "Stakeholder Alignment"
+     ],
+     "primary_skills": [
+      "Content Architecture",
+      "Content Governance",
+      "Taxonomy Management",
+      "Financial Trading",
+      "Derivatives Strategies",
+      "Financial Risk Management",
+      "Regulatory Compliance",
+      "Prompt Engineering",
+      "AI System Governance",
+      "Quantitative Data Analysis"
+     ],
+     "secondary_skills": [
+      "Content Management Systems",
+      "Localization",
+      "Market Data Visualization",
+      "User Research",
+      "Figma",
+      "iOS",
+      "Android",
+      "Web Platforms"
+     ]
+    },
+    "benefits": [
+     "pension_contribution_matching",
+     "pensions_401k",
+     "stock_options_equity",
+     "performance_bonuses",
+     "health_insurance",
+     "wellness_program",
+     "life_insurance",
+     "disability_insurance",
+     "mental_health_support",
+     "paid_time_off_vacation_personal_days",
+     "sick_leave",
+     "parental_leave",
+     "company_events_retreats",
+     "free_subsidized_meals",
+     "other_benefits"
+    ],
+    "salary": {
+     "max": 150000,
+     "min": 82056,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 3,
+    "educationRequirement": {
+     "required": [
+      "bachelor_degree"
+     ],
+     "preferred": []
+    },
+    "industry": [
+     "finance_banking",
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790021964,
+    "expiresAt": null,
+    "applyUrl": "https://boards.greenhouse.io/robinhood/jobs/8220730?t=gh_src=&gh_jid=8220730",
+    "status": "active",
+    "companies": [
+     {
+      "name": "Robinhood",
+      "website": "robinhood.com"
+     }
+    ]
+   },
+   {
+    "id": "e087e0d2-ef85-4e9b-8370-676e3384cc92",
+    "title": "Senior Content Designer",
+    "description": "<p>Ibotta is seeking an experienced <strong>Senior Content Designer</strong> to join our UX team and contribute to our mission to Make Every Purchase Rewarding. As part of our team, you'll shape the language, structure, and flow of the experiences that help millions of shoppers save money and help our brand clients and publishers grow their businesses. Reporting to the Director of UX Research, you will partner closely with product management, product design, UX research, and engineering to craft content that makes complex products feel simple, trustworthy, and easy to use. This role is crucial in ensuring our products speak with a clear, consistent voice, regardless of where a user accesses our tools.</p><p>This is a senior-level role with the opportunity to raise the bar for content design at Ibotta. You’ll contribute to building scalable systems and best practices while also rolling up your sleeves on high-visibility product work. The ideal candidate is a strong systems thinker who partners easily across disciplines and can flex between hands-on craft and strategic influence.</p><p>This position is located in Denver, Colorado as a hybrid position requiring 3 days in office (Tuesday, Wednesday, and Thursday). Candidates must live in the United States.</p><p><strong>Not based in Denver? We will offer a relocation bonus to help make your move to the Mile High City a smooth one.</strong></p><p><strong>What you will be doing:</strong></p><ul><li><p>Own end-to-end content design for complex, ambiguous product areas that span both B2B and consumer domains.</p></li><li><p>Establish and evolve content standards, voice and tone guidelines, and reusable patterns that scale across squads and product surfaces.</p></li><li><p>Use behavioral data and user research to pressure test content decisions, iterating based on evidence and expertise.</p></li><li><p>Identify content gaps and opportunities proactively.</p></li><li><p>Raise the quality bar for content by reviewing and providing feedback on the work of UX, product management, and engineering team members.</p></li><li><p>Work with UX leadership to evangelize the value and process of content design.</p></li><li><p>Embrace and uphold Ibotta's Core Values:<em>Integrity, Boldness, Ownership, Teamwork, Transparency, &amp; A Good Idea Can Come from Anywhere</em></p></li></ul><p><strong>What we are looking for:</strong></p><ul><li><p>4 to 6 years of experience in content design, UX writing, content strategy, or a related field. Ideal candidates will have experience within a consumer-facing tech product or marketplace/platform environment.</p></li><li><p>Ideal candidates will have experience with conversational design.</p></li><li><p>Bachelor's degree in English, Communications, Journalism, Human-Centered Design, a related field, or equivalent professional experience.</p></li><li><p>A strong portfolio demonstrating end-to-end content design work that demonstrates your writing process, problem-solving skills, examples of polished UI copy, and a measurable impact on the user experience.</p></li><li><p>Excellent facilitation and communication skills, with the ability to present and defend content decisions to cross-functional and senior stakeholders.</p></li><li><p>Experience building or scaling content systems, style guides, or governance frameworks across multiple teams or products.</p></li><li><p>Familiarity with design and prototyping tools (e.g., Figma), collaboration/documentation tools (e.g., Jira, Confluence), and AI tools (e.g. Claude Code, OpenAI Codex).</p></li><li><p>A deep curiosity for understanding users and empathizing with their problems, paired with the judgment to know when data should override a strong opinion.</p></li></ul><p><strong>About Ibotta (\"I bought a...\")</strong></p><p>Ibotta (NYSE: IBTA) is a leading performance marketing platform allowing brands to deliver digital promotions to over 200 million consumers through a network of publishers called the Ibotta Performance Network (IPN). The IPN allows marketers to influence what people buy, and where and how often they shop – all while paying only when their campaigns directly result in a sale. American shoppers have earned over $2.6 billion through the IPN since 2012. The largest tech IPO in history to come out of Colorado, Ibotta is headquartered in Denver, and is continually listed as a top place to work by The Denver Post and Inc. Magazine.</p><p>To learn more about what our Tech teams are doing day to day, visit <a href=\"https://medium.com/building-ibotta\"><u>Building Ibotta on</u></a><a href=\"http://Medium.com\"><u>Medium.com</u></a></p><p><strong>Additional Details:</strong></p><ul><li><p>This position is located in Denver, CO, and includes competitive pay, flexible time off, a benefits package (including medical, dental, and vision), a Lifestyle Spending Account, an Employee Stock Purchase Program, and 401k match.<strong>Denver office perks include paid parking, snacks, and occasional meals.</strong></p></li><li><p>Base compensation range: $131,000 - $153,000. Equity is included in the overall compensation package. This compensation range is specific to the United States labor market and may be adjusted based on actual experience.</p></li><li><p>Ibotta is an Equal Opportunity Employer. Ibotta's employment decisions are made without regard to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, sexual orientation, or any other legally protected status.</p></li><li><p>Applicants must be currently authorized to work in the United States on a full-time basis.</p></li><li><p>Applicants are accepted until the position is filled.</p></li><li><p>For the security of our employees and the business, all employees are responsible for the secure handling of data in accordance with our security policies, identifying and reporting phishing attempts, as well as reporting security incidents to the proper channels.</p></li></ul><p><strong>Recruiting Agency Notice<br></strong> Ibotta does not accept agency resumes and is not responsible for any fees related to unsolicited resumes. Please do not forward resumes to any Ibotta employees.</p>",
+    "summary": "Ibotta is seeking a Senior Content Designer to own end-to-end content design for complex B2B and consumer product areas. The role includes developing scalable content systems and standards, using research and behavioral data to guide decisions, and collaborating with cross-functional teams to improve product experiences. It is a hybrid position based in Denver, Colorado, requiring three days in the office.",
+    "locations": [
+     {
+      "workLocation": "hybrid",
+      "addressRegion": "Colorado",
+      "addressCountry": "US",
+      "addressLocality": "Denver"
+     }
+    ],
+    "remoteType": "hybrid",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Teamwork",
+      "Facilitation",
+      "Empathy",
+      "Curiosity"
+     ],
+     "primary_skills": [
+      "Content Design",
+      "UX Writing",
+      "Content Strategy",
+      "Conversational Design",
+      "Content Standards",
+      "Voice and Tone Guidelines",
+      "Content Systems",
+      "Style Guides",
+      "Governance Frameworks",
+      "Figma"
+     ],
+     "secondary_skills": [
+      "Jira",
+      "Confluence",
+      "Artificial Intelligence Tools",
+      "Behavioral Data Analysis",
+      "User Research"
+     ]
+    },
+    "benefits": [
+     "health_insurance",
+     "dental_insurance",
+     "vision_care",
+     "flexible_work_hours",
+     "remote_work_hybrid_work_options",
+     "stock_options_equity",
+     "pension_contribution_matching",
+     "pensions_401k",
+     "paid_time_off_vacation_personal_days",
+     "free_subsidized_meals",
+     "other_benefits"
+    ],
+    "salary": {
+     "max": 153000,
+     "min": 131000,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 4,
+    "educationRequirement": {
+     "required": [],
+     "preferred": [
+      "bachelor_degree"
+     ]
+    },
+    "industry": [
+     "technology_software",
+     "marketing_advertising"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": true,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1789148905,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/ibotta/9d3a03b6-0f08-479a-aeab-920060249ad8",
+    "status": "active",
+    "companies": [
+     {
+      "name": "Ibotta",
+      "website": "ibotta.com"
+     }
+    ]
+   },
+   {
+    "id": "5aee02e0-9027-47c5-bc1a-ae0175912a19",
+    "title": "Senior Content Designer",
+    "description": "<h2>Company Description</h2><p>At Brightspeed, we are reimagining how people live, work, play and connect by providing fast, reliable internet connections and an awesome customer experience in twenty states throughout the Midwest and South.</p><p>Backed by funds managed by Apollo Global Management, our vision is to accelerate the upgrade of copper to fiber optic technologies, bringing faster and more reliable internet service to many rural markets traditionally underserved by broadband providers, while delivering best-in-class customer experience.</p><p>Be a part of the team that will make this vision a reality….designing and building a world class fiber network and creating a customer experience second to none.</p><p><a href=\"http://brightspeed.com/\">Check us out on the web!</a></p><h2>Job Description</h2><p>The Senior Content Designer, Product Design, eCommerce is a senior individual contributor responsible for the content strategy, experience language, information architecture, and content quality across Brightspeed’s eCommerce ecosystem. This role looks across multiple funnels and customer journeys to define the overall content approach, connect related experiences, identify patterns, and ensure customers receive clear, consistent, and helpful guidance from discovery through purchase, account creation, installation, and post-order moments.&nbsp;</p><p>This role is strategy-led. The Senior Content Designer is expected to understand the full digital ecosystem, define content frameworks across funnels, influence product and design direction, and guide how content supports business goals, customer comprehension, conversion, accessibility, and long-term experience quality. This role uses AI-assisted tools to improve content strategy, content operations, and conversational customer experiences while maintaining accuracy, clarity, accessibility, and customer trust.&nbsp;</p><p>The Senior Content Designer also acts as a mentor and coach for other content and product design partners. This person helps raise the quality of the team’s content work through critique, standards, documentation, reusable patterns, and practical guidance. They are accountable for connecting the details of interface copy to the broader customer journey and ensuring content decisions scale across the eCommerce experience.&nbsp;</p><p>IMPACT&nbsp;</p><p><strong>Content Strategy Across Funnels&nbsp;</strong></p><ul><li><p>Own content strategy across multiple eCommerce funnels, including acquisition, service qualification, plan comparison, cart, checkout, account creation, installation scheduling, order confirmation, post-order education, and related self-service journeys.&nbsp;</p></li></ul><ul><li><p>Identify how content decisions in one part of the journey affect customer comprehension, conversion, support needs, and downstream experience quality in other funnels.&nbsp;</p></li></ul><ul><li><p>Apply AI-assisted methods to content analysis, exploration, prototyping, or conversational experiences, and help establish clear, responsible content practices for AI-enabled interactions.&nbsp;</p></li></ul><ul><li><p>Create content frameworks, journey-level messaging strategies, decision trees, naming systems, and information architecture recommendations that help customers understand options and complete tasks with confidence.&nbsp;</p></li></ul><ul><li><p>Partner with product design, product management, analytics, research, marketing, legal, and engineering to shape experience strategy before detailed execution begins.&nbsp;</p></li></ul><ul><li><p>Use customer insights, funnel data, usability findings, experimentation results, and stakeholder input to identify content gaps and prioritize improvements.&nbsp;</p></li></ul><ul><li><p>Balance business requirements, legal constraints, brand voice, product complexity, and customer needs when defining content direction.&nbsp;</p></li></ul><p><strong>Experience Architecture &amp; UX Writing Leadership&nbsp;</strong></p><ul><li><p>Lead content design for complex, ambiguous, or high-impact eCommerce initiatives that require systems thinking across pages, flows, platforms, and customer states.&nbsp;</p></li></ul><ul><li><p>Define the role of content in the experience, including page hierarchy, customer guidance, progressive disclosure, comparison logic, error recovery, and decision support.&nbsp;</p></li></ul><ul><li><p>Write and refine high-value interface content including headlines, CTAs, labels, helper text, product education, comparison language, error messages, confirmation content, and transactional guidance.&nbsp;</p></li></ul><ul><li><p>Translate complex product, pricing, eligibility, installation, promotional, legal, or technical information into clear and customer-friendly experiences.&nbsp;</p></li></ul><ul><li><p>Ensure content decisions support accessibility, plain language, inclusive language, responsive design, and measurable customer outcomes.&nbsp;</p></li></ul><ul><li><p>Create content annotations, rationale, content models, and handoff documentation for engineering, QA, product, legal, and business partners.&nbsp;</p></li></ul><p><strong>Mentoring, Coaching &amp; Team Elevation&nbsp;</strong></p><ul><li><p>Coach and mentor content designers, product designers, and cross-functional partners on content design best practices, UX writing, journey thinking, and customer-centered communication.&nbsp;</p></li></ul><ul><li><p>Lead content critiques, content reviews, and working sessions that improve the quality, consistency, and strategic value of the team’s work.&nbsp;</p></li></ul><ul><li><p>Help less experienced content designers move from task execution to stronger journey awareness, rationale, and systems thinking.&nbsp;</p></li></ul><ul><li><p>Create reusable guidance, templates, standards, and examples that make strong content decisions easier for the broader team.&nbsp;</p></li></ul><ul><li><p>Model strong stakeholder communication by explaining content strategy, trade-offs, risks, and recommendations clearly to both working teams and leadership.&nbsp;</p></li></ul><p><strong>Content Systems, Governance &amp; Measurement</strong>&nbsp;</p><ul><li><p>Contribute to content standards, voice and tone guidance, reusable UX writing patterns, and content components within Brightspeed’s design system.&nbsp;</p></li></ul><ul><li><p>Define and maintain patterns for forms, errors, alerts, CTAs, plan cards, comparison tables, checkout steps, eligibility states, confirmation messages, and post-order guidance.&nbsp;</p></li></ul><ul><li><p>Identify outdated, inconsistent, duplicated, or conflicting messaging across funnels and recommend governance improvements.&nbsp;</p></li></ul><ul><li><p>Partner with analytics and experimentation teams to evaluate content performance and identify opportunities to improve clarity, conversion, and task completion.&nbsp;</p></li></ul><ul><li><p>Support content inventories, audits, journey maps, and documentation that give the team a clear view of the broader content ecosystem.&nbsp;</p></li></ul><p>May perform other duties as assigned.</p><h2>Qualifications</h2><p><strong>YOU WILL THRIVE IN THIS ROLE IF YOU</strong>&nbsp;</p><ul><li><p>Hold a bachelor’s degree in English, Communications, UX, HCI, Design, Journalism, Content Strategy, or a related field, or bring equivalent practical experience.&nbsp;</p></li></ul><ul><li><p>Bring 7 or more years of experience in content design, UX writing, product content strategy, or digital content design.&nbsp;</p></li></ul><ul><li><p>Have practical experience using AI within a professional content-design or content-strategy workflow and can speak confidently about at least one relevant example.&nbsp;</p></li></ul><ul><li><p>Have experience shaping content strategy across multiple digital funnels, customer journeys, or product areas.&nbsp;</p></li></ul><ul><li><p>Have a portfolio that demonstrates strategic content design, journey-level thinking, systems thinking, UX writing craft, and measurable experience improvements.&nbsp;</p></li></ul><ul><li><p>Can simplify complex product, pricing, legal, technical, or operational information into clear customer-facing experiences.&nbsp;</p></li></ul><ul><li><p>Can mentor other designers, lead critiques, and raise the quality of content work across a team.&nbsp;</p></li></ul><ul><li><p>Understand product design workflows and can collaborate fluently with UX/UI designers, product managers, engineers, researchers, analysts, marketing, and legal partners.&nbsp;</p></li></ul><ul><li><p>Are comfortable working in Figma and reviewing content directly within design files.&nbsp;</p></li></ul><ul><li><p>Understand accessibility, plain language, inclusive language, responsive design, content governance, and design systems.&nbsp;</p></li></ul><ul><li><p>Can lead content decisions in ambiguous situations and communicate strategic rationale with confidence.&nbsp;</p></li></ul><p><strong>A PLUS IF YOU HAVE&nbsp;</strong></p><ul><li><p>Experience in telecommunications, broadband, utilities, subscription services, regulated digital experiences, or complex eCommerce ecosystems.&nbsp;</p></li></ul><ul><li><p>Experience with checkout, cart, plan comparison, promotions, service qualification, account creation, onboarding, or self-service funnels.&nbsp;</p></li></ul><ul><li><p>Experience contributing to design systems, content systems, UX writing guidelines, or content governance models.&nbsp;</p></li></ul><ul><li><p>Experience with experimentation, content testing, usability testing, conversion optimization, analytics, or journey measurement.&nbsp;</p></li></ul><ul><li><p>Knowledge with SEO, personalization, localization, or Spanish-language content workflows.&nbsp;</p></li></ul><p><strong>LANGUAGE SKILLS</strong>&nbsp;</p><p>English required. Bilingual Spanish a plus.&nbsp;</p><p><strong>PHYSICAL DEMANDS&nbsp;</strong></p><p>Work is primarily sedentary, performed indoors from a home or company office while operating a computer and standard office productivity tools. Occasional additional hours may be required to meet project deadlines.&nbsp;</p><p>#LI-RW1</p><h2>Additional Information</h2><p><strong>WHY JOIN US?</strong></p><p><strong><u>We aspire to contemporary ways of working.</u></strong></p><p>Recognized as a Top Workplace by the Charlotte Observer, Brightspeed HQ is located on the 7th floor of the new Vantage South End - East Tower in Charlotte, NC.&nbsp;We prioritize hiring talent in the Charlotte area, whenever possible, to make it a truly vibrant destination for our hybrid workforce. At Brightspeed, we have roles that are designated as remote, hybrid, office or field-based, depending on the position, business needs and individual circumstances. We also invest in technology that enables our entire team to stay connected. Why? Because Brightspeed recognizes the value of finding the best talent for the job, wherever they may be.</p><p><strong><u>We offer competitive compensation and comprehensive benefits.</u></strong></p><p>Our benefits and paid time off programs reflect our underlying belief in promoting overall wellness through&nbsp;physical, emotional and financial health.&nbsp;Brightspeed offers a comprehensive benefit program, including competitive medical, dental, vision, and life insurance; an employee assistance program; a 401K plan with company match and a host of voluntary benefits.&nbsp;</p><p><strong><u>Inclusion and belonging&nbsp;</u></strong><u><strong>are at the center of our grounding belief in&nbsp;Being Real</strong>.</u>&nbsp;</p><p>When we bring our authentic selves to work, everyone is better as a result. A diverse team helps us be&nbsp;fierce advocates&nbsp;for more&nbsp;accessible,&nbsp;inclusive&nbsp;and high-quality internet, because we&nbsp;believe doing so promotes&nbsp;equity&nbsp;in the communities we serve.</p><p>Brightspeed is an Equal Opportunity Employer that is committed to inclusion of all qualified individuals, including individuals with a disability/veterans. If you require reasonable accommodation to complete a job application or to otherwise participate in the hiring process, please contact <a href=\"mailto:taaccommodationrequests@brightspeed.com\">taaccommodationrequests@brightspeed.com</a> to initiate the accommodations process.&nbsp;</p><p>For all applicants, please take a moment to review our Privacy Notices: &nbsp;</p><ul><li><a href=\"https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.brightspeed.com%2Fprivacy-notice%2F%23bsaccordion-9fbd7ec9b3-item-ce35332990&amp;data=05%7C01%7Cerin.laramie%40brightspeed.com%7C18e81593084447b5f1ab08db09e53547%7C054fe8250668422fa63690afe2a67ea3%7C0%7C0%7C638114652276121677%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=7XwTQX3W%2FHWHVeC0OPG%2BxJSKoo4%2FvFwFN0SCQP6Ievc%3D&amp;reserved=0\">Brightspeed’s Privacy Notice for California Residents</a></li><li><a href=\"https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.brightspeed.com%2Fprivacy-notice&amp;data=05%7C01%7Cerin.laramie%40brightspeed.com%7C18e81593084447b5f1ab08db09e53547%7C054fe8250668422fa63690afe2a67ea3%7C0%7C0%7C638114652276121677%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=CI5IdXtOjNU4EaXHcWvThEbEm2c9kDX1Yg%2FX52QjgxE%3D&amp;reserved=0\">Brightspeed’s Privacy Notice</a></li></ul>",
+    "summary": "The Senior Content Designer leads content strategy, UX writing, information architecture, and content quality across Brightspeed’s eCommerce funnels and customer journeys. Responsibilities include developing scalable content frameworks and systems, simplifying complex information, partnering cross-functionally, using AI-assisted content methods, measuring content performance, and mentoring design partners.",
+    "locations": [
+     {
+      "postalCode": "28203",
+      "workLocation": "remote",
+      "addressRegion": "North Carolina",
+      "streetAddress": "1120 S Tryon St",
+      "addressCountry": "US",
+      "addressLocality": "Charlotte"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Mentoring",
+      "Coaching",
+      "Communication",
+      "Leadership",
+      "Problem-solving"
+     ],
+     "primary_skills": [
+      "Content Strategy",
+      "UX Writing",
+      "Information Architecture",
+      "AI-Assisted Content Design",
+      "Figma",
+      "Accessibility",
+      "Plain Language",
+      "Inclusive Language",
+      "Content Governance",
+      "Design Systems"
+     ],
+     "secondary_skills": [
+      "Search Engine Optimization (SEO",
+      "Personalization",
+      "Localization",
+      "Spanish-Language Content",
+      "Experimentation",
+      "Content Testing",
+      "Usability Testing",
+      "Conversion Optimization",
+      "Analytics",
+      "Journey Measurement"
+     ]
+    },
+    "benefits": [
+     "health_insurance",
+     "dental_insurance",
+     "vision_care",
+     "life_insurance",
+     "mental_health_support",
+     "pensions_401k",
+     "pension_contribution_matching",
+     "paid_time_off_vacation_personal_days",
+     "wellness_program",
+     "other_benefits"
+    ],
+    "salary": null,
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 7,
+    "educationRequirement": {
+     "required": [
+      "bachelor_degree"
+     ],
+     "preferred": []
+    },
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en",
+     "es"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1789000280,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.smartrecruiters.com/Brightspeed/744000148627959-senior-content-designer",
+    "status": "active",
+    "companies": [
+     {
+      "name": "brightspeed.com",
+      "website": "brightspeed.com"
+     }
+    ]
+   }
+  ],
+  "meta": {
+   "count": 3,
+   "hasMore": false,
+   "requestTimeMs": 30,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

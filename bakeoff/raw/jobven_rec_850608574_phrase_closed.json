@@ -1,0 +1,62 @@
+{
+ "call_id": "rec_850608574_phrase_closed",
+ "phase": "recall",
+ "url": "https://api.jobven.com/v1/public/jobs?q=%22Technical+Writer%22&descriptionQuery=concise+explanations+for+a+learner&status=closed&postedAfter=1783036800&limit=1",
+ "params": [
+  [
+   "q",
+   "\"Technical Writer\""
+  ],
+  [
+   "descriptionQuery",
+   "concise explanations for a learner"
+  ],
+  [
+   "status",
+   "closed"
+  ],
+  [
+   "postedAfter",
+   1783036800
+  ],
+  [
+   "limit",
+   1
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:23:54 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "108",
+  "connection": "close",
+  "server": "cloudflare",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "8819abfc-5e3b-4928-85cf-c0d4a0265714",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2421",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "19",
+  "etag": "W/\"6c-Wzal3DP85K7pg4V755UFsyvfGsc\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=IluX8Lbh1MD0h%2FpgQ7s7tD0BBWsG%2BVye1kokjv1fdVDiAfBXj%2BbcSibupltULanLBy1ZJz2ldBSrLRiVlSh6%2BT4uD4xdN%2BBt93l5v03KYRnmu%2BzbE5hRkMyM%2F7Zq07B%2ByvonLcrTh9KHK63l5g%3D%3D\"}]}",
+  "cf-ray": "a406e9ae39397611-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [],
+  "meta": {
+   "count": 0,
+   "hasMore": false,
+   "requestTimeMs": 17,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

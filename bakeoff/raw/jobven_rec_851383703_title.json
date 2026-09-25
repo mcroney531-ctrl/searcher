@@ -1,0 +1,134 @@
+{
+ "call_id": "rec_851383703_title",
+ "phase": "recall",
+ "url": "https://api.jobven.com/v1/public/jobs?q=%22Education+Professional%22&country=US&postedAfter=1788220800&limit=10",
+ "params": [
+  [
+   "q",
+   "\"Education Professional\""
+  ],
+  [
+   "country",
+   "US"
+  ],
+  [
+   "postedAfter",
+   1788220800
+  ],
+  [
+   "limit",
+   10
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:20:46 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "transfer-encoding": "chunked",
+  "connection": "close",
+  "server": "cloudflare",
+  "vary": "Accept-Encoding",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "02e82cb7-eca4-4b11-a7e3-abaa6ae935e4",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2464",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "16",
+  "etag": "W/\"264f-xQfz8lT3hvxwL+oxCEQQW5W1G68\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=%2BN575vBTEooQPWlmuymm3%2F9%2FZRQEwF1PLZT3p8dSZ2ubRwLgAbPeapWL90U%2BhSvyg6P5j3zbI4cbmgQTqZjEV%2FbtU89%2Bbmi0n3pU0binBN33M5UJtgGAn54Js128ARTW6VG9SGocXwoBwgryJg%3D%3D\"}]}",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "cf-ray": "a406e518fc2342d4-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "id": "559c52fa-c48e-4014-ac43-0a155c4c8a21",
+    "title": "Senior Education Professional, Development",
+    "description": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;At NiCE, we don’t limit our challenges. We challenge our limits. Always. We’re ambitious. We’re game changers. And we play to win. We set the highest standards and execute beyond them. And if you’re like us, we can offer you the ultimate career opportunity that will light a fire within you.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;span data-contrast=\"none\"&gt;Senior Education Professional, Development (NiCE Systems, Inc; Atlanta, GA): Design and develop technical instructor-led training (ILT), virtual ILT, and eLearning content for company Analytics and Quality Central platforms. Own the end-to-end training lifecycle, including needs analysis, curriculum design, content development, validation, and delivery. Develop and maintain technical documentation, lab guides, and troubleshooting exercises to support hands-on learning. Ensure training materials remain accurate, up to date, and aligned with product releases and best practices. Partner with Product Management and R&amp;amp;D to gain deep understanding of system architecture, new features, and release changes. Act as a global technical point of contact for trainers, providing product guidance, troubleshooting support, and enablement. Install, configure, upgrade, and maintain training lab environments, including servers, databases, and supporting services. Deliver technical training sessions to customers, partners, and internal employees as needed. Support trainer readiness by enabling instructors on new or updated course content. Manage multiple development initiatives simultaneously in a fast-paced, release-driven environment. Collaborate with cross-functional stakeholders to meet delivery timelines and quality standards.&lt;/span&gt;&lt;span data-ccp-props=\"{&amp;quot;201341983&amp;quot;:0,&amp;quot;335559739&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}\"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span data-ccp-props=\"{&amp;quot;201341983&amp;quot;:0,&amp;quot;335559739&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}\"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span data-contrast=\"none\"&gt;Telecommuting permitted pursuant to company policy.&lt;/span&gt;&lt;span data-ccp-props=\"{&amp;quot;201341983&amp;quot;:0,&amp;quot;335559739&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}\"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span data-ccp-props=\"{&amp;quot;201341983&amp;quot;:0,&amp;quot;335559739&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}\"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;span data-contrast=\"none\"&gt;Minimum requirements: &lt;/span&gt;&lt;/strong&gt;&lt;span data-contrast=\"none\"&gt;Bachelor’s degree or foreign equivalent in Computer Science, Information Technology, Computer Engineering, or related field, plus six (6) years of progressively responsible post-baccalaureate work experience in the job offered or related occupation.&amp;nbsp;&lt;/span&gt;&lt;span data-ccp-props=\"{&amp;quot;201341983&amp;quot;:0,&amp;quot;335559739&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}\"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span data-ccp-props=\"{&amp;quot;201341983&amp;quot;:0,&amp;quot;335559739&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}\"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;span data-contrast=\"none\"&gt;Must have experience with the following:&lt;/span&gt;&lt;/strong&gt;&lt;span data-ccp-props=\"{&amp;quot;201341983&amp;quot;:0,&amp;quot;335559739&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}\"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;span data-contrast=\"none\"&gt; developing and delivering technical training materials;&lt;/span&gt;&lt;/li&gt; &lt;li&gt;&lt;span data-contrast=\"none\"&gt; Windows Server Administration (roles and features, Internet Information Services, and New Technology File System/Universal Naming Convention security principles);&lt;/span&gt;&lt;/li&gt; &lt;li&gt;&lt;span data-contrast=\"none\"&gt; SQL Server Administration (user/login provisioning, maintenance jobs, backup/restore, basic queries, updates, and deletes);&lt;/span&gt;&lt;/li&gt; &lt;li&gt;&lt;span data-contrast=\"none\"&gt; Networking fundamentals (DNS, DHCP, SSL certificate administration, and encryption protocols);&lt;/span&gt;&lt;/li&gt; &lt;li&gt;&lt;span data-contrast=\"none\"&gt; troubleshooting complex technical issues across application, server, and database layers;&lt;/span&gt;&lt;/li&gt; &lt;li&gt;&lt;span data-contrast=\"none\"&gt; developing technical training curricula, labs, and learning assets for enterprise software;&lt;/span&gt;&lt;/li&gt; &lt;li&gt;&lt;span data-contrast=\"none\"&gt; Microsoft Office Suite (Word, PowerPoint, and Excel);&lt;/span&gt;&lt;/li&gt; &lt;li&gt;&lt;span data-contrast=\"none\"&gt; collaborating with SMEs and cross-functional teams; and&lt;/span&gt;&lt;/li&gt; &lt;li&gt;&lt;span data-contrast=\"none\"&gt; instructional design principles and adult learning methodologies.&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;span data-ccp-props=\"{&amp;quot;201341983&amp;quot;:0,&amp;quot;335559739&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}\"&gt;Requisition: 11774&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span data-contrast=\"none\"&gt;&lt;span data-ccp-parastyle=\"Default\" data-ccp-parastyle-defn=\"{&amp;quot;ObjectId&amp;quot;:&amp;quot;272499da-5523-5969-b17c-4f82c0ce3910|1&amp;quot;,&amp;quot;ClassId&amp;quot;:1073872969,&amp;quot;Properties&amp;quot;:[469775450,&amp;quot;Default&amp;quot;,201340122,&amp;quot;2&amp;quot;,134233614,&amp;quot;true&amp;quot;,469778129,&amp;quot;Default&amp;quot;,335572020,&amp;quot;1&amp;quot;,469777841,&amp;quot;Calibri&amp;quot;,469777842,&amp;quot;Calibri&amp;quot;,469777843,&amp;quot;SimSun&amp;quot;,469777844,&amp;quot;Calibri&amp;quot;,469769226,&amp;quot;Calibri,SimSun&amp;quot;,335551500,&amp;quot;0&amp;quot;,268442635,&amp;quot;24&amp;quot;,335559740,&amp;quot;240&amp;quot;,201341983,&amp;quot;0&amp;quot;,335559739,&amp;quot;0&amp;quot;,201342446,&amp;quot;1&amp;quot;,201342447,&amp;quot;5&amp;quot;,201342448,&amp;quot;1&amp;quot;,201342449,&amp;quot;1&amp;quot;,201341986,&amp;quot;1&amp;quot;]}\"&gt;Click apply or send &lt;/span&gt;&lt;span data-ccp-parastyle=\"Default\"&gt;resume&lt;/span&gt;&lt;span data-ccp-parastyle=\"Default\"&gt; to Marian.Alvarado@nice.com.&lt;/span&gt; &lt;span data-ccp-parastyle=\"Default\"&gt;An EOE.&lt;/span&gt;&lt;/span&gt;&lt;span data-ccp-props=\"{&amp;quot;201341983&amp;quot;:0,&amp;quot;335551550&amp;quot;:6,&amp;quot;335551620&amp;quot;:6,&amp;quot;335559739&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}\"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;div class=\"content-conclusion\"&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;About NiCE &lt;/strong&gt;&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;NICE Ltd. (NASDAQ: NICE) software products are used by 25,000+ global businesses, including 85 of the Fortune 100 corporations, to deliver extraordinary customer experiences, fight financial crime and ensure public safety. Every day, NiCE software manages more than 120 million customer interactions and monitors 3+ billion financial transactions. &lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Known as an innovation powerhouse that excels in AI, cloud and digital, NiCE is consistently recognized as the market leader in its domains, with over 8,500 employees across 30+ countries. &lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;NiCE is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, age, sex, marital status, ancestry, neurotype, physical or mental disability, veteran status, gender identity, sexual orientation or any other category protected by law.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;",
+    "summary": "The Senior Education Professional, Development designs, develops, validates, and delivers technical instructor-led, virtual, and eLearning content for NiCE Analytics and Quality Central platforms. The role manages the full training lifecycle, maintains technical documentation and lab environments, supports trainers globally, and collaborates with Product Management, R&D, and other stakeholders on product releases and enablement.",
+    "locations": [
+     {
+      "workLocation": "flexible",
+      "addressRegion": "Georgia",
+      "addressCountry": "US",
+      "addressLocality": "Atlanta"
+     }
+    ],
+    "remoteType": "flexible",
+    "skills": {
+     "soft_skills": [
+      "Collaboration",
+      "Communication",
+      "Problem-solving",
+      "Time Management"
+     ],
+     "primary_skills": [
+      "Technical Training Development and Delivery",
+      "Instructional Design",
+      "Adult Learning Methodologies",
+      "Windows Server Administration",
+      "Internet Information Services (IIS",
+      "NTFS/UNC Security",
+      "SQL Server Administration",
+      "Networking Fundamentals",
+      "Technical Troubleshooting",
+      "Microsoft Office Suite"
+     ],
+     "secondary_skills": [
+      "Curriculum Design",
+      "eLearning Development",
+      "Technical Documentation",
+      "Lab Environment Administration",
+      "Release Management",
+      "Product Enablement"
+     ]
+    },
+    "benefits": [
+     "remote_work_hybrid_work_options"
+    ],
+    "salary": null,
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 6,
+    "educationRequirement": {
+     "required": [
+      "bachelor_degree"
+     ],
+     "preferred": []
+    },
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790117715,
+    "expiresAt": null,
+    "applyUrl": "https://boards.eu.greenhouse.io/nice/jobs/4983312101?gh_jid=4983312101",
+    "status": "active",
+    "companies": [
+     {
+      "name": "nice.com",
+      "website": "nice.com"
+     }
+    ]
+   }
+  ],
+  "meta": {
+   "count": 1,
+   "hasMore": false,
+   "requestTimeMs": 15,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

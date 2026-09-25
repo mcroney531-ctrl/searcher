@@ -1,0 +1,228 @@
+{
+ "call_id": "fam_title_content_dev_p0",
+ "phase": "family",
+ "url": "https://api.jobven.com/v1/public/jobs?q=%22content+developer%22+OR+%22content+designer%22+OR+%22content+strategist%22+OR+%22content+development+manager%22+OR+%22content+lead%22&country=US&remoteType%5B%5D=remote&postedAfter=1789702200&limit=25",
+ "params": [
+  [
+   "q",
+   "\"content developer\" OR \"content designer\" OR \"content strategist\" OR \"content development manager\" OR \"content lead\""
+  ],
+  [
+   "country",
+   "US"
+  ],
+  [
+   "remoteType[]",
+   "remote"
+  ],
+  [
+   "postedAfter",
+   1789702200
+  ],
+  [
+   "limit",
+   25
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:26:31 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "transfer-encoding": "chunked",
+  "connection": "close",
+  "server": "cloudflare",
+  "vary": "Accept-Encoding",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "a097cce9-9860-48f4-96dd-e2313c1b4b02",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2393",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "63",
+  "etag": "W/\"5587-tAxh+2IfXIfTNV/Fb0ss5yCI1z4\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=k3SVIONbGQHyg4RXb4OHnlmPPbKxhij%2FVojrMYy2a3v1dfbJ5MXMwkXwRH5yfLE0Hi8qPde9NqxFWAvp6sMvv955zre3XG5A32everYxSq8pLqrpArIUPnAVqFE7BZNr1R9ys8vaOD3pkHzQ8Q%3D%3D\"}]}",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "cf-ray": "a406ed8928ab728c-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "id": "c9138b14-16d1-434d-b583-f9c0760612d0",
+    "title": "Senior Content Strategist - Freelance",
+    "description": "&lt;div&gt;At AKQA (part of WPP) we believe in the imaginative application of art and science to create beautiful ideas, products and services. With an entrepreneurial and collaborative approach, we design adaptive digital services and applications that capture the imagination, delivering impressive returns for our clients.&lt;/div&gt; &lt;div&gt;&lt;br&gt;Content strategists at AKQA are curious thinkers who want to investigate, understand, and organize to create a better future, with a specific focus on the content that powers our clients' experiences. To us, content is more than words on a screen; it is the story and information that drives our clients' brands and products forward.&lt;br&gt;&lt;br&gt;In this role, the Freelance Senior Content Strategist will support end-to-end content experience strategy for a flagship digital platform and connected product ecosystem for one of the most recognized and trusted names in financial services, a brand with deep roots in helping people plan, protect, and secure their futures. Responsibilities span auditing current experiences, identifying gaps and opportunities, defining an ideal-state vision, and developing a pragmatic roadmap to get there. The Strategist will work closely with senior client stakeholders and an integrated AKQA team to formulate and deliver smart, tailored content frameworks, recommendations, and systems that serve our client's needs across digital products and platforms.&lt;br&gt;&lt;br&gt;&lt;/div&gt; &lt;div&gt;&amp;nbsp;&lt;/div&gt; &lt;div&gt;ROLE REQUIREMENTS&lt;/div&gt; &lt;ul&gt; &lt;li&gt;8+ years of experience in content strategy for digital products, apps, and web platforms, with a portfolio that demonstrates structured thinking and measurable outcomes on complex, high-visibility consumer experiences&lt;/li&gt; &lt;li&gt;Strong writing and editing skills, with the ability to define voice, tone, messaging hierarchies, and editorial guidelines across product and marketing surfaces&lt;/li&gt; &lt;li&gt;Demonstrated ability to analyze user, client, and business needs and develop relevant content strategies, frameworks, and taxonomies that measurably improve outcomes&lt;/li&gt; &lt;li&gt;Comfort consuming large quantities of research and data, including behavioral, consumer, industry, and academic sources, to inform perspectives, set KPIs, and partner on measurement&lt;/li&gt; &lt;li&gt;Experience driving content for high-traffic digital surfaces, including information architecture, navigation, personalization, SEO, accessibility, experimentation, and content operations&lt;/li&gt; &lt;li&gt;Proven success working cross-functionally with strategists, product managers, UX designers, copywriters, creatives, engineering, and analytics teams&lt;/li&gt; &lt;li&gt;Strong presentation skills, with the ability to craft persuasive narratives and present confidently to senior clients and internal leadership&lt;/li&gt; &lt;li&gt;Knowledge of contemporary practice across digital product development, including agile delivery, content governance, and operational frameworks&lt;/li&gt; &lt;li&gt;Ability to take responsibility for on-time deliverables and expertly crafted perspectives within an accelerated timeline&lt;/li&gt; &lt;/ul&gt; &lt;div&gt;&lt;br&gt;&lt;br&gt;QUALITIES AND CHARACTERISTICS&lt;/div&gt; &lt;ul&gt; &lt;li&gt;Undaunted by the unknown; ambiguity sparks your curiosity and accelerates your learning&lt;/li&gt; &lt;li&gt;A love of hard problems and a drive to inspire new ways of thinking across teams and stakeholders&lt;/li&gt; &lt;li&gt;A passion for transforming large amounts of disorganized information into clarity through structure, rigor, and systems&lt;/li&gt; &lt;li&gt;Deep affinity for the end user, with empathy that translates into usable, valuable content experiences&lt;/li&gt; &lt;li&gt;Extreme attention to detail coupled with the ability to zoom out to a compelling strategic narrative&lt;/li&gt; &lt;li&gt;Phenomenal communication skills and the ability to partner with senior clients and executive stakeholders&lt;/li&gt; &lt;li&gt;8+ years working across digital experience, brand experience, customer experience, or communications; an intersection of more than one is ideal; experience with financial services, membership and loyalty programs, or mobile app ecosystems is a plus&lt;/li&gt; &lt;li&gt;Self-directed and proactive; comfortable operating independently in a fast-paced, high-visibility environment&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;Location &amp;amp; Commitment&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Remote (US Based)&lt;/li&gt; &lt;li&gt;Available during core business hours, U.S. Eastern Time&lt;/li&gt; &lt;li&gt;ASAP through December 23, 2026&lt;/li&gt; &lt;li&gt;40 hours/week&lt;/li&gt; &lt;li&gt;Expected weekly compensation: 3,000 to 3,400 USD&lt;/li&gt; &lt;/ul&gt;&lt;div class=\"content-conclusion\"&gt;&lt;p&gt;&lt;span style=\"font-weight: 300;\"&gt;We believe great work happens when we're together, fostering creativity, collaboration, and connection. That's why we’ve adopted a hybrid approach including required in-office days. If you require accommodations or flexibility, please discuss this with the hiring team during the interview process.&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span style=\"font-weight: 300;\"&gt;AKQA is an equal opportunity employer and considers applicants for all positions without discrimination or regard to particular characteristics. We are committed to fostering a culture of respect in which everyone feels they belong and has the same opportunities to progress in their careers.&lt;/span&gt;&lt;/p&gt; &lt;hr&gt; &lt;p&gt;&lt;span style=\"font-weight: 300;\"&gt;&lt;/span&gt;&lt;/p&gt; &lt;p class=\"x_MsoNormal\"&gt;&lt;strong&gt;&lt;span data-olk-copy-source=\"MessageBody\"&gt;About WPP&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p class=\"x_MsoNormal\"&gt;WPP is the trusted growth partner for the world’s leading brands. We unite&amp;nbsp;cutting-edge media intelligence and data solutions, world-class creativity, next-generation production, transformative enterprise solutions and expert strategic counsel&amp;nbsp;in a single company –&amp;nbsp;powered by exceptional talent and our agentic marketing platform, WPP Open,&amp;nbsp;to help our clients navigate change, capture opportunity and deliver transformational growth. For more information, visit&amp;nbsp;&lt;a href=\"http://wpp.com/\" data-auth=\"NotApplicable\" data-linkindex=\"0\"&gt;WPP.com&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;&lt;span style=\"font-weight: 300;\"&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;",
+    "summary": "The Freelance Senior Content Strategist will shape end-to-end content experience strategy for a major digital platform and connected product ecosystem in financial services. Responsibilities include auditing current experiences, identifying opportunities, defining a target vision and roadmap, and developing content frameworks and systems with senior client stakeholders and integrated teams.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "US",
+      "addressLocality": "New York"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Attention to Detail",
+      "Empathy",
+      "Self-Direction",
+      "Proactivity"
+     ],
+     "primary_skills": [
+      "Content Strategy",
+      "Content Auditing",
+      "Content Experience Strategy",
+      "Content Frameworks",
+      "Content Taxonomy",
+      "Writing and Editing",
+      "Information Architecture",
+      "Search Engine Optimization",
+      "Accessibility",
+      "Agile Delivery"
+     ],
+     "secondary_skills": [
+      "Personalization",
+      "Experimentation",
+      "Content Operations",
+      "Content Governance",
+      "Measurement and KPI Development",
+      "Financial Services",
+      "Membership and Loyalty Programs",
+      "Mobile Applications"
+     ]
+    },
+    "benefits": [],
+    "salary": {
+     "max": 3400,
+     "min": 3000,
+     "period": "weekly",
+     "currency": "USD"
+    },
+    "experienceLevel": "senior",
+    "employmentType": "contract",
+    "minYearsExperience": 8,
+    "educationRequirement": null,
+    "industry": [
+     "consulting_professional",
+     "finance_banking"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790270509,
+    "expiresAt": null,
+    "applyUrl": "https://www.akqa.com/jobs/8224008/?gh_jid=8224008",
+    "status": "active",
+    "companies": [
+     {
+      "name": "akqa.com",
+      "website": "akqa.com"
+     }
+    ]
+   },
+   {
+    "id": "19c070c6-25c0-4c87-98e8-a47517e0ad65",
+    "title": "Content Strategist (remote Us) - Future Opening",
+    "description": "<p>Directive Consulting is the leading B2B marketing agency for brands that are serious about the metrics that matter most.</p><p><br>With over a decade of expertise and 420+ B2B brands under our belt, we've earned our reputation on real outcomes. We run through 3 divisions: Performance, Communications, and Commerce, all wired to share intelligence and answer to revenue. That system spans everything from Paid Media and Content Marketing, to PR and Paid Social, to Marketplace and Lifecycle Marketing. Tying it all together is our methodology, DiscoverabilityOS™, which aligns brand and demand to guide your ICP to choose you across every decision point.<br><br>We move fast. We think boldly. We hire people who challenge the status quo, build campaigns worth talking about, and make bold brands impossible to ignore. If you live for performance, love solving hard problems, and want your work to actually mean something, you'll fit right in.</p><p><em>At Directive, we’re always looking ahead to connect with talented professionals who excel at crafting strategies that elevate search visibility, developing compelling content, and delivering value to audiences.</em></p><p><em>As we continue to grow, we’re always seeking forward-thinking individuals who thrive in fast-paced environments, are obsessed with analytics and storytelling, and are eager to make their mark in B2B tech and SaaS marketing.</em></p><p><em>If you're ready to explore future opportunities and be part of a team that values creativity, strategy, and results, we’d love to connect with you!!</em><br><br><strong>About The Role:</strong></p><p>The Content Strategist is a crucial, client-facing role that is responsible for day-to-day client deliverables, creating and managing custom client strategies, and communicating both with clients and internal stakeholders. The Strategist is responsible for more Enterprise clients and is expected to have a deep understanding of their service line and how it impacts other areas of business to create a holistic marketing strategy.</p><p><em>Please note: internally, this role is titled Account Strategist, Content &amp; SEO.</em></p><p><strong>What You'll Do:</strong></p><ol><li><p><strong>Strategic Excellence and Best Practices:</strong> Strategists are responsible for creating custom strategies and implementing best practices for their clients that ultimately result in achieving our NSMs. The strategist will use project phase as a foundational moment for building the initial client strategy, but will also use our clients overall marketing goals, current and ongoing campaigns, and historical performance to optimize and revise strategies over the lifetime of the client while adhering to Directive best practices</p><ol><li><p>Strategists will work closely with their Associate Director (AsD) when roadblocks arise that impact their strategy and goal attainment.</p></li><li><p>Strategists display a strong ability to craft creative briefs and compelling content campaigns with a focus on ideation based on competitor and audience insights.</p></li><li><p>Best practices should be used to inform our strategies to ensure our clients are in the best position to exceed their goals. In particular:</p><ol><li><p>LTV:CAC modeling</p></li><li><p>Customer Generation</p></li><li><p>Share of SERP</p></li><li><p>Content Production</p></li></ol></li></ol></li><li><p><strong>Goal Setting:</strong> Strategists are responsible for using available data to set goals for clients during their engagement period. These goals will be reviewed and approved by their Associate Director (AsD), who should be in the meeting with them.</p><ol><li><p>Data sources include Google Analytics, CRM data, SEMRush reporting, and Ahrefs reporting</p></li><li><p>All Goals must be approved by the Associate Director (AsD) before the Strategist can present it to their client alongside their Associate Director (AsD).</p></li></ol></li><li><p><strong>Project Management:</strong> Strategists are responsible for ensuring that their planned strategy is executed. Project Management ensures that the Directive team and the client team knows who is responsible for specific tasks to ensure we make progress towards our goals.</p><ol><li><p>Use of the project management tool Asana is required.</p></li><li><p>This includes delegating tasks to other team members, such as Specialists, as well as our clients and then ensuring that these tasks are completed in a timely manner.</p></li><li><p>In pods where Project Managers are present, Strategists will ensure they partner with Project Managers to ensure all tasks are created, assigned and due dates are met and communicated to the client</p></li><li><p>Strategists will work closely with content writers and designers to complete content campaigns for clients on time while also being responsible for ensuring that the quality is up to client standards.</p></li></ol></li><li><p><strong>Internal and External Communication:</strong> Strategists are the main interface between our clients and our team. Strategists are expected to build relationships with our clients that goes beyond just deliverables and get to know them on a human level with the primary goal of being the best consultant for our clients and their business. Additionally Strategists are expected to proactively communicate to clients and internal leadership on a regular basis to ensure we are driving the best results for clients.</p><ol><li><p>When proactively communicating with clients we want to ensure we communicate timeline expectations for deliverables, goal attainment progress, and actively use our shared communication channels, such as Slack, to communicate between bi-weekly meetings. This includes sending deliverables on a regular cadence instead of only during bi-weekly meetings</p></li><li><p>When proactively communicating with internal leadership this should include communicating any roadblocks, opportunities for account growth, and any moments of change on clients accounts. Moments of change can look like a needed change in strategy, internal client marketing changes, point of contact changes, and more.</p></li></ol></li><li><p><strong>Reporting:</strong> Strategists are expected to regularly report to clients the progress and impact of their strategy. In support of this pilar strategists are expected to report on the following cadence:</p><ol><li><p>Bi-weekly meetings with the client</p><ol><li><p>Note in these meetings strategists are expected to report on NSM progress and ongoing deliverables</p></li></ol></li><li><p>Monthly reports</p></li><li><p>Quarterly reports</p></li><li><p>2 Bi-Annual business review presentation</p></li></ol></li></ol><p><strong>What You'll Bring:</strong></p><ul><li><p>A proven track record of success around implementing SEO principles and content strategy: keyword research, on-page optimization, and link building</p></li><li><p>Analytical insight: ability to analyse website traffic and SEO metrics using tools like Google Analytics</p></li><li><p>Strong Communication skills: comfortable client facing and owning relationships with key stakeholders</p></li><li><p>Strong familiarity with industry tools such as Google Search Console, Google Analytics, SEMRush, Ahrefs, Screaming Frog/crawling tools</p></li><li><p>Proven organisational, project, and time management skills</p></li><li><p>Genuine enthusiasm for digital marketing, SEO and Content</p></li><li><p>Must have agency experience</p></li><li><p>Must have B2B tech and/or SaaS experience</p></li><li><p>Driven to stay ahead of industry trends, including actively learning how AI and automation can enhance marketing and operations.</p></li></ul><p><strong>Goals:</strong></p><ol><li><p>NSM Attainment: 100%</p></li><li><p>MRR Retainment: 96%</p></li><li><p>CSAT &gt; 4.2</p></li><li><p>Upsells / Cross-sells / Referrals -</p><ol><li><p>Strategists are expected to regularly look for opportunities for our clients to grow their business with Directive.</p><ol><li><p>Examples of this include:</p><ol><li><p>Growing into another service line such as SEO or Paid Media</p></li><li><p>Growing within their current service line such as increasing content, SEO, or Paid Media budgets</p></li></ol></li></ol></li><li><p>Referrals are a natural extension of building a solid relationship with our clients and strategists should be in the habit of asking for a referral at key moments.</p><ol><li><p>Example of moments to ask for a referral:</p><ol><li><p>Point of contact starts a new job</p></li></ol></li></ol></li><li><p>Client leaves a 5 CSAT score</p></li></ol></li></ol><p><strong>What We Offer</strong></p><p>🏠 Compensation for this role includes a competitive base salary in the $75,000-95,000 USD range, commensurate with experience and geography.</p><p>🙏 Medical, dental, vision plans, disability, and life insurance coverage for you and your family that fit your lifestyle</p><p>Including a 100% employer-paid plan for you and a 50% employer contribution for your dependents</p><p>Benefits to Support the Whole Person:</p><p>🧠 Mental - Access to certified therapists through Spring Health, membership to Headspace</p><p>💪 Physical - Gympass</p><p>🛫 Time Off - Unlimited PTO (2-week minimum), Paid Company Holidays, Your Birthday Off, End of Year Recharge (Closed December 24 - January 1), Paid Parental Leave</p><p>💰 Financial - Traditional and Roth 401(k) with a 3% company match</p><p>🌟 Bonus - Annual bonus based on tenure, which scales in total amount over time</p><p>🌴 Annual Anniversary Trip with peers and executive leadership for fun and entertainment!</p><p><strong>Work Environment Requirements</strong></p><p>As a remote-first company, you’ll have the ability to work from your home office. For some positions, as posted, we will accommodate global opportunities where we have established businesses, including Canada, Mexico, and the UK. For global locations, you must have established and current work authorization and permanently reside in that country.</p><p>This role has the opportunity to operate 100% virtually from your home office. We primarily collaborate with our colleagues through virtual meetings (Zoom), and Slack. In this role, you will be required to operate a laptop computer (PC or Mac available), computer software platforms, and other office productivity tools as necessary. Due to the nature of this role, you must be able to remain stationary for extended periods, must be able to observe and interpret written and/or verbal communication, must have reliable internet access, and a professional background.</p><p>To perform this job successfully, an individual must be able to perform each essential job duty satisfactorily. Reasonable accommodations may be made to enable qualified individuals with disabilities to perform essential job functions.</p><p>If you require reasonable accommodations in completing this application, interviewing, completing any pre-employment testing, or otherwise participating in the employee selection process, direct your inquiries to recruiting@directiveconsulting.com.</p><p><strong>Additional Information</strong></p><p>At Directive, one of our core values is People First. We’re committed to fostering a more diverse and inclusive culture in the digital landscape. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.</p><p>#LI-DC1</p>",
+    "summary": "The Content Strategist develops and manages custom content and SEO strategies for enterprise B2B technology and SaaS clients. Responsibilities include client deliverables, goal setting and reporting, project management, content campaign development, stakeholder communication, and identifying account growth opportunities.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Relationship Building",
+      "Organization",
+      "Time Management",
+      "Creativity"
+     ],
+     "primary_skills": [
+      "Content Strategy",
+      "Search Engine Optimization (SEO",
+      "Keyword Research",
+      "On-Page Optimization",
+      "Link Building",
+      "Google Analytics",
+      "Google Search Console",
+      "SEMrush",
+      "Ahrefs",
+      "Asana"
+     ],
+     "secondary_skills": [
+      "Screaming Frog",
+      "Customer Generation",
+      "LTV:CAC Modeling",
+      "Content Production",
+      "Slack",
+      "Artificial Intelligence"
+     ]
+    },
+    "benefits": [
+     "health_insurance",
+     "dental_insurance",
+     "vision_care",
+     "disability_insurance",
+     "life_insurance",
+     "mental_health_support",
+     "wellness_program",
+     "paid_time_off_vacation_personal_days",
+     "parental_leave",
+     "pensions_401k",
+     "pension_contribution_matching",
+     "performance_bonuses",
+     "company_events_retreats",
+     "company_laptop_equipment"
+    ],
+    "salary": {
+     "max": 95000,
+     "min": 75000,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": null,
+    "educationRequirement": null,
+    "industry": [
+     "marketing_advertising",
+     "technology_software"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1789754271,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/directive/9095cdbb-0d5d-4c6e-9e11-d8a0ca6de39f",
+    "status": "active",
+    "companies": [
+     {
+      "name": "directiveconsulting.com",
+      "website": "directiveconsulting.com"
+     }
+    ]
+   }
+  ],
+  "meta": {
+   "count": 2,
+   "hasMore": false,
+   "requestTimeMs": 63,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

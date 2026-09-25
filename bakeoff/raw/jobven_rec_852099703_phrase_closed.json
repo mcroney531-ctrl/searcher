@@ -1,0 +1,62 @@
+{
+ "call_id": "rec_852099703_phrase_closed",
+ "phase": "recall",
+ "url": "https://api.jobven.com/v1/public/jobs?q=%22Content+Manager+and+Designer%22&descriptionQuery=and+reusable+templates+using+Canva&status=closed&postedAfter=1783036800&limit=1",
+ "params": [
+  [
+   "q",
+   "\"Content Manager and Designer\""
+  ],
+  [
+   "descriptionQuery",
+   "and reusable templates using Canva"
+  ],
+  [
+   "status",
+   "closed"
+  ],
+  [
+   "postedAfter",
+   1783036800
+  ],
+  [
+   "limit",
+   1
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:21:16 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "107",
+  "connection": "close",
+  "server": "cloudflare",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "09f241df-d137-43ac-99ec-8be6ff80d829",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2460",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "10",
+  "etag": "W/\"6b-3h83znkf3c+6t9idZI3FbUIYAJE\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=%2FpPyVBc0G1lWmree4fXCBtaEJMM0Z6OjAJ%2FpOay0pjDBj45LNhVdC2BFBMeZKKiEpwpmAfwxl83NV1YJbA%2BeTkWMf8KVqanOU%2BMcjL%2BsdTORh369KOz12QPIjp60LpzpJ%2ByCRfz7CaQImf6K3A%3D%3D\"}]}",
+  "cf-ray": "a406e5d79e081512-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [],
+  "meta": {
+   "count": 0,
+   "hasMore": false,
+   "requestTimeMs": 9,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

@@ -1,0 +1,837 @@
+{
+ "call_id": "rec_852248222_title",
+ "phase": "recall",
+ "url": "https://api.jobven.com/v1/public/jobs?q=%22Instructor%22&country=US&postedAfter=1788220800&limit=10",
+ "params": [
+  [
+   "q",
+   "\"Instructor\""
+  ],
+  [
+   "country",
+   "US"
+  ],
+  [
+   "postedAfter",
+   1788220800
+  ],
+  [
+   "limit",
+   10
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:24:06 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "transfer-encoding": "chunked",
+  "connection": "close",
+  "server": "cloudflare",
+  "vary": "Accept-Encoding",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "397fb991-d852-4884-9e18-712dc3b5bc7b",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2411",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "125",
+  "etag": "W/\"10c71-Dgd+cJxarhGRNb/YasDz9V8SHdI\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=%2BVZKtyEOGkciig3tIC%2Bk%2BIaKAa5SOlXoKs%2Fi1tIt%2BzuxaVbsWAwHn5NJxgQrlBMy8v6yUNjZB8npvsuFIl0iWgfV2Nk0pKrZjm240S7t%2FueZiX8G4lWD3Uk4N3aO6aD7VDrCVzigkjN83EUoFA%3D%3D\"}]}",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "cf-ray": "a406e9fe3880e563-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "id": "5d321135-173b-4075-b3eb-32d73a8928fc",
+    "title": "Drivers Education Instructor",
+    "description": "<h2>Company Description</h2><p>Our Job Corps programs provide life-changing services that help young people succeed in school, obtain good jobs, excel in their chosen fields, and serve as contributing members of their communities. We accomplish this through an intense commitment to safety, quality service, excellence, and partnerships.</p><h2>Job Description</h2><ul><li>Promotes a positive and desirable atmosphere within the classroom setting to insure maximum student motivation.</li><li>Maintains a high degree of discipline within the classroom setting to ensure maximum learning.</li><li>Establishes a high degree of student/instructor rapport.</li><li>Utilizes all possible curriculum resources available.</li><li>Individualizes the Driver’s Education curriculum to fit the students’ experiences.</li><li>Responsible for adequate classroom preparation.</li><li>Maintains lesson plans relevant to course material.</li><li>Assists in the completion of all necessary Job Corps forms.</li><li>Accountable for the cleanliness of classrooms.</li><li>Prepares reports such as student/staff hours, requisitions, attendance, and monthly student evaluations.</li><li>Operates in accordance with the requirements of the PRH, Standard Operating Procedures in function area and corporate policies.</li><li>Evaluates and records student progress/evaluations and case notes in CIS, where appropriate.</li><li>Assists Supervisor during scheduled inventory.</li><li>Clearly communicates and consistently models appropriate CSS and employability skills.</li><li>Maintains accountability of staff, students, and property.</li><li>Adheres to safety practices in all areas of responsibility.</li><li>Fosters and sustains a conducive environment at the center, ensuring it remains free from harassment, intimidation, and disrespect, thereby ensuring a safe space for both staff and students to engage in work and learning.</li></ul><p>Attends all required staff training opportunities.</p><h2>Qualifications</h2><ul><li>Bachelor’s Degree from a four-year college or university and/or equivalent combination of education and experience.</li><li>Possession of or eligibility for temporary teaching certification in the State in which the Center is located.</li></ul><ul><li>Experience working with diverse youth.</li></ul><p>A valid driver’s license in the state of employment with an acceptable driving record.</p><h2>Additional Information</h2><p>All your information will be kept confidential according to EEO guidelines.</p><p><em>Equus Workforce Solutions is a leading provider of workforce development services in North America. With a dedicated and passionate team, Equus puts the industry’s best practices to work by focusing on the development, design, and delivery of demand-driven workforce solutions.</em></p><p><em>When you join Equus, you can expect extensive learning opportunities and networking programs. But most of all you can expect to make a lasting impact on the lives of others.</em></p><p><em>At Equus we are strengthened by diversity. We are committed to providing a work environment in which everyone is included, treated fairly and with respect. Equus Workforce Solutions is proud to be an Equal Opportunity Employer.&nbsp;All qualified applicants will receive consideration for employment without regard to race, color, gender, age, pregnancy, sexual orientation, gender identity, ancestry, religion, national origin, veteran status, physical or mental disability, or reprisal or any other characteristic protected under state, federal, or local law.</em></p>",
+    "summary": "The Drivers Education Instructor teaches and adapts driver education curriculum for Job Corps students, prepares lessons, manages the classroom, and evaluates student progress. The role also includes maintaining records and reports, following safety and center procedures, and supporting an inclusive, respectful learning environment.",
+    "locations": [
+     {
+      "workLocation": "onsite",
+      "addressRegion": "Texas",
+      "addressCountry": "US",
+      "addressLocality": "San Marcos"
+     }
+    ],
+    "remoteType": "onsite",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Discipline",
+      "Adaptability"
+     ],
+     "primary_skills": [
+      "Driver Education",
+      "Curriculum Development",
+      "Lesson Planning",
+      "Classroom Management",
+      "Student Evaluation",
+      "Report Writing",
+      "Teaching Certification"
+     ],
+     "secondary_skills": [
+      "CIS"
+     ]
+    },
+    "benefits": [
+     "professional_development"
+    ],
+    "salary": null,
+    "experienceLevel": "entry",
+    "employmentType": "full_time",
+    "minYearsExperience": null,
+    "educationRequirement": {
+     "required": [
+      "bachelor_degree",
+      "professional_certificate"
+     ],
+     "preferred": []
+    },
+    "industry": [
+     "education"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790285087,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.smartrecruiters.com/Equus/744000151707689-drivers-education-instructor",
+    "status": "active",
+    "companies": [
+     {
+      "name": "equusworks.com",
+      "website": "equusworks.com"
+     }
+    ]
+   },
+   {
+    "id": "f26efe3f-4814-4fe1-a44a-b5ced9c97bff",
+    "title": "Corrections Officer Instructor",
+    "description": "<h2>Company Description</h2><p>Our Job Corps programs provide life-changing services that help young people succeed in school, obtain good jobs, excel in their chosen fields, and serve as contributing members of their communities. We accomplish this through an intense commitment to safety, quality service, excellence, and partnerships.</p><h2>Job Description</h2><p>Promotes a positive and desirable atmosphere within the classroom setting to ensure maximum student motivation.</p><p>• &nbsp;Maintains a high degree of discipline within the classroom setting to ensure maximum learning.&nbsp;<br>• &nbsp;Functions as Subject Matter Expert (SME) for the Career Technical Training field for which they were hired to instruct.<br>• &nbsp;Presents lessons regularly utilizing a variety of multimodal approaches to ensure all students have the opportunity to learn in their preferred style of learning.<br>• &nbsp;Establishes a high degree of student/instructor rapport.<br>• &nbsp;Responsible for adequate classroom preparation.<br>• &nbsp;Maintains lesson plans relevant to course material; Aligns curriculum with Industry Standards and Training Achievement Record.<br>• &nbsp;Records and forwards daily attendance to the Student Records area as required.<br>• &nbsp;Assists in the completion of all necessary Job Corps forms.<br>• &nbsp;Accountable for the safety and cleanliness of classrooms and shops.<br>• &nbsp;Develops industry partnerships that could lead to work-based learning, internships, and job placement outcomes.<br>• &nbsp;Assists students in obtaining primary and secondary credentials.<br>• &nbsp;Updates electronic Training Achievement Record (eTAR) as required.<br>• &nbsp;Prepares reports such as student/staff hours, requisitions, attendance, and monthly student evaluations.<br>• &nbsp;Assists with student placement to include job placement, military, college, apprenticeship, advance training.<br>• &nbsp;Operates in accordance with the requirements of the PRH, Standard Operating Procedures in function area and corporate policies.&nbsp;<br>• &nbsp;Evaluates and records student progress/evaluations and case notes in CIS, where appropriate.<br>&nbsp;</p><h2>Qualifications</h2><p>• &nbsp;High School Diploma or GED required. Associate degree preferred.<br>•&nbsp; &nbsp; Prior experience in Texas Department of Criminal Justice (TDCJ) preferred.&nbsp;<br>• &nbsp;Certified, licensed, or accredited in the state in which the center is located or is accredited by a professional trade organization. (RO may waive if center is unable to hire certified or licensed instructors, but the candidate must pursue certification)&nbsp;<br>• &nbsp;Experience working with diverse youth.<br>• &nbsp;A valid driver’s license in the state of employment with an acceptable driving record.</p><p><br>&nbsp;</p><h2>Additional Information</h2><p>All your information will be kept confidential according to EEO guidelines.</p><p><em>Equus Workforce Solutions is a leading provider of workforce development services in North America. With a dedicated and passionate team, Equus puts the industry’s best practices to work by focusing on the development, design, and delivery of demand-driven workforce solutions.</em></p><p><em>When you join Equus, you can expect extensive learning opportunities and networking programs. But most of all you can expect to make a lasting impact on the lives of others.</em></p><p><em>At Equus we are strengthened by diversity. We are committed to providing a work environment in which everyone is included, treated fairly and with respect. Equus Workforce Solutions is proud to be an Equal Opportunity Employer.&nbsp;All qualified applicants will receive consideration for employment without regard to race, color, gender, age, pregnancy, sexual orientation, gender identity, ancestry, religion, national origin, veteran status, physical or mental disability, or reprisal or any other characteristic protected under state, federal, or local law.</em></p>",
+    "summary": "The Corrections Officer Instructor teaches career technical training to Job Corps students, maintaining an engaging, disciplined, and safe classroom while preparing lessons, aligning curriculum to industry standards, and tracking attendance and student progress. The instructor also supports credentials and career placement, develops industry partnerships, and completes required reports and program documentation.",
+    "locations": [
+     {
+      "workLocation": "onsite",
+      "addressRegion": "Texas",
+      "addressCountry": "US",
+      "addressLocality": "San Marcos"
+     }
+    ],
+    "remoteType": "onsite",
+    "skills": {
+     "soft_skills": [
+      "Student Rapport",
+      "Working with Diverse Youth"
+     ],
+     "primary_skills": [
+      "Classroom Instruction",
+      "Curriculum Development",
+      "Lesson Planning",
+      "Classroom Management",
+      "Student Assessment",
+      "Student Progress Reporting",
+      "Industry Standards Alignment",
+      "Career Technical Training",
+      "Student Placement"
+     ],
+     "secondary_skills": [
+      "Training Achievement Record Management",
+      "Case Note Documentation",
+      "Industry Partnership Development",
+      "Credential Assistance",
+      "Job Corps Procedures"
+     ]
+    },
+    "benefits": [
+     "professional_development"
+    ],
+    "salary": null,
+    "experienceLevel": "entry",
+    "employmentType": "full_time",
+    "minYearsExperience": null,
+    "educationRequirement": {
+     "required": [
+      "high_school",
+      "professional_certificate"
+     ],
+     "preferred": [
+      "associate_degree"
+     ]
+    },
+    "industry": [
+     "education",
+     "nonprofit_ngo"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790275370,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.smartrecruiters.com/Equus/744000151686139-corrections-officer-instructor",
+    "status": "active",
+    "companies": [
+     {
+      "name": "equusworks.com",
+      "website": "equusworks.com"
+     }
+    ]
+   },
+   {
+    "id": "ad40050b-9406-4cb7-b8bb-2855042089f5",
+    "title": "Math Instructor (816440)",
+    "description": "<h2>Company Description</h2><p>Our Job Corps programs provide life-changing services that help young people succeed in school, obtain good jobs, excel in their chosen fields, and serve as contributing members of their communities. We accomplish this through an intense commitment to safety, quality service, excellence, and partnerships.</p><h2>Job Description</h2><p>-Performs professional level instruction to students enrolled in GED preparation and TABE reading and math preparation classes, and high school diploma programs. Also responsible for instructing social skills, employability skills, applied academics and project-based learning.</p><p>- Math gains&nbsp;</p><p>- Staff will take appropriate attendance</p><p>- Classroom Management as evidenced by # of classroom incidents</p><p>- Active trainee engagement – monitored by classroom observation - Lesson Planning</p><p>- Maintain accurate attendance records/hourly/per class period</p><p>- Demonstrates the ability to manage the classroom environment and classroom discipline for effective learning</p><p>- Demonstrates full knowledge of competency-based instruction, computer assigned instruction, cooperative learning techniques</p><p>- Actively participates in weekly center team meetings</p><p>- Actively participates in departmental and all staff meetings</p><p>- Completes required staff training in a timely manner - Reports directly to departmental manager - Model, mentor, monitor appropriate work place behavior</p><p>- Completes weekly reports as required</p><p>- Basic computer skills are required, Microsoft Office, Outlook, Work and Excel - Ensuring clean and safe work environment</p><p>- Participates in active shooter and fire drills</p><p>- Delivers necessary accommodations to students</p><p>- Operates in accordance with the requirements of the PRH, Standard Operating Procedures in function area and corporate policies</p><p>- Evaluates and records student progress/evaluations and case notes in CIS, where appropriate</p><p>- Delivers quality customer service to students</p><p>- Assists with student retention</p><p>- Maintains lesson plans relevant to course material</p><p>- Facilitates communication with center departments - Employs activities which offer CSS and employability skills building opportunities for students</p><p>- Monitoring TABE achievements &nbsp; &nbsp;</p><p>- Other duties as assigned</p><h2>Qualifications</h2><ul><li>Bachelor’s Degree from a four-year college or university</li><li>Certified to teach in state in which center is located (RO may waive if center is unalbe to hire ceritfied teachers, but the candidate must pursue certification</li><li>Ability to read, analyze, and interpret general business periodicals, professional journals, technical procedures, or government regulations</li><li>Ability to write reports, business correspondence, and procedural manuals</li><li>Ability to effectively present information and respond to questions from peers, groups of managers, students, and the general public<br>Ability to work with mathematical concepts such as probability and statistical inference</li><li>Ability to apply concepts such as fractures, percentages ratios, and proportions to practical situations<br>Ability to define problems, collect data, establish facts, and draw related conclusions</li><li>Ability to interpret an extensive variety of technical instruction in mathematical or diagram terms, and deal with several abstract and concrete variables</li></ul><h2>Additional Information</h2><p>All your information will be kept confidential according to EEO guidelines.</p><p><em>Equus Workforce Solutions is a leading provider of workforce development services in North America. With a dedicated and passionate team, Equus puts the industry’s best practices to work by focusing on the development, design, and delivery of demand-driven workforce solutions.</em></p><p><em>When you join Equus, you can expect extensive learning opportunities and networking programs. But most of all you can expect to make a lasting impact on the lives of others.</em></p><p><em>At Equus we are strengthened by diversity. We are committed to providing a work environment in which everyone is included, treated fairly and with respect. Equus Workforce Solutions is proud to be an Equal Opportunity Employer.&nbsp;All qualified applicants will receive consideration for employment without regard to race, color, gender, age, pregnancy, sexual orientation, gender identity, ancestry, religion, national origin, veteran status, physical or mental disability, or reprisal or any other characteristic protected under state, federal, or local law.</em></p>",
+    "summary": "The Math Instructor teaches GED, TABE, and high school diploma coursework, alongside social and employability skills, applied academics, and project-based learning. Responsibilities include planning lessons, managing the classroom, tracking attendance and student progress, delivering accommodations, and supporting student engagement and retention.",
+    "locations": [
+     {
+      "postalCode": "82501",
+      "workLocation": "onsite",
+      "addressRegion": "Wyoming",
+      "addressCountry": "US",
+      "addressLocality": "Riverton"
+     }
+    ],
+    "remoteType": "onsite",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Customer Service",
+      "Mentoring",
+      "Teamwork"
+     ],
+     "primary_skills": [
+      "Mathematics Instruction",
+      "GED Preparation",
+      "TABE Preparation",
+      "Classroom Management",
+      "Lesson Planning",
+      "Competency-Based Instruction",
+      "Computer-Assisted Instruction",
+      "Cooperative Learning",
+      "Microsoft Office",
+      "Student Progress Evaluation"
+     ],
+     "secondary_skills": [
+      "Project-Based Learning",
+      "Applied Academics",
+      "Basic Computer Skills",
+      "Microsoft Outlook",
+      "Microsoft Word",
+      "Microsoft Excel",
+      "Attendance Recordkeeping",
+      "Report Writing",
+      "Student Accommodations"
+     ]
+    },
+    "benefits": [
+     "professional_development"
+    ],
+    "salary": null,
+    "experienceLevel": "entry",
+    "employmentType": "full_time",
+    "minYearsExperience": null,
+    "educationRequirement": {
+     "required": [
+      "bachelor_degree",
+      "professional_certificate"
+     ],
+     "preferred": []
+    },
+    "industry": [
+     "education"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790272039,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.smartrecruiters.com/Equus/744000151676184-math-instructor-816440-",
+    "status": "active",
+    "companies": [
+     {
+      "name": "equusworks.com",
+      "website": "equusworks.com"
+     }
+    ]
+   },
+   {
+    "id": "294657ea-ddd3-4fc0-b321-4ff74c56950a",
+    "title": "Culinary Arts Instructor",
+    "description": "<h2>Company Description</h2><p>Our Job Corps programs provide life-changing services that help young people succeed in school, obtain good jobs, excel in their chosen fields, and serve as contributing members of their communities. We accomplish this through an intense commitment to safety, quality service, excellence, and partnerships.</p><h2>Job Description</h2><p><strong>Position Summary:</strong></p><p>Deliver specialized training in advanced culinary techniques, ensuring the development of high-level gastronomic skills among students while fostering creativity, innovation, and adherence to professional standards.</p><p><strong>Key Responsibilities:</strong></p><ul><li>Design, plan, and execute advanced culinary arts teaching programs.</li><li>Instruct in international cuisine techniques, fine dining, pastry arts, and gourmet presentation.</li><li>Supervise culinary practices, ensuring proper application of hygiene and food safety standards.</li><li>Assess student performance through theoretical and practical evaluations.</li><li>Stay updated on culinary trends, new techniques, and kitchen technologies.</li><li>Manage proper use of equipment, tools, and raw materials in the classroom-kitchen.</li><li>Collaborate in the development of menus and innovative gastronomic projects.</li><li>Maintain a high level of discipline within the classroom.</li><li>Prepare adequately for classroom instruction.</li><li>Ensure all equipment is in proper working condition.</li><li>Identify and utilize appropriate instructional materials.</li><li>Seek input from industry advisors to enhance curriculum relevance.</li><li>Submit Evaluation of Student Progress (ESP) reports as scheduled and in a timely manner.</li><li>Document student progress on Training Achievement Records (E-TAR) and for inclusion in ETA 640.</li><li>Record daily attendance in the CIS system.</li><li>Design instruction to meet individual student needs.</li><li>Maintain an “A or B” grade in Career Technical Training (CTT) reports.</li><li>Ensure completion of at least 90% of Career Technical Training Primary Credentials for enrolled students.</li><li>Maintain a trade completion rate of 70% or higher.</li><li>Ensure timely completion of Career Technical Skills Training (CTST) projects (when applicable).</li><li>Perform other duties as assigned.</li></ul><h2>Qualifications</h2><p><strong>Job Requirements:</strong></p><ul><li><strong>Education:</strong> Minimum of an Associate’s Degree in Gastronomy or Culinary Arts required. A combination of education and experience may be considered. Bachelor’s Degree from a four-year college or university preferred.</li><li><strong>Certifications:</strong> CPR/First Aid, Food Handling, ServSafe.</li><li><strong>Licenses:</strong> Valid Driver’s License and current Health Certificate required.</li></ul><p><strong>Knowledge:</strong></p><ul><li>Advanced techniques in international cuisine and fine dining.</li><li>Food hygiene and safety regulations.</li><li>Cost management and inventory control.</li></ul><p><strong>Skills:</strong></p><ul><li>Strong leadership and effective communication.</li><li>Creativity and culinary innovation.</li><li>Ability to work under pressure and as part of a team.</li><li>Ability to work with youth ages 16 to 24.</li></ul><p><strong>Core Competencies:</strong></p><ul><li>Quality orientation.</li><li>Passion for teaching and gastronomy.</li><li>Adaptability to new culinary trends.</li></ul><p><strong>Computer Skills:</strong></p><ul><li>Proficiency in computer operations and Microsoft Office Suite (Word, Excel, PowerPoint, Outlook).</li><li>Ability to use digital tools for documentation, reporting, and administrative management.</li></ul><h2>Additional Information</h2><p>All your information will be kept confidential according to EEO guidelines.</p><p><em>Equus Workforce Solutions is a leading provider of workforce development services in North America. With a dedicated and passionate team, Equus puts the industry’s best practices to work by focusing on the development, design, and delivery of demand-driven workforce solutions.</em></p><p><em>When you join Equus, you can expect extensive learning opportunities and networking programs. But most of all you can expect to make a lasting impact on the lives of others.</em></p><p><em>At Equus we are strengthened by diversity. We are committed to providing a work environment in which everyone is included, treated fairly and with respect. Equus Workforce Solutions is proud to be an Equal Opportunity Employer.&nbsp;All qualified applicants will receive consideration for employment without regard to race, color, gender, age, pregnancy, sexual orientation, gender identity, ancestry, religion, national origin, veteran status, physical or mental disability, or reprisal or any other characteristic protected under state, federal, or local law.</em></p><p><em>Equus Workforce Solutions is a leading provider of workforce development services in North America. With a dedicated and passionate team, Equus puts the industry’s best practices to work by focusing on the development, design, and delivery of demand-driven workforce solutions.</em></p><p><em>When you join Equus, you can expect extensive learning opportunities and networking programs. But most of all you can expect to make a lasting impact on the lives of others.</em></p><p><em>At Equus we are strengthened by diversity. We are committed to providing a work environment in which everyone is included, treated fairly and with respect. Equus Workforce Solutions is proud to be an Equal Opportunity Employer.&nbsp;All qualified applicants will receive consideration for employment without regard to race, color, gender, age, pregnancy, sexual orientation, gender identity, ancestry, religion, national origin, veteran status, physical or mental disability, or reprisal or any other characteristic protected under state, federal, or local law.</em></p>",
+    "summary": "Deliver specialized training in advanced culinary techniques, including international cuisine, fine dining, and pastry arts, to students aged 16-24. Responsible for designing and executing culinary teaching programs, ensuring adherence to food safety standards, and fostering creativity and professional discipline.",
+    "locations": [
+     {
+      "postalCode": "94130",
+      "workLocation": "hybrid",
+      "addressRegion": "California",
+      "addressCountry": "US",
+      "addressLocality": "San Francisco"
+     }
+    ],
+    "remoteType": "hybrid",
+    "skills": {
+     "soft_skills": [
+      "Leadership",
+      "Communication",
+      "Teamwork",
+      "Adaptability",
+      "Creativity"
+     ],
+     "primary_skills": [
+      "Culinary Arts",
+      "International Cuisine",
+      "Fine Dining",
+      "Pastry Arts",
+      "Food Safety",
+      "Food Hygiene",
+      "Cost Management",
+      "Inventory Control",
+      "Microsoft Office Suite",
+      "Digital Documentation"
+     ],
+     "secondary_skills": [
+      "Gourmet Presentation",
+      "Culinary Innovation",
+      "Menu Development",
+      "Curriculum Design",
+      "Student Assessment",
+      "Classroom Management",
+      "Equipment Maintenance",
+      "Health Certificate Compliance",
+      "CPR/First Aid",
+      "ServSafe Certification"
+     ]
+    },
+    "benefits": [
+     "professional_development",
+     "employee_discounts",
+     "other_benefits"
+    ],
+    "salary": null,
+    "experienceLevel": "mid",
+    "employmentType": "full_time",
+    "minYearsExperience": null,
+    "educationRequirement": {
+     "required": [
+      "associate_degree"
+     ],
+     "preferred": [
+      "bachelor_degree"
+     ]
+    },
+    "industry": [
+     "education"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790206997,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.smartrecruiters.com/Equus/744000151484057-culinary-arts-instructor",
+    "status": "active",
+    "companies": [
+     {
+      "name": "equusworks.com",
+      "website": "equusworks.com"
+     }
+    ]
+   },
+   {
+    "id": "b20c9986-ba7b-4340-bf10-ecb4caeb64e2",
+    "title": "Temporary Associate Instructor",
+    "description": "<p><span><span>Role: </span> Temporary Associate Instructor</span></p><p><span><span>Reports to: </span> Center Director</span></p><p><span><span>Location:</span> St. Petersburg, Florida</span></p><p><span><span>Compensation:</span> $20.00 to $26.00 per hour</span></p><p><br></p><p><span>Description: </span></p><p><span>The Temporary Associate Instructor is responsible for planning, teaching and evaluating assigned classes in accordance with the ELS curriculum, to mainly adult students, with assistance from the AD, Instructional Specialists and Senior Instructors; for maintaining student class records; for fulfilling administrative duties as required and/or requested by the AD; and for participating in professional development activities such as workshops, meetings and assisting Instructors.</span></p><p><br></p><p><span>Job Duties: </span></p><ul><li><span>The duties of this position include, but are not limited to:</span></li><li><span>To teach SSP (Structure/Speaking Practice), Vocabulary Enrichment, Reading/Writing, LTC (Language Technology Center) and/or Skills Enhancement Classes (SECs) as assigned.</span></li><li><span>To prepare lesson plans, exercises and tests.</span></li><li><span>To test, evaluate and counsel the student regarding his/her classroom performance.</span></li><li><span>To maintain a classroom environment conducive to learning.</span></li><li><span>To coordinate instruction, attendance records and evaluation with other teachers.</span></li><li><span>To know and adhere to Center and Company policy and procedures, and to communicate local policy to Associate Instructors.</span></li><li><span>To complete administrative paperwork as required or requested.</span></li><li><span>To maintain performance and attendance records.</span></li><li><span>To maintain Center resource materials and files.</span></li><li><span>To observe other teachers, as suggested by the AD, for purposes of professional development and to be observed in all facets of the program.</span></li><li><span>To participate in administrative meetings and professional development activities.</span></li><li><span>To participate in the employee evaluation process (i.e., classroom observations and follow-up discussions and the performance appraisal process</span></li><li><span>&nbsp;To provide Associate Instructors with assistance.</span></li><li><span>To develop and/or refine teaching materials at the local level.</span></li><li><span>&nbsp;To participate in activities during the Instructor's scheduled class hours and, when requested, to disseminate information about after-class activities.</span></li><li><span>To contribute to the maintenance of neat classrooms and a neat staff workroom and staff lounge.</span></li><li><span>To substitute in emergency situations for less than a full day (assuming the Instructor is not already teaching a full day) when there are no reasonable alternatives available to the AD. Experience teaching adult and young adult students is necessary in this position.</span></li><li><span>The Temporary Associate Instructor is usually called in to substitute in emergency situations for less than a full day.</span></li></ul><p><br></p><p><span>Education and Experience Required</span></p><ul><li><span>Bachelor’s or better in English or related field.</span></li><li><span>A minimum of 6 months of ESL teaching experience for those who do not have an MA in TESOL or CELTA.</span></li></ul><p><span>Preferred:</span></p><p><span>Certificate or better in CELTA or related field.</span></p><p><span>Certificate or better in TESOL or related field.</span></p><p><span>Master’s or better in Applied Linguistics or related field.</span></p><p><span>Master’s or better in TESOL or related field.</span></p><p><br></p><p><span>Contact Information: </span></p><p><span>While we thank all applicants, only those who are shortlisted will be contacted.</span></p><p><br><span>About ELS</span></p><p><span>Since 1961, when ELS Educational Services opened its first school in Washington DC, ELS has developed a global reputation for delivering top-quality English language programs. ELS now has the most extensive network of on-campus English language programs and University partners, across the USA.</span></p><p><br><span>About ILSC Education Group</span></p><p><span>In early 2022, ILSC Education Group joined forces with ELS Educational Services, bringing together over 100 years of combined experience delivering life-changing learning experiences to international students.</span></p><p><br><span>A world leader in language education &amp; vocational training, ILSC Education Group, which opened its first language school in Vancouver, Canada in 1991 and Greystone College in 2002, offers life-changing educational experiences in Canada, Australia, Ireland and India, some of the world’s most attractive and popular English-speaking work and study destinations. Since opening its first school in Vancouver, BC, Canada, ILSC has become a world leader in language and career training and has grown to include 10 incredible locations around the world, in Vancouver, Toronto and Montréal, Canada; New Delhi, India; and Brisbane, Sydney, Melbourne, Adelaide and Perth, Australia; and Dublin, Ireland; as well as two online language schools, ILSC HELLO and ILSC ALLO. In 2025, ILSC Education Group launched Greystone Institute, a new Higher Education provider in Brisbane.</span></p><p><br></p><p><em><span>Our mission is to provide our global community with transformative learning, living and work experiences by offering the finest language, career and higher education programs.</span></em></p><p><br></p><p><span>Our Core Values</span></p><p><br><span><span>PASSION: </span> To enrich &amp; transform people’s lives</span></p><p><br><span><span>INNOVATION:</span> To evolve through creativity &amp; diversity.</span></p><p><br><span><span>RESPECT: </span> To treat everyone with compassion &amp; dignity.</span></p><p><br><span><span>COLLABORATION: </span> To build community &amp; achieve more together</span></p><p><br><span><span>INTEGRITY: </span> To act responsibly &amp; ethically in everything we do</span></p><p><br></p><p><span>ELS, ILSC and Greystone College are committed to providing a barrier-free environment and are proud to be Equal Employment Opportunity employers. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.</span></p><p><br></p><p><span>If you need assistance or an accommodation due to a disability, you may contact HR at HR@ilsc.com.</span></p><p><br><span>ELS participates in E-Verify to verify employment authorization to work in the U.S. once a job offer has been accepted.</span></p>",
+    "summary": "The Temporary Associate Instructor plans, teaches, and evaluates English language classes primarily for adult students in accordance with the ELS curriculum. Responsibilities include preparing lessons and assessments, maintaining student and attendance records, completing administrative duties, participating in professional development, and substituting during emergency situations.",
+    "locations": [
+     {
+      "postalCode": "33711",
+      "workLocation": "onsite",
+      "addressRegion": "Florida",
+      "addressCountry": "US",
+      "addressLocality": "St. Petersburg"
+     }
+    ],
+    "remoteType": "onsite",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Collaboration",
+      "Organization"
+     ],
+     "primary_skills": [
+      "English as a Second Language (ESL) Teaching",
+      "Lesson Planning",
+      "Classroom Instruction",
+      "Student Evaluation",
+      "Student Counseling",
+      "Attendance Record Management",
+      "Administrative Recordkeeping",
+      "Teaching Materials Development",
+      "English Language Curriculum"
+     ],
+     "secondary_skills": [
+      "CELTA",
+      "TESOL",
+      "Applied Linguistics",
+      "Professional Development",
+      "Classroom Observation"
+     ]
+    },
+    "benefits": [],
+    "salary": {
+     "max": 26,
+     "min": 20,
+     "period": "hourly",
+     "currency": "USD"
+    },
+    "experienceLevel": "entry",
+    "employmentType": "temporary",
+    "minYearsExperience": 1,
+    "educationRequirement": {
+     "required": [
+      "bachelor_degree"
+     ],
+     "preferred": [
+      "professional_certificate",
+      "master_degree"
+     ]
+    },
+    "industry": [
+     "education"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790121600,
+    "expiresAt": null,
+    "applyUrl": "https://ilsc.bamboohr.com/careers/716",
+    "status": "active",
+    "companies": [
+     {
+      "name": "ILSC",
+      "website": "ilsc.com"
+     }
+    ]
+   },
+   {
+    "id": "75508e73-d879-45f3-9355-202462f11d69",
+    "title": "Els Substitute Instructor",
+    "description": "<p><span><span><span><span>Role:</span></span></span> <span><span>Substitute Instructor</span></span></span></p><p><span><span><span><span>Reports </span><span>to</span><span>:</span></span></span> <span><span>Academic Director</span></span></span></p><p><span><span><span><span>Location</span><span>:</span></span></span> La Verne, California</span></p><p><span><span>Compensation: </span>$19.50 to $25.50 per hour&nbsp;</span></p><br><p><span><span><span>Description: </span></span></span></p><p><span><span>The ELS Substitute Instructor is responsible for planning, teaching and evaluating assigned classes in accordance with the ELS curriculum, to mainly adult students, with assistance from the AD, Instructional Specialists and Senior Instructors; for maintaining student class records; for fulfilling administrative duties as required and/or requested by the AD; and for participating in professional development activities such as workshops, meetings and assisting Instructors. The ELS Substitute Associate Instructor is usually called in to substitute in emergency situations for less than a full day.&nbsp;</span></span></p><br><p><span><span><span>Job Duties: </span></span></span></p><p><span><span>The duties of this position include, but are not limited to:</span></span><span><br></span></p><ul><li><span>To teach SSP (Structure/Speaking Practice), Vocabulary Enrichment, Reading/Writing, LTC (Language Technology Center) and/or Skills Enhancement Classes (SECs) as assigned.</span></li><li><span>To prepare lesson plans, exercises and tests.</span></li><li><span>To test, evaluate and counsel the student regarding his/her classroom performance.</span></li><li><span>To maintain a classroom environment conducive to learning.</span></li><li><span>To coordinate instruction, attendance records and evaluation with other teachers.</span></li><li><span>To know and adhere to Center and Company policy and procedures, and to communicate local policy to Associate Instructors.</span></li><li><span>To complete administrative paperwork as required or requested.</span></li><li><span>To maintain performance and attendance records.</span></li><li><span>To maintain Center resource materials and files.</span></li><li><span>To observe other teachers, as suggested by the AD, for purposes of professional development and to be observed in all facets of the program.</span></li><li><span>To participate in administrative meetings and professional development activities.</span></li><li><span>To participate in the employee evaluation process (i.e., classroom observations and follow-up discussions and the performance appraisal process).</span></li><li><span>To provide Associate Instructors with assistance.</span></li><li><span>To develop and/or refine teaching materials at the local level.</span></li><li><span>To participate in activities during the Instructor's scheduled class hours and, when requested, to disseminate information about after-class activities.</span></li><li><span>To contribute to the maintenance of neat classrooms and a neat staff workroom and staff lounge.</span></li><li><span>To substitute in emergency situations for less than a full day (assuming the Instructor is not already teaching a full day) when there are no reasonable alternatives available to the AD. </span></li><li><span><span>Other duties as assigned</span></span></li></ul><br><p><span><span><span>Essential Qualifications, Skills, and Attributes: </span></span></span></p><ul><li><span>Proven ability to teach core ESL skills to adult learners and execute curricula on occasional short notice.</span></li><li><span>Strong classroom management and intercultural communication skills.</span></li><li><span>Dependable and available for emergency coverage.</span></li><li><span>Prompt with attendance, grading, and routine paperwork; comfortable with classroom technology.</span></li><li><span>Collaborative, receptive to feedback/observations, and committed to professional development.</span></li><li><span>Prior teaching experience in an Intensive English Program (IEP) or university setting.</span></li><li><span>Experience teaching adult and young adult students is necessary in this position.</span></li></ul><br><p><span><span><span>Education and Experience Required</span></span></span></p><ul><li><span>Bachelors or better in English or related field.</span></li><li><span>A minimum of 6 months of ELS teaching experience for those who do not have an MA in TESOL or CELTA.</span></li></ul><br><p><span><span><span>Contact Information: </span></span></span></p><p><span><span>While we thank all applicants, only those who are shortlisted will be contacted.</span></span></p><br><p><span><span><span>About ELS</span></span> </span></p><p><span><span>Since 1961, when ELS Educational Services opened its first school in Washington DC, ELS has developed a global reputation for delivering top-quality English language programs. ELS now has the most extensive network of on-campus English language programs and University partners, across the USA.</span></span></p><br><p><span><span><span>About ILSC Education Group</span></span></span></p><p><span><span>In early 2022, ILSC Education Group joined forces with ELS Educational Services, bringing together over 100 years of combined experience delivering life-changing learning experiences to international students. </span></span></p><br><p><span><span>A world leader in language education &amp; vocational training, ILSC Education Group, which opened its first language school in Vancouver, Canada in 1991 and Greystone College in 2002, offers life-changing educational experiences in Canada, Australia, Ireland and India, some of the world’s most attractive and popular English-speaking work and study destinations. </span><span>Since opening its first school in Vancouver, BC, Canada, ILSC has become a world leader in language and career training and has grown to include 10 incredible locations around the world, in Vancouver, Toronto and Montréal, Canada; New Delhi, India; and Brisbane, Sydney, Melbourne, </span><span>Adelaide and Perth, Australia; and Dublin, Ireland; as well as two online language schools, ILSC HELLO and ILSC ALLO. In 2025, ILSC Education Group launched Greystone Institute, a new Higher Education provider in Brisbane.</span></span></p><br><p><span><span>Our mission is to provide our global community with transformative learning, living and work experiences by offering the finest language, career and higher education programs.</span></span></p><br><p><span><span><span>Our Core Values</span></span></span></p><br><p><span><span><span>PASSION:</span></span><span> To enrich &amp; transform people’s lives</span></span></p><br><p><span><span><span>INNOVATION:</span></span><span> To evolve through creativity &amp; diversity</span><span>.</span></span></p><br><p><span><span><span>RESPECT: </span></span><span>To treat everyone with compassion &amp; dignity.</span></span></p><br><p><span><span><span>COLLABORATION:</span></span><span> To build community &amp; achieve more together</span></span></p><br><p><span><span><span>INTEGRITY:</span></span><span> To act responsibly &amp; ethically in everything we do</span></span></p><br><p><span><span>ELS, ILSC and Greystone College are committed to providing a barrier-free environment and are proud to be Equal Employment Opportunity employers. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.</span></span></p><p><span><br></span></p><p><span><span>If you need assistance or an accommodation due to a disability, you may contact HR at&nbsp;</span><a href=\"mailto:HR@ilsc.com\"><span><span>HR@ilsc.com</span></span></a><span>.</span></span></p><p><span><br></span></p><p><span><span>ELS participates in E-Verify to verify employment authorization to work in the U.S. once a job offer has been accepted.</span></span></p>",
+    "summary": "The ELS Substitute Instructor plans, teaches, and evaluates English language classes primarily for adult students in accordance with the ELS curriculum. Responsibilities include lesson planning, classroom management, student assessment, recordkeeping, administrative duties, emergency substitute coverage, and participation in professional development and teacher support activities.",
+    "locations": [
+     {
+      "postalCode": "91750",
+      "workLocation": "onsite",
+      "addressRegion": "California",
+      "addressCountry": "US",
+      "addressLocality": "La Verne"
+     }
+    ],
+    "remoteType": "onsite",
+    "skills": {
+     "soft_skills": [
+      "Dependability",
+      "Communication",
+      "Collaboration",
+      "Receptiveness to Feedback",
+      "Adaptability"
+     ],
+     "primary_skills": [
+      "English as a Second Language (ESL) Instruction",
+      "Curriculum Execution",
+      "Lesson Planning",
+      "Classroom Management",
+      "Student Evaluation",
+      "Attendance and Performance Recordkeeping",
+      "Administrative Paperwork",
+      "Classroom Technology",
+      "Intercultural Communication",
+      "Professional Development"
+     ],
+     "secondary_skills": [
+      "Intensive English Program (IEP) Teaching",
+      "University Teaching",
+      "Teaching Adult Learners",
+      "Teaching Young Adult Students",
+      "Teaching Materials Development"
+     ]
+    },
+    "benefits": [],
+    "salary": {
+     "max": 25.5,
+     "min": 19.5,
+     "period": "hourly",
+     "currency": "USD"
+    },
+    "experienceLevel": "entry",
+    "employmentType": "other",
+    "minYearsExperience": null,
+    "educationRequirement": {
+     "required": [
+      "bachelor_degree"
+     ],
+     "preferred": []
+    },
+    "industry": [
+     "education"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790121600,
+    "expiresAt": null,
+    "applyUrl": "https://ilsc.bamboohr.com/careers/715",
+    "status": "active",
+    "companies": [
+     {
+      "name": "ILSC",
+      "website": "ilsc.com"
+     }
+    ]
+   },
+   {
+    "id": "00ff0ccc-2341-43c6-99a8-afaaf172e185",
+    "title": "Fitness Instructor- Mixxed Fit",
+    "description": "<h4><strong>Why Chuze?</strong></h4><p>At Chuze Fitness, we’re reinventing the fitness industry with a focus on hospitality, community, and compassion. We prioritize people and foster a vibrant work environment where everyone can be themselves and contribute to our culture of kindness. We’re seeking individuals of all backgrounds who embody kindness, sociability, and strong work ethic.&nbsp;</p><p>If you’re ready to dive into the heart of hospitality, we want you on our team! Join us in making a difference!</p><h4><span><strong>Job Description</strong></span></h4><p><strong>Pay Range:&nbsp;</strong>$20.12 - $31.00 / hour</p><p>The Fit Pros at Chuze lead various high-intensity exercise classes and activities designed to improve participants’ physical fitness and overall well-being. They are knowledgeable and courteous professionals dedicated to creating exceptional fitness experiences, which makes our classes a top choice for Chuze members.</p><p><strong>Responsibilities include but are not limited to the following:</strong></p><ul><li>Build a strong rapport and sense of community with members by maintaining a consistent coaching schedule and providing safe and motivating sessions for participants</li><li>Deliver classes within Chuze guidelines, arriving to each class with prepared with any necessary equipment and music with adherence to licensing agency requirements</li><li>Complete Chuze onboarding and training materials before teaching live sessions and maintain knowledge of updates</li><li>Maintain Chuze cleanliness standards during and after sessions and ensure gym presentation is always extraordinarily clean</li><li>Engage in the growth and development process by utilizing feedback received from the Fitness Manager through regular check-ins, training, and session evaluations</li><li>Participate in ongoing fitness industry education and maintain proof of current credentials&nbsp;</li><li>Maintain professional relationships through communication and teamwork with all Chuze staff to meet member and facility needs</li><li>Attend and participate in regularly scheduled Fitness department meetings and special promotional events to promote participation in Chuze Fitness offerings</li><li>Utilize the Fitness Communication Platform for essential department communications</li></ul><p><strong>Perks &amp; Benefits Include:</strong></p><ul><li>Complementary Chuze Membership</li><li>Free iChuze Membership</li><li>Discounts on retail and smoothie purchases and through vendor partners</li><li>Personal device stipend</li><li>On-site Kids Club*&nbsp;</li><li>Instructor referral program</li><li>Paid practice and educational time</li><li>401K**</li></ul><p>*Applicable locations only. Instructors may use Kids Club for their own children while teaching</p><p>**Additional perks and benefits available for full-time employees</p><p><strong>Physical Requirements:</strong></p><ul><li>Able to read, write, and speak clearly in English</li><li>Walking and climbing stairs</li><li>Leading and performing high-intensity workouts</li><li>Ability to lift at least 50lbs</li></ul><br><h4><span><strong>Additional Information:</strong></span></h4><p>Chuze Fitness is an Equal Opportunity Employer. We consider candidates solely based on merit. Background checks are required for some positions.</p>",
+    "summary": "The Fitness Instructor leads high-intensity exercise classes designed to improve participants’ physical fitness and overall well-being. Responsibilities include preparing and delivering safe, motivating sessions, building member rapport, maintaining cleanliness and credentials, participating in training and meetings, and communicating with Fitness department staff.",
+    "locations": [
+     {
+      "postalCode": "85705",
+      "workLocation": "onsite",
+      "addressRegion": "Arizona",
+      "addressCountry": "US",
+      "addressLocality": "Tucson"
+     }
+    ],
+    "remoteType": "onsite",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Teamwork",
+      "Rapport Building",
+      "Kindness",
+      "Work Ethic"
+     ],
+     "primary_skills": [
+      "High-Intensity Exercise Instruction",
+      "Fitness Coaching",
+      "Exercise Class Delivery",
+      "Fitness Industry Education",
+      "Fitness Credential Maintenance",
+      "Equipment Preparation",
+      "Music Licensing Compliance",
+      "Fitness Communication Platforms"
+     ],
+     "secondary_skills": [
+      "Fitness Training",
+      "Promotional Event Participation",
+      "Retail Product Knowledge"
+     ]
+    },
+    "benefits": [
+     "other_benefits",
+     "employee_discounts",
+     "company_laptop_equipment",
+     "professional_development",
+     "pensions_401k"
+    ],
+    "salary": {
+     "max": 31,
+     "min": 20.12,
+     "period": "hourly",
+     "currency": "USD"
+    },
+    "experienceLevel": "entry",
+    "employmentType": "part_time",
+    "minYearsExperience": null,
+    "educationRequirement": null,
+    "industry": [
+     "hospitality_food"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790121600,
+    "expiresAt": null,
+    "applyUrl": "https://chuze.rec.pro.ukg.net/RAC1500RACS/JobBoard/c151dcd7-4a65-4d6a-b6a7-3a259565709d/OpportunityDetail?opportunityId=f0c7420b-0c3c-4bfb-a25f-deb25cc9e293",
+    "status": "active",
+    "companies": [
+     {
+      "name": "chuzefitness.com",
+      "website": "chuzefitness.com"
+     }
+    ]
+   },
+   {
+    "id": "cfc4c096-65fc-4605-a8f2-4e310b2460d2",
+    "title": "Reading Instructor (930622)",
+    "description": "<h2>Company Description</h2><p>We help job seekers and career changers prepare for and advance in careers with a focus on sustainable, high-growth, high-demand industries. Our committed and well-trained workforce professionals deliver comprehensive workforce solutions at integrated career centers, sector-focused centers and community, and partner sites.</p><h2>Job Description</h2><ul><li>Helps students achieve improved standardized testing scores in reading</li><li>Establishes a high degree of student/instructor rapport and creates a positive and desirable atmosphere within the classroom setting to promote student motivation</li><li>Maintains a high degree of accountability within the classroom setting to allow for maximum learning</li><li>Documents student attendance, performance, progress, and behavior in a timely manner and within program guidelines</li><li>Reports any deficiencies to manager</li><li>&nbsp;Delivers instruction using provided curriculum resources and develop new/updated curriculum as needed</li><li>&nbsp;Integrates applied academic activities into classroom curriculum</li><li>Holds students accountable for following Center's dress code/behavioral standards of conduct</li><li>Responsible for adequate classroom preparation</li><li>Responsible to track student performance and achievement, and assist students in setting short, intermediate, and long-term goals</li><li>&nbsp;Maintains adequate classroom cleanliness</li><li>Effectively relates to the student population and recognize student success in the classroom</li><li>Adheres to all data integrity measures related to classroom instruction and testing</li><li>Creates and sustains positive working relationships with co-workers</li><li>Performs all other duties as assigned</li></ul><h2>Qualifications</h2><ul><li>Bachelor's degree</li><li>Certified to teach in the state in which the center is located</li><li>One year in a teaching capacity with disadvantaged youth preferred</li><li>Obtain and maintain CPR/First Aid Certification</li><li>Knowledge of required subject area</li><li>Excellent communication skills, both oral and written</li><li>&nbsp;Excellent organizational skills</li></ul><h2>Additional Information</h2><p>All your information will be kept confidential according to EEO guidelines.</p><p><em>Equus Workforce Solutions is a leading provider of workforce development services in North America. With a dedicated and passionate team, Equus puts the industry’s best practices to work by focusing on the development, design, and delivery of demand-driven workforce solutions.</em></p><p><em>When you join Equus, you can expect extensive learning opportunities and networking programs. But most of all you can expect to make a lasting impact on the lives of others.</em></p><p><em>At Equus we are strengthened by diversity. We are committed to providing a work environment in which everyone is included, treated fairly and with respect. Equus Workforce Solutions is proud to be an Equal Opportunity Employer.&nbsp;All qualified applicants will receive consideration for employment without regard to race, color, gender, age, pregnancy, sexual orientation, gender identity, ancestry, religion, national origin, veteran status, physical or mental disability, or reprisal or any other characteristic protected under state, federal, or local law.</em></p>",
+    "summary": "The Reading Instructor helps students improve standardized reading test scores through classroom instruction, curriculum delivery, and applied academic activities. The role includes tracking student attendance and performance, maintaining classroom standards, supporting student goal-setting, and fostering positive relationships with students and coworkers.",
+    "locations": [
+     {
+      "workLocation": "onsite",
+      "addressRegion": "Texas",
+      "addressCountry": "US",
+      "addressLocality": "San Marcos"
+     }
+    ],
+    "remoteType": "onsite",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Organization",
+      "Relationship Building",
+      "Accountability"
+     ],
+     "primary_skills": [
+      "Reading Instruction",
+      "Standardized Testing",
+      "Curriculum Development",
+      "Classroom Management",
+      "Student Performance Tracking",
+      "Data Integrity",
+      "CPR Certification",
+      "First Aid Certification"
+     ],
+     "secondary_skills": [
+      "Teaching Disadvantaged Youth",
+      "Applied Academic Activities"
+     ]
+    },
+    "benefits": [
+     "professional_development"
+    ],
+    "salary": null,
+    "experienceLevel": "entry",
+    "employmentType": "full_time",
+    "minYearsExperience": null,
+    "educationRequirement": {
+     "required": [
+      "bachelor_degree"
+     ],
+     "preferred": []
+    },
+    "industry": [
+     "education"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790108311,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.smartrecruiters.com/Equus/744000151128119-reading-instructor-930622-",
+    "status": "active",
+    "companies": [
+     {
+      "name": "equusworks.com",
+      "website": "equusworks.com"
+     }
+    ]
+   },
+   {
+    "id": "ae1a119d-c19e-4521-b152-c4734b7e4f9e",
+    "title": "RN Pn Instructor",
+    "description": "<h2>Company Description</h2><p>Unitek Learning is a leading healthcare education organization focused on preparing the next generation of nurses and healthcare professionals.&nbsp;</p><p>Through its family of institutions, including Unitek College of Nursing, Eagle Gate College, Provo College, Brookline College, and Unitek EMT, Unitek delivers career-focused education designed to help students build meaningful careers while addressing critical workforce needs across the healthcare industry.&nbsp;</p><p>Through our Workforce Solutions segment, Unitek partners with hospitals and health systems to create sustainable talent pipelines and expand access to healthcare education through employer-based training and workforce development programs nationwide.</p><h2>Job Description</h2><p>We are looking for Per Diem Clinical/Skills Lab Faculty to join our team in conjunction with our Workforce Development Partner, Trinity Health.</p><p>The Clinical/Skills Lab Faculty will provide Skills Lab and/or Clinical site education to students enrolled at the assigned Workforce Development Program site.<br><br>*Hours vary based on clinical rotation and/or skills lab course. We are currently looking for Friday, Saturday, Sunday availability.</p><ul><li>Providing education in the skills lab and/or clinical setting commensurate with established curriculum and faculty expertise (clinical rotations can be days, evenings, weekends, or a combination of all);</li><li>Utilize principles of teaching that recognize the characteristics of the adult learner;</li><li>Plan and supervises student clinical experience in assigned health care facilities;</li><li>Evaluates student performance in relation to clinical learning outcomes in accordance with policies and procedures established by Unitek College, Department of Nursing;</li><li>Provide feedback of clinical performance or specific event in a timely manner after observation;</li><li>Assists in maintaining student records as evidenced by keeping accurate clinical and/or skills lab attendance, completed skills check-off forms, and assisting with requested programmatic outcome data collection;</li><li>Ensuring clinical assignments meet both student and facility needs;</li><li>Determines best method to observe, instruct, and evaluate students;</li><li>Makes continuous efforts to improve quality of instruction;</li><li>Demonstrate or be willing to acquire skills for utilizing online activities as enhancers to course content/material during interactive teaching and learning;</li><li>Submit required program reports and forms to the Academic Site Director of the program in a timely manner;</li><li>Keep current with innovative technologies and safety regulations;</li><li>Participate in committee activities that support the mission and function of the nursing program as needed;</li><li>Attend faculty meetings;</li><li>Provide access to students for ongoing communication through scheduling of office hours, electronic communication, or other appropriate method.</li><li>Other duties as assigned.</li></ul><h2>Qualifications</h2><ul><li>Registered Nurse with current unencumbered licensure in the state in which you are applying to teach.</li><li>Minimum of a completed Bachelor’s degree from an accredited college or university that includes course work in nursing education or administration, and academic preparation for the subject they teach to be considered.</li><li>Able to meet the faculty requirements set by the Board of Nursing.</li><li>Experience which demonstrates: Current knowledge of nursing practice; ability to mentor students in classroom, lab and clinical settings; ability to work independently without close supervision; broad knowledge of nursing sciences; successful handling of day-to-day operations in the nursing lab; proficient, strong communications skills, verbal and written; current knowledge/experience in clinical setting.</li><li>Minimum four-years’ experience, with one year in the last five years, as a registered nurse providing direct patient care (clinical teaching in an RN program applies toward direct patient care.)</li><li>One-year experience teaching courses related to nursing or completion of a course which includes practice in teaching nursing preferred.</li><li>Expertise in one of the following areas of nursing – Mental Health, Medical-Surgical, Geriatrics, Pediatrics, L&amp;D, Community Health, and/or Critical Care preferred.</li><li>Must obtain ATI, Assessment Technology Institute Certification within 30 days of hire (offered by Unitek).</li><li>Current immunizations and Basic Life Support Certification</li></ul><h2>Additional Information</h2><p><strong>For Full Time Employees, We Offer:</strong></p><ul><li>Medical, Dental and Vision starting the 1st of the month following 30 days of employment</li><li>2 Weeks’ starting Vacation per year.&nbsp; Increasing based on years of service with company</li><li>12&nbsp;paid Holidays and 2&nbsp;Floating Holiday</li><li>401K with a Company Match</li><li>Company Paid Life Insurance at 1x’s your annual salary</li><li>Leadership development and training for career advancement</li><li>Tuition assistance and Forgiveness for you and your family up to 100% depending on program</li></ul>",
+    "summary": "Unitek Learning is seeking a per diem Clinical/Skills Lab Faculty member to provide nursing education in skills-lab and clinical settings for students in a Workforce Development Program. Responsibilities include planning and supervising clinical experiences, evaluating student performance, maintaining records, providing feedback, participating in program activities, and supporting ongoing student communication.",
+    "locations": [
+     {
+      "workLocation": "onsite",
+      "addressRegion": "Michigan",
+      "addressCountry": "US",
+      "addressLocality": "Muskegon"
+     }
+    ],
+    "remoteType": "onsite",
+    "skills": {
+     "soft_skills": [
+      "Mentoring",
+      "Communication",
+      "Independent Work",
+      "Adaptability"
+     ],
+     "primary_skills": [
+      "Registered Nursing",
+      "Nursing Education",
+      "Clinical Instruction",
+      "Skills Lab Instruction",
+      "Student Performance Evaluation",
+      "Clinical Supervision",
+      "Nursing Practice",
+      "Basic Life Support",
+      "ATI Certification"
+     ],
+     "secondary_skills": [
+      "Online Learning Technologies",
+      "Mental Health Nursing",
+      "Medical-Surgical Nursing",
+      "Geriatric Nursing",
+      "Pediatric Nursing",
+      "Labor and Delivery Nursing",
+      "Community Health Nursing",
+      "Critical Care Nursing",
+      "Nursing Administration"
+     ]
+    },
+    "benefits": [
+     "health_insurance",
+     "dental_insurance",
+     "vision_care",
+     "paid_time_off_vacation_personal_days",
+     "performance_bonuses",
+     "pensions_401k",
+     "pension_contribution_matching",
+     "life_insurance",
+     "professional_development",
+     "tuition_reimbursement"
+    ],
+    "salary": null,
+    "experienceLevel": "entry",
+    "employmentType": "contract",
+    "minYearsExperience": 4,
+    "educationRequirement": {
+     "required": [
+      "bachelor_degree"
+     ],
+     "preferred": []
+    },
+    "industry": [
+     "education",
+     "healthcare_medical"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790037244,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.smartrecruiters.com/UnitekLearning/744000150803909-rn-pn-instructor",
+    "status": "active",
+    "companies": [
+     {
+      "name": "uniteklearning.com",
+      "website": "uniteklearning.com"
+     }
+    ]
+   },
+   {
+    "id": "d2fa72ff-777e-4168-b6c7-6c8f07de18e8",
+    "title": "Craft Electrical Instructor - Part Time (propel Career Academy)",
+    "description": "<h2>Overview</h2><p>Craft Electrical instructors are hired in a part-time capacity on a semester-by-semester basis, contingent upon the needs of our education program. Propel Career Academy (PCA) accepts applications year-round from qualified applicants willing to teach on a part-time basis. Craft Electrical instructor hiring is based on student demand. We may offer day, evening, and weekend classes. Classes are offered at our San Antonio facility during the academic year. Generally, Craft Electrical instructors may work approximately 18 to 24 hours each week. Applications submitted on-line are accessed and reviewed by Director of Education as the need to hire arises. There is normally no communication with applicants unless they are selected for an interview.</p><h2>Responsibilities</h2><ul><li>Teaches Electrical Worker courses at a variety of times.</li><li>Submits required reports and forms in a timely manner to Administrative Office.</li><li>Assist in Developing and Utilizing the course syllabus for each course.</li><li>Meets with and advises students either before or after class or by appointment, electronic communication, or other appropriate methods.</li><li>Evaluates students to measure their progress in achieving course objectives and informs students in a timely manner of their progress.</li><li>Maintains professional relationships with students and colleagues.</li><li>Continuously improves instructional quality by reviewing and utilizing innovative methodologies, techniques and delivery methods.</li><li>Attends meetings, trainings and orientations as required.</li><li>Responsible for other reasonable related duties as assigned.</li></ul><p><strong>Knowledge, Skills, &amp; Abilities:</strong></p><ul><li>Knowledge of all aspects of the Electrical Worker trade</li><li>Mastery of NCCER electrical course content</li><li>Skills in project leadership; style that emphasizes collaboration, teamwork, and facilitation</li><li>Commitment to academic excellence, exceptional service and providing a dynamic climate for life-long learning</li><li>Ability to use effective strategies to engage students in their learning</li><li>Excellent oral and written communication skills and interpersonal skills</li><li>Familiarity with MS Office software</li><li>Commitment to multi-cultural and multi-generational diversity</li><li>Strong communication and computer skills</li><li>Commitment to quality service to students</li><li>Knowledge of power and hand tools related to the craft or trade</li></ul><p><strong>Physical Abilities:</strong></p><ul><li>Ability to receive detailed information through oral communication, and to make the discrimination in sound</li><li>Ability to convey detailed or important spoken instructions to other workers accurately and concisely</li><li>Expressing or exchanging ideas by means of the spoken word including those activities in which they must convey detailed or important spoken instructions to other workers accurately, loudly, or quickly</li><li>Close visual acuity to perform an activity such as preparing and analyzing data and figures; transcribing; viewing a computer terminal; and/or extensive reading</li><li>Ability to demonstrate the proper use of power and hand tools related to the specific trade or craft in a safe manner</li></ul><h2>Qualifications</h2><ul><li>High school diploma or equivalent</li><li>Minimum of 4 years of documented Electrician's experience at the journeyman level, including at least 1 year in a leadership/supervisory role and verify the various responsibilities undertaken in the discharge of those duties OR</li><li>Minimum 3 years experience as a certified teacher in a vocational/technical construction or maintenance related training program</li><li>Possess an Electrical Worker Journeyman credential or equivalent</li><li>Possess an NCCER Instructor certification or be willing to complete the NCCER Instructor Certification Training Program (ICTP), and obtain the appropriate certification from NCCER in the CORE and the Electrical Craft area.</li><li>Willing to complete Green Apple Labs certification to teach Green Apple electrical labs.</li></ul><p><strong>Work Schedule &amp; Conditions:</strong></p><ul><li>Hours will vary depending on class time. Instructors are required to meet with classes at scheduled times and be available to students outside of class instruction</li><li>PC workstation running on a LAN in a Microsoft Windows environment, calculator, phone and other general office equipment</li><li>Internal and external contacts as needed to carry out the functions of the position</li><li>Work is performed in a skilled trades laboratory which may include exposure to high noise environments and weather-related working conditions</li></ul><p><strong>Work Schedule &amp; Conditions:</strong></p><ul><li>Hours will vary depending on class time. Instructors are required to meet with classes at scheduled times and be available to students outside of class instruction</li><li>PC workstation running on a LAN in a Microsoft Windows environment, calculator, phone and other general office equipment</li><li>Internal and external contacts as needed to carry out the functions of the position</li><li>Work is performed in a skilled trades laboratory which may include exposure to high noise environments and weather-related working conditions</li></ul><p><strong>Salary:</strong></p><ul><li>TBD per each contact hour</li></ul><p><strong>As an EEO/Affirmative Action Employer all qualified applicants will receive consideration for employment without regard to race, age, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status.</strong></p>",
+    "summary": "The Craft Electrical Instructor teaches Electrical Worker courses at scheduled day, evening, or weekend classes at Propel Career Academy’s San Antonio facility. Responsibilities include developing course materials, advising and evaluating students, completing administrative documentation, attending required meetings and training, and maintaining instructional quality and professional relationships.",
+    "locations": [
+     {
+      "postalCode": "78217",
+      "workLocation": "onsite",
+      "addressRegion": "Texas",
+      "streetAddress": "10231 Kotzebue St",
+      "addressCountry": "US",
+      "addressLocality": "San Antonio"
+     }
+    ],
+    "remoteType": "onsite",
+    "skills": {
+     "soft_skills": [
+      "Collaboration",
+      "Teamwork",
+      "Communication",
+      "Interpersonal Skills",
+      "Adaptability"
+     ],
+     "primary_skills": [
+      "Electrical Trade Knowledge",
+      "NCCER Electrical Course Content",
+      "Electrical Worker Journeyman Credential",
+      "NCCER Instructor Certification",
+      "Electrical Instruction",
+      "Course Syllabus Development",
+      "Student Evaluation",
+      "Power Tools",
+      "Hand Tools",
+      "Microsoft Office"
+     ],
+     "secondary_skills": [
+      "Green Apple Labs Certification",
+      "Vocational/Technical Training",
+      "Project Leadership"
+     ]
+    },
+    "benefits": [],
+    "salary": null,
+    "experienceLevel": "senior",
+    "employmentType": "part_time",
+    "minYearsExperience": 4,
+    "educationRequirement": {
+     "required": [
+      "high_school"
+     ],
+     "preferred": []
+    },
+    "industry": [
+     "education"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790035200,
+    "expiresAt": 1821657599,
+    "applyUrl": "https://careers-fsg.icims.com/jobs/2579/craft-electrical-instructor---part-time-%28propel-career-academy%29/job",
+    "status": "active",
+    "companies": [
+     {
+      "name": "fsg.com",
+      "website": "fsg.com"
+     }
+    ]
+   }
+  ],
+  "meta": {
+   "count": 10,
+   "nextCursor": "eyJpZCI6ImQyZmE3MmZmLTc3N2UtNDE2OC1iNmM3LTZjOGYwN2RlMThlOCIsInNvcnRWYWx1ZSI6MTc5MDAzNTIwMCwidGllQnJlYWtlciI6IjIwMjYtMDktMjJUMjA6MDY6MTMuMTc1WiJ9",
+   "hasMore": true,
+   "requestTimeMs": 123,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

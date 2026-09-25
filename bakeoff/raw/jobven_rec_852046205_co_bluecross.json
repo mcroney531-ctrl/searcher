@@ -1,0 +1,55 @@
+{
+ "call_id": "rec_852046205_co_bluecross",
+ "phase": "recall",
+ "url": "https://api.jobven.com/v1/public/companies?search=Blue+Cross&limit=10",
+ "params": [
+  [
+   "search",
+   "Blue Cross"
+  ],
+  [
+   "limit",
+   10
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:19:17 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "122",
+  "connection": "close",
+  "server": "cloudflare",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "b4317298-d69e-4333-853b-d17ad292b00c",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2481",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "15",
+  "etag": "W/\"7a-JBYPegNQI6xq9YBDEiFdLEmkAYE\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=DXyTlYbYe4Bnlk8QwybTa1MPy8grhKHFUg%2Bf4QLCt%2BJktumwAMpqareiPxiYTQbcp7lul2OyjpkBap8LlcjGnHfctNBRzkJdXCr%2B9RrfANblE7wEKyNB4REGwhtFKBVJbdZwjjkvcOtOcHR7RQ%3D%3D\"}]}",
+  "cf-ray": "a406e2ec797edb40-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "name": "Alberta Blue Cross",
+    "website": "ab.bluecross.ca"
+   }
+  ],
+  "meta": {
+   "page": 1,
+   "limit": 10,
+   "total": 1,
+   "totalPages": 1
+  }
+ }
+}

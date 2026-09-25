@@ -1,0 +1,50 @@
+{
+ "call_id": "rec_850873020_co_oshkosh",
+ "phase": "recall",
+ "url": "https://api.jobven.com/v1/public/companies?search=Oshkosh&limit=10",
+ "params": [
+  [
+   "search",
+   "Oshkosh"
+  ],
+  [
+   "limit",
+   10
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:23:30 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "65",
+  "connection": "close",
+  "server": "cloudflare",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "7e9a5093-d4bf-4d9e-8639-6f3af886c90a",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2433",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "5",
+  "etag": "W/\"41-c0On01lj8RZhy+1JbnXQRdKB5vI\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=uK%2FYJtWHMQiTLDT8YbUQiEttjtmt0MDc3keIJgZWF1YJTrp%2FUTu1%2FM5H3F2HEAlIAlU8xHO7IAuPFt6vwdey9h2Bn05dG28zkqAT2wFRYWELgxWruhnzI4iM5%2F2WJiVeRXDr97C0Buf6jhxR9g%3D%3D\"}]}",
+  "cf-ray": "a406e91aea304245-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [],
+  "meta": {
+   "page": 1,
+   "limit": 10,
+   "total": 0,
+   "totalPages": 0
+  }
+ }
+}

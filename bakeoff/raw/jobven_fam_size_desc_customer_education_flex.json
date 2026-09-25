@@ -1,0 +1,155 @@
+{
+ "call_id": "fam_size_desc_customer_education_flex",
+ "phase": "family",
+ "url": "https://api.jobven.com/v1/public/jobs?q=-%22account+executive%22+-%22account+manager%22+-%22sales+representative%22+-%22sales+manager%22+-%22customer+service+representative%22+-%22help+desk%22+-%22customer+success+manager%22+-%22support+specialist%22&descriptionQuery=customer+education&country=US&remoteType%5B%5D=remote&remoteType%5B%5D=flexible&postedAfter=1789702200&limit=1&includeTotal=true",
+ "params": [
+  [
+   "q",
+   "-\"account executive\" -\"account manager\" -\"sales representative\" -\"sales manager\" -\"customer service representative\" -\"help desk\" -\"customer success manager\" -\"support specialist\""
+  ],
+  [
+   "descriptionQuery",
+   "customer education"
+  ],
+  [
+   "country",
+   "US"
+  ],
+  [
+   "remoteType[]",
+   "remote"
+  ],
+  [
+   "remoteType[]",
+   "flexible"
+  ],
+  [
+   "postedAfter",
+   1789702200
+  ],
+  [
+   "limit",
+   1
+  ],
+  [
+   "includeTotal",
+   "true"
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:28:36 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "transfer-encoding": "chunked",
+  "connection": "close",
+  "server": "cloudflare",
+  "vary": "Accept-Encoding",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "33dfc6c2-22ba-4e0e-bebf-6158370f6d3e",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2311",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "445",
+  "etag": "W/\"1cf3-20j39aei4qSHQ9QMD2MoCcMgjxI\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=p1PClnEfObNVADlbY7PNarST1Pv%2FbjX4n8Rizu1Rp8YGtksv7gSrvH%2Fs5LV5yJ4l81ODJFIY0xuYGVxKBcuRXGM3d5K0V3goD28%2BW%2BPezEqFpbe3WOMCOuStcQUACYMnRedg%2F%2F0ofSMGGp%2Bb7A%3D%3D\"}]}",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "cf-ray": "a406f0909a8fe640-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "id": "b25e59b2-6fd2-4b7c-87a6-a4ca4313b884",
+    "title": "Product Marketing Lead",
+    "description": "<p><strong> 🚀 About WRITER</strong></p><p>WRITER is where the world's leading enterprises orchestrate AI-powered work. Our vision is to expand human capacity through superintelligence. And we're proving it's possible – through powerful, trustworthy AI that unites IT and business teams together to unlock enterprise-wide transformation. With WRITER's end-to-end platform, hundreds of companies like Mars, Marriott, Uber, and Vanguard are building and deploying AI agents that are grounded in their company's data and fueled by WRITER's enterprise-grade LLMs. Valued at $1.9B and backed by industry-leading investors including Premji Invest, Radical Ventures, and ICONIQ Growth, WRITER is rapidly cementing its position as the leader in enterprise generative AI.</p><p>Founded in 2020 with office hubs in San Francisco, New York City, Seattle, Austin, Chicago, and London, our team thinks big and moves fast, and we're looking for smart, hardworking builders and scalers to join us on our journey to create a better future of work with AI.</p><p><strong>📐 About the role</strong></p><p>Writer is the enterprise AI platform for agentic work, purpose-built for the Fortune 500 — and our platform is expanding fast. As a product marketing lead, you'll own the go-to-market strategy for new products and features in our Core app, helping prospects understand how WRITER empowers marketing and sales teams to transform their work, and driving new feature adoption among current customers. You'll sit at the intersection of product, sales, and marketing — translating complex platform capabilities into crisp messaging that resonates with enterprise buyers.</p><p><strong>🦸🏻‍♀️ What you’ll do</strong></p><ul><li><p>Own end-to-end product marketing for WRITER Agent and other key features of our core app, including positioning, messaging, launch strategy, and competitive differentiation – translating new agentic capabilities into clear enterprise value</p></li><li><p>Partner with product, demand generation, content, comms, and customer marketing teams to drive go-to-market for product and feature launches</p></li><li><p>Translate product investments into sales-ready narratives, partner with sales enablement to educate the field, and develop assets — pitch materials, one-pagers, objection-handling guides — that equip the field to sell our latest innovations</p></li><li><p>Drive product and feature adoption through regular user communications and programs</p></li><li><p>Conduct ongoing competitive intelligence and market research to sharpen differentiation against both point solutions and broader AI platforms</p></li><li><p>Collaborate with cross-functional marketing partners to ensure consistent product messaging across the buyer journey</p></li></ul><p><strong>⭐️ What you need</strong></p><ul><li><p>6+ years of product marketing experience, or 3+ years of product marketing experience paired with 5+ years in a related field (e.g. sales enablement, customer success, customer education, or product management), in a B2B SaaS environment</p></li><li><p>AI native mindset with proven experience using agentic AI to automate GTM workflows</p></li><li><p>Proven track record of bringing complex products to market with clear, compelling positioning for both technical and business audiences</p></li><li><p>Strong sales enablement instincts — you know how to build narratives and assets that actually get used in the field</p></li><li><p>Experience working cross-functionally with Product, Sales, and Customer Success in a fast-moving environment</p></li><li><p>Excellent written communication</p></li><li><p>Experience or familiarity with the enterprise AI or agentic AI landscape is a strong plus</p></li></ul><p><br><strong>🍩 Benefits &amp; perks (US Full-time employees)</strong></p><ul><li><p>Generous PTO, plus company holidays</p></li><li><p>Medical, dental, and vision coverage for you and your family</p></li><li><p>Paid parental leave for all parents (16 weeks)</p></li><li><p>Fertility and family planning support</p></li><li><p>Early-detection cancer testing <a href=\"https://www.galleri.com/partner/writer\"><u>through Galleri</u></a></p></li><li><p>Flexible spending account and dependent FSA options</p></li><li><p>Health savings account for eligible plans with company contribution</p></li><li><p>Annual work-life stipends for:</p><ul><li><p>Wellness stipend for gym, massage/chiropractor, personal training, etc.</p></li><li><p>Learning and development stipend</p></li></ul></li><li><p>Company-wide off-sites and team off-sites</p></li><li><p>Competitive compensation, company stock options and 401k</p></li></ul><p><em>WRITER is an equal-opportunity employer and is committed to diversity. We don't make hiring or employment decisions based on race, color, religion, creed, gender, national origin, age, disability, veteran status, marital status, pregnancy, sex, gender expression or identity, sexual orientation, citizenship, or any other basis protected by applicable local, state or federal law. Under the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.</em></p><p>By submitting your application on the application page, you acknowledge and agree to <a href=\"https://writer.com/legal/candidate-privacy-notice/\">WRITER's Global Candidate Privacy Notice</a>.</p>",
+    "summary": "The Product Marketing Lead owns go-to-market strategy for WRITER’s core app products and features, including positioning, messaging, launches, and competitive differentiation. The role translates enterprise AI capabilities into buyer-facing narratives and sales assets, drives feature adoption, and collaborates across product, sales, and marketing teams.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressRegion": "California",
+      "addressCountry": "US",
+      "addressLocality": "San Francisco"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Written Communication",
+      "Cross-functional Collaboration"
+     ],
+     "primary_skills": [
+      "Product Marketing",
+      "Go-to-Market Strategy",
+      "Product Positioning",
+      "Product Messaging",
+      "Product Launch",
+      "Sales Enablement",
+      "Competitive Intelligence",
+      "Market Research",
+      "Agentic AI",
+      "B2B SaaS"
+     ],
+     "secondary_skills": [
+      "Enterprise AI",
+      "Customer Success",
+      "Product Management",
+      "Customer Education"
+     ]
+    },
+    "benefits": [
+     "paid_time_off_vacation_personal_days",
+     "health_insurance",
+     "dental_insurance",
+     "vision_care",
+     "parental_leave",
+     "wellness_program",
+     "professional_development",
+     "company_events_retreats",
+     "stock_options_equity",
+     "pensions_401k",
+     "other_benefits"
+    ],
+    "salary": null,
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 6,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790273335,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/writer/4736bca1-f862-4091-8d4a-d7f80a307253",
+    "status": "active",
+    "companies": [
+     {
+      "name": "writer.com",
+      "website": "writer.com"
+     }
+    ]
+   }
+  ],
+  "meta": {
+   "total": 8,
+   "count": 1,
+   "nextCursor": "eyJpZCI6ImIyNWU1OWIyLTZmZDItNGI3Yy04N2E2LWE0Y2E0MzEzYjg4NCIsInNvcnRWYWx1ZSI6MTc5MDI3MzMzNSwidGllQnJlYWtlciI6IjIwMjYtMDktMjRUMjE6NTA6MjEuOTM5WiJ9",
+   "hasMore": true,
+   "requestTimeMs": 444,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

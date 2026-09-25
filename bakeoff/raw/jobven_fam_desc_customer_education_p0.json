@@ -1,0 +1,564 @@
+{
+ "call_id": "fam_desc_customer_education_p0",
+ "phase": "family",
+ "url": "https://api.jobven.com/v1/public/jobs?q=-%22account+executive%22+-%22account+manager%22+-%22sales+representative%22+-%22sales+manager%22+-%22customer+service+representative%22+-%22help+desk%22+-%22customer+success+manager%22+-%22support+specialist%22&descriptionQuery=customer+education&country=US&remoteType%5B%5D=remote&postedAfter=1789702200&limit=25",
+ "params": [
+  [
+   "q",
+   "-\"account executive\" -\"account manager\" -\"sales representative\" -\"sales manager\" -\"customer service representative\" -\"help desk\" -\"customer success manager\" -\"support specialist\""
+  ],
+  [
+   "descriptionQuery",
+   "customer education"
+  ],
+  [
+   "country",
+   "US"
+  ],
+  [
+   "remoteType[]",
+   "remote"
+  ],
+  [
+   "postedAfter",
+   1789702200
+  ],
+  [
+   "limit",
+   25
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:28:31 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "transfer-encoding": "chunked",
+  "connection": "close",
+  "server": "cloudflare",
+  "vary": "Accept-Encoding",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "dbf59ee1-fe36-45f6-8c89-00e8e944d00f",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2313",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "268",
+  "etag": "W/\"10960-bQe58CVxdjsT6Xwih2rzWi85LuY\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=1BNGoiXcWQQncbbvpSA4RSOUbME7FK3Ici7TeJK9cxDas68YHqTP%2Fe4ucV0gYMYNpQub2XY14XSKxd%2Ff7q2mtSEe5yvba863iVbibj1SJ6JTxkPwO5N7s2Ym%2Fahw4sILR72QFzhv%2Fdv3HvtQfQ%3D%3D\"}]}",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "cf-ray": "a406f0722ae78153-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "id": "b25e59b2-6fd2-4b7c-87a6-a4ca4313b884",
+    "title": "Product Marketing Lead",
+    "description": "<p><strong> 🚀 About WRITER</strong></p><p>WRITER is where the world's leading enterprises orchestrate AI-powered work. Our vision is to expand human capacity through superintelligence. And we're proving it's possible – through powerful, trustworthy AI that unites IT and business teams together to unlock enterprise-wide transformation. With WRITER's end-to-end platform, hundreds of companies like Mars, Marriott, Uber, and Vanguard are building and deploying AI agents that are grounded in their company's data and fueled by WRITER's enterprise-grade LLMs. Valued at $1.9B and backed by industry-leading investors including Premji Invest, Radical Ventures, and ICONIQ Growth, WRITER is rapidly cementing its position as the leader in enterprise generative AI.</p><p>Founded in 2020 with office hubs in San Francisco, New York City, Seattle, Austin, Chicago, and London, our team thinks big and moves fast, and we're looking for smart, hardworking builders and scalers to join us on our journey to create a better future of work with AI.</p><p><strong>📐 About the role</strong></p><p>Writer is the enterprise AI platform for agentic work, purpose-built for the Fortune 500 — and our platform is expanding fast. As a product marketing lead, you'll own the go-to-market strategy for new products and features in our Core app, helping prospects understand how WRITER empowers marketing and sales teams to transform their work, and driving new feature adoption among current customers. You'll sit at the intersection of product, sales, and marketing — translating complex platform capabilities into crisp messaging that resonates with enterprise buyers.</p><p><strong>🦸🏻‍♀️ What you’ll do</strong></p><ul><li><p>Own end-to-end product marketing for WRITER Agent and other key features of our core app, including positioning, messaging, launch strategy, and competitive differentiation – translating new agentic capabilities into clear enterprise value</p></li><li><p>Partner with product, demand generation, content, comms, and customer marketing teams to drive go-to-market for product and feature launches</p></li><li><p>Translate product investments into sales-ready narratives, partner with sales enablement to educate the field, and develop assets — pitch materials, one-pagers, objection-handling guides — that equip the field to sell our latest innovations</p></li><li><p>Drive product and feature adoption through regular user communications and programs</p></li><li><p>Conduct ongoing competitive intelligence and market research to sharpen differentiation against both point solutions and broader AI platforms</p></li><li><p>Collaborate with cross-functional marketing partners to ensure consistent product messaging across the buyer journey</p></li></ul><p><strong>⭐️ What you need</strong></p><ul><li><p>6+ years of product marketing experience, or 3+ years of product marketing experience paired with 5+ years in a related field (e.g. sales enablement, customer success, customer education, or product management), in a B2B SaaS environment</p></li><li><p>AI native mindset with proven experience using agentic AI to automate GTM workflows</p></li><li><p>Proven track record of bringing complex products to market with clear, compelling positioning for both technical and business audiences</p></li><li><p>Strong sales enablement instincts — you know how to build narratives and assets that actually get used in the field</p></li><li><p>Experience working cross-functionally with Product, Sales, and Customer Success in a fast-moving environment</p></li><li><p>Excellent written communication</p></li><li><p>Experience or familiarity with the enterprise AI or agentic AI landscape is a strong plus</p></li></ul><p><br><strong>🍩 Benefits &amp; perks (US Full-time employees)</strong></p><ul><li><p>Generous PTO, plus company holidays</p></li><li><p>Medical, dental, and vision coverage for you and your family</p></li><li><p>Paid parental leave for all parents (16 weeks)</p></li><li><p>Fertility and family planning support</p></li><li><p>Early-detection cancer testing <a href=\"https://www.galleri.com/partner/writer\"><u>through Galleri</u></a></p></li><li><p>Flexible spending account and dependent FSA options</p></li><li><p>Health savings account for eligible plans with company contribution</p></li><li><p>Annual work-life stipends for:</p><ul><li><p>Wellness stipend for gym, massage/chiropractor, personal training, etc.</p></li><li><p>Learning and development stipend</p></li></ul></li><li><p>Company-wide off-sites and team off-sites</p></li><li><p>Competitive compensation, company stock options and 401k</p></li></ul><p><em>WRITER is an equal-opportunity employer and is committed to diversity. We don't make hiring or employment decisions based on race, color, religion, creed, gender, national origin, age, disability, veteran status, marital status, pregnancy, sex, gender expression or identity, sexual orientation, citizenship, or any other basis protected by applicable local, state or federal law. Under the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.</em></p><p>By submitting your application on the application page, you acknowledge and agree to <a href=\"https://writer.com/legal/candidate-privacy-notice/\">WRITER's Global Candidate Privacy Notice</a>.</p>",
+    "summary": "The Product Marketing Lead owns go-to-market strategy for WRITER’s core app products and features, including positioning, messaging, launches, and competitive differentiation. The role translates enterprise AI capabilities into buyer-facing narratives and sales assets, drives feature adoption, and collaborates across product, sales, and marketing teams.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressRegion": "California",
+      "addressCountry": "US",
+      "addressLocality": "San Francisco"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Written Communication",
+      "Cross-functional Collaboration"
+     ],
+     "primary_skills": [
+      "Product Marketing",
+      "Go-to-Market Strategy",
+      "Product Positioning",
+      "Product Messaging",
+      "Product Launch",
+      "Sales Enablement",
+      "Competitive Intelligence",
+      "Market Research",
+      "Agentic AI",
+      "B2B SaaS"
+     ],
+     "secondary_skills": [
+      "Enterprise AI",
+      "Customer Success",
+      "Product Management",
+      "Customer Education"
+     ]
+    },
+    "benefits": [
+     "paid_time_off_vacation_personal_days",
+     "health_insurance",
+     "dental_insurance",
+     "vision_care",
+     "parental_leave",
+     "wellness_program",
+     "professional_development",
+     "company_events_retreats",
+     "stock_options_equity",
+     "pensions_401k",
+     "other_benefits"
+    ],
+    "salary": null,
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 6,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790273335,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/writer/4736bca1-f862-4091-8d4a-d7f80a307253",
+    "status": "active",
+    "companies": [
+     {
+      "name": "writer.com",
+      "website": "writer.com"
+     }
+    ]
+   },
+   {
+    "id": "15508f16-d6b2-469e-9958-d64134db0dd9",
+    "title": "Lead Instructional Designer",
+    "description": "<h2><strong>About Neon One</strong></h2><p>At Neon One, we believe that technology is the key to building vibrant communities of generosity. As a leader in nonprofit software since 2004, we create intuitive solutions that help small and mid-sized nonprofits connect with people, build trust, and make good happen every day.<br><br>Our culture is powered by empathy, innovation, and a shared mission to empower organizations making a difference. We operate with a customer-first mindset, take pride in extraordinary results, and grow together by supporting each other and embracing bold new ideas. If you’re passionate about using your skills to drive real impact and want to thrive in a collaborative, fully remote environment, Neon One is the place for you.<br></p><h2><strong>About the Role</strong></h2><p>We are seeking a strategic, highly collaborative, and technically proficient Lead Instructional Designer to drive our instructional design strategy. In this pivotal individual contributor role, you will be a technical visionary and the primary engine for moving complex learning initiatives forward. You will partner closely with the Technical Writing function to ensure seamless alignment between our product documentation and learning pathways. Additionally, you will serve as the primary stakeholder in our transition to a newly built, custom Learning Management System (LMS). By partnering directly with external developers, product managers, and subject matter experts, you will define the instructional UX, authoring requirements, and system capabilities needed to deliver a world-class customer education experience.</p><h2><strong>Responsibilities</strong></h2><ul><li><p><strong>Cross-Functional Project Leadership:</strong> Act as the central driver for learning initiatives. Build strong partnerships across departments, proactively manage stakeholder expectations, and keep complex projects moving forward on schedule without relying on direct reporting lines.</p></li><li><p><strong>LMS Migration &amp; Strategic Ownership:</strong> Act as the primary business owner for offboarding our current academy (Skilljar) and transitioning to a custom-built LMS. Define system requirements (e.g., authoring workflows, learner UX) and guide external developers to ensure the platform meets both customer needs and instructional design standards.</p></li><li><p><strong>Team Collaboration &amp; Workflow Design: </strong> Work closely with the Technical Writer, Enablement Manager, and Customer Operations Managers to establish scalable design systems, style guides, and AI-assisted content workflows that make our learning content accessible to our customer base.</p></li><li><p><strong>Technical Curriculum &amp; Certification: </strong> Architect end-to-end learning pathways, role-based certifications, and self-paced academies for admin users and enterprise clients.</p></li><li><p><strong>Hands-On Lab &amp; Interactive Design:</strong> Design scenario-based, interactive learning experiences, including simulated environments, sandbox exercises, and API/code walkthrough tutorials.</p></li><li><p><strong>Product Alignment &amp; Release Management: </strong> Partner closely with Product Managers, Engineers, and Solutions Architects to translate complex feature updates and technical specs into timely, accurate learning content.</p></li><li><p><strong>Telemetry &amp; Business Impact:</strong> Track learner telemetry (e.g., product adoption rates, time-to-value, course completion, certification pass rates) to continuously measure and prove ROI on customer and internal enablement.</p></li></ul><h2><strong>Qualifications &amp; Skills</strong></h2><ul><li><p><strong>Experience:</strong> 5+ years in instructional design within a B2B SaaS, developer tooling, or high-growth tech environment. Proven project management experience with a track record of driving cross-functional initiatives as a highly autonomous individual contributor.</p></li><li><p><strong>Custom LMS / Systems Expertise:</strong> Hands-on experience defining requirements for LMS implementations, migrations, or custom builds. Deep understanding of what an instructional designer needs from a platform to successfully host and track courses (SCORM, xAPI, LTI).</p></li><li><p><strong>Technical Aptitude:</strong> Comfort navigating API documentation, cloud architectures, developer workflows, or SaaS platform configurations to build technical curriculum independently.</p></li><li><p><strong>Tooling &amp; Tech Stack:</strong></p><ul><li><p>Advanced proficiency in modern authoring &amp; media tools (Articulate 360, Camtasia, Loom, Figma).</p></li><li><p>Strong familiarity with transitioning out of standard Customer Education / LXP platforms (e.g., Skilljar) into custom environments.</p></li></ul></li><li><p><strong>Core Competencies:</strong> Agile development methodologies, rapid prototyping (SAM), data-driven decision-making, and exceptional cross-functional stakeholder management. Must possess the consultative skills necessary to influence peers, align differing viewpoints, and maintain project momentum.</p></li></ul><h2><strong>Why Join Neon One?</strong></h2><p>At Neon One, our values are how we show up every day. We make good happen by putting empathy and passion at the center of our work, using technology to uplift mission-driven organizations. We stand for our customers, act with care and intention in every decision, own the solution, and grow together. We innovate fearlessly, always exploring new ways to support our community and each other.</p><h2><strong>How We Hire</strong></h2><p>We use AI tools to support our recruitment process, including helping us organize applications and identify early matches based on role criteria. That said, every rejection decision is made by a human. We encourage candidates to apply authentically and avoid relying solely on AI-generated responses, especially during interviews.<br><br>This posting is for a current, open position within <strong>Neon One</strong>.<br><br>This opportunity is offered through HighlightTA, the on-demand talent team supporting Neon One’s growth.<br></p><p><strong>Connect with us and learn more:<br></strong><a href=\"https://www.linkedin.com/company/neonone/\"><u>Neon One on LinkedIn</u></a></p><p><a href=\"https://www.linkedin.com/company/highlightta/\"><u>HighlightTA on LinkedIn</u></a></p>",
+    "summary": "Neon One is hiring a Lead Instructional Designer to lead instructional design strategy and customer education for its nonprofit software products. The role owns the transition to a custom LMS, builds technical curricula and interactive learning experiences, aligns learning content with product releases, and measures learner outcomes and business impact.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Project Management",
+      "Cross-Functional Collaboration",
+      "Stakeholder Management",
+      "Influence",
+      "Autonomy"
+     ],
+     "primary_skills": [
+      "Instructional Design",
+      "Learning Management System (LMS) Implementation",
+      "Learning Management System (LMS) Migration",
+      "SCORM",
+      "xAPI",
+      "Learning Tools Interoperability (LTI",
+      "Technical Curriculum Development",
+      "Articulate 360",
+      "Camtasia",
+      "Figma"
+     ],
+     "secondary_skills": [
+      "Loom",
+      "Skilljar",
+      "API Documentation",
+      "Cloud Architecture",
+      "SaaS Platform Configuration",
+      "Agile Development",
+      "Rapid Prototyping",
+      "SAM Model",
+      "Data-Driven Decision-Making",
+      "Learner Telemetry"
+     ]
+    },
+    "benefits": [],
+    "salary": null,
+    "experienceLevel": "lead",
+    "employmentType": "full_time",
+    "minYearsExperience": 5,
+    "educationRequirement": null,
+    "industry": [
+     "nonprofit_ngo",
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790269831,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/highlightta/f36a604d-ac92-4b28-8b5f-54a083fc215e",
+    "status": "active",
+    "companies": [
+     {
+      "name": "highlightta.com",
+      "website": "highlightta.com"
+     }
+    ]
+   },
+   {
+    "id": "f7e0efaa-1572-427d-b2e7-4a593f51aecf",
+    "title": "Sales Operations Manager, Implementation",
+    "description": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;&lt;strong&gt;Who we are:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Motive empowers the people who run physical operations with tools to make their work safer, more productive, and more profitable. For the first time ever, safety, operations and finance teams can manage their drivers, vehicles, equipment, and fleet related spend in a single system. Combined with industry leading AI, the Motive platform gives you complete visibility and control, and significantly reduces manual workloads by automating and simplifying tasks.&lt;/p&gt; &lt;p&gt;Motive serves nearly 100,000 customers – from Fortune 500 enterprises to small businesses – across a wide range of industries, including transportation and logistics, construction, energy, field service, manufacturing, agriculture, food and beverage, retail, and the public sector.&lt;/p&gt; &lt;p&gt;Visit &lt;a href=\"http://gomotive.com\"&gt;gomotive.com&lt;/a&gt; to learn more.&lt;/p&gt;&lt;/div&gt;&lt;div&gt; &lt;h3&gt;&lt;strong&gt;About the Role:&lt;br&gt;&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;At Motive, our Operations team ensures the entire organization runs smoothly, scalably, and strategically. We are seeking a Business Operations Manager to join our team and focus on the Service organization, which includes the Implementation, Installation, and Customer Education business units. This role is crucial for overseeing all internal processes and systems to ensure a smooth and efficient customer experience and to drive overall business objectives and growth.&lt;/p&gt; &lt;p&gt;You will act as the central nervous system for the Services organization, optimizing workflows and managing operational processes across these critical teams. Your ability to think strategically, adapt quickly, and manage resources effectively will be essential for success. This role will bring a data-driven perspective to operational process management, resource allocation, and performance monitoring.&lt;/p&gt; &lt;p&gt;You will collaborate closely with various teams, including Sales, Support, and Product. Your mandate is to ensure the new customer experience is smooth, builds trust, and is as efficient as possible for our customers and our business.&lt;/p&gt; &lt;/div&gt; &lt;h3&gt;&lt;strong&gt;&lt;br&gt;What You'll Do:&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Pinpoint drivers of services performance and lead initiatives to improve the new customer experience and team efficiency&lt;/li&gt; &lt;li&gt;Partner with cross functional teams to scope and execute strategic projects to reduce workflow friction and inefficiencies for the Services organization&lt;/li&gt; &lt;li&gt;Manage weekly and monthly business processes, escalating deviations from goals and expectations&lt;/li&gt; &lt;li&gt;Be the connective tissue between Services and the rest of the business&lt;/li&gt; &lt;li&gt;Ad-hoc reporting requests through Salesforce and other platforms&lt;/li&gt; &lt;li&gt;Become a trusted advisor for sales leadership, offering an operational lens on how to tackle business problems at scale&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;&lt;strong&gt;What We're Looking For:&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;3+ years of Field Sales/Revenue Operations experience, at a high-growth SaaS company in the Mid-Market or Enterprise segments&lt;/li&gt; &lt;li&gt;Exceptional spreadsheet and data management skills to quickly structure analyses, answer key business questions, and drive decision making&lt;/li&gt; &lt;li&gt;Experience in building Salesforce reports and dashboards, knowledge in how SFDC applications integrate with each other, and ability to enable sales on SFDC best practices and related tools&lt;/li&gt; &lt;li&gt;Experience partnering with Sales Leadership on initiatives such as weekly forecasting, territory alignment, ROE, QBRs and other related projects&amp;nbsp;&lt;/li&gt; &lt;li&gt;Experience identifying and leveraging AI-driven tools and solutions to enhance sales operations efficiency and effectiveness.&lt;/li&gt; &lt;li&gt;Demonstrated ability to be a self-starter - you will take the initiative to own projects and can operate well with little guidance&lt;/li&gt; &lt;li&gt;Demonstrated ability to prioritize workload and manage multiple concurrent projects in a rapidly changing, hyper-growth environment&lt;/li&gt; &lt;li&gt;Strong written and verbal communication skills&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=\"content-pay-transparency\"&gt;&lt;div class=\"pay-input\"&gt;&lt;div class=\"description\"&gt;&lt;em&gt;&lt;span style=\"font-weight: 400;\"&gt;&lt;strong&gt;Pay Transparency&lt;/strong&gt;&lt;br&gt;Your compensation may be based on several factors, including education, work experience, and certifications. For certain roles, total compensation may include restricted stock units. Motive offers benefits including health, pharmacy, optical and dental care benefits, paid time off, sick time off, short term and long term disability coverage, life insurance as well as 401k contribution (all benefits are subject to eligibility requirements). Learn more about our benefits by visiting&lt;a href=\"https://www.comparably.com/companies/motive/perks-and-benefits\"&gt; Motive Perks &amp;amp; Benefits&lt;/a&gt;.&lt;br&gt;&lt;br&gt;The compensation range for this position will depend on where you reside. Motive uses three geographic zones to determine pay range. For this role, the compensation ranges are: &lt;/span&gt;&lt;/em&gt;&lt;/div&gt;&lt;div class=\"title\"&gt;San Francisco, California&lt;/div&gt;&lt;div class=\"pay-range\"&gt;&lt;span&gt;$122,000&lt;/span&gt;&lt;span class=\"divider\"&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$153,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\"pay-input\"&gt;&lt;div class=\"title\"&gt;U.S. metropolitan areas: Los Angeles, San Diego, New York City Area, Seattle, Washington D.C.&lt;/div&gt;&lt;div class=\"pay-range\"&gt;&lt;span&gt;$117,000&lt;/span&gt;&lt;span class=\"divider\"&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$146,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\"pay-input\"&gt;&lt;div class=\"title\"&gt;Other locations in the United States&lt;/div&gt;&lt;div class=\"pay-range\"&gt;&lt;span&gt;$106,000&lt;/span&gt;&lt;span class=\"divider\"&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$133,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\"content-conclusion\"&gt;&lt;p data-pm-slice=\"1 1 []\"&gt;&lt;em&gt;Creating a diverse and inclusive workplace is one of Motive's core values. We are an equal opportunity employer and welcome people of different backgrounds, experiences, abilities and perspectives.&amp;nbsp;&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Please review our Candidate Privacy Notice&amp;nbsp;&lt;a class=\"ProsemirrorEditor-link\" href=\"https://drive.google.com/file/d/1X9AbvQHki8zZCyjDjip1g0NtdZHcykJc/view?usp=drive_link\" target=\"_blank\"&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;UK Candidate Privacy Notice &lt;a href=\"https://drive.google.com/file/d/1nqdWTJ7WJJikhj1Yhlo4jxDRA_6yXZbd/view\"&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;&lt;span id=\"m_-8012333603671085849gmail-docs-internal-guid-8821a356-7fff-42cb-93df-e4c910033371\"&gt;The applicant must be authorized to receive and access those commodities and technologies controlled under U.S. Export Administration Regulations.&amp;nbsp;&lt;/span&gt;It is Motive's policy to require that employees be authorized to receive access to Motive products and technology.&amp;nbsp;&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Regarding US-based roles, depending on your role and primary work location, Motive Technologies, Inc. (“Employer”) discloses candidates may be required to execute a non-compete covenant with the Employer. This requirement does not apply to lawyers, interns, or employees working in CA, MN, MT, ND, OK, or where otherwise prohibited by law.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Non-compete covenant terms in all other jurisdictions will be subject to the applicable statutory requirements, including but not limited to, procedures, industry related prohibitions, or salary and compensation thresholds.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;All job postings are for existing vacancies. Please note; some interviews or new-hire training sessions may be held in person at one of our global offices.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;",
+    "summary": "Motive is seeking an operations manager to improve customer implementation and service operations through process optimization, performance analysis, and cross-functional strategic projects. The role also supports sales leadership with Salesforce reporting, forecasting, territory alignment, and operational guidance, while using data and AI-driven tools to improve efficiency.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Strategic Thinking",
+      "Adaptability",
+      "Initiative",
+      "Prioritization",
+      "Communication"
+     ],
+     "primary_skills": [
+      "Field Sales Operations",
+      "Revenue Operations",
+      "Spreadsheet Management",
+      "Data Management",
+      "Salesforce",
+      "Salesforce Reporting",
+      "Salesforce Dashboard Development",
+      "Sales Forecasting",
+      "Territory Alignment",
+      "AI-Driven Sales Operations"
+     ],
+     "secondary_skills": [
+      "Salesforce Application Integration",
+      "Salesforce Best Practices",
+      "Sales Enablement",
+      "Rules of Engagement",
+      "Quarterly Business Reviews",
+      "Business Process Management",
+      "Performance Monitoring",
+      "Resource Allocation",
+      "Workflow Optimization",
+      "Ad Hoc Reporting"
+     ]
+    },
+    "benefits": [
+     "health_insurance",
+     "prescription_drug_coverage",
+     "vision_care",
+     "dental_insurance",
+     "paid_time_off_vacation_personal_days",
+     "sick_leave",
+     "disability_insurance",
+     "life_insurance",
+     "pensions_401k"
+    ],
+    "salary": {
+     "max": 153000,
+     "min": 106000,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "mid",
+    "employmentType": "full_time",
+    "minYearsExperience": 3,
+    "educationRequirement": null,
+    "industry": [
+     "transportation_logistics",
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790200180,
+    "expiresAt": null,
+    "applyUrl": "https://job-boards.greenhouse.io/gomotive/jobs/8697087002",
+    "status": "active",
+    "companies": [
+     {
+      "name": "Motive",
+      "website": "gomotive.com"
+     }
+    ]
+   },
+   {
+    "id": "8b7df7c2-8c35-4a85-b843-0a9e0f10c027",
+    "title": "Business Development Consultant, Cranial And Spinal Technologies - Remote",
+    "description": "We anticipate the application window for this opening will close on - 25 Sep 2026<p><br>&nbsp;</p><p>Careers that change lives start here. Medtronic is a global leader in healthcare technology with a Mission to alleviate pain, restore health, and extend life. Our 95,000 employees work across more than 150 countries to put patients first — developing innovative medical technologies that improve the lives of 72+ million patients each year. Your unique talents will help shape the future of healthcare while building a career grounded in purpose, growth, and impact.</p><h1><b>A Day in the Life</b></h1>As one of Medtronic’s three comprehensive portfolios, Neuroscience is dedicated to improving the lives of people living with neurological disorders, spine conditions, and chronic pain. Guided by our Mission to alleviate pain, restore health, and extend life, our Cranial &amp; Spinal Technologies (CST) Operating Unit develops and delivers an integrated ecosystem of spinal implants, navigation and robotic guidance systems, advanced imaging, and data-driven planning tools for complex spine and cranial procedures. Platforms such as AiBLE connect these technologies to enhance surgical precision, streamline workflows, and support improved patient outcomes around the world.<p>The Business Development Consultant is responsible for identifying, developing, and advancing growth opportunities across the Cranial &amp; Spinal Technologies portfolio. This role builds strong relationships with healthcare customers and stakeholders, evaluates market opportunities, and partners cross-functionally to drive strategic growth, customer value, and business performance.</p><p><b>Primary Responsibilities:</b></p><br><ul><li>Develop and execute business development and market development plans aligned with organizational priorities</li><li>Identify, qualify, and pursue new business opportunities across assigned markets and accounts</li><li>Build and maintain trusted relationships with surgeons, hospital leaders, health systems, distributors, and other key stakeholders</li><li>Assess customer needs and recommend solutions that maximize the value of Medtronic’s products and services</li><li>Conduct market, customer, and competitive analysis to identify trends, risks, and growth opportunities</li><li>Develop account and opportunity strategies, including stakeholder mapping, value propositions, and action plans</li><li>Partner with sales, marketing, clinical, medical education, finance, contracting, and other cross-functional teams to advance opportunities</li><li>Communicate customer insights, competitive intelligence, and product feedback to internal stakeholders, including Marketing, Operations, and Research &amp; Development</li><li>Support product launches, customer education, demonstrations, workshops, and strategic business initiatives</li><li>Track opportunity pipelines, activity, and outcomes; provide regular updates and recommendations to leadership</li><li>Promote compliance with Medtronic policies, quality systems, applicable regulations, and ethical business practices</li><li>Travel as needed to support customers, field teams, meetings, and business priorities</li></ul><p><b>Required Qualifications:</b></p><br><ul><li>High school diploma or equivalent and 12+ years of relevant sales, clinical, or related experience; or Associate’s degree and 10+ years of relevant experience; or Bachelor’s degree and 8+ years of relevant experience</li><li>Relevant experience in medical devices, medtech, healthcare, life sciences, business development, or complex solution selling</li><li>Demonstrated ability to develop relationships, identify opportunities, and influence decisions across complex customer environments</li><li>Strong business acumen, strategic thinking, negotiation, presentation, and communication skills</li><li>Ability to work independently while collaborating effectively in a matrixed organization</li><li>Willingness and ability to travel as required</li><li>Valid driver’s license and active vehicle insurance policy</li></ul><br><p><b>Preferred Qualifications:</b></p><br><ul><li>Experience with spine, cranial, biologics, enabling technologies, robotics, navigation, imaging, or related surgical technologies</li><li>Experience working with hospitals, integrated delivery networks, health systems, or large strategic accounts</li><li>Established relationships with healthcare professionals and executive-level customers</li><li>Experience developing market strategies, business cases, or customer value propositions</li><li>Strong analytical skills and experience using data to guide business decisions&nbsp;</li></ul><p>For Baccalaureate degrees earned outside of the United States, a degree that satisfies the requirements of 8 C.F.R. § 214.2(h)(4)(iii)(A) is required.</p><p><b>Physical Job Requirements</b></p><p>The above statements are intended to describe the general nature and level of work being performed by employees assigned to this position, but they are not an exhaustive list of all the required responsibilities and skills of this position. </p><p>The physical demands described within the Responsibilities section of this job description are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. For Office Roles: While performing the duties of this job, the employee is regularly required to be independently mobile. The employee is also required to interact with a computer, and communicate with peers and co-workers. Contact your manager or local HR to understand the Work Conditions and Physical requirements that may be specific to each role.</p><p><b>U.S. Work Authorization &amp; Sponsorship </b></p><p>At Medtronic, we are committed to fostering an environment where employees can thrive and make a meaningful impact. In alignment with our enterprise-wide workforce planning approach, U.S. work authorization sponsorship (H-1B, TN, J, etc.) is offered exclusively for Principal-level roles and above, where specialized expertise aligns with long-term business needs. Roles below the Principal level require candidates to possess unrestricted U.S. work authorization at the time of hire and for the duration of employment.</p><p>‌</p><p><b>Recruitment Fraud Alert</b></p><p><span>We are aware of phishing scams targeting job seekers. Please keep the following in mind:&nbsp;</span></p><br><p><span>Apply only through official Medtronic channels. All legitimate Medtronic recruiting communications come from approved Medtronic platforms and official @medtronic.com email addresses.&nbsp;</span></p><br><p><span>Medtronic will never ask for payment or sensitive personal information (such as bank account or Social Security details) during early stages of the hiring process. Any such requests are not legitimate.&nbsp;</span></p><br><p><span>If you receive a suspicious message claiming to be from Medtronic, do not respond, click links, or open attachments.&nbsp;</span></p><br><p><span>If you have any questions, concerns regarding the authenticity of a communication alleged to have been made by or on behalf of Medtronic, please contact us immediately at </span><a href=\"mailto:AskHR@medtronic.com\"><span><u>AskHR@medtronic.com</u></span></a>.&nbsp;</p><p>‌</p><h1><b>Benefits &amp; Compensation</b><br>&nbsp;</h1><p><b>Medtronic offers a competitive Salary and flexible Benefits Package</b><br>A commitment to our employees lives at the core of our values. We recognize their contributions. They share in the success they help to create. We offer a wide range of benefits, resources, and competitive compensation plans designed to support you at every career and life stage.<br>&nbsp;</p>Salary ranges for U.S (excl. PR) locations (USD):175000-175000<br>The base salary range is applicable across the United States, excluding Puerto Rico and specific locations in California. The offered rate complies with federal and local regulations and may vary based on factors such as experience, <span>certification/education,</span> market conditions, and location. Compensation and benefits information pertains solely to candidates hired within the United States (local market compensation and benefits will apply for others).<br><br>In addition to Base Salary, this position is eligible for a Sales Incentive Plan (SIP), which provides the opportunity to earn significant incentive compensation for achieving or exceeding your goals.<p><span>The following benefits and additional compensation are available to those regular employees who work 20+ hours per week: Health, Dental and vision insurance</span><span>,</span><span>Health Savings Account</span><span>,</span><span>Healthcare Flexible Spending Account</span><span>,</span><span>Life insurance, Long-term disability leave</span><span>,</span><span>Dependent daycare spending account</span><span>,</span><span>Tuition <span><span><span><span><span>assistance/reimbursement</span></span></span></span></span></span><span>, and</span><span>Simple Steps (global well-being program).</span></p><p><span>The following benefits and additional compensation are available to all regular employees:</span><span>Incentive plans, 401(k) plan plus employer contribution and match</span><span>,</span><span>Short-term disability</span><span>,</span><span>Paid time off</span><span>,</span><span>Paid holidays</span><span>,</span><span>Employee Stock Purchase Plan</span><span>,</span><span>Employee Assistance Program</span><span>,</span><span>Non-qualified Retirement Plan Supplement (subject to IRS earning minimums)</span><span>, and</span><span>Capital Accumulation Plan (available to Vice Presidents and above, or subject to IRS earning minimums).</span></p><p><span>Regular employees are those who are not temporary, such as interns.&nbsp; Temporary employees are eligible for paid sick time, as required under applicable state law, and the Employee Stock Purchase Plan. </span><span>Please note some of the above benefits may not apply to workers in Puerto Rico.</span></p><p><span>Further details are available at the link below:</span></p><p><a href=\"https://www3.benefitsolver.com/benefits/BenefitSolverView?page_name=signon&amp;co_num=30601&amp;co_affid=medtronic\">Medtronic benefits and compensation plans</a></p><p>It is the policy of Medtronic to provide equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state or local law. In addition, Medtronic will provide reasonable accommodations for qualified individuals with disabilities.</p><br><p>If you are applying to perform work for Medtronic, Inc. (“Medtronic”) in any position which will involve performing at least two (2) hours of work on average each week within the unincorporated areas of Los Angeles County, you can find&nbsp;<a href=\"https://www.medtronic.com/content/dam/medtronic-wide/public/united-states/employee-support-services/careers/la-county-legal-notice.pdf\">here</a> a list of all material job duties of the specific job position which Medtronic reasonably believes that criminal history may have a direct, adverse and negative relationship potentially resulting in the withdrawal of a conditional offer of employment. Medtronic will consider for employment qualified job applicants with arrest or conviction records in accordance with the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act.</p>",
+    "summary": "The Business Development Consultant develops growth opportunities across Medtronic’s Cranial and Spinal Technologies portfolio by identifying market opportunities, building customer and stakeholder relationships, and creating account strategies. The role partners with cross-functional teams, supports launches and customer education, analyzes markets and competitive activity, and tracks pipeline outcomes; travel is required as needed.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressRegion": "Alabama",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Collaboration",
+      "Independent Work"
+     ],
+     "primary_skills": [
+      "Business Development",
+      "Market Development",
+      "Relationship Management",
+      "Opportunity Development",
+      "Healthcare Customer Needs Assessment",
+      "Market Analysis",
+      "Competitive Analysis",
+      "Account Strategy",
+      "Negotiation",
+      "Presentation Skills"
+     ],
+     "secondary_skills": [
+      "Medical Devices",
+      "Spine and Cranial Technologies",
+      "Robotics",
+      "Surgical Navigation",
+      "Medical Imaging",
+      "Business Case Development",
+      "Data Analysis",
+      "Product Launch",
+      "Customer Education",
+      "Sales"
+     ]
+    },
+    "benefits": [
+     "health_insurance",
+     "dental_insurance",
+     "vision_care",
+     "wellness_program",
+     "life_insurance",
+     "disability_insurance",
+     "tuition_reimbursement",
+     "pensions_401k",
+     "pension_contribution_matching",
+     "paid_time_off_vacation_personal_days",
+     "stock_options_equity",
+     "mental_health_support",
+     "other_benefits"
+    ],
+    "salary": {
+     "max": 175000,
+     "min": 175000,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 8,
+    "educationRequirement": null,
+    "industry": [
+     "healthcare_medical"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": true,
+    "travelPercentage": null,
+    "postedAt": 1790121600,
+    "expiresAt": 1790380799,
+    "applyUrl": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mobile-Alabama-United-States-of-America/Business-Development-Consultant--Cranial-and-Spinal-Technologies---Remote_R78328-1",
+    "status": "active",
+    "companies": [
+     {
+      "name": "medtronic.com",
+      "website": "medtronic.com"
+     }
+    ]
+   },
+   {
+    "id": "0ff1df66-a781-4fda-8f79-1f6f51ccc49a",
+    "title": "Senior Manager, Customer Advocacy & Community Marketing",
+    "description": "&lt;p&gt;Sprout Social is looking to hire a Senior Manager, Customer Advocacy &amp;amp; Community to the Customer Marketing team.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Why join Sprout’s Marketing team?&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;At Sprout Social, we don’t just market products—we set the pace for how breakthrough brands connect with the world. As the social intelligence platform powering the future of customer connection, our Marketing team is the driving force behind turning that vision into reality. We lead with clarity and act with speed to drive market leadership, generate demand, and accelerate customer expansion, all in close partnership with core cross-functional stakeholders.&lt;/p&gt; &lt;p&gt;Here, you’ll have the freedom to test bold ideas, learn fast, and shape the future of the global brands we empower. We measure success by the business results we create and a shared commitment to excellence in our craft. If you’re ready to own your impact, accelerate your career, and build the definitive system for business, this is where you belong.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Team Leadership:&amp;nbsp; Oversee a best-in-class team that develops and implements engaging user community and customer advocacy programs that build trust, drive product usage and deepen our relationships with customers at scale.&lt;/li&gt; &lt;li&gt;Champion our Customers: Inspire and engage prospects, current users and our teams across Sprout, by creating scalable and integrated advocacy, community and customer reviews programs that surface customer successes at scale, apply relevant narrative context, and promote these internally and externally as the solid foundation to our customers’ success.&lt;/li&gt; &lt;li&gt;Lead with AI: Research, experiment, and implement new technology and approaches from the rapidly evolving AI toolset not only to accelerate the work of the Customer Marketing team, but to transform the way the team works and what we deliver to the business.&lt;/li&gt; &lt;li&gt;Collaborate for Success: Partner closely with Customer Success, Social, Brand and Field Marketing, Product Marketing, Lifecycle Marketing, Customer Education, Revenue, Product Operations and Performance Marketing to align strategies and scale impact.&lt;/li&gt; &lt;li&gt;Enthusiastically Solve Ambiguous Challenges: Use expertise and influence to guide major cross-functional efforts to change how we surface customer stories internally and show up for our customers through collaboration, clean data, system integrations, automation, scalable program design and impeccable project management.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;What you’ll bring&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;We’re looking for an experienced team leader and enthusiastic people manager, with strong cross-functional collaboration skills and the desire to get things done. You are passionate about the value of customer voices and possess an extensive understanding of building and executing customer advocacy and community management strategies to drive sharing success stories at scale. &lt;br&gt;You are highly curious, with a strong desire to understand the whys behind the whats, and thrive on building strategic cross-functional programs that grow with a rapidly changing business environment. You're comfortable navigating ambiguity, aligning stakeholders and making an impact through thoughtful collaboration and seamless execution.&lt;/p&gt; &lt;p&gt;&lt;br&gt;The minimum qualifications for this role include:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;8+ years of experience in Customer Marketing, Advocacy or Community management, with 5+ years of experience in a fast-paced SaaS or B2B tech environment&lt;/li&gt; &lt;li&gt;2+ years of experience in direct people management with remote teams&lt;/li&gt; &lt;li&gt;Demonstrated ability to translate business needs into applicable customer marketing strategies that then are executed as effective advocacy and/or community engagement programs&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Preferred qualifications for this role include:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Excellent communication and storytelling skills, with the ability to guide team in crafting compelling narratives that showcase the value of Sprout products&lt;/li&gt; &lt;li&gt;Comfortable working in fast-paced environments with competing priorities; ability to prioritize high-impact work and drive alignment across teams&lt;/li&gt; &lt;li&gt;High attention to detail and cross-functional and collaborative project management experience&lt;/li&gt; &lt;li&gt;Proven ability to develop and maintain a magnetic team culture that not only inspires and engages direct reports but also compels others across the business to want to work with you/them&lt;/li&gt; &lt;li&gt;User-level experience working with third party review sites (such as G2 or TrustRadius), community platforms (like Gainsight or Zendesk community products), and advocacy collection/management tools (such as UserEvidence and Base.ai)&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;How you’ll grow&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Within 1 month, you’ll plant your roots, including:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Completing onboarding and meeting key cross-functional partners across Marketing, Customer Success and Operations teams&lt;/li&gt; &lt;li&gt;Getting oriented to Sprout’s customer advocacy and community programs and supporting tools&lt;/li&gt; &lt;li&gt;Building a deep understanding of our customers, personas and products.&lt;/li&gt; &lt;li&gt;Understanding priorities of your role and begin identifying opportunities for team and program improvement&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Within 3 months, you’ll start hitting your stride by:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Taking ownership of key team and cross-functional rituals&amp;nbsp;&lt;/li&gt; &lt;li&gt;Expanding your understanding of the product roadmap and in-flight programs to manage prioritization of work for the Customer Advocacy &amp;amp; Community team&lt;/li&gt; &lt;li&gt;Partnering with cross-functional team partners to understand shared processes and audiences&amp;nbsp;&lt;/li&gt; &lt;li&gt;Launching your first customer-facing program&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Within 6 months, you’ll be making a clear impact through:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Driving and delivering 2027 priorities and roadmap, as well as yearly team performance reviews&lt;/li&gt; &lt;li&gt;Using your deep understanding of our customers’ success stories to identify strategic areas of opportunity to improve community and advocacy programs and processes&lt;/li&gt; &lt;li&gt;Actively tracking engagement and business impact metrics&amp;nbsp;&lt;/li&gt; &lt;li&gt;Serve as the point person across Sprout for Customer Advocacy &amp;amp; Community programs and processes&amp;nbsp;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Within 12 months, you’ll make this role your own by:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Influencing how Sprout approaches Customer Advocacy &amp;amp; Community holistically—from data and systems to program execution and reporting&lt;/li&gt; &lt;li&gt;Offering a roadmap to further evolve our ability to support elevating our customers’ success stories at scale&amp;nbsp;&lt;/li&gt; &lt;li&gt;Surprise us! Use your unique ideas and abilities to change your team in beneficial ways that we haven’t even considered yet&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Note: The outlined timeline above represents an ideal scenario. Flexibility may be required based on business needs and additional projects as determined by your manager.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Our Benefits Program&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;We’re proud to regularly be recognized for our team, product and culture. Our benefits program includes:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Comprehensive Health &amp;amp; Wellness:&lt;/strong&gt; Premium BCBSIL medical, dental (high/low plans), and vision (Eyemed) insurance for you and your eligible dependents.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Premium Mental Health Support:&lt;/strong&gt; Full, free access to Modern Health for you and your dependents, including coaching, therapy sessions, and digital wellness resources.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Retirement Savings:&lt;/strong&gt; 401(k) plan with a 50% company match on your first 6% of contributions (a 3% total match).&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Financial Security:&lt;/strong&gt; 100% employer-paid Life and Disability insurance for your peace of mind.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Flexible Paid Time Off:&lt;/strong&gt; A flexible PTO policy, supplemented with additional company-wide Rest &amp;amp; Recharge days throughout the year.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Paid Parental Leave:&lt;/strong&gt; Up to 16 weeks of paid leave for new parents to support you in expanding your family.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Annual Lifestyle Stipend:&lt;/strong&gt; A $1,000 USD annual Lifestyle Spending Account to spend on your physical, mental, and financial well-being.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Work From Home Support:&lt;/strong&gt; A one-time $550 USD stipend to set up your home office, plus a monthly $50 USD stipend for internet.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Giving Back:&lt;/strong&gt; 16 hours of paid volunteer time annually, plus a $100 annual match for your charitable donations.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Additional Financial Perks:&lt;/strong&gt; Access to pre-tax commuter benefits, subsidized child/eldercare (Care.com), discounted pet insurance (Figo), and no-cost personalized financial wellness support through &lt;em&gt;Your Money Line&lt;/em&gt;.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Office Environment: &lt;/strong&gt;Beautiful, convenient, and state-of-the-art office in Chicago’s Loop.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;em&gt;&lt;br&gt;&lt;/em&gt;*&lt;em&gt;This list is for informational purposes only. Benefit offerings are discretionary and subject to change and do not constitute a contract or guarantee of benefits.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;Our salary ranges reflect the expected earning potential for this role. Individual pay is based on geographic zone, relevant experience, and skills.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Our current hiring range for this role: $146,000 – $182,500 annually. &lt;/strong&gt;Offers are made within this range, with opportunities to grow within the broader band based on performance and impact.&lt;/p&gt; &lt;p&gt;We share both our current hiring range and our broader geographic salary bands to provide transparency into our compensation philosophy. This ensures you understand not only your starting potential but also the long-term growth potential available as you progress in your role.&lt;/p&gt; &lt;p&gt;We have two geographic pay zones in the United States:&lt;/p&gt; &lt;p&gt;Zone 1 (New York, California, Washington): $160,600 – $241,000&lt;/p&gt; &lt;p&gt;Zone 2 (All other US states): $146,000 – $219,000&amp;nbsp;&lt;/p&gt; &lt;p&gt;These ranges were determined by a market-based compensation approach; we used data from trusted third-party compensation sources to set equitable, consistent, and competitive ranges. We also evaluate compensation bi-annually, identify any changes in the market and make adjustments to our ranges and existing employee compensation as needed.&lt;/p&gt; &lt;p&gt;Sprout Social is proud to be an Equal Opportunity Employer. We do not discriminate based on identity&lt;strong&gt;-&lt;/strong&gt; race, color, religion, national origin or ancestry, sex (including sexual identity), age, physical or mental disability, pregnancy, veteran or military status, unfavorable discharge from military service, genetic information, sexual orientation, marital status, order of protection status, citizenship status, arrest record or expunged or sealed convictions, or any other legally recognized protected basis under federal, state, or local law. Because Sprout Social is a federal contractor, we affirmatively recruit individuals with a disability and protected veterans. Learn more about our commitment to diversity, equity and inclusion in our latest &lt;a href=\"https://sproutsocial.com/careers/diversity/\"&gt;&lt;strong&gt;DEI Report&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;If you require a reasonable accommodation for any part of the interview process or to submit your application, please email us at accommodations@sproutsocial.com. Include the nature of your request and your preferred contact information. We'll do everything we can to support your success during our recruitment process while upholding your privacy. Please note that only inquiries regarding accommodations will receive a response from this email address; other inquiries will not be addressed (e.g., you send your resume but are not requesting an accommodation).&amp;nbsp;&lt;/p&gt; &lt;p&gt;For more information about our commitment to equal employment opportunity, please click here (1) &lt;a href=\"https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf\"&gt;&lt;strong&gt;Equal Opportunity Employment Poster&lt;/strong&gt;&lt;/a&gt; and (2) &lt;a href=\"https://media.sproutsocial.com/uploads/EEO_AAP_Policy_Statement.pdf\"&gt;&lt;strong&gt;Sprout Social's Affirmative Action Statement&lt;/strong&gt;&lt;/a&gt;.&amp;nbsp;&lt;/p&gt; &lt;p&gt;Additionally, Sprout Social participates in the E-Verify program in certain locations, as required by law.&amp;nbsp;&lt;/p&gt;&lt;div class=\"content-conclusion\"&gt;&lt;p&gt;Sprout Social Inc. and its subsidiaries process personal data submitted through your application to assess your qualifications for employment and to inform our hiring decision and, where applicable, for required governmental reporting. For more information, please review &lt;a href=\"https://media.sproutsocial.com/uploads/Sprout-Social-Global-Applicant-Privacy-Notice.pdf\" target=\"_blank\"&gt;Sprout's Global Applicant Privacy Notice&lt;/a&gt;.&amp;nbsp;&lt;/p&gt; &lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;",
+    "summary": "Sprout Social is hiring a Senior Manager, Customer Advocacy & Community to lead customer advocacy and community programs within its Customer Marketing team. The role oversees a team, develops scalable customer engagement and review programs, leads adoption of AI tools, and partners cross-functionally to surface customer success stories and drive business impact.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Storytelling",
+      "Leadership",
+      "Adaptability",
+      "Problem-solving"
+     ],
+     "primary_skills": [
+      "Customer Marketing",
+      "Customer Advocacy",
+      "Community Management",
+      "Customer Advocacy Program Management",
+      "Customer Community Program Management",
+      "People Management",
+      "Cross-functional Collaboration",
+      "SaaS",
+      "B2B Technology",
+      "Project Management"
+     ],
+     "secondary_skills": [
+      "Artificial Intelligence",
+      "Customer Review Management",
+      "G2",
+      "TrustRadius",
+      "Gainsight",
+      "Zendesk",
+      "UserEvidence",
+      "Base.ai",
+      "Data Integration",
+      "Marketing Automation"
+     ]
+    },
+    "benefits": [
+     "health_insurance",
+     "dental_insurance",
+     "vision_care",
+     "mental_health_support",
+     "pensions_401k",
+     "pension_contribution_matching",
+     "life_insurance",
+     "disability_insurance",
+     "paid_time_off_vacation_personal_days",
+     "parental_leave",
+     "flexible_work_hours",
+     "remote_work_hybrid_work_options",
+     "company_laptop_equipment",
+     "other_benefits"
+    ],
+    "salary": {
+     "max": 182500,
+     "min": 146000,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 8,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790086547,
+    "expiresAt": null,
+    "applyUrl": "https://sproutsocial.com/careers/open-positions/8223157/?gh_jid=8223157",
+    "status": "active",
+    "companies": [
+     {
+      "name": "Sprout Social",
+      "website": "sproutsocial.com"
+     }
+    ]
+   },
+   {
+    "id": "9496fee1-ab1b-48aa-b4f2-3dccdc7934d3",
+    "title": "Senior Manager, Brand Marketing",
+    "description": "<p><strong>About CertifyOS</strong></p><p>CertifyOS is building the data infrastructure that powers modern healthcare.</p><p>Today, healthcare organizations rely on fragmented and outdated provider data. This creates unnecessary administrative work, regulatory risk, and higher costs across the system. We’re solving that problem.</p><p>Our API-first platform automates provider licensing, enrollment, credentialing, and network monitoring by connecting directly to hundreds of primary data sources. We help healthcare organizations maintain accurate, compliant, and reliable provider networks at scale.</p><p>Our vision is simple:<strong>One API. One provider ID. Frictionless provider data.</strong></p><p>We’re backed by leading investors and built by a team with deep experience in provider data systems. At CertifyOS, we value authenticity, accountability, collaboration, results, and openness to feedback. We’re building a high-ownership team focused on solving real infrastructure problems that impact millions of patients.</p><p><strong>About the role:</strong></p><p>We are seeking a Senior Manager of Brand Marketing to own Certify's brand presence, content output, and audience-building channels end-to-end. This is a high-impact, creative-meets- strategic role for someone who can simultaneously build a cohesive brand identity and operatethe full content engine that brings it to life — from thought leadership to LinkedIn, events,podcasts, employer brand, and corporate communications.</p><p>You will help define how Certify shows up in the market — shaping perception among healthplan buyers, potential hires, and industry stakeholders. This role requires equal parts brandvision and content discipline. You will own the editorial calendar, manage all owned channels,and ensure every piece of content is consistent, compelling, and connected to businessobjectives.</p><p><strong>What you'll do:</strong></p><p>1. Brand Development &amp; Identity</p><ul><li><p>Steward Certify's brand identity — including voice, tone, visual language, and positioning ensuring consistency across all internal and external touchpoints.</p></li><li><p>Maintain and help evolve the living brand guidelines system — covering written style, design standards, messaging hierarchies, and channel-specific adaptations.</p></li><li><p>Lead periodic brand audits to evaluate consistency, resonance, and market perception, using findings to evolve the brand as Certify grows.</p></li><li><p>Partner with Product Marketing and leadership to ensure brand positioning is tightly integrated with Certify's market strategy and competitive narrative.</p></li></ul><p>2. Content Strategy &amp; Production</p><ul><li><p>Own the master content strategy and editorial calendar, ensuring all content reinforces CertifyOS’ brand narrative, category POV, campaign priorities, and audience insights across channels.</p></li><li><p>Develop distinctive thought leadership that translates market trends, customer pain points, regulatory pressure, and product strategy into compelling content for health plan executives and provider operations leaders.</p></li><li><p>Lead the creation of high-quality content across articles, blogs, LinkedIn, newsletters, video scripts, webinars, event presentations, white papers, contributed industry pieces, and sales enablement assets.</p></li><li><p>Build a repeatable content production engine using AI tools, internal SMEs, customer insights, and external partners to scale output without sacrificing quality, originality, or editorial rigor.</p></li><li><p>Partner with Marketing, BD, Product, Customer Success, and the executive team to ensure content directly supports pipeline creation, customer education, product launches, events, and market authority.</p></li></ul><p>3. Owned Channels: Podcast, LinkedIn &amp; Newsletter</p><ul><li><p>Own and operate Certify's podcast — from guest strategy and topic selection to production workflow, episode publishing, and audience growth.</p></li><li><p>Drive Certify's LinkedIn presence as a brand-building channel — developing a content cadence, growing follower engagement, and managing both company page and executive ghostwriting programs.</p></li><li><p>Build and grow Certify's owned newsletter — developing the editorial voice, subscriber growth strategy, and content rhythm that turns subscribers into advocates.</p></li><li><p>Track channel-level performance metrics and use data to continuously optimize content type, frequency, and distribution strategy.</p></li></ul><p>4. Events &amp; Sponsorships</p><ul><li><p>Own Certify's events strategy — identifying, evaluating, and executing on industry conferences, roundtables, webinars, and proprietary events that build brand visibility and pipeline.</p></li><li><p>Manage event logistics end-to-end: booth presence, speaker submissions, session content, on-site materials, and post-event follow-up campaigns.</p></li><li><p>Build Certify's own event programming — from customer advisory board meetings to hosted industry roundtables — that positions Certify as a convener in the PDM space.</p></li></ul><p>5. Employer Brand &amp; Internal Communications</p><ul><li><p>Develop and execute Certify's employer brand strategy — defining what it means to work at Certify and translating that into recruiting content, Glassdoor presence, careers page, and social storytelling.</p></li><li><p>Partner with People &amp; Talent to build a talent marketing program that attracts mission- driven candidates who align with Certify's culture and values.</p></li><li><p>Own corporate communications — drafting executive announcements, company updates, investor communications, and press releases in Certify's voice.</p></li><li><p>Build internal brand engagement programs that reinforce culture and ensure employees are proud ambassadors of the Certify brand externally.</p></li></ul><p><strong>What Success Looks Like</strong></p><ul><li><p>Brand Consistency: A documented brand guidelines system live within 60 days; 100% of external content passing brand review within 90 days.</p></li><li><p>Content Velocity: Weekly content output across LinkedIn, blog, and newsletter sustained at scale; editorial calendar planned 4+ weeks ahead.</p></li><li><p>Podcast Growth: Podcast launched within 90 days; 10+ episodes published within 6 months with measurable audience growth quarter over quarter.</p></li><li><p>Channel Performance: LinkedIn follower growth ≥20% quarter over quarter; newsletter open rates above industry benchmark; event ROI tracked and reported.</p></li><li><p>Employer Brand: Certify employer brand presence established on LinkedIn and Glassdoor within 60 days; measurable improvement in qualified inbound applications.</p></li></ul><p><strong>What you'll need:</strong></p><p>Must-Have Experience</p><ul><li><p>6–10+ years in brand marketing, content strategy, or editorial leadership — with a track record of building or transforming a brand at a healthcare or technology company.</p></li><li><p>Demonstrated experience owning content operations at scale — building editorial systems, managing production workflows, and maintaining quality across high-volume output.</p></li><li><p>Hands-on experience managing owned media channels: LinkedIn company presence, newsletters, podcasts, or video programs.</p></li><li><p>Strong writing and editorial skills — able to produce excellent content yourself and set the standard for others.</p></li><li><p>Proven ability to translate business goals into brand narratives and content strategies that resonate with B2B buyers and talent audiences alike.</p></li></ul><p><strong>Preferred Experience</strong></p><ul><li><p>Background in healthtech, health plan operations, or B2B enterprise SaaS with complex buyer audiences.</p></li><li><p>Experience with AI-driven content workflows — using tools like LLMs, automation platforms, or content intelligence software to scale output efficiently.</p></li><li><p>Experience managing or contributing to executive thought leadership programs and ghostwriting programs.</p></li><li><p>Familiarity with demand generation and ABM — understanding how brand content feeds pipeline and measuring brand's contribution to revenue.<br></p></li></ul><p><strong>Our Research &amp; Culture Principles</strong></p><ul><li><p>Ground Truth First: No insight without validation. You talk to customers, prospects, and the market — you don’t just read reports.</p></li><li><p>Insight to Action: Research without a recommended action is incomplete. You close the loop between intelligence and business impact.</p></li><li><p>Low Ego, High Standards: Nothing is beneath you — you dive into the data, own the details, and hold yourself accountable to outcomes.</p></li><li><p>Prioritize Relentlessly: The market generates infinite signals. You know which ones matter and focus your energy accordingly.</p></li><li><p>Deliver A+ Work: “Good enough” is not our bar. The quality of your research reflects on Certify’s credibility with customers, investors, and partners.</p></li></ul><p><strong>Benefits of Working at Certify</strong></p><ul><li><p>At Certify, we’re building with intention and taking care of the people doing the work.</p></li><li><p>Your well-being matters to us. We provide 100% coverage of health, dental, and vision insurance premiums for employees. Our US-based team benefits from unlimited PTO, with at least two weeks off each year to recharge. In India, employees are supported with health insurance, statutory leave benefits, and additional wellness (menstrual) leave for women.</p></li></ul><p>We are an equal opportunity employer committed to building an inclusive environment where everyone feels valued and empowered to do their best work, and we welcome applicants from all backgrounds and experiences.</p><p>If you require reasonable accommodations during the application process, please contact recruiting@certifyos.com.</p><p>We are also committed to pay transparency and foster an open culture where compensation conversations are encouraged and respected.</p>",
+    "summary": "CertifyOS is seeking a Senior Manager of Brand Marketing to own the company’s brand presence, content strategy, owned media channels, events, employer brand, and corporate communications. The role combines brand development, editorial leadership, thought leadership, podcast and LinkedIn management, event programming, and cross-functional collaboration to build market visibility, audience engagement, and pipeline support.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Collaboration",
+      "Accountability",
+      "Adaptability",
+      "Problem-solving",
+      "Communication"
+     ],
+     "primary_skills": [
+      "Brand Marketing",
+      "Content Strategy",
+      "Editorial Leadership",
+      "Brand Identity Management",
+      "Brand Positioning",
+      "Content Operations",
+      "Editorial Calendar Management",
+      "Thought Leadership",
+      "LinkedIn Marketing",
+      "Podcast Production"
+     ],
+     "secondary_skills": [
+      "Artificial Intelligence",
+      "Newsletter Marketing",
+      "Video Content Production",
+      "Event Marketing",
+      "Employer Branding",
+      "Corporate Communications",
+      "Executive Ghostwriting",
+      "Demand Generation",
+      "Account-Based Marketing",
+      "Marketing Analytics"
+     ]
+    },
+    "benefits": [
+     "health_insurance",
+     "dental_insurance",
+     "vision_care",
+     "paid_time_off_vacation_personal_days",
+     "sick_leave",
+     "wellness_program"
+    ],
+    "salary": null,
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 6,
+    "educationRequirement": null,
+    "industry": [
+     "healthcare_medical",
+     "technology_software"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1789745781,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/certifyos/9f652658-fef1-459e-afda-c19a93c1bdc3",
+    "status": "active",
+    "companies": [
+     {
+      "name": "CertifyOS",
+      "website": "certifyos.com"
+     }
+    ]
+   }
+  ],
+  "meta": {
+   "count": 6,
+   "hasMore": false,
+   "requestTimeMs": 266,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

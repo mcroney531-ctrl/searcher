@@ -1,0 +1,50 @@
+{
+ "call_id": "rec_852286299_co_zipliens",
+ "phase": "recall",
+ "url": "https://api.jobven.com/v1/public/companies?search=ZipLiens&limit=10",
+ "params": [
+  [
+   "search",
+   "ZipLiens"
+  ],
+  [
+   "limit",
+   10
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:21:01 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "65",
+  "connection": "close",
+  "server": "cloudflare",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "866bae55-5a67-4d33-938e-0ff9b15f543f",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2461",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "6",
+  "etag": "W/\"41-c0On01lj8RZhy+1JbnXQRdKB5vI\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=rLoqGV%2BK%2Bd9deb49BzEjtpAsjycFuZDgX2qlKOamVCiA1GhGbr%2BOu0iZ7KwflV0VmwiRWfd6eFMunbo0zpU2NV9FcYQW9xS1wb184%2B4l8jH%2Fe0oWdZwoKJ1II3RbLGn5R5kYMLlYzj5TX5WjAA%3D%3D\"}]}",
+  "cf-ray": "a406e578c8328c8c-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [],
+  "meta": {
+   "page": 1,
+   "limit": 10,
+   "total": 0,
+   "totalPages": 0
+  }
+ }
+}

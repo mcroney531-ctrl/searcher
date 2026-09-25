@@ -1,0 +1,62 @@
+{
+ "call_id": "rec_852185191_phrase_active",
+ "phase": "recall",
+ "url": "https://api.jobven.com/v1/public/jobs?q=%22Learning+and+Development+Program+Manager%22&descriptionQuery=This+role+manages+the+learning&status=active&postedAfter=1783036800&limit=1",
+ "params": [
+  [
+   "q",
+   "\"Learning and Development Program Manager\""
+  ],
+  [
+   "descriptionQuery",
+   "This role manages the learning"
+  ],
+  [
+   "status",
+   "active"
+  ],
+  [
+   "postedAfter",
+   1783036800
+  ],
+  [
+   "limit",
+   1
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:20:39 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "108",
+  "connection": "close",
+  "server": "cloudflare",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "47ca5ea8-98e5-4589-ada2-3d4965f81499",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2465",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "19",
+  "etag": "W/\"6c-l9RJEy5AY6amXvFlVTzmNcQWW/k\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=VCwKnE59MmluKXKrWpzmCRqIhscjUmTFim%2BAXH1Lgcr9OwpsxG08p4gUq%2B3DPt8hiONPu4e1jgUj5Psltypw2Es%2B8MLbPFrfXpPulL3rlseuxT%2ByjvsUX4PpjE739ztv0%2BCj6J2SAz2xgkfoTw%3D%3D\"}]}",
+  "cf-ray": "a406e4f01e5a6e28-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [],
+  "meta": {
+   "count": 0,
+   "hasMore": false,
+   "requestTimeMs": 18,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

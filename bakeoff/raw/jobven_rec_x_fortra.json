@@ -1,0 +1,450 @@
+{
+ "call_id": "rec_x_fortra",
+ "phase": "recall",
+ "url": "https://api.jobven.com/v1/public/jobs?q=%22Offensive+Security%22&limit=5",
+ "params": [
+  [
+   "q",
+   "\"Offensive Security\""
+  ],
+  [
+   "limit",
+   5
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:24:59 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "transfer-encoding": "chunked",
+  "connection": "close",
+  "server": "cloudflare",
+  "vary": "Accept-Encoding",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "52d86e26-de73-43bf-9c60-968e497561b0",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2406",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "44",
+  "etag": "W/\"a718-ExnIWFxqpVRN7nTr15x6s9KLOKo\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=Z0%2Bf7WM45s7IjGkZuNbtmb4Jh6kywi3YzAP%2F2X47qP5R%2BcOpTVcC2UDbV86RkxhpPIBrGHdQ3B8yhAIpF8hYmAzpgNDnR3r7fK%2BSZ99zKI980oxE3XxW7VSmKmBdTC%2B%2B6FIBxnvV9VfN55dg8w%3D%3D\"}]}",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "cf-ray": "a406eb459e4bd15b-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "id": "940ee85f-537d-497d-ade4-96d4de0e4803",
+    "title": "Senior Offensive Security Researcher",
+    "description": "&lt;div class=\"content-intro\"&gt;&lt;h3&gt;Our Purpose&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;At SentinelOne, we are driven by a clear purpose: to give the advantage to those who secure our future. As AI reshapes how organizations build, operate, and innovate, the responsibility to protect them becomes more critical than ever. When you join SentinelOne, your work helps protect global enterprises, critical infrastructure, and the technologies shaping tomorrow. If you are motivated by meaningful challenges and want your impact to be real, measurable, and global, you will find purpose here.&lt;/p&gt; &lt;h3&gt;About Us&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;SentinelOne is a company at the intersection of AI and security, pioneering a new operating model for cybersecurity. Our AI-native platform unifies protection across endpoint, cloud, identity, data, and AI systems to deliver autonomous detection and response with clarity and speed. By combining real-time analytics, intelligent automation, and a unified data foundation, we reduce noise, simplify complexity, and empower security teams to focus on what truly matters.&lt;/p&gt; &lt;p&gt;Our teams are builders, problem-solvers, and innovators committed to shaping the future of security. If you are excited to solve hard problems alongside talented, mission-driven people, we invite you to help us build a safer future for humanity.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;What Are We Looking For?&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;We’re looking for people who are relentlessly curious and committed to continuous learning. AI is reshaping every function across our business, and we enable every team member, regardless of role or level, to build fluency in AI tools and concepts. Those who thrive here actively seek out new solutions, experiment thoughtfully, and apply what they learn to drive better, faster, smarter outcomes.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;As an Offensive Security Researcher, you will be tasked with proactively researching the newest and most sophisticated attack techniques and working closely with some of the best security researchers in the industry to shape the future of cyber security. You will bring curiosity, persistence, and a drive to leave no stone unturned in the search for the next bypass. By being part of our team, your work will impact protection of tens of millions of customer endpoints worldwide, incl. 4 of Fortune10 and hundreds of Global2000, and you will have a chance to work on a industry-leading endpoint security product (recognized 6x in-a-row as Gartner Leaders, scoring highly in Mitre Att&amp;amp;ck, in Frost Radar, SE Labs and by others).&lt;/p&gt; &lt;h3&gt;What Will You Do?&lt;/h3&gt; &lt;p&gt;Primary responsibilities include:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Proactively research and deeply understand the internals of the newest and most sophisticated attack techniques and exploits, and emulate these attacks to assess and improve our detection engines (incl. designing detections and writing behavioural detection signatures).&lt;/li&gt; &lt;li&gt;Build tools to support detection assessments, create proofs of concept for the newest techniques and exploits, and develop automation flows to automate unconventional attacks and offensive frameworks.&lt;/li&gt; &lt;li&gt;Work closely with the Threat Intelligence team and the research and engineering detection teams to provide guidance and highlight gaps in detection and visibility capabilities.&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;What Skills and Knowledge Will You Bring?&lt;/h3&gt; &lt;p&gt;Ideal candidates will have:&lt;/p&gt; &lt;div&gt; &lt;ul&gt; &lt;li&gt;4+ years of experience in Red Teaming / Security Research / Offensive Research with a deep understanding of Windows internals.&lt;/li&gt; &lt;li&gt;Hands-on experience with coding in Python and C/C++.&lt;/li&gt; &lt;li&gt;Deep understanding of the malware world (how malware operates, infamous families, evasion and exploitation techniques).&lt;/li&gt; &lt;li&gt;Experience in malware analysis (statically and dynamically) and reverse engineering (x86/x64)&lt;/li&gt; &lt;li&gt;Understanding of existing EDRs internals.&lt;/li&gt; &lt;li&gt;Experience writing detection signatures.&lt;/li&gt; &lt;li&gt;Experience leveraging agentic AI workflows for malware analysis and detection engineering tasks (reverse engineering, code auditing, signature writing).&lt;/li&gt; &lt;li&gt;Proven track record of conference speaking at security conferences or publications is an advantage&lt;/li&gt; &lt;/ul&gt; &lt;/div&gt; &lt;h3&gt;Why SentinelOne?&lt;/h3&gt; &lt;p&gt;AI is redefining how the world operates and rewriting the rules of security in real time, and SentinelOne was built for this moment. From day one, we architected an AI-native platform designed to operate at machine speed, not as an add-on to legacy systems but as the foundation itself. If you want to build where innovation and impact move together, this is that place.&lt;/p&gt; &lt;p&gt;We invest in our Sentinels with comprehensive, competitive benefits designed to support you and your family:&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Equity &amp;amp; Rewards&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Restricted Stock Units (RSUs)&lt;/li&gt; &lt;li&gt;Employee Stock Purchase Plan (ESPP)&lt;/li&gt; &lt;li&gt;Performance-based bonus&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Time Off &amp;amp; Wellbeing&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Flexible time off, on top of the standard 5 weeks PTO&lt;/li&gt; &lt;li&gt;Paid company wellness days and fully paid short-term sick/nursing leave&lt;/li&gt; &lt;li&gt;Gender-neutral parental leave&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Insurance &amp;amp; Financial Security&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Private medical care benefit&lt;/li&gt; &lt;li&gt;Life and disability insurance&lt;/li&gt; &lt;li&gt;Pension Insurance contribution&lt;/li&gt; &lt;li&gt;Global business travel medical insurance&lt;/li&gt; &lt;li&gt;Employee Assistance Program (EAP)&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Work Perks &amp;amp; Flexibility&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Global home office allowance&lt;/li&gt; &lt;li&gt;Meal allowance&lt;/li&gt; &lt;li&gt;Hybrid work in Prague (Karlin), Brno (Clubco) or remote in CZ/SK. Only Prague-based employees are required to work from the office at least 2 days/week.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Wellness &amp;amp; Lifestyle&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Wellbeing allowance&lt;/li&gt; &lt;li&gt;MultiSport benefit program&lt;/li&gt; &lt;li&gt;Wellness Coach app&lt;/li&gt; &lt;/ul&gt;&lt;div class=\"content-conclusion\"&gt;&lt;p&gt;&lt;span style=\"font-weight: 400;\"&gt;SentinelOne is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span style=\"font-weight: 400;\"&gt;SentinelOne participates in the E-Verify Program for all U.S. based roles.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;",
+    "summary": "The Senior Offensive Security Researcher proactively researches and emulates sophisticated attack techniques and exploits to assess and improve endpoint detection. Responsibilities include building assessment tools and proofs of concept, automating offensive techniques, writing behavioral detection signatures, and collaborating with threat intelligence, research, and engineering teams to identify detection gaps.",
+    "locations": [
+     {
+      "workLocation": "hybrid",
+      "addressCountry": "CZ",
+      "addressLocality": "Prague"
+     },
+     {
+      "workLocation": "hybrid",
+      "addressCountry": "CZ",
+      "addressLocality": "Brno"
+     },
+     {
+      "workLocation": "remote",
+      "addressCountry": "CZ"
+     },
+     {
+      "workLocation": "remote",
+      "addressCountry": "SK"
+     }
+    ],
+    "remoteType": "hybrid",
+    "skills": {
+     "soft_skills": [
+      "Curiosity",
+      "Persistence",
+      "Continuous Learning"
+     ],
+     "primary_skills": [
+      "Red Teaming",
+      "Security Research",
+      "Windows Internals",
+      "Python",
+      "C",
+      "Malware Analysis",
+      "Reverse Engineering",
+      "Endpoint Detection and Response",
+      "Detection Engineering"
+     ],
+     "secondary_skills": [
+      "Agentic AI Workflows",
+      "Conference Speaking",
+      "Security Publications"
+     ]
+    },
+    "benefits": [
+     "stock_options_equity",
+     "performance_bonuses",
+     "paid_time_off_vacation_personal_days",
+     "sick_leave",
+     "parental_leave",
+     "hybrid_work_options",
+     "health_insurance",
+     "life_insurance",
+     "disability_insurance",
+     "pension_contribution_matching",
+     "travel_insurance",
+     "wellness_program",
+     "other_benefits"
+    ],
+    "salary": null,
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 4,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": true,
+    "travelPercentage": null,
+    "postedAt": 1790267213,
+    "expiresAt": null,
+    "applyUrl": "https://www.sentinelone.com/jobs/?gh_jid=8004544003",
+    "status": "active",
+    "companies": [
+     {
+      "name": "sentinelone.com",
+      "website": "sentinelone.com"
+     }
+    ]
+   },
+   {
+    "id": "d3764024-2442-4d6a-a4ad-5c7439d5c171",
+    "title": "Senior Offensive Security Researcher",
+    "description": "&lt;div class=\"content-intro\"&gt;&lt;h3&gt;Our Purpose&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;At SentinelOne, we are driven by a clear purpose: to give the advantage to those who secure our future. As AI reshapes how organizations build, operate, and innovate, the responsibility to protect them becomes more critical than ever. When you join SentinelOne, your work helps protect global enterprises, critical infrastructure, and the technologies shaping tomorrow. If you are motivated by meaningful challenges and want your impact to be real, measurable, and global, you will find purpose here.&lt;/p&gt; &lt;h3&gt;About Us&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;SentinelOne is a company at the intersection of AI and security, pioneering a new operating model for cybersecurity. Our AI-native platform unifies protection across endpoint, cloud, identity, data, and AI systems to deliver autonomous detection and response with clarity and speed. By combining real-time analytics, intelligent automation, and a unified data foundation, we reduce noise, simplify complexity, and empower security teams to focus on what truly matters.&lt;/p&gt; &lt;p&gt;Our teams are builders, problem-solvers, and innovators committed to shaping the future of security. If you are excited to solve hard problems alongside talented, mission-driven people, we invite you to help us build a safer future for humanity.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;What Are We Looking For?&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;We’re looking for people who are relentlessly curious and committed to continuous learning. AI is reshaping every function across our business, and we enable every team member, regardless of role or level, to build fluency in AI tools and concepts. Those who thrive here actively seek out new solutions, experiment thoughtfully, and apply what they learn to drive better, faster, smarter outcomes.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;As an Offensive Security Researcher, you will be tasked with proactively researching the newest and most sophisticated attack techniques and working closely with some of the best security researchers in the industry to shape the future of cyber security. You will bring curiosity, persistence, and a drive to leave no stone unturned in the search for the next bypass. By being part of our team, your work will impact protection of tens of millions of customer endpoints worldwide, incl. 4 of Fortune10 and hundreds of Global2000, and you will have a chance to work on a industry-leading endpoint security product (recognized 6x in-a-row as Gartner Leaders, scoring highly in Mitre Att&amp;amp;ck, in Frost Radar, SE Labs and by others).&lt;/p&gt; &lt;h3&gt;What Will You Do?&lt;/h3&gt; &lt;p&gt;Primary responsibilities include:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Proactively research and deeply understand the internals of the newest and most sophisticated attack techniques and exploits, and emulate these attacks to assess and improve our detection engines (incl. designing detections and writing behavioural detection signatures).&lt;/li&gt; &lt;li&gt;Build tools to support detection assessments, create proofs of concept for the newest techniques and exploits, and develop automation flows to automate unconventional attacks and offensive frameworks.&lt;/li&gt; &lt;li&gt;Work closely with the Threat Intelligence team and the research and engineering detection teams to provide guidance and highlight gaps in detection and visibility capabilities.&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;What Skills and Knowledge Will You Bring?&lt;/h3&gt; &lt;p&gt;Ideal candidates will have:&lt;/p&gt; &lt;div&gt; &lt;ul&gt; &lt;li&gt;4+ years of experience in Red Teaming / Security Research / Offensive Research with a deep understanding of Windows internals.&lt;/li&gt; &lt;li&gt;Hands-on experience with coding in Python and C/C++.&lt;/li&gt; &lt;li&gt;Deep understanding of the malware world (how malware operates, infamous families, evasion and exploitation techniques).&lt;/li&gt; &lt;li&gt;Experience in malware analysis (statically and dynamically) and reverse engineering (x86/x64)&lt;/li&gt; &lt;li&gt;Understanding of existing EDRs internals.&lt;/li&gt; &lt;li&gt;Experience writing detection signatures.&lt;/li&gt; &lt;li&gt;Experience leveraging agentic AI workflows for malware analysis and detection engineering tasks (reverse engineering, code auditing, signature writing).&lt;/li&gt; &lt;li&gt;Proven track record of conference speaking at security conferences or publications is an advantage&lt;/li&gt; &lt;/ul&gt; &lt;/div&gt; &lt;h3&gt;Why SentinelOne?&lt;/h3&gt; &lt;p&gt;AI is redefining how the world operates and rewriting the rules of security in real time, and SentinelOne was built for this moment. From day one, we architected an AI-native platform designed to operate at machine speed, not as an add-on to legacy systems but as the foundation itself. If you want to build where innovation and impact move together, this is that place.&lt;/p&gt; &lt;p&gt;We invest in our Sentinels with comprehensive, competitive benefits designed to support you and your family:&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Equity &amp;amp; Rewards&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Restricted Stock Units (RSUs)&lt;/li&gt; &lt;li&gt;Employee Stock Purchase Plan (ESPP)&lt;/li&gt; &lt;li&gt;Performance-based bonus&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Time Off &amp;amp; Wellbeing&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Flexible time off, on top of the standard 5 weeks PTO&lt;/li&gt; &lt;li&gt;Paid company wellness days and fully paid short-term sick/nursing leave&lt;/li&gt; &lt;li&gt;Gender-neutral parental leave&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Insurance &amp;amp; Financial Security&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Private medical care benefit&lt;/li&gt; &lt;li&gt;Life and disability insurance&lt;/li&gt; &lt;li&gt;Pension Insurance contribution&lt;/li&gt; &lt;li&gt;Global business travel medical insurance&lt;/li&gt; &lt;li&gt;Employee Assistance Program (EAP)&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Work Perks &amp;amp; Flexibility&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Global home office allowance&lt;/li&gt; &lt;li&gt;Meal allowance&lt;/li&gt; &lt;li&gt;Hybrid work in Prague (Karlin), Brno (Clubco) or remote in CZ/SK. Only Prague-based employees are required to work from the office at least 2 days/week.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Wellness &amp;amp; Lifestyle&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Wellbeing allowance&lt;/li&gt; &lt;li&gt;MultiSport benefit program&lt;/li&gt; &lt;li&gt;Wellness Coach app&lt;/li&gt; &lt;/ul&gt;&lt;div class=\"content-conclusion\"&gt;&lt;p&gt;&lt;span style=\"font-weight: 400;\"&gt;SentinelOne is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span style=\"font-weight: 400;\"&gt;SentinelOne participates in the E-Verify Program for all U.S. based roles.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;",
+    "summary": "The Senior Offensive Security Researcher proactively researches and emulates sophisticated attack techniques and exploits to assess and improve endpoint detection. The role involves developing tools, proof-of-concept exploits, automation flows, and detection signatures, while collaborating with threat intelligence, research, and engineering teams to identify detection and visibility gaps.",
+    "locations": [
+     {
+      "workLocation": "hybrid",
+      "addressRegion": "South Moravian",
+      "addressCountry": "CZ",
+      "addressLocality": "Brno"
+     }
+    ],
+    "remoteType": "hybrid",
+    "skills": {
+     "soft_skills": [
+      "Curiosity",
+      "Persistence",
+      "Continuous Learning"
+     ],
+     "primary_skills": [
+      "Red Teaming",
+      "Security Research",
+      "Offensive Security Research",
+      "Windows Internals",
+      "Python",
+      "C",
+      "Malware Analysis",
+      "Reverse Engineering",
+      "Detection Signature Writing"
+     ],
+     "secondary_skills": [
+      "Agentic AI Workflows",
+      "EDR Internals",
+      "Threat Intelligence",
+      "Security Conference Speaking",
+      "Security Publications",
+      "Exploit Development"
+     ]
+    },
+    "benefits": [
+     "stock_options_equity",
+     "performance_bonuses",
+     "paid_time_off_vacation_personal_days",
+     "sick_leave",
+     "parental_leave",
+     "flexible_work_hours",
+     "remote_work_hybrid_work_options",
+     "life_insurance",
+     "disability_insurance",
+     "travel_insurance",
+     "professional_development",
+     "wellness_program",
+     "other_benefits"
+    ],
+    "salary": null,
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 4,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790267180,
+    "expiresAt": null,
+    "applyUrl": "https://www.sentinelone.com/jobs/?gh_jid=8004543003",
+    "status": "active",
+    "companies": [
+     {
+      "name": "sentinelone.com",
+      "website": "sentinelone.com"
+     }
+    ]
+   },
+   {
+    "id": "af44ea0e-bf3b-473e-84f9-1fe379b1a7b9",
+    "title": "AI Security Engineer / Offensive Security Engineer - Technology",
+    "description": "<h1><strong>About Truelogic</strong></h1><p>At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.</p><p>Our team of 600+ highly skilled tech professionals, based in Latin America, drives digital disruption by partnering with U.S. companies on their most impactful projects. Whether collaborating with Fortune 500 giants or scaling startups, we deliver results that make a difference.</p><p>By applying for this position, you’re taking the first step in joining a dynamic team that values your expertise and aspirations. We aim to align your skills with opportunities that foster exceptional career growth and success while contributing to transformative projects that shape the future.</p><h1><strong>Our Client</strong></h1><p>A prominent executive networking organization focused on driving business transformation through high-level strategic discourse.</p><h1><br><strong>Job Summary</strong></h1><p>Our client is looking for a highly hands-on security engineer to continuously attack, test, and strengthen their AI product and infrastructure. This person should think like a white-hat hacker: spend meaningful time trying to break the system, identify vulnerabilities across agents, APIs, identity, memory, permissions, data flows, and infrastructure, then work directly with engineering to understand, prioritize, and fix what they find.</p><p>The candidate should have a strong grounding in modern application and cloud security best practices without feeling the need to reinvent the wheel, and be comfortable using automation and AI agents to accelerate security testing, vulnerability discovery, triage, and remediation. Day to day, this could mean orchestrating agents to probe the system, investigating suspicious behavior or failure modes, reproducing exploits, hardening production systems, and gradually building an iterative defensive security layer around the product.</p><p>The ideal person combines an offensive security mindset with strong engineering judgment: someone who enjoys breaking systems as much as fixing them, can distinguish theoretical risk from meaningful product risk, and can help make security an ongoing engineering practice rather than a periodic audit.</p><h2><strong>Responsibilities</strong></h2><ul><li><p>Continuously red-team the company's product, infrastructure, APIs, and agentic systems.</p></li><li><p>Identify and reproduce vulnerabilities, then partner with engineers through remediation.</p></li><li><p>Test AI-specific attack surfaces including prompt injection, tool misuse, data leakage, permission escalation, memory poisoning, and unsafe agent behavior.</p></li><li><p>Use agents, automation, and security tooling to continuously probe systems and surface weaknesses.</p></li><li><p>Triage findings based on exploitability, user impact, and business risk.</p></li><li><p>Strengthen authentication, authorization, identity, secrets management, data boundaries, and infrastructure security.</p></li><li><p>Build lightweight monitoring, testing, and defensive systems that improve continuously as the product evolves.</p></li><li><p>Help establish pragmatic security standards and development practices without introducing unnecessary process.</p></li></ul><h2><strong>Qualifications and Job Requirements</strong></h2><ul><li><p>Strong experience in application, product, cloud, or offensive security.</p></li><li><p>Hands-on ability to identify, exploit, debug, and remediate vulnerabilities.</p></li><li><p>Solid understanding of modern web architecture, APIs, authentication/authorization,</p><p>cloud infrastructure, and data security.</p></li><li><p>Strong engineering fundamentals and enough coding ability to build security tooling,</p><p>automation, and fixes.</p></li><li><p>Familiarity with AI/LLM security risks and strong interest in securing agentic systems.</p></li><li><p>Comfortable operating in a fast-moving, zero-to-one environment where the security</p><p>model is evolving alongside the product.</p></li><li><p>Pragmatic judgment: knows established security best practices, applies them well, and</p><p>knows when deeper investigation is actually warranted.</p></li><li><p>Experience red-teaming LLM or agent systems, building automated security testing infrastructure, or working on products involving sensitive identity, memory, permissions, or user data would be particularly valuable.</p></li><li><p>Located in Latin America.</p></li><li><p>Fluent English level.</p></li></ul><h2><strong>What We Offer</strong></h2><ul><li><p>100% Remote Work: Enjoy the freedom to work from the location that helps you thrive. All it takes is a laptop and a reliable internet connection.</p></li><li><p>Highly Competitive USD Pay: Earn an excellent, market-leading compensation in USD, that goes beyond typical market offerings.</p></li><li><p>Paid Time Off: We value your well-being. Our paid time off policies ensure you have the chance to unwind and recharge when needed.</p></li><li><p>Work with Autonomy: Enjoy the freedom to manage your time as long as the work gets done. Focus on results, not the clock.</p></li><li><p>Work with Top American Companies: Grow your expertise working on innovative, high-impact projects with Industry-Leading U.S. Companies.</p></li></ul><h2><strong>Why You’ll Like Working Here</strong></h2><ul><li><p>A Culture That Values You: We prioritize well-being and work-life balance, offering engagement activities and fostering dynamic teams to ensure you thrive both personally and professionally.</p></li><li><p>Diverse, Global Network: Connect with over 600 professionals in 25+ countries, expand your network, and collaborate with a multicultural team from Latin America.</p></li><li><p>Team Up with Skilled Professionals: Join forces with senior talent. All of our team members are seasoned experts, ensuring you're working with the best in your field.</p></li></ul><p>Apply now!</p>",
+    "summary": "The AI Security Engineer / Offensive Security Engineer will continuously red-team AI products, infrastructure, APIs, and agentic systems to identify, reproduce, prioritize, and remediate vulnerabilities. The role combines offensive security, application and cloud security, automation, and engineering collaboration to strengthen authentication, authorization, data boundaries, monitoring, and defensive systems.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "DO",
+      "addressLocality": "Santo Domingo"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Pragmatic Judgment",
+      "Problem-solving",
+      "Adaptability",
+      "Autonomy"
+     ],
+     "primary_skills": [
+      "Application Security",
+      "Cloud Security",
+      "Offensive Security",
+      "Red Teaming",
+      "Vulnerability Assessment",
+      "Vulnerability Remediation",
+      "Web Architecture",
+      "API Security",
+      "Authentication and Authorization",
+      "Security Automation"
+     ],
+     "secondary_skills": [
+      "AI Security",
+      "Large Language Model Security",
+      "Agentic Systems Security",
+      "Security Tooling",
+      "Infrastructure Security",
+      "Secrets Management",
+      "Data Security",
+      "Monitoring",
+      "Identity Management",
+      "Coding"
+     ]
+    },
+    "benefits": [
+     "paid_time_off_vacation_personal_days",
+     "remote_work_hybrid_work_options",
+     "other_benefits"
+    ],
+    "salary": null,
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": null,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790124261,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/truelogic/840a52a4-52bf-4caa-8f8b-1372c45db485",
+    "status": "active",
+    "companies": [
+     {
+      "name": "truelogic.io",
+      "website": "truelogic.io"
+     }
+    ]
+   },
+   {
+    "id": "21b07699-76f0-47c7-b426-5a840031a165",
+    "title": "AI Security Engineer / Offensive Security Engineer - Technology",
+    "description": "<h1><strong>About Truelogic</strong></h1><p>At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.</p><p>Our team of 600+ highly skilled tech professionals, based in Latin America, drives digital disruption by partnering with U.S. companies on their most impactful projects. Whether collaborating with Fortune 500 giants or scaling startups, we deliver results that make a difference.</p><p>By applying for this position, you’re taking the first step in joining a dynamic team that values your expertise and aspirations. We aim to align your skills with opportunities that foster exceptional career growth and success while contributing to transformative projects that shape the future.</p><h1><strong>Our Client</strong></h1><p>A prominent executive networking organization focused on driving business transformation through high-level strategic discourse.</p><h1><br><strong>Job Summary</strong></h1><p>Our client is looking for a highly hands-on security engineer to continuously attack, test, and strengthen their AI product and infrastructure. This person should think like a white-hat hacker: spend meaningful time trying to break the system, identify vulnerabilities across agents, APIs, identity, memory, permissions, data flows, and infrastructure, then work directly with engineering to understand, prioritize, and fix what they find.</p><p>The candidate should have a strong grounding in modern application and cloud security best practices without feeling the need to reinvent the wheel, and be comfortable using automation and AI agents to accelerate security testing, vulnerability discovery, triage, and remediation. Day to day, this could mean orchestrating agents to probe the system, investigating suspicious behavior or failure modes, reproducing exploits, hardening production systems, and gradually building an iterative defensive security layer around the product.</p><p>The ideal person combines an offensive security mindset with strong engineering judgment: someone who enjoys breaking systems as much as fixing them, can distinguish theoretical risk from meaningful product risk, and can help make security an ongoing engineering practice rather than a periodic audit.</p><h2><strong>Responsibilities</strong></h2><ul><li><p>Continuously red-team the company's product, infrastructure, APIs, and agentic systems.</p></li><li><p>Identify and reproduce vulnerabilities, then partner with engineers through remediation.</p></li><li><p>Test AI-specific attack surfaces including prompt injection, tool misuse, data leakage, permission escalation, memory poisoning, and unsafe agent behavior.</p></li><li><p>Use agents, automation, and security tooling to continuously probe systems and surface weaknesses.</p></li><li><p>Triage findings based on exploitability, user impact, and business risk.</p></li><li><p>Strengthen authentication, authorization, identity, secrets management, data boundaries, and infrastructure security.</p></li><li><p>Build lightweight monitoring, testing, and defensive systems that improve continuously as the product evolves.</p></li><li><p>Help establish pragmatic security standards and development practices without introducing unnecessary process.</p></li></ul><h2><strong>Qualifications and Job Requirements</strong></h2><ul><li><p>Strong experience in application, product, cloud, or offensive security.</p></li><li><p>Hands-on ability to identify, exploit, debug, and remediate vulnerabilities.</p></li><li><p>Solid understanding of modern web architecture, APIs, authentication/authorization,</p><p>cloud infrastructure, and data security.</p></li><li><p>Strong engineering fundamentals and enough coding ability to build security tooling,</p><p>automation, and fixes.</p></li><li><p>Familiarity with AI/LLM security risks and strong interest in securing agentic systems.</p></li><li><p>Comfortable operating in a fast-moving, zero-to-one environment where the security</p><p>model is evolving alongside the product.</p></li><li><p>Pragmatic judgment: knows established security best practices, applies them well, and</p><p>knows when deeper investigation is actually warranted.</p></li><li><p>Experience red-teaming LLM or agent systems, building automated security testing infrastructure, or working on products involving sensitive identity, memory, permissions, or user data would be particularly valuable.</p></li><li><p>Located in Latin America.</p></li><li><p>Fluent English level.</p></li></ul><h2><strong>What We Offer</strong></h2><ul><li><p>100% Remote Work: Enjoy the freedom to work from the location that helps you thrive. All it takes is a laptop and a reliable internet connection.</p></li><li><p>Highly Competitive USD Pay: Earn an excellent, market-leading compensation in USD, that goes beyond typical market offerings.</p></li><li><p>Paid Time Off: We value your well-being. Our paid time off policies ensure you have the chance to unwind and recharge when needed.</p></li><li><p>Work with Autonomy: Enjoy the freedom to manage your time as long as the work gets done. Focus on results, not the clock.</p></li><li><p>Work with Top American Companies: Grow your expertise working on innovative, high-impact projects with Industry-Leading U.S. Companies.</p></li></ul><h2><strong>Why You’ll Like Working Here</strong></h2><ul><li><p>A Culture That Values You: We prioritize well-being and work-life balance, offering engagement activities and fostering dynamic teams to ensure you thrive both personally and professionally.</p></li><li><p>Diverse, Global Network: Connect with over 600 professionals in 25+ countries, expand your network, and collaborate with a multicultural team from Latin America.</p></li><li><p>Team Up with Skilled Professionals: Join forces with senior talent. All of our team members are seasoned experts, ensuring you're working with the best in your field.</p></li></ul><p>Apply now!</p>",
+    "summary": "The AI Security Engineer / Offensive Security Engineer will continuously attack, test, and strengthen an AI product, its infrastructure, APIs, and agentic systems. Responsibilities include identifying and reproducing vulnerabilities, testing AI-specific attack surfaces, automating security testing, triaging risk, strengthening identity and infrastructure controls, and partnering with engineering on remediation and defensive improvements.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "MX",
+      "addressLocality": "Mexico City"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Pragmatic Judgment",
+      "Problem-solving",
+      "Adaptability",
+      "Autonomy"
+     ],
+     "primary_skills": [
+      "Application Security",
+      "Cloud Security",
+      "Offensive Security",
+      "Vulnerability Assessment",
+      "Vulnerability Remediation",
+      "Web Architecture",
+      "API Security",
+      "Authentication and Authorization",
+      "Data Security",
+      "Security Automation"
+     ],
+     "secondary_skills": [
+      "Artificial Intelligence Security",
+      "Large Language Model Security",
+      "Red Teaming",
+      "Security Tooling",
+      "Infrastructure Security",
+      "Secrets Management",
+      "Monitoring",
+      "Security Testing",
+      "Agentic Systems Security"
+     ]
+    },
+    "benefits": [
+     "paid_time_off_vacation_personal_days",
+     "remote_work_hybrid_work_options",
+     "other_benefits"
+    ],
+    "salary": null,
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": null,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software",
+     "consulting_professional"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790124197,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/truelogic/d062656b-bccb-4ee8-8c99-5547c07ec7f3",
+    "status": "active",
+    "companies": [
+     {
+      "name": "truelogic.io",
+      "website": "truelogic.io"
+     }
+    ]
+   },
+   {
+    "id": "6471e291-115c-4fd7-a172-b3dc87847920",
+    "title": "AI Security Engineer / Offensive Security Engineer - Technology",
+    "description": "<h1><strong>About Truelogic</strong></h1><p>At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.</p><p>Our team of 600+ highly skilled tech professionals, based in Latin America, drives digital disruption by partnering with U.S. companies on their most impactful projects. Whether collaborating with Fortune 500 giants or scaling startups, we deliver results that make a difference.</p><p>By applying for this position, you’re taking the first step in joining a dynamic team that values your expertise and aspirations. We aim to align your skills with opportunities that foster exceptional career growth and success while contributing to transformative projects that shape the future.</p><h1><strong>Our Client</strong></h1><p>A prominent executive networking organization focused on driving business transformation through high-level strategic discourse.</p><h1><br><strong>Job Summary</strong></h1><p>Our client is looking for a highly hands-on security engineer to continuously attack, test, and strengthen their AI product and infrastructure. This person should think like a white-hat hacker: spend meaningful time trying to break the system, identify vulnerabilities across agents, APIs, identity, memory, permissions, data flows, and infrastructure, then work directly with engineering to understand, prioritize, and fix what they find.</p><p>The candidate should have a strong grounding in modern application and cloud security best practices without feeling the need to reinvent the wheel, and be comfortable using automation and AI agents to accelerate security testing, vulnerability discovery, triage, and remediation. Day to day, this could mean orchestrating agents to probe the system, investigating suspicious behavior or failure modes, reproducing exploits, hardening production systems, and gradually building an iterative defensive security layer around the product.</p><p>The ideal person combines an offensive security mindset with strong engineering judgment: someone who enjoys breaking systems as much as fixing them, can distinguish theoretical risk from meaningful product risk, and can help make security an ongoing engineering practice rather than a periodic audit.</p><h2><strong>Responsibilities</strong></h2><ul><li><p>Continuously red-team the company's product, infrastructure, APIs, and agentic systems.</p></li><li><p>Identify and reproduce vulnerabilities, then partner with engineers through remediation.</p></li><li><p>Test AI-specific attack surfaces including prompt injection, tool misuse, data leakage, permission escalation, memory poisoning, and unsafe agent behavior.</p></li><li><p>Use agents, automation, and security tooling to continuously probe systems and surface weaknesses.</p></li><li><p>Triage findings based on exploitability, user impact, and business risk.</p></li><li><p>Strengthen authentication, authorization, identity, secrets management, data boundaries, and infrastructure security.</p></li><li><p>Build lightweight monitoring, testing, and defensive systems that improve continuously as the product evolves.</p></li><li><p>Help establish pragmatic security standards and development practices without introducing unnecessary process.</p></li></ul><h2><strong>Qualifications and Job Requirements</strong></h2><ul><li><p>Strong experience in application, product, cloud, or offensive security.</p></li><li><p>Hands-on ability to identify, exploit, debug, and remediate vulnerabilities.</p></li><li><p>Solid understanding of modern web architecture, APIs, authentication/authorization,</p><p>cloud infrastructure, and data security.</p></li><li><p>Strong engineering fundamentals and enough coding ability to build security tooling,</p><p>automation, and fixes.</p></li><li><p>Familiarity with AI/LLM security risks and strong interest in securing agentic systems.</p></li><li><p>Comfortable operating in a fast-moving, zero-to-one environment where the security</p><p>model is evolving alongside the product.</p></li><li><p>Pragmatic judgment: knows established security best practices, applies them well, and</p><p>knows when deeper investigation is actually warranted.</p></li><li><p>Experience red-teaming LLM or agent systems, building automated security testing infrastructure, or working on products involving sensitive identity, memory, permissions, or user data would be particularly valuable.</p></li><li><p>Located in Latin America.</p></li><li><p>Fluent English level.</p></li></ul><h2><strong>What We Offer</strong></h2><ul><li><p>100% Remote Work: Enjoy the freedom to work from the location that helps you thrive. All it takes is a laptop and a reliable internet connection.</p></li><li><p>Highly Competitive USD Pay: Earn an excellent, market-leading compensation in USD, that goes beyond typical market offerings.</p></li><li><p>Paid Time Off: We value your well-being. Our paid time off policies ensure you have the chance to unwind and recharge when needed.</p></li><li><p>Work with Autonomy: Enjoy the freedom to manage your time as long as the work gets done. Focus on results, not the clock.</p></li><li><p>Work with Top American Companies: Grow your expertise working on innovative, high-impact projects with Industry-Leading U.S. Companies.</p></li></ul><h2><strong>Why You’ll Like Working Here</strong></h2><ul><li><p>A Culture That Values You: We prioritize well-being and work-life balance, offering engagement activities and fostering dynamic teams to ensure you thrive both personally and professionally.</p></li><li><p>Diverse, Global Network: Connect with over 600 professionals in 25+ countries, expand your network, and collaborate with a multicultural team from Latin America.</p></li><li><p>Team Up with Skilled Professionals: Join forces with senior talent. All of our team members are seasoned experts, ensuring you're working with the best in your field.</p></li></ul><p>Apply now!</p>",
+    "summary": "The AI Security Engineer / Offensive Security Engineer will continuously red-team AI products, infrastructure, APIs, and agentic systems to identify, reproduce, prioritize, and remediate vulnerabilities. The role combines offensive security with hands-on engineering, including security automation, vulnerability triage, production hardening, and development of continuously improving monitoring and defensive systems.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "BR"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Problem-solving",
+      "Pragmatic Judgment",
+      "Adaptability",
+      "Collaboration"
+     ],
+     "primary_skills": [
+      "Application Security",
+      "Cloud Security",
+      "Offensive Security",
+      "Red Teaming",
+      "Web Architecture",
+      "API Security",
+      "Authentication and Authorization",
+      "Infrastructure Security",
+      "Data Security",
+      "Security Automation"
+     ],
+     "secondary_skills": [
+      "Artificial Intelligence Security",
+      "Large Language Model Security",
+      "Agentic Systems Security",
+      "Vulnerability Management",
+      "Secrets Management",
+      "Security Monitoring",
+      "Security Tooling"
+     ]
+    },
+    "benefits": [
+     "remote_work_hybrid_work_options",
+     "paid_time_off_vacation_personal_days",
+     "flexible_work_hours",
+     "professional_development",
+     "company_events_retreats"
+    ],
+    "salary": null,
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": null,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790124157,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/truelogic/50021619-6230-45b2-9923-4e6a7a3bd965",
+    "status": "active",
+    "companies": [
+     {
+      "name": "truelogic.io",
+      "website": "truelogic.io"
+     }
+    ]
+   }
+  ],
+  "meta": {
+   "count": 5,
+   "nextCursor": "eyJpZCI6IjY0NzFlMjkxLTExNWMtNGZkNy1hMTcyLWIzZGM4Nzg0NzkyMCIsInNvcnRWYWx1ZSI6MTc5MDEyNDE1NywidGllQnJlYWtlciI6IjIwMjYtMDktMjNUMDE6MDY6NTYuMjYzWiJ9",
+   "hasMore": true,
+   "requestTimeMs": 42,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

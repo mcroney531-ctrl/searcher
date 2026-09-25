@@ -1,0 +1,66 @@
+{
+ "call_id": "fam_desc_teach_teams_to_use_ai_p0",
+ "phase": "family",
+ "url": "https://api.jobven.com/v1/public/jobs?q=-%22account+executive%22+-%22account+manager%22+-%22sales+representative%22+-%22sales+manager%22+-%22customer+service+representative%22+-%22help+desk%22+-%22customer+success+manager%22+-%22support+specialist%22&descriptionQuery=teach+teams+to+use+AI&country=US&remoteType%5B%5D=remote&postedAfter=1789702200&limit=25",
+ "params": [
+  [
+   "q",
+   "-\"account executive\" -\"account manager\" -\"sales representative\" -\"sales manager\" -\"customer service representative\" -\"help desk\" -\"customer success manager\" -\"support specialist\""
+  ],
+  [
+   "descriptionQuery",
+   "teach teams to use AI"
+  ],
+  [
+   "country",
+   "US"
+  ],
+  [
+   "remoteType[]",
+   "remote"
+  ],
+  [
+   "postedAfter",
+   1789702200
+  ],
+  [
+   "limit",
+   25
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:29:33 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "109",
+  "connection": "close",
+  "server": "cloudflare",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "e4553f64-a832-4ee9-b27d-4a1484ca9de4",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2224",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "243",
+  "etag": "W/\"6d-9grMenEvkr5ZTCH1gdhVmcEk26c\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=C7kgArJW2Pi0cAIic6jsv%2F6AfkS06aB2j33onAaCy9swp2F8te7TH0Ycbx%2BaNNlQURZOBiiLwaZUZ4rnXg%2B%2BLmxaikLvIVjBFMn0YlFSbVkOGWq2ZN%2B7qkICMGUNmZhu%2BOz0wpnlcXO89E3tRA%3D%3D\"}]}",
+  "cf-ray": "a406f1f979858815-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [],
+  "meta": {
+   "count": 0,
+   "hasMore": false,
+   "requestTimeMs": 242,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

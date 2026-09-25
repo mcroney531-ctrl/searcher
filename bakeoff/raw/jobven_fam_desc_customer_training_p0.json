@@ -1,0 +1,699 @@
+{
+ "call_id": "fam_desc_customer_training_p0",
+ "phase": "family",
+ "url": "https://api.jobven.com/v1/public/jobs?q=-%22account+executive%22+-%22account+manager%22+-%22sales+representative%22+-%22sales+manager%22+-%22customer+service+representative%22+-%22help+desk%22+-%22customer+success+manager%22+-%22support+specialist%22&descriptionQuery=customer+training&country=US&remoteType%5B%5D=remote&postedAfter=1789702200&limit=25",
+ "params": [
+  [
+   "q",
+   "-\"account executive\" -\"account manager\" -\"sales representative\" -\"sales manager\" -\"customer service representative\" -\"help desk\" -\"customer success manager\" -\"support specialist\""
+  ],
+  [
+   "descriptionQuery",
+   "customer training"
+  ],
+  [
+   "country",
+   "US"
+  ],
+  [
+   "remoteType[]",
+   "remote"
+  ],
+  [
+   "postedAfter",
+   1789702200
+  ],
+  [
+   "limit",
+   25
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:28:23 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "transfer-encoding": "chunked",
+  "connection": "close",
+  "server": "cloudflare",
+  "vary": "Accept-Encoding",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "4fc70e29-1927-4a87-83a1-30d621415c5f",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2321",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "298",
+  "etag": "W/\"17d17-ujeEv0NzoGFb8C3jVsnX1hCz3qQ\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=ED%2F5FuEgKhs4WXD57ccN03hC4mdj7VvzWS9RCeiuPVoh4feQwTnBSaNxegXtiSDfs1Ixbpf1pAwucCTW2pWyzuM0EB7oatuiqnbV8CGlHLs7K3LRxaniU9XRCRiIkM9i9YpSpzn2%2BQOBmdlumQ%3D%3D\"}]}",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "cf-ray": "a406f0433b4470a4-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "id": "b6944ddd-c1df-4bed-8f23-4ac3c6cd34ba",
+    "title": "Customer Success Engineer",
+    "description": "<h2>Who We Are</h2><h3>Our mission is to make the world programmable. Sight is one of the key ways we understand the world, and soon this will be true for the software we use, too.</h3><h3>We’re building the tools, community, and resources needed to make the world programmable with artificial intelligence. Roboflow simplifies building and using computer vision models. Today, over 1M+ developers, including those from half the Fortune 100, use Roboflow’s machine learning open source and hosted tools. That includes counting cells to accelerate cancer research, improving construction site safety, digitizing floor plans, preserving coral reef populations, guiding drone flight, and much more.</h3><h3>Roboflow is supported by great customers and investors, having raised over 63 million from Y Combinator, Google Ventures, Craft Ventures, Sam Altman, Lachy Groom, amongst other leading software investors.</h3><h3>Roboflowers are passionate builders who value ownership, accountability, and a bias toward action. We're curious, hands-on with new tech, and prefer showing our work over talking about it. Many of us have a founder mindset and thrive in our high-autonomy environment.</h3><h2>Who You Are</h2><p>You are technically curious, customer-focused, and get satisfaction from helping people become capable and confident users of complex technology. You may come from Customer Success, technical enablement, Developer Relations, Support, Solutions Engineering, or another customer-facing technical role.</p><p>You enjoy understanding why customers struggle with a product and turning those insights into better ways of teaching thousands of customers — not simply solving the same problem repeatedly.</p><p>You are comfortable teaching technical concepts live, creating clear educational content, and guiding customers through unfamiliar workflows. You know when to demonstrate, when to advise, and importantly when to let the customer drive the keyboard.</p><p>You look for patterns. If several customers ask the same question, your instinct is not simply to answer it again; it is to create the guide, video, workshop, workflow, or program that means the next customer can answer it themselves.</p><p>Empathetic to customer needs and the importance of communicating in remote relationships, you can provide clear and prescriptive guidance while maintaining the boundaries required for a scalable self-service customer experience.</p><p>Many Roboflowers have used our tools before joining. One of the best ways to stand out amongst other applicants is to write about something you have built with Roboflow or contribute to one of our open source projects.</p><p>We are hiring Customer Success Engineers to help our self-serve and Corporate customers become successful, independent users of Roboflow. You will have direct input on the evolution of this role, the Customer Success Engineering function, and how Roboflow enables an increasingly large community of computer vision practitioners.</p><p>If you enjoy teaching technical concepts, building programs and content, and finding scalable ways to help customers succeed, let’s have a chat.</p><h2>What You’ll Do</h2><p>Roboflow's product-led growth customers are building an enormous variety of computer vision applications. Customer Success powers up those customers with the technical knowledge, best practices, and structured enablement they need to expand how they use Roboflow and confidently progress from experimentation into production.</p><p>The function operates through two complementary enablement models:</p><ul><li><p><strong>Scalable enablement </strong>— recurring webinars, onboarding sessions, technical workshops, clinics, office hours, learning journeys, and reusable educational content designed to help large numbers of self-serve customers progress independently.</p></li><li><p><strong>Targeted 1:1 enablement </strong>— structured, time-bound delivery of the Targeted Enablement Option Pack for qualifying Corporate customers who need additional guidance through core Roboflow functionality.</p></li></ul><p>The objective isn't to do the customer's work for them; it is to remove educational friction and give customers the knowledge, tools, and confidence to progress independently.</p><p>You will teach customers how to work effectively with datasets, annotations, model training and evaluation, and the wider Roboflow platform. Just as importantly, you will identify recurring points of friction and turn them into programs and reusable assets that can benefit hundreds or thousands of future customers.</p><h2>Role And Responsibilities</h2><ul><li><p>Develop, deliver, and continually improve technical enablement programs for Roboflow's self-serve customer base, covering platform onboarding, annotation strategy and quality, dataset management, model training and evaluation, workflows and deployments and workspace administration</p></li><li><p>Host bi-weekly webinars, technical workshops, office hours, and other live educational sessions</p></li><li><p>Develop learning journeys that guide customers towards increasingly sophisticated use of Roboflow technology</p></li><li><p>Deliver Roboflow's structured 1:1 Targeted Enablement Option Pack for qualifying customers</p></li><li><p>Create reusable technical enablement assets including documentation, videos, walkthroughs, recordings, and reference materials</p></li><li><p>Identify recurring customer questions and turn them into scalable educational programs or assets</p></li><li><p>Monitor customer activation and engagement signals to identify users and cohorts who may benefit from specific enablement programs</p></li><li><p>Measure participation and effectiveness of enablement programs for continual improvement</p></li><li><p>Collaborate with Product to identify and close recurring knowledge and usability gaps</p></li><li><p>Stay current with the latest Roboflow product features, releases, workflows, and recommended best practices</p></li></ul><p><strong>Technical Proficiency</strong></p><ul><li><p>Working knowledge of computer vision and machine learning, including datasets, annotation, model training, evaluation, and inference</p></li><li><p>Comfortable using Python and working with APIs, notebooks, and common developer tooling</p></li><li><p>Ability to become highly proficient across the Roboflow platform and demonstrate its workflows confidently to customers</p></li><li><p>Understanding of model evaluation concepts including precision, recall, confidence thresholds, confusion matrices, and common causes of poor model performance</p></li><li><p>Understanding of dataset quality, annotation strategy, dataset versioning, and approaches for identifying difficult or underrepresented examples</p></li><li><p>Ability to translate technical concepts into clear, practical guidance for users with varying levels of ML experience</p></li></ul><p><strong>Individual Skills</strong></p><ul><li><p>Technical Teaching: Able to explain unfamiliar technical concepts clearly and adapt the explanation to the customer's level of experience</p></li><li><p>Pattern Recognition: Recognize recurring questions and friction across customer interactions and identify opportunities to solve them systematically</p></li><li><p>Program Delivery: Methodical planning and delivery of structured 1:1 sessions, webinars, workshops, and other customer-facing technical programs</p></li><li><p>Content Creation: Able to create concise, technically accurate educational material across written, recorded, and live formats</p></li><li><p>Workload Management: Manage multiple customers progressing through structured enablement while balancing program delivery and reusable content creation</p></li><li><p>Customer Communication: Communicate clearly and professionally before, during, and after enablement engagements, setting expectations around preparation, outcomes, and next steps</p></li></ul><p><strong>Bonus Skills</strong></p><ul><li><p>Experience using the Roboflow platform or contributing to the Roboflow ecosystem</p></li><li><p>Previous experience in Customer Success, technical enablement, Developer Relations, technical education, Solutions Engineering, or technical Support</p></li><li><p>Experience creating technical educational content such as tutorials, videos, workshops, documentation, or developer courses</p></li><li><p>Experience delivering webinars, workshops, technical demonstrations, or customer training</p></li><li><p>Experience working with product-led growth or self-service SaaS customers</p></li><li><p>Experience using product telemetry or customer activation data to inform customer engagement programs</p></li></ul><h2>Who You'll Be Working With</h2><p>Our team of over 100 attracts talent like executives that wanted to return to building, founders with a 100M+ exit, Roboflow users turned team members, open source contributors, a cyclist who biked across the United States, prolific high school hackers, a CTO from 100+ engineering organization, amongst many exceptional others.</p><p>As an early Customer Success Engineer hire, you'll work closely with Support &amp; Success leadership and partner with Product, Sales, and Field Engineering. You won't simply inherit an established playbook — you'll help build the programs, content, tooling, and working practices that define Customer Success at Roboflow.</p><h2>Where You'll Work</h2><p>Roboflow is distributed across the US and Europe. We currently have Hubs in New York City, San Francisco and São Paulo (with plans to open more as we grow density in new cities). We provide opportunities (like team onsites in different cities) and resources (like a $4000/yr travel stipend) to work in person with other team members as much as you'd like, while also supporting remote team members. You can work from one of our Hubs (we offer a relocation bonus), work from home, work at co-working spaces, etc. We want you to work where you work best!</p><h2>When You'll Work</h2><p>Roboflow primarily operates during the daytime hours in the US and there are some synchronous meetings you’ll be expected to attend each week.</p><h2>What You'll Receive</h2><p>To determine your salary, we use a number of market and data-driven salary sources. We review all salaries every six months to ensure we stay in line with the market.</p><p>📈 In addition to our cash compensation, we offer generous perks and benefits. Below are some of the highlights:</p><ul><li><p>$4000/yr Travel Stipend to travel anywhere anytime to work alongside other Roboflowers</p></li><li><p>$350/mo Productivity stipend to spend on things that make your work environment more productive, like high-speed internet at home or a co-working space</p></li><li><p>Cover up to 100% of your health insurance costs for you and your partner or family</p></li><li><p>Equity in the company so we are all invested in the future of computer vision</p></li></ul><h2>📅 Within one week, you will…</h2><ul><li><p>Learn about computer vision, our product, company, customers, and vision</p></li><li><p>Complete the core self-serve Roboflow journey from dataset creation through model training and inference</p></li><li><p>Begin shadowing customer enablement and Support interactions to understand common customer friction</p></li></ul><h2>📅 Within one month, you will…</h2><ul><li><p>Onboard in person with your manager (you'll come to our NY or SF Hub!)</p></li><li><p>Become familiar with the Customer Success Engineer function, Targeted Enablement Option Pack, and its scope boundaries</p></li><li><p>Shadow and begin participating in Targeted Enablement sessions</p></li><li><p>Compose your first Targeted Enablement Program</p></li><li><p>Create or significantly improve your first reusable customer enablement artifact</p></li><li><p>Participate in 1:many enablement webinars</p></li></ul><h2>📅 Within six months, you will…</h2><ul><li><p>Independently own and deliver both recurring 1:many enablement programs and 1:1 Targeted Enablement engagements.</p></li><li><p>Own and improve reusable educational content and enablement programs</p></li><li><p>Identify recurring customer friction and turn those insights into improvements across Product, Support, and CSE</p></li><li><p>Demonstrate measurable contribution to customer adoption and scalable reduction of repetitive enablement demand</p></li></ul><h2>Not sure if this is you?</h2><p>We want a diverse, global team with a broad range of experience and perspectives. If this job sounds great, but you’re not sure if you qualify, look into our Former Founders role. We carefully consider every application and will either move forward with you, find another team that might be a better fit, keep in touch for future opportunities, or thank you for your time.</p><h2>Learn More About Us</h2><p>We are building a diverse Distributed team that is distributed across the globe. Roboflow is an equal opportunity workplace; we welcome people from all backgrounds, communities, and experiences.</p><p>We provide competitive compensation and stellar benefits to accelerate your personal and work life. Learn more about what it is like to work at Roboflow by reading these blog posts.</p><p>See our careers page for all open listings.</p>",
+    "summary": "The Customer Success Engineer helps self-serve and Corporate customers become capable, independent users of Roboflow’s computer vision platform. Responsibilities include delivering live and one-to-one technical enablement, creating reusable educational content and programs, identifying recurring customer friction, and partnering with Product and other teams to improve customer adoption and self-service.",
+    "locations": [
+     {
+      "workLocation": "flexible",
+      "addressRegion": "New York",
+      "addressCountry": "US",
+      "addressLocality": "New York City"
+     },
+     {
+      "workLocation": "flexible",
+      "addressRegion": "California",
+      "addressCountry": "US",
+      "addressLocality": "San Francisco"
+     },
+     {
+      "workLocation": "remote",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Empathy",
+      "Workload Management",
+      "Adaptability",
+      "Pattern Recognition"
+     ],
+     "primary_skills": [
+      "Computer Vision",
+      "Machine Learning",
+      "Python",
+      "Application Programming Interfaces",
+      "Model Training",
+      "Model Evaluation",
+      "Dataset Management",
+      "Data Annotation",
+      "Technical Enablement",
+      "Technical Content Creation"
+     ],
+     "secondary_skills": [
+      "Roboflow",
+      "Product Telemetry",
+      "Customer Activation Data",
+      "Developer Tooling",
+      "Jupyter Notebooks",
+      "Customer Success",
+      "Developer Relations",
+      "Solutions Engineering",
+      "Technical Support",
+      "Product-Led Growth"
+     ]
+    },
+    "benefits": [
+     "remote_work_hybrid_work_options",
+     "relocation_assistance",
+     "health_insurance",
+     "stock_options_equity",
+     "other_benefits"
+    ],
+    "salary": null,
+    "experienceLevel": "mid",
+    "employmentType": "full_time",
+    "minYearsExperience": null,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": true,
+    "requiresTravel": true,
+    "travelPercentage": null,
+    "postedAt": 1790194560,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/roboflow/bbcda2ca-5919-4aaa-b3c5-c2fd47c07172",
+    "status": "active",
+    "companies": [
+     {
+      "name": "Roboflow",
+      "website": "roboflow.com"
+     }
+    ]
+   },
+   {
+    "id": "88b36e14-a530-472c-b99f-7e65ed3a0324",
+    "title": "Senior Manager, Customer Expansion",
+    "description": "<p>Dandy is transforming the massive and antiquated dental industry—an industry worth over $400B. Backed by some of the world’s leading venture capital firms, we’re on an ambitious mission to simplify and modernize every function of the dental practice through technology. As we expand our reach globally, Dandy is building the operating system for dental offices around the world—empowering clinicians and their teams with technology, innovation, and world-class support to achieve more for their practices, their people, and their patients.</p><h3><strong>About the Role</strong></h3><p>As we scale our post-sale organization, we’re seeking a <strong>Senior Manager, Customer Expansion</strong> to build and lead our expansion motion across Dandy’s existing customer base.</p><p>The team combines proactive BDR-led outbound with high-touch events, training, and field motions that help customers adopt additional products and unlock more value from Dandy.</p><p>This role is equal parts <strong>strategic builder and people leader</strong>. You’ll build the operating model and playbooks, lead through frontline managers across BDR and STS teams, and partner closely with Account Management, Training, Sales, Marketing, and RevOps to make expansion a repeatable, scalable revenue motion.</p><p>We’re looking for a strong operator who knows how to <strong>build teams, create clarity, coach leaders, and get things done</strong>. This isn’t about running an existing sales machine—we’re looking for someone who can build one.</p><h3><strong>What You'll Do</strong></h3><ul><li><p><strong>Build and lead the Expansion organization</strong>, developing a high-performing team through frontline leaders across BDR and STS (Sales &amp; Training Specialist) functions</p></li><li><p>Develop and refine <strong>repeatable expansion playbooks</strong> across Dandy’s product portfolio, from customer identification and outbound through product education and activation</p></li><li><p>Build the <strong>BDR-to-STS motion</strong> and the <strong>playbook for events, in-person trainings</strong>, and other high-touch expansion opportunities</p></li><li><p>Establish the team's <strong>operating cadence, metrics, and accountability systems</strong>, using leading indicators to identify gaps and drive action</p></li><li><p>Partner with Account Management, Sales, Training, Marketing, Product, and RevOps to identify opportunities and remove friction from the expansion journey</p></li><li><p>Build feedback loops to understand <strong>what is working, where customers are getting stuck, and which motions should scale</strong></p></li><li><p>Test, iterate, and operationalize new expansion motions as the business evolves</p></li></ul><h3><strong>What We're Looking For</strong></h3><ul><li><p>5+ years of B2B sales, customer growth, or related commercial experience, with <strong>3+ years managing and developing sales teams and frontline leaders</strong></p></li><li><p>Proven track record of <strong>building and scaling teams</strong>, ideally in a high-growth or evolving environment</p></li><li><p>Strong <strong>operational discipline</strong>—you naturally bring structure to ambiguous problems, establish clear metrics, and follow through on execution</p></li><li><p>Strong <strong>commercial instincts</strong> and an understanding of how to translate customer engagement into <strong>revenue, adoption, and retention</strong></p></li><li><p>Strong ability to build <strong>processes, playbooks, and operating rhythms</strong> from scratch</p></li><li><p><strong>High agency</strong> and a bias toward action</p></li><li><p><strong>Excellent cross-functional communication</strong> and ability to operate effectively across strategy and execution</p></li></ul><h3><strong>Bonus Points For</strong></h3><ul><li><p>Experience building an <strong>expansion, cross-sell, account growth, or customer revenue</strong> motion</p></li><li><p>Experience managing BDR and/or STS teams through frontline leaders</p></li><li><p>Experience with <strong>events, field sales, customer training, or other high-touch commercial motions</strong></p></li><li><p>Experience operating across both SMB and Enterprise</p></li><li><p>Familiarity with dental, healthcare, SaaS, or other recurring-revenue businesses</p></li></ul><p>For full-time positions, Dandy offers a wide range of best-in-class, comprehensive, and inclusive benefits tailored to each country where we operate. Our local benefits packages typically include healthcare, dental, mental health support, parental planning resources, retirement savings options, and generous paid time off—ensuring our team members are supported no matter where they live and work.</p><p>Dandy is proud to be an equal-opportunity employer. We are committed to building a diverse and inclusive culture that celebrates authenticity to win as one. We do not discriminate on the basis of race, religion, color, national origin, gender, gender identity, sexual orientation, age, marital status, disability, protected veteran status, citizenship or immigration status, or any other legally protected characteristics.</p><p>Dandy also fully complies with the Americans with Disabilities Act (ADA). We are dedicated to embracing challenges and creating an accessible, inclusive workplace for all individuals. If you require any accommodations for your interview or have any questions beforehand, rest assured that we will do everything we can to meet your needs. Visit <a href=\"https://www.meetdandy.com/careers/\">Dandy Careers</a> for more!</p><p>Data Privacy Notice: By submitting your application, you consent to Dandy collecting, storing, and processing your personal information for recruitment purposes in accordance with our <a href=\"https://www.meetdandy.com/privacy-policy/\"><u>Privacy Policy</u></a> and GDPR regulations. You have the right to access, rectify, or request the deletion of your data at any time by contacting <a href=\"https://www.meetdandy.com/privacy-requests/\"><u>Privacy Requests</u></a>.</p>",
+    "summary": "Dandy is seeking a Senior Manager, Customer Expansion to build and lead an expansion organization focused on growing revenue and product adoption among existing customers. The role includes developing expansion playbooks, operating metrics, and BDR-to-STS motions while coaching frontline leaders and partnering cross-functionally to create a scalable customer expansion process.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Leadership",
+      "Communication",
+      "Problem-solving",
+      "Adaptability"
+     ],
+     "primary_skills": [
+      "B2B Sales",
+      "Customer Expansion",
+      "Sales Team Management",
+      "Team Building",
+      "Sales Operations",
+      "Sales Playbook Development",
+      "Sales Metrics",
+      "Process Development",
+      "Revenue Growth",
+      "Cross-Functional Collaboration"
+     ],
+     "secondary_skills": [
+      "Cross-Selling",
+      "Account Growth",
+      "Customer Training",
+      "Field Sales",
+      "Event Management",
+      "SMB Sales",
+      "Enterprise Sales",
+      "SaaS",
+      "Healthcare"
+     ]
+    },
+    "benefits": [
+     "health_insurance",
+     "dental_insurance",
+     "mental_health_support",
+     "parental_leave",
+     "pension_plan",
+     "paid_time_off_vacation_personal_days"
+    ],
+    "salary": null,
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 5,
+    "educationRequirement": null,
+    "industry": [
+     "healthcare_medical",
+     "technology_software"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790191935,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/dandy/ea77d5e0-9ac8-48fd-a93b-0792da451264",
+    "status": "active",
+    "companies": [
+     {
+      "name": "meetdandy.com",
+      "website": "meetdandy.com"
+     }
+    ]
+   },
+   {
+    "id": "6bbd9455-c0c5-4f87-a21b-81544c465790",
+    "title": "Clinical Applications Specialist - Dosimetrist (travelling Position)",
+    "description": "<p>Join us in pioneering breakthroughs in healthcare. For everyone. Everywhere. Sustainably.</p><p>Our inspiring and caring environment forms a global community that celebrates diversity and individuality. We encourage you to step beyond your comfort zone, offering resources and flexibility to foster your professional and personal growth, all while valuing your unique contributions.</p>Provides clinical training and support to customers, as a subject matter expert in dosimetry, on-site and/or remotely to ensure customer is prepared to operate their equipment according to a minimum of safe and effective use guidelines and to fully utilize the complex functionality of the technology to meet their business needs.<br><p><b>Summary:</b></p><br><ul><li>Provides clinical applications training to customers both on site and remotely to ensure customer is well prepared to obtain training that will enable them to operate their Varian Medical System equipment according to a minimum of safe and effective use guidelines with the highest level of satisfaction.</li><li>Assist in managing the customer’s clinical expectations.</li><li>As available, provides competitive product performance information to headquarters, marketing or engineering groups.</li><li>May coordinate or lead customer and/or employee training courses.</li><li>May conduct large group presentations at seminars, training programs, and trade shows.</li><li>May provide demo support to local, regional and national customer trade events.</li><li>Formulate complementary support training information in the form of quick tips, workbooks, video-media and implementation guides.</li><li>Work with cross-functional teams as necessary to support and enable best services and optimize customer relations.</li><li>Applicable to the Oncology Systems business only: Position must have full access to VMS client sites to perform the essential functions of this position. Many VMS clients require VMS employees and representatives to meet certain “Vendor Credentialing” requirements before they will be allowed to have access to their sites. Unless prohibited by law, position must meet all Vendor Credentialing requirements necessary to have full client access, and must continue to meet those requirements during the course of VMS employment in this position.</li><li>Performs all required applications specialist responsibilities including but not limited to: creating and maintaining formal customer training support documents; design and oversee the initial and ongoing training for Clinical Applications Specialists, as well as, continued training for new product releases.</li><li>Other duties as assigned by Training Operations and/or Applications Manager.</li></ul><br><p><b>Minimum Required Skills and Knowledge:</b></p><br><ul><li>Must be a Certified Dosimetrist.</li><li>Clinical understanding of the processes in a medical and/or radiation oncology department.</li><li>Travel required up to 75-100% and intermittent weekends.</li><li>Excellent interpersonal skills.</li><li>Exemplary communication skills (listening, verbal, written).</li><li>Adaptable, positive and open to new ideas and/or situations</li><li>Highly motivated self-starter who takes initiative.</li><li>Enthusiastic learner who is eager to meet challenges and quickly assimilate new concepts.</li><li>Required Certifications and Training: Obtains and completes LMS training plan specific to assigned responsibility</li><li>Applicable to the Oncology Systems business only: Meets all Vendor Credentialing requirements necessary to gain VMS client site access, unless prohibited by law. These requirements vary by client and may include, but are not limited to:<ul><li>Proof of valid identification (photo, driver’s license, SSN)</li><li>Criminal background check</li><li>Drug screen</li><li>Immunizations (Hep B, MMR, Varicella, Influenza, Tetanus)</li><li>Annual TB testing</li><li>Healthcare trainings</li><li>Experience Level with Business Tools: Experienced knowledge in use of remote training tools (i.e. Smart Connect, virtual classroom) and business tools such as: Microsoft Office Suite, SalesForce, ServiceMax, Qlikview and Learning Management System (LMS).</li></ul></li></ul><ul><li>Scope Complete understanding and wide application of documentation, standards, principles, concepts and techniques in the field.</li><li>Has substantial understanding of the job and applies knowledge and skills to complete a wide range of tasks</li><li>Job Complexity: Works on assignments that are moderately difficult, requiring judgment in resolving issues or in making recommendations.</li><li>Proficient at leading a team and taking on special assignments.</li><li>Proficient delivery of training for a minimum of 20%-30% of Varian products.</li><li>Experienced product knowledge to support cross functional teams (i.e. trade shows, sales support, marketing, testing).</li><li>Mentors Clinical Training Specialist I and II.</li><li>Impact of Decisions and Accuracy: Erroneous decisions or failure to achieve results may negatively impact or delay internal and external customer satisfaction and financial obligations.</li><li>Interaction: Interacts daily with functional peer groups and external customers</li><li>Builds effective working relationships with both internal and external customers.</li><li>Supervision Receives little instruction on day to- day work, general instructions on newly introduced assignments.</li><li>Administrative Compliance in good standing.</li><li>Competency Level Solid proficiencies, some strengths and opportunities for development of identified areas in development plan.</li><li>Typical Education and Experience: Bachelor’s degree or equivalent Minimum of 2 -3 years clinical experience or equivalent 3 years in position Enrollment in Varian approved Development Program.</li><li>Requirement to travel into Canada and must meet Canadian Border Services requirements. Valid U.S or Canadian driver’s license.</li></ul><p>#LI-Remote<br></p><p><b>Who we are</b>: We are a team of more than 72,000 highly dedicated Healthineers in more than 70 countries. As a leader in medical technology, we constantly push the boundaries to create better outcomes and experiences for patients, no matter where they live or what health issues they are facing. Our portfolio is crucial for clinical decision-making and treatment pathways.</p><p><b>How we work:</b> When you join Siemens Healthineers, you become one in a global team of scientists, clinicians, developers, researchers, professionals, and skilled specialists, who believe in each individual’s potential to contribute with diverse ideas. We are from different backgrounds, cultures, religions, political and/or sexual orientations, and work together, to fight the world’s most threatening diseases and enable access to care, united by one purpose: to pioneer breakthroughs in healthcare. For everyone. Everywhere. Sustainably.</p><p>To find out more about Siemens Healthineers businesses, please visit our company page <a href=\"https://www.siemens-healthineers.com/en-us\">here</a>.</p><p>The base pay for this position is:</p>$119,920 - $164,890<p>Factors which may affect starting pay within this range may include geography/market, skills, education, experience, and other qualifications of the successful candidate.</p><p>If this is a commission eligible position the commission eligibility will be in accordance with the terms of the Company's plan. Commissions are based on individual performance and/or company performance.</p><p>The Company offers the following benefits for this position, subject to applicable eligibility requirements: medical insurance, dental insurance, vision insurance, 401(k) retirement plan. life insurance, long-term and short-term disability insurance, paid parking/public transportation, paid time off, paid sick and safe time.</p><p>There is no deadline to apply. Applications are accepted on a rolling basis.</p><p><span>Position must have full access to Siemens Healthineers' client sites to perform the essential functions of this position. Many clients require Siemens Healthineers employees and representatives to meet certain Vendor Credentialing requirements before they will be allowed to have access to their sites. Unless prohibited by law, position must meet all Vendor Credentialing requirements necessary to have full client access and must continue to meet those requirements during the course of employment in this position. These requirements vary by client and may include, but are not limited to: Proof of valid identification (photo, driver's license, SSN) Criminal background checks Drug screens Immunizations (COVID-19, Hep B, MMR, Varicella, Influenza, Tetanus) Annual TB testing Healthcare training.</span></p><p><b>Equal Employment Opportunity Statement: </b> Siemens Healthineers is an Equal Opportunity and Affirmative Action Employer encouraging diversity in the workplace. All qualified applicants will receive consideration for employment without regard to their race, color, creed, religion, national origin, citizenship status, ancestry, sex, age, physical or mental disability unrelated to ability, marital status, family responsibilities, pregnancy, genetic information, sexual orientation, gender expression, gender identity, transgender, sex stereotyping, order of protection status, protected veteran or military status, or an unfavorable discharge from military service, and other categories protected by federal, state or local law.</p><p><b>EEO is the Law:</b> Applicants and employees are protected under Federal law from discrimination. To learn more, Click <a href=\"https://www.dol.gov/agencies/ofccp\"><span><u>here</u></span></a>.</p><p><b>Reasonable Accommodations:</b> Siemens Healthineers is committed to equal employment opportunity. As part of this commitment, we will ensure that persons with disabilities are provided reasonable accommodations.</p><p>If you require a reasonable accommodation in completing a job application, interviewing, completing any pre-employment testing, or otherwise participating in the employee selection process, please fill out the accommodations form <a href=\"https://www.siemens-healthineers.com/en-us/careers/accommodation-for-disability\">here</a>. If you’re unable to complete the form, you can reach out to our HR People Connect People Contact Center for support at <span>peopleconnectvendorsnam.func@siemens-healthineers.com.</span> Please note HR People Connect People Contact Center will not have visibility of your application or interview status.</p><p><b>California Privacy Notice:</b> California residents have the right to receive additional notices about their personal information. To learn more, click <a href=\"https://www.siemens-healthineers.com/en-us/siemens-website-privacy-policy/state-rights\">here</a>.</p><p><b>Export Control:</b> “A successful candidate must be able to work with controlled technology in accordance with US export control law.” “It is Siemens Healthineers’ policy to comply fully and completely with all United States export control laws and regulations, including those implemented by the Department of Commerce through the Export Administration Regulations (EAR), by the Department of State through the International Traffic in Arms Regulations (ITAR), and by the Treasury Department through the Office of Foreign Assets Control (OFAC) sanctions regulations.”</p><p><b>Data Privacy:</b> We care about your <a href=\"https://www.siemens-healthineers.com/careers/recruitment-application-privacy-notice\">data privacy</a> and take compliance with GDPR as well as other data protection legislation seriously. For this reason, we ask you not to send us your CV or resume by email. We ask instead that you create a profile in our talent community where you can upload your CV. Setting up a profile lets us know you are interested in career opportunities with us and makes it easy for us to send you an alert when relevant positions become open. Register <a href=\"https://careers.siemens-healthineers.com/global/en/jointalentcommunity\">here</a> to get started.</p><p><b>Beware of Job Scams:</b> Please beware of potentially fraudulent job postings or suspicious recruiting activity by persons that are currently posing as Siemens Healthineers <span>recruiters/employees.</span> These scammers may attempt to collect your confidential personal or financial information. If you are concerned that an offer of employment with Siemens Healthineers might be a scam or that the recruiter is not legitimate, please verify by searching for the posting on the Siemens Healthineers career site.</p><p><b>To all recruitment agencies: </b> Siemens Healthineers does not accept agency resumes. Please do not forward resumes to our jobs alias, employees, or any other company location. Siemens Healthineers is not responsible for any fees related to unsolicited resumes.</p>",
+    "summary": "The Clinical Applications Specialist - Dosimetrist provides clinical training and support to customers operating Varian Medical Systems equipment, both on-site and remotely. Responsibilities include delivering customer and employee training, creating training materials, supporting demonstrations and trade shows, collaborating cross-functionally, mentoring specialists, and traveling extensively, including to Canada.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "US",
+      "addressLocality": "Phoenix"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Interpersonal Skills",
+      "Communication",
+      "Adaptability",
+      "Initiative",
+      "Teamwork"
+     ],
+     "primary_skills": [
+      "Dosimetry",
+      "Clinical Training",
+      "Radiation Oncology",
+      "Medical Oncology",
+      "Customer Support",
+      "Remote Training",
+      "Microsoft Office Suite",
+      "Salesforce",
+      "ServiceMax",
+      "QlikView"
+     ],
+     "secondary_skills": [
+      "Product Demonstration",
+      "Trade Show Support",
+      "Training Documentation",
+      "Video Production",
+      "Cross-Functional Collaboration",
+      "Vendor Credentialing"
+     ]
+    },
+    "benefits": [
+     "health_insurance",
+     "dental_insurance",
+     "vision_care",
+     "pensions_401k",
+     "life_insurance",
+     "disability_insurance",
+     "paid_time_off_vacation_personal_days",
+     "sick_leave",
+     "other_benefits"
+    ],
+    "salary": {
+     "max": 164890,
+     "min": 119920,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "mid",
+    "employmentType": "full_time",
+    "minYearsExperience": 2,
+    "educationRequirement": {
+     "required": [],
+     "preferred": [
+      "bachelor_degree"
+     ]
+    },
+    "industry": [
+     "healthcare_medical"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": true,
+    "travelPercentage": null,
+    "postedAt": 1790121600,
+    "expiresAt": null,
+    "applyUrl": "https://onehealthineers.wd3.myworkdayjobs.com/en-US/SHSJB/job/PHX-EC/Clinical-Applications-Specialist---Dosimetrist--Travelling-position-_R-30246-1",
+    "status": "active",
+    "companies": [
+     {
+      "name": "Siemens Healthineers",
+      "website": "siemens-healthineers.com"
+     }
+    ]
+   },
+   {
+    "id": "fa89ffb3-1cae-444b-9192-6af3f3409b11",
+    "title": "Support Analyst",
+    "description": "<p><b>SUPPORT ANALYST</b></p><p><i>Fully Remote&nbsp; |&nbsp; Full-Time&nbsp; |&nbsp; Customer Support&nbsp; |&nbsp; Reports to Manager, Support Services | </i></p><p><b>About the Role</b></p><p>Harris Computer is looking for a driven, tech-savvy Support Analyst to join our growing team. In this role, you'll be the front line of support for our customers — diagnosing technical issues, providing solutions, and ensuring a seamless experience with our software products. You'll report to the Manager, Support Services, and work in a fully remote, fast-paced environment where problem-solving, clear communication, and modern tools, including AI, are part of daily work. If you thrive on solving problems and are passionate about customer success, we want to hear from you.</p><p><b>Why Join Us</b></p><ul><li>Work fully remote, with a supportive team and manager invested in your growth</li><li>Build deep expertise in mission-critical software used by customers who depend on it every day</li><li>Grow your technical and customer-facing skills, with a clear path to take on more complex, high-impact issues</li></ul><p><b>Core Responsibilities</b></p><ul><li>Own assigned customer tickets from intake through resolution, including timely responses, clear status updates, and accurate documentation</li><li>Diagnose and resolve functional, configuration, data, and software issues by asking effective questions, reproducing problems, and identifying root causes</li><li>Escalate complex issues to Development, QA, or Product with complete findings, reproduction steps, and actions already attempted</li><li>Communicate technical information clearly and manage customer expectations throughout the resolution process</li><li>Learn, implement, and deliver training on our software applications to both customers and internal stakeholders</li><li>Create and maintain knowledge-base content, including solutions, procedures, and best practices that improve customer self-service</li><li>Identify recurring issues and product or process gaps, and share trends with the appropriate teams</li><li>Identify and communicate additional revenue or upsell opportunities to the appropriate internal teams</li><li>Collaborate with Support colleagues and cross-functional partners, sharing knowledge and contributing to testing when needed</li></ul><p><b>AI Tools &amp; Proficiency</b></p><p>As part of our commitment to innovation, we expect Support Analysts to use AI tools as a core part of their daily workflow, always validating outputs and following company data and privacy requirements.</p><p><b>Required:</b></p><ul><li>Demonstrated experience using AI-powered productivity tools (e.g., Microsoft Copilot, ChatGPT, Google Gemini, Claude) to draft communications, summarize issues, or research solutions</li><li>Ability to use AI tools to triage, document, and resolve customer support tickets more efficiently</li><li>Comfort working alongside AI-assisted support platforms, including chatbots and automated ticketing suggestions</li></ul><p><b>Preferred:</b></p><ul><li>Basic understanding of prompt engineering — crafting clear, effective prompts to get high-quality outputs from AI tools</li><li>Experience contributing to or maintaining an AI-assisted knowledge base</li><li>Familiarity with AI integrations within CRM or helpdesk platforms (e.g., Salesforce Einstein, Zendesk AI)</li></ul><p><b>What we are looking for:</b></p><ul><li>2+ years of experience in technical support, software support, or customer service</li><li>BS/BA degree in a related business or technical field, or equivalent industry experience</li><li>Strong troubleshooting and analytical skills, with the discipline to investigate beyond the immediate symptom</li><li>Excellent written and verbal communication skills, including the ability to explain technical concepts to non-technical users</li><li>Customer-focused, professional, and patient approach, with the ability to build trust and remain composed under pressure</li><li>Strong organization and time-management skills, with the ability to manage multiple priorities independently in a remote environment</li><li>Team player who is willing to share knowledge, seek help, and support team goals</li></ul><p><b>What would make you stand out:</b></p><ul><li>Experience with local government, municipal finance, taxation, or related public-sector workflows</li><li>Experience with ticketing and work-management platforms such as TeamSupport or Jira</li><li>Working knowledge of SQL, databases, APIs, or reporting tools</li><li>Experience creating knowledge-base articles, technical documentation, or customer training content</li></ul><p><b>Salary range: $50,000 - $55,000 USD per year.</b></p><p><br>AAP/EEO Statement</p><p>Harris Computer is an <span>EEO/AA/Disability/Vets</span> Employer.</p><p><br>Other Duties:</p><p>Please note this job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee for this job. Duties, responsibilities and activities may change at any time with or without notice.</p>",
+    "summary": "Harris Computer is seeking a fully remote Support Analyst to provide front-line technical and customer support for its software products. The role involves diagnosing and resolving customer issues, managing tickets, documenting solutions, delivering training, using AI tools, and collaborating with Development, QA, Product, and Support teams.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressRegion": "Maine",
+      "addressCountry": "US",
+      "addressLocality": "Remote - Maine"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Problem-solving",
+      "Analytical Thinking",
+      "Time Management",
+      "Teamwork"
+     ],
+     "primary_skills": [
+      "AI Tools",
+      "Technical Support",
+      "Software Support",
+      "Customer Support",
+      "Troubleshooting",
+      "Root Cause Analysis",
+      "Ticket Management",
+      "Knowledge Base Management",
+      "Technical Documentation",
+      "Customer Training"
+     ],
+     "secondary_skills": [
+      "Prompt Engineering",
+      "CRM Platforms",
+      "Helpdesk Platforms",
+      "SQL",
+      "Databases",
+      "APIs",
+      "Reporting Tools",
+      "Jira",
+      "TeamSupport",
+      "Public-Sector Workflows"
+     ]
+    },
+    "benefits": [
+     "remote_work_hybrid_work_options",
+     "professional_development"
+    ],
+    "salary": {
+     "max": 55000,
+     "min": 50000,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "entry",
+    "employmentType": "full_time",
+    "minYearsExperience": 2,
+    "educationRequirement": {
+     "required": [],
+     "preferred": [
+      "bachelor_degree"
+     ]
+    },
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790035200,
+    "expiresAt": null,
+    "applyUrl": "https://harriscomputer.wd3.myworkdayjobs.com/en-US/1/job/Maine-United-States/Support-Analyst_R0046644-1",
+    "status": "active",
+    "companies": [
+     {
+      "name": "Harris Computer",
+      "website": "harriscomputer.com"
+     }
+    ]
+   },
+   {
+    "id": "305cfeb9-009c-4d7a-9582-4e4b1d6251bb",
+    "title": "Ep Mapping Specialist Cas - Hartford, Ct",
+    "description": "We anticipate the application window for this opening will close on - 17 Oct 2026<p><br>&nbsp;</p><p>Careers that change lives start here. Medtronic is a global leader in healthcare technology with a Mission to alleviate pain, restore health, and extend life. Our 95,000 employees work across more than 150 countries to put patients first — developing innovative medical technologies that improve the lives of 72+ million patients each year. Your unique talents will help shape the future of healthcare while building a career grounded in purpose, growth, and impact.</p><h1><b>A Day in the Life</b></h1><div><div>Job Description</div></div><div><div><div><div><div><div><div><div><div><p>Join Medtronic as an Affera Mapping Specialist and be at the forefront of transforming lives through advanced medical technology! In this dynamic role, you’ll work alongside a collaborative team of clinicians, engineers, physicians, and innovators to execute mapping solutions for cardiac and other electrophysiological systems. By blending technical expertise with a passion for improving patient outcomes, you'll have the opportunity to impact global healthcare directly. If you're driven by precision, problem-solving, and the chance to make a tangible difference in people’s lives, this is your opportunity to grow your career while shaping the future of medical innovation at Medtronic.</p><p>We are seeking a committed professional to join our team. While this is a remote position not located at a physical Medtronic site, the candidate hired will be required to reside within the territory and drive to multiple accounts throughout the region. A valid driver's license is essential for this role.</p><p><br>To find all CAS Mapping roles available please use #casmap in the key word search at <a href=\"https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers\">Medtronic Careers</a>&nbsp;</p><p><b>Various levels available based on qualifications and experience</b>&nbsp;</p><p>Responsibilities may include the following and other duties may be assigned.</p><ul><li><p>Provide clinical and technical support and training to physicians and staff on the EP mapping and navigation system and all CAS products.</p></li><li><p>Educate and train physicians, hospital personnel and office staff on technical matters relating to CAS products and related procedures.</p></li><li><p>Promote the safe and effective use of Medtronic CAS products and related procedures.</p></li><li><p>Understand and support national, regional and territory sales objectives to achieve or exceed sales goals within all CAS products.&nbsp;</p></li><li><p>Develop and cultivate customer relationships resulting in incremental business.</p></li><li><p>Work in partnership with Account Manager, Regional Manager and Area Directors to identify potential sales opportunities.</p></li><li><p>Collaborate and strategize with local sales team to conduct customer training for mapping and other CA Solutions products.</p></li><li><p>Collaborate and communicate with the sales and clinical teams in the region.</p></li><li><p>Serves as an effective Medtronic CAS representative to physicians and support staff regarding Medtronic CAS products, service and support.</p></li><li><p>Serve as a regional champion to share your experience and influence others to be proficient in the mapping technology.&nbsp;</p></li></ul><p>​</p><p>The above statements are intended to describe the general nature and level of work being performed by employees assigned to this position, but they are not an exhaustive list of all the required responsibilities and skills of this position.&nbsp;</p><p>We seek out and hire a diverse workforce at every level: We need fresh ideas and inclusive insights to&nbsp;continue to be an innovative industry leader&nbsp;—that’s why we make it a point to seek out, attract and <span>develop&nbsp;employees</span> who are patient-centric, passionate, and who represent the same wide variety of life experiences as&nbsp;our patients.</p><p>To learn more about Inclusion &amp; Diversity at Medtronic&nbsp;<a href=\"https://www.medtronic.com/en-us/our-company/careers/inclusion-diversity.html\">Click Here</a></p><p><b>Required Qualifications</b></p><p><i>To be considered for this role, please ensure these minimum requirements are evident on your resume.</i></p><ul><li><p>High school diploma PLUS a minimum of related 6 years of work experience in&nbsp;cardiac mapping and navigation.<br><b>OR</b></p></li><li><p>Associate degree PLUS a minimum of related 4 years of work experience in&nbsp;cardiac mapping and navigation.<br><b>OR</b></p></li><li><p>Bachelor degree plus a minimum of related 2 years of work experience in cardiac mapping and navigation.</p></li></ul><p><b>Preferred Qualifications</b></p><ul><li><p>B.A./B.S. Degree in nursing, cardiovascular, life sciences, or technical discipline with minimum of <span>four&nbsp;years&nbsp;work</span> experience in cardiac field, <span>hospital/clinic&nbsp;or</span> sales.</p></li><li><p>Proven&nbsp;track record&nbsp;with technical training <span>assignments. </span></p></li><li><p>Experience in the cardiac catheter ablation field, EP lab, in a hospital/clinic or EP medical <span>sales&nbsp;providing&nbsp;technical</span> / clinical support.</p></li><li><p>Ability to travel more than 25% of the time&nbsp;</p></li></ul><p><br><br>&nbsp;<br><b>Additional Job Requirements</b></p><ul><li><p>Environmental exposure to infectious disease and radiation&nbsp;</p></li><li><p>Clinical Specialists&nbsp;are required to&nbsp;be within their assigned territory each day to be available as unscheduled needs arise&nbsp;</p></li><li><p>Clinical Specialists will on occasion <span>be&nbsp;required&nbsp;to</span> travel outside of their assigned territory and&nbsp;possibility overnight&nbsp;</p></li><li><p>Must&nbsp;have a valid driver’s license&nbsp;</p></li><li><p>Ability to freely move throughout the facility, use a <span>phone,&nbsp;keyboard&nbsp;and</span> mouse, visually able to interact with personal <span>computers </span></p></li><li><p>Must be able to stand/sit/walk for 8 hours a day</p></li><li><p>Ability to travel up to 25%&nbsp;</p></li></ul><p>Must have a valid driver's license and active vehicle insurance policy.&nbsp; In addition, your driving record will be reviewed and will be considered as part of your application. Must be able to drive approximately 50% of the time within assigned territory and may require overnight travel.<br><br>CARDIOVASCULAR <span>PORTFOLIO: </span></p><p>Cardiac Ablation Solutions offers cardiac mapping and ablation solutions to treat patients with abnormal heart rhythms. Our vision is to help patients worldwide by advancing innovation for the diagnosis and ablation of cardiac arrhythmias, enabling clinicians to perform procedures with superior outcomes.&nbsp;</p></div></div></div></div></div></div></div></div></div><p>For Baccalaureate degrees earned outside of the United States, a degree that satisfies the requirements of 8 C.F.R. § 214.2(h)(4)(iii)(A) is required.</p><p><b>Physical Job Requirements</b></p><p>The above statements are intended to describe the general nature and level of work being performed by employees assigned to this position, but they are not an exhaustive list of all the required responsibilities and skills of this position. </p><p>The physical demands described within the Responsibilities section of this job description are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. For Office Roles: While performing the duties of this job, the employee is regularly required to be independently mobile. The employee is also required to interact with a computer, and communicate with peers and co-workers. Contact your manager or local HR to understand the Work Conditions and Physical requirements that may be specific to each role.</p><p><b>U.S. Work Authorization &amp; Sponsorship </b></p><p>At Medtronic, we are committed to fostering an environment where employees can thrive and make a meaningful impact. In alignment with our enterprise-wide workforce planning approach, U.S. work authorization sponsorship (H-1B, TN, J, etc.) is offered exclusively for Principal-level roles and above, where specialized expertise aligns with long-term business needs. Roles below the Principal level require candidates to possess unrestricted U.S. work authorization at the time of hire and for the duration of employment.</p><p>‌</p><p><b>Recruitment Fraud Alert</b></p><p><span>We are aware of phishing scams targeting job seekers. Please keep the following in mind:&nbsp;</span></p><br><p><span>Apply only through official Medtronic channels. All legitimate Medtronic recruiting communications come from approved Medtronic platforms and official @medtronic.com email addresses.&nbsp;</span></p><br><p><span>Medtronic will never ask for payment or sensitive personal information (such as bank account or Social Security details) during early stages of the hiring process. Any such requests are not legitimate.&nbsp;</span></p><br><p><span>If you receive a suspicious message claiming to be from Medtronic, do not respond, click links, or open attachments.&nbsp;</span></p><br><p><span>If you have any questions, concerns regarding the authenticity of a communication alleged to have been made by or on behalf of Medtronic, please contact us immediately at </span><a href=\"mailto:AskHR@medtronic.com\"><span><u>AskHR@medtronic.com</u></span></a>.&nbsp;</p><p>‌</p><h1><b>Benefits &amp; Compensation</b><br>&nbsp;</h1><p><b>Medtronic offers a competitive Salary and flexible Benefits Package</b><br>A commitment to our employees lives at the core of our values. We recognize their contributions. They share in the success they help to create. We offer a wide range of benefits, resources, and competitive compensation plans designed to support you at every career and life stage.<br>&nbsp;</p>Salary ranges for U.S (excl. PR) locations (USD):$120K-125K<br>The base salary range is applicable across the United States, excluding Puerto Rico and specific locations in California. The offered rate complies with federal and local regulations and may vary based on factors such as experience, <span>certification/education,</span> market conditions, and location. Compensation and benefits information pertains solely to candidates hired within the United States (local market compensation and benefits will apply for others).<br><br>&nbsp;<br>In addition to Base Salary, this position is eligible for a Sales Incentive Plan (SIP), which provides the opportunity to earn significant incentive compensation for achieving or exceeding your goals.<p><span>The following benefits and additional compensation are available to those regular employees who work 20+ hours per week: Health, Dental and vision insurance</span><span>,</span><span>Health Savings Account</span><span>,</span><span>Healthcare Flexible Spending Account</span><span>,</span><span>Life insurance, Long-term disability leave</span><span>,</span><span>Dependent daycare spending account</span><span>,</span><span>Tuition <span><span><span><span><span>assistance/reimbursement</span></span></span></span></span></span><span>, and</span><span>Simple Steps (global well-being program).</span></p><p><span>The following benefits and additional compensation are available to all regular employees:</span><span>Incentive plans, 401(k) plan plus employer contribution and match</span><span>,</span><span>Short-term disability</span><span>,</span><span>Paid time off</span><span>,</span><span>Paid holidays</span><span>,</span><span>Employee Stock Purchase Plan</span><span>,</span><span>Employee Assistance Program</span><span>,</span><span>Non-qualified Retirement Plan Supplement (subject to IRS earning minimums)</span><span>, and</span><span>Capital Accumulation Plan (available to Vice Presidents and above, or subject to IRS earning minimums).</span></p><p><span>Regular employees are those who are not temporary, such as interns.&nbsp; Temporary employees are eligible for paid sick time, as required under applicable state law, and the Employee Stock Purchase Plan. </span><span>Please note some of the above benefits may not apply to workers in Puerto Rico.</span></p><p><span>Further details are available at the link below:</span></p><p><a href=\"https://www3.benefitsolver.com/benefits/BenefitSolverView?page_name=signon&amp;co_num=30601&amp;co_affid=medtronic\">Medtronic benefits and compensation plans</a></p><p>It is the policy of Medtronic to provide equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state or local law. In addition, Medtronic will provide reasonable accommodations for qualified individuals with disabilities.</p><br><p>If you are applying to perform work for Medtronic, Inc. (“Medtronic”) in any position which will involve performing at least two (2) hours of work on average each week within the unincorporated areas of Los Angeles County, you can find&nbsp;<a href=\"https://www.medtronic.com/content/dam/medtronic-wide/public/united-states/employee-support-services/careers/la-county-legal-notice.pdf\">here</a> a list of all material job duties of the specific job position which Medtronic reasonably believes that criminal history may have a direct, adverse and negative relationship potentially resulting in the withdrawal of a conditional offer of employment. Medtronic will consider for employment qualified job applicants with arrest or conviction records in accordance with the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act.</p>",
+    "summary": "The Affera Mapping Specialist provides clinical and technical support, training, and education for physicians and hospital staff using electrophysiology mapping and navigation systems. The role also supports sales objectives, develops customer relationships, collaborates with regional sales and clinical teams, and travels throughout an assigned territory to support customer needs.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressRegion": "Connecticut",
+      "addressCountry": "US",
+      "addressLocality": "Hartford"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Problem-solving",
+      "Communication",
+      "Collaboration",
+      "Relationship-building"
+     ],
+     "primary_skills": [
+      "Cardiac Mapping",
+      "Cardiac Navigation",
+      "Electrophysiology",
+      "Clinical Support",
+      "Technical Training",
+      "Physician Education",
+      "Sales Support",
+      "Customer Relationship Management",
+      "Cardiac Catheter Ablation",
+      "Clinical Technical Support"
+     ],
+     "secondary_skills": [
+      "Nursing",
+      "Cardiovascular Sciences",
+      "Life Sciences",
+      "Technical Discipline",
+      "EP Laboratory Operations",
+      "Medical Device Sales",
+      "Sales Strategy",
+      "Driving"
+     ]
+    },
+    "benefits": [
+     "health_insurance",
+     "dental_insurance",
+     "vision_care",
+     "flexible_work_hours",
+     "life_insurance",
+     "disability_insurance",
+     "tuition_reimbursement",
+     "pensions_401k",
+     "pension_contribution_matching",
+     "paid_time_off_vacation_personal_days",
+     "performance_bonuses",
+     "stock_options_equity",
+     "mental_health_support",
+     "wellness_program",
+     "other_benefits"
+    ],
+    "salary": {
+     "max": 125000,
+     "min": 120000,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 2,
+    "educationRequirement": {
+     "required": [
+      "high_school",
+      "associate_degree",
+      "bachelor_degree"
+     ],
+     "preferred": [
+      "bachelor_degree"
+     ]
+    },
+    "industry": [
+     "healthcare_medical"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": true,
+    "travelPercentage": null,
+    "postedAt": 1790035200,
+    "expiresAt": 1792281599,
+    "applyUrl": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Hartford-Connecticut-United-States-of-America/EP-Mapping-Specialist-CAS---Hartford--CT_R78147-1",
+    "status": "active",
+    "companies": [
+     {
+      "name": "medtronic.com",
+      "website": "medtronic.com"
+     }
+    ]
+   },
+   {
+    "id": "c756de70-6bcb-4c58-a3c0-bc524c0da5d7",
+    "title": "Senior Ep Mapping Specialist Cardiac Ablation Solutions- -syracuse, Ny",
+    "description": "We anticipate the application window for this opening will close on - 17 Oct 2026<p><br>&nbsp;</p><p>Careers that change lives start here. Medtronic is a global leader in healthcare technology with a Mission to alleviate pain, restore health, and extend life. Our 95,000 employees work across more than 150 countries to put patients first — developing innovative medical technologies that improve the lives of 72+ million patients each year. Your unique talents will help shape the future of healthcare while building a career grounded in purpose, growth, and impact.</p><h1><b>A Day in the Life</b></h1><div><p><b><span>Bring your talents to a leader in medical technology and healthcare <span><span><span>solutions. </span></span></span></span><span>Rooted in our long history of mission-driven innovation, our medical technologies&nbsp;</span><span>open doors.&nbsp;</span><span>We support your growth with the training, mentorship, and guidance you need to own your future success.&nbsp;</span><span>Join us for a career in sales that changes lives.</span></b></p><p><b>POSITION DESCRIPTION:</b></p><p>Provide technical, clinical and sales support, in collaboration with the sales team, within the region or assigned territory in support of the launch and adoption of the EP mapping and navigation system (Affera) and all products within the Cardiac Ablation Solutions (CAS) business. Collaborates with key stakeholders, both internal and external, to develop and execute on short-and long-term strategies, including the growth of the mapping and navigation system. Overall technical, clinical and educational support for the assigned territory.</p><p><span>We are seeking a committed professional to join our team. While this is a remote position not located at a physical Medtronic site, the candidate hired will be required to reside within the territory and drive to multiple accounts throughout the region. A valid driver's license is essential for this role.</span></p><p><span><span>To find all CAS Mapping roles available please use #casmap in the key word search at </span></span><a href=\"https://medtronic.eightfold.ai/careers\"><u><span>Medtronic Careers</span></u></a></p><p><b>POSITION RESPONSIBILITIES:</b>&nbsp; &nbsp; &nbsp;</p><ul><li><span>Provide clinical and technical support and training to physicians and staff on the EP mapping and navigation system and all CAS products.</span></li><li><span>Educate and train physicians, hospital personnel and office staff on technical matters relating to CAS products and related procedures.</span></li><li><span>Promote the safe and effective use of Medtronic CAS products and related procedures.</span></li><li><span>Understand and support national, regional and territory sales objectives to achieve or exceed sales goals within all CAS products.</span></li><li><span>Develop and cultivate customer relationships resulting in incremental business.</span></li><li><span>Work in partnership with Account Manager, Regional Manager and Area Directors to identify potential sales opportunities.</span></li><li><span>Collaborate and strategize with local sales team to conduct customer training for mapping and other CA Solutions products.</span></li><li><span>Collaborate and communicate with the sales and clinical teams in the region.</span></li><li><span>Serves as an effective Medtronic CAS representative to physicians and support staff regarding Medtronic CAS products, service and support.</span></li><li><span>Serve as a regional champion to share your experience and influence others to be proficient in the mapping technology.&nbsp;</span></li></ul></div><div><div><div><b>Qualifications - External</b></div><div><div><div><p><span><span>MUST HAVE -&nbsp;</span><span>BASIC QUALIFICATIONS:</span></span></p></div><div><p><span><span>IN ORDER TO BE CONSIDERED FOR THIS POSITION, THE FOLLOWING BASIC QUALIFICATIONS MUST BE EVIDENT ON YOUR RESUME</span></span></p></div><div><ul><li><p><span><span>·</span></span> High school diploma PLUS a minimum of related 8 years of work experience in <span>cardiac mapping and navigation</span>.</p><p><b>OR</b></p><p><span><span>·</span></span> Associate degree PLUS a minimum of related 6 years of work experience in <span>cardiac mapping and navigation</span>.</p><p><b>OR</b></p><p><span>Bachelor degree plus a minimum of 4 years of </span> related <span>work experience in cardiac mapping and navigation.</span></p></li></ul></div></div><div><div><p><span><span>NICE TO HAVE - DESIRED/PREFERRED QUALIFICATIONS:</span></span></p></div><div><ul><li><p><span><span>B.A./B.S. Degree in nursing, cardiovascular, life sciences, or technical discipline with minimum of four&nbsp;</span><span>years</span><span>&nbsp;work experience in cardiac field, hospital/</span><span>clinic</span><span>&nbsp;or sales.&nbsp;</span></span></p></li><li><p><span><span>Proven&nbsp;</span><span>track record</span><span>&nbsp;with technical training assignments.&nbsp;</span></span></p></li><li><p><span><span>Experience in the cardiac catheter ablation field, EP lab, in a hospital/clinic or EP medical sales&nbsp;</span><span>providing</span><span>&nbsp;technical / clinical support.&nbsp;</span></span></p></li><li><p><span><span>Ability to travel more than 75% of the time</span></span></p></li></ul></div></div><div><div><ul><li><p><span><span>Must have a valid driver's license and active vehicle insurance policy</span><span>. </span><span>In addition, your driving record will be reviewed and will be considered as part of your application</span></span></p></li></ul></div><div><p><span><span>PHYSICAL JOB REQUIREMENTS:</span></span></p></div><div><ul><li><p><span><span>The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.</span></span></p></li></ul></div></div><div><div><ul><li><p><span><span>Environmental exposure to infectio</span><span>us disease and radiation</span></span></p></li><li><p><span><span>Clinical Specialists&nbsp;</span><span>are required to</span><span>&nbsp;be within their assigned territory each day to be availa</span><span>ble as unscheduled needs arise</span></span></p></li><li><p><span><span>Clinical Specialists will on occasion be&nbsp;</span><span>required</span><span>&nbsp;to travel outside of their assigned territory and</span><span>&nbsp;possibility overnight</span></span></p></li><li><p><span><span>Must</span><span>&nbsp;have a valid driver’s license</span></span></p></li><li><p><span><span>Ability to freely move throughout the facility, use a phone,&nbsp;</span><span>keyboard</span><span>&nbsp;and mouse, visually able to interact with personal computers&nbsp;</span></span></p></li></ul></div><div><ul><li><p><span><span>Must be able to s</span><span>tand/sit/walk for 8 hours a day</span></span></p></li><li><p><span><span>Must have a valid driver’s license</span></span></p></li><li><p><span><span>Ability to travel up to 75%</span></span></p></li></ul></div></div><div><p><span><span>ABOUT MEDTRONIC</span></span></p></div><div><p><span><span>Together, we can change healthcare worldwide</span><span>. </span><span>At Medtronic, we push the limits of what technology can do to help alleviate pain, restore&nbsp;</span><span>health</span><span>&nbsp;and extend life</span><span>. </span><span>We challenge ourselves and each other to make tomorrow better than yesterday</span><span>. </span><span>It is what makes this an exciting and rewarding place to be.</span></span></p></div><div><p><span><span>We can accelerate and advance our ability to create meaningful innovations – but we will only succeed with the right people on our team</span><span>. </span><span>Let’s</span><span>&nbsp;work together to address universal healthcare needs and improve patients’ lives</span><span>. </span><span>Help us shape the future.</span></span></p></div><div><p><span><span>It is the policy of Medtronic to provide equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state or local law. In addition, Medtronic will provide reasonable&nbsp;</span><span>accommodations</span><span>&nbsp;for qualified individuals with disabilities.</span></span></p></div><div><p><span><span>This employer&nbsp;</span><span>participates</span><span>&nbsp;in the federal E-Verify program to confirm the identity a</span><span>nd employment authorization of all newly hired employees. For further information about the E-Verify program, please click here: </span></span><a href=\"http://www.uscis.gov/e-verify/employees\"><span><span><span><span><span>http://www.uscis.gov/e-verify/employees</span></span></span></span></span></a></p></div><div><p><span><span>The above statements are intended to describe the general nature and level of work being performed by employees assigned to this classification. They are not intended to be construed as an exhaustive list of all responsibilities, duties and skills&nbsp;</span><span>required of</span><span>&nbsp;employees assigned to this position</span><span>.</span></span></p></div></div></div></div><p>For Baccalaureate degrees earned outside of the United States, a degree that satisfies the requirements of 8 C.F.R. § 214.2(h)(4)(iii)(A) is required.</p><p><b>Physical Job Requirements</b></p><p>The above statements are intended to describe the general nature and level of work being performed by employees assigned to this position, but they are not an exhaustive list of all the required responsibilities and skills of this position. </p><p>The physical demands described within the Responsibilities section of this job description are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. For Office Roles: While performing the duties of this job, the employee is regularly required to be independently mobile. The employee is also required to interact with a computer, and communicate with peers and co-workers. Contact your manager or local HR to understand the Work Conditions and Physical requirements that may be specific to each role.</p><p><b>U.S. Work Authorization &amp; Sponsorship </b></p><p>At Medtronic, we are committed to fostering an environment where employees can thrive and make a meaningful impact. In alignment with our enterprise-wide workforce planning approach, U.S. work authorization sponsorship (H-1B, TN, J, etc.) is offered exclusively for Principal-level roles and above, where specialized expertise aligns with long-term business needs. Roles below the Principal level require candidates to possess unrestricted U.S. work authorization at the time of hire and for the duration of employment.</p><p>‌</p><p><b>Recruitment Fraud Alert</b></p><p><span>We are aware of phishing scams targeting job seekers. Please keep the following in mind:&nbsp;</span></p><br><p><span>Apply only through official Medtronic channels. All legitimate Medtronic recruiting communications come from approved Medtronic platforms and official @medtronic.com email addresses.&nbsp;</span></p><br><p><span>Medtronic will never ask for payment or sensitive personal information (such as bank account or Social Security details) during early stages of the hiring process. Any such requests are not legitimate.&nbsp;</span></p><br><p><span>If you receive a suspicious message claiming to be from Medtronic, do not respond, click links, or open attachments.&nbsp;</span></p><br><p><span>If you have any questions, concerns regarding the authenticity of a communication alleged to have been made by or on behalf of Medtronic, please contact us immediately at </span><a href=\"mailto:AskHR@medtronic.com\"><span><u>AskHR@medtronic.com</u></span></a>.&nbsp;</p><p>‌</p><h1><b>Benefits &amp; Compensation</b><br>&nbsp;</h1><p><b>Medtronic offers a competitive Salary and flexible Benefits Package</b><br>A commitment to our employees lives at the core of our values. We recognize their contributions. They share in the success they help to create. We offer a wide range of benefits, resources, and competitive compensation plans designed to support you at every career and life stage.<br>&nbsp;</p>Salary ranges for U.S (excl. PR) locations <span>(USD):$135,000-$140,000</span><br>The base salary range is applicable across the United States, excluding Puerto Rico and specific locations in California. The offered rate complies with federal and local regulations and may vary based on factors such as experience, <span>certification/education,</span> market conditions, and location. Compensation and benefits information pertains solely to candidates hired within the United States (local market compensation and benefits will apply for others).<br><br>In addition to Base Salary, this position is eligible for a Sales Incentive Plan (SIP), which provides the opportunity to earn significant incentive compensation for achieving or exceeding your goals.<p><span>The following benefits and additional compensation are available to those regular employees who work 20+ hours per week: Health, Dental and vision insurance</span><span>,</span><span>Health Savings Account</span><span>,</span><span>Healthcare Flexible Spending Account</span><span>,</span><span>Life insurance, Long-term disability leave</span><span>,</span><span>Dependent daycare spending account</span><span>,</span><span>Tuition <span><span><span><span><span>assistance/reimbursement</span></span></span></span></span></span><span>, and</span><span>Simple Steps (global well-being program).</span></p><p><span>The following benefits and additional compensation are available to all regular employees:</span><span>Incentive plans, 401(k) plan plus employer contribution and match</span><span>,</span><span>Short-term disability</span><span>,</span><span>Paid time off</span><span>,</span><span>Paid holidays</span><span>,</span><span>Employee Stock Purchase Plan</span><span>,</span><span>Employee Assistance Program</span><span>,</span><span>Non-qualified Retirement Plan Supplement (subject to IRS earning minimums)</span><span>, and</span><span>Capital Accumulation Plan (available to Vice Presidents and above, or subject to IRS earning minimums).</span></p><p><span>Regular employees are those who are not temporary, such as interns.&nbsp; Temporary employees are eligible for paid sick time, as required under applicable state law, and the Employee Stock Purchase Plan. </span><span>Please note some of the above benefits may not apply to workers in Puerto Rico.</span></p><p><span>Further details are available at the link below:</span></p><p><a href=\"https://www3.benefitsolver.com/benefits/BenefitSolverView?page_name=signon&amp;co_num=30601&amp;co_affid=medtronic\">Medtronic benefits and compensation plans</a></p><p>It is the policy of Medtronic to provide equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state or local law. In addition, Medtronic will provide reasonable accommodations for qualified individuals with disabilities.</p><br><p>If you are applying to perform work for Medtronic, Inc. (“Medtronic”) in any position which will involve performing at least two (2) hours of work on average each week within the unincorporated areas of Los Angeles County, you can find&nbsp;<a href=\"https://www.medtronic.com/content/dam/medtronic-wide/public/united-states/employee-support-services/careers/la-county-legal-notice.pdf\">here</a> a list of all material job duties of the specific job position which Medtronic reasonably believes that criminal history may have a direct, adverse and negative relationship potentially resulting in the withdrawal of a conditional offer of employment. Medtronic will consider for employment qualified job applicants with arrest or conviction records in accordance with the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act.</p>",
+    "summary": "The Senior EP Mapping Specialist provides technical, clinical, educational, and sales support for Medtronic’s EP mapping and navigation system and Cardiac Ablation Solutions products. The role trains physicians and hospital staff, supports product adoption and sales objectives, develops customer relationships, and serves assigned accounts across the territory while traveling extensively.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressRegion": "New York",
+      "addressCountry": "US",
+      "addressLocality": "Syracuse"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Collaboration",
+      "Relationship Building",
+      "Training",
+      "Influencing"
+     ],
+     "primary_skills": [
+      "Cardiac Mapping and Navigation",
+      "Cardiac Catheter Ablation",
+      "Clinical Support",
+      "Technical Support",
+      "Product Training",
+      "Customer Training",
+      "Sales Support",
+      "Sales Strategy",
+      "Customer Relationship Management",
+      "EP Lab Procedures"
+     ],
+     "secondary_skills": [
+      "Nursing",
+      "Cardiovascular Sciences",
+      "Life Sciences",
+      "Technical Discipline",
+      "Medical Sales",
+      "Sales Opportunity Identification",
+      "Vehicle Insurance"
+     ]
+    },
+    "benefits": [
+     "health_insurance",
+     "dental_insurance",
+     "vision_care",
+     "health_savings_account",
+     "life_insurance",
+     "disability_insurance",
+     "tuition_reimbursement",
+     "wellness_program",
+     "pensions_401k",
+     "pension_contribution_matching",
+     "paid_time_off_vacation_personal_days",
+     "performance_bonuses",
+     "stock_options_equity",
+     "mental_health_support",
+     "sick_leave",
+     "other_benefits"
+    ],
+    "salary": {
+     "max": 140000,
+     "min": 135000,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 4,
+    "educationRequirement": {
+     "required": [],
+     "preferred": [
+      "high_school",
+      "associate_degree",
+      "bachelor_degree"
+     ]
+    },
+    "industry": [
+     "healthcare_medical"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": true,
+    "travelPercentage": null,
+    "postedAt": 1790035200,
+    "expiresAt": 1792281599,
+    "applyUrl": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Syracuse-New-York-United-States-of-America/Senior-EP-Mapping-Specialist-Cardiac-Ablation-Solutions---Syracuse--NY_R78150-2",
+    "status": "active",
+    "companies": [
+     {
+      "name": "medtronic.com",
+      "website": "medtronic.com"
+     }
+    ]
+   },
+   {
+    "id": "bb6400bd-9a8a-4bfe-985d-867be44543ce",
+    "title": "Principal Ep Mapping Specialist - Cas",
+    "description": "We anticipate the application window for this opening will close on - 26 Sep 2026<p><br>&nbsp;</p><p>Careers that change lives start here. Medtronic is a global leader in healthcare technology with a Mission to alleviate pain, restore health, and extend life. Our 95,000 employees work across more than 150 countries to put patients first — developing innovative medical technologies that improve the lives of 72+ million patients each year. Your unique talents will help shape the future of healthcare while building a career grounded in purpose, growth, and impact.</p><h1><b>A Day in the Life</b></h1>We are seeking a committed professional to join our team. While this is a remote position not located at a physical Medtronic site, the candidate hired will be required to reside within the territory and drive to multiple accounts throughout the region. A valid driver's license is essential for this role. <br><br>Cardiac Ablation Solutions offers cardiac mapping and ablation solutions to treat patients with abnormal heart rhythms. Our vision is to help patients worldwide by advancing innovation for the diagnosis and ablation of cardiac arrhythmias, enabling clinicians to perform procedures with superior outcomes.  <div><div><p><span><span>Join Medtronic as an EP Mapping Specialist and be at the forefront of transforming lives through advanced medical technology! In this dynamic role, </span><span>you’ll</span><span> work alongside a collaborative team of clinicians, engineers, physicians, and innovators to execute solutions for cardiac and other electrophysiological systems. By blending technical </span><span>expertise</span><span> with a passion for improving patient outcomes, </span><span>you'll</span><span> have the opportunity to </span><span>impact</span><span> global healthcare directly. If </span><span>you're</span><span> driven by precision, problem-solving, and the chance to make a tangible difference in people’s lives, this is your opportunity to grow your career while shaping the future of medical innovation at Medtronic. </span></span></p></div><div><p><b><span>Various levels available based on qualifications and experience</span></b></p></div><div><p><span><span>R</span><span>esponsibilities may include the </span><span>following</span><span> and other duties may be assigned. </span></span></p></div><div><ul><li><p><span><span>Provide clinical and technical support and training to physicians and staff on the EP mapping and navigation system and all CAS products. </span></span></p></li></ul></div><div><ul><li><p><span><span>Educate and train physicians, hospital personnel and office staff on technical matters relating to CAS products and related procedures. </span></span></p></li></ul></div><div><ul><li><p><span><span>Promote the safe and effective use of Medtronic CAS products and related procedures. </span></span></p></li></ul></div><div><ul><li><p><span><span>Develop and cultivate customer relationships resulting in incremental business. </span></span></p></li></ul></div><div><ul><li><p><span><span>Work in partnership with Account Manager, Regional </span><span>Manager</span><span> and Area Directors to </span><span>identify</span><span> potential sales opportunities. </span></span></p></li></ul></div><div><ul><li><p><span><span>Collaborate and strategize with local sales team to conduct customer training for mapping and other CA Solutions products. </span></span></p></li></ul></div><div><ul><li><p><span><span>Collaborate and communicate with the sales and clinical teams in the region. </span></span></p></li></ul></div><div><ul><li><p><span><span>Serves as an effective Medtronic CAS representative to physicians and support staff </span><span>regarding</span><span> Medtronic CAS products, </span><span>service</span><span> and support. </span></span></p></li></ul></div><div><ul><li><p><span><span>Serve as a regional champion to share your experience and influence others to be proficient in </span><span>the mapping</span><span> technology.</span></span></p></li></ul></div><div><p><span><span>​</span></span></p></div><div><p><b><span>Required Qualifications</span></b></p></div></div><div><div><p><i><span>To be considered for this role, please ensure these </span><span>minimum</span><span> requirements are </span><span>evident</span><span> on your resume.</span></i></p></div><div><ul><li><p><span><span>High school diploma </span><span>PLUS</span><span> a minimum of 10 years of related work experience in</span></span><span><span>cardiac mapping and navigation. </span></span><br><b><span>OR</span></b></p></li></ul></div><div><ul><li><p><span><span>Associate degree </span><span>PLUS</span><span> a minimum of 8 years of related work experience in</span></span><span><span>cardiac mapping and navigation. </span></span><br><b><span>OR</span></b></p></li></ul></div><div><ul><li><p><span><span>Bachelor</span><span> degree plus a minimum of 6 years of related work experience in cardiac mapping and navigation. </span></span></p></li></ul></div><div><p><b><span>Preferred Qualifications</span></b></p></div><div><ul><li><p><span><span>B.A./B.S. Degree in nursing, cardiovascular, life sciences, or technical discipline with minimum of four</span></span><span><span>years</span></span><span><span>work experience in cardiac field, hospital/</span><span>clinic</span></span><span><span>or sales.</span></span></p></li></ul></div><div><ul><li><p><span><span>Proven</span></span><span><span>track record</span></span><span><span>with technical training assignments.</span></span></p></li></ul></div><div><ul><li><p><span><span>Experience in the cardiac catheter ablation field, EP lab, in a hospital/clinic or EP medical sales</span></span><span><span>providing</span></span><span><span>technical / clinical support.</span></span><br></p></li></ul></div><div><p><b><span>Additional Job Requirements</span></b></p></div><div><ul><li><p><span><span>Environmental exposure to infectious disease and radiation</span></span></p></li></ul></div><div><ul><li><p><span><span>Are</span><span>required</span><span>to</span></span><span><span>be within their assigned territory each day to be available as unscheduled needs arise</span></span></p></li></ul></div><div><ul><li><p><span><span>Will on occasion be</span></span><span><span>required</span></span><span><span>to travel outside of their assigned territory and</span></span><span><span>possibility overnight</span></span></p></li></ul></div><div><ul><li><p><span><span>Must be able to drive </span><span>approximately 25-50</span><span>% of the time within assigned territory and may require overnight travel. </span></span></p></li></ul></div><div><ul><li><p><span><span>Must</span></span><span><span>have a valid driver’s license</span></span></p></li></ul></div><div><ul><li><p><span><span>Ability to freely move throughout the facility, use a phone,</span></span><span><span>keyboard</span></span><span><span>and mouse, visually able to interact with personal computers</span></span></p></li></ul></div><div><ul><li><p><span><span>Must be able to stand/sit/walk for 8 hours a day </span></span></p></li></ul></div><div><p><span><span>Must have a valid driver's license and active vehicle insurance policy.</span></span><span><span>In addition, your driving record will be reviewed and will be considered as part of your application.  </span></span></p><p><br></p></div></div><p>For Baccalaureate degrees earned outside of the United States, a degree that satisfies the requirements of 8 C.F.R. § 214.2(h)(4)(iii)(A) is required.</p><p><b>Physical Job Requirements</b></p><p>The above statements are intended to describe the general nature and level of work being performed by employees assigned to this position, but they are not an exhaustive list of all the required responsibilities and skills of this position. </p><p>The physical demands described within the Responsibilities section of this job description are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. For Office Roles: While performing the duties of this job, the employee is regularly required to be independently mobile. The employee is also required to interact with a computer, and communicate with peers and co-workers. Contact your manager or local HR to understand the Work Conditions and Physical requirements that may be specific to each role.</p><p><b>U.S. Work Authorization &amp; Sponsorship </b></p><p>At Medtronic, we are committed to fostering an environment where employees can thrive and make a meaningful impact. In alignment with our enterprise-wide workforce planning approach, U.S. work authorization sponsorship (H-1B, TN, J, etc.) is offered exclusively for Principal-level roles and above, where specialized expertise aligns with long-term business needs. Roles below the Principal level require candidates to possess unrestricted U.S. work authorization at the time of hire and for the duration of employment.</p><p>‌</p><p><b>Recruitment Fraud Alert</b></p><p><span>We are aware of phishing scams targeting job seekers. Please keep the following in mind:&nbsp;</span></p><br><p><span>Apply only through official Medtronic channels. All legitimate Medtronic recruiting communications come from approved Medtronic platforms and official @medtronic.com email addresses.&nbsp;</span></p><br><p><span>Medtronic will never ask for payment or sensitive personal information (such as bank account or Social Security details) during early stages of the hiring process. Any such requests are not legitimate.&nbsp;</span></p><br><p><span>If you receive a suspicious message claiming to be from Medtronic, do not respond, click links, or open attachments.&nbsp;</span></p><br><p><span>If you have any questions, concerns regarding the authenticity of a communication alleged to have been made by or on behalf of Medtronic, please contact us immediately at </span><a href=\"mailto:AskHR@medtronic.com\"><span><u>AskHR@medtronic.com</u></span></a>.&nbsp;</p><p>‌</p><h1><b>Benefits &amp; Compensation</b><br>&nbsp;</h1><p><b>Medtronic offers a competitive Salary and flexible Benefits Package</b><br>A commitment to our employees lives at the core of our values. We recognize their contributions. They share in the success they help to create. We offer a wide range of benefits, resources, and competitive compensation plans designed to support you at every career and life stage.<br>&nbsp;</p>Salary ranges for U.S (excl. PR) locations (USD):$145,000 - $155,000<br>The base salary range is applicable across the United States, excluding Puerto Rico and specific locations in California. The offered rate complies with federal and local regulations and may vary based on factors such as experience, <span>certification/education,</span> market conditions, and location. Compensation and benefits information pertains solely to candidates hired within the United States (local market compensation and benefits will apply for others).<br>&nbsp;<br>In addition to Base Salary, this position is eligible for a Sales Incentive Plan (SIP), which provides the opportunity to earn significant incentive compensation for achieving or exceeding your goals.<p><span>The following benefits and additional compensation are available to those regular employees who work 20+ hours per week: Health, Dental and vision insurance</span><span>,</span><span>Health Savings Account</span><span>,</span><span>Healthcare Flexible Spending Account</span><span>,</span><span>Life insurance, Long-term disability leave</span><span>,</span><span>Dependent daycare spending account</span><span>,</span><span>Tuition <span><span><span><span><span>assistance/reimbursement</span></span></span></span></span></span><span>, and</span><span>Simple Steps (global well-being program).</span></p><p><span>The following benefits and additional compensation are available to all regular employees:</span><span>Incentive plans, 401(k) plan plus employer contribution and match</span><span>,</span><span>Short-term disability</span><span>,</span><span>Paid time off</span><span>,</span><span>Paid holidays</span><span>,</span><span>Employee Stock Purchase Plan</span><span>,</span><span>Employee Assistance Program</span><span>,</span><span>Non-qualified Retirement Plan Supplement (subject to IRS earning minimums)</span><span>, and</span><span>Capital Accumulation Plan (available to Vice Presidents and above, or subject to IRS earning minimums).</span></p><p><span>Regular employees are those who are not temporary, such as interns.&nbsp; Temporary employees are eligible for paid sick time, as required under applicable state law, and the Employee Stock Purchase Plan. </span><span>Please note some of the above benefits may not apply to workers in Puerto Rico.</span></p><p><span>Further details are available at the link below:</span></p><p><a href=\"https://www3.benefitsolver.com/benefits/BenefitSolverView?page_name=signon&amp;co_num=30601&amp;co_affid=medtronic\">Medtronic benefits and compensation plans</a></p><p>It is the policy of Medtronic to provide equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state or local law. In addition, Medtronic will provide reasonable accommodations for qualified individuals with disabilities.</p><br><p>If you are applying to perform work for Medtronic, Inc. (“Medtronic”) in any position which will involve performing at least two (2) hours of work on average each week within the unincorporated areas of Los Angeles County, you can find&nbsp;<a href=\"https://www.medtronic.com/content/dam/medtronic-wide/public/united-states/employee-support-services/careers/la-county-legal-notice.pdf\">here</a> a list of all material job duties of the specific job position which Medtronic reasonably believes that criminal history may have a direct, adverse and negative relationship potentially resulting in the withdrawal of a conditional offer of employment. Medtronic will consider for employment qualified job applicants with arrest or conviction records in accordance with the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act.</p>",
+    "summary": "The Principal EP Mapping Specialist provides clinical and technical support, training, and education to physicians and hospital staff on electrophysiology mapping, navigation, ablation, and related cardiac products. The role cultivates customer relationships, identifies sales opportunities, collaborates with regional sales and clinical teams, and serves as a regional champion for mapping technology. It is a remote role requiring residence within an assigned territory, substantial driving, and occasional overnight travel.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressRegion": "California",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Problem-solving",
+      "Communication",
+      "Collaboration",
+      "Relationship Building"
+     ],
+     "primary_skills": [
+      "Cardiac Mapping and Navigation",
+      "Electrophysiology",
+      "Cardiac Ablation",
+      "Clinical Support",
+      "Technical Support",
+      "Physician Training",
+      "Product Training",
+      "Customer Relationship Management",
+      "Sales Opportunity Identification",
+      "Medical Device Technology"
+     ],
+     "secondary_skills": [
+      "Nursing",
+      "Cardiovascular Science",
+      "Life Sciences",
+      "Technical Discipline",
+      "EP Laboratory Experience",
+      "Medical Device Sales",
+      "Technical Training",
+      "Clinical Training"
+     ]
+    },
+    "benefits": [
+     "health_insurance",
+     "dental_insurance",
+     "vision_care",
+     "life_insurance",
+     "disability_insurance",
+     "tuition_reimbursement",
+     "pensions_401k",
+     "pension_contribution_matching",
+     "paid_time_off_vacation_personal_days",
+     "stock_options_equity",
+     "mental_health_support",
+     "wellness_program",
+     "other_benefits"
+    ],
+    "salary": {
+     "max": 155000,
+     "min": 145000,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "lead",
+    "employmentType": "full_time",
+    "minYearsExperience": 4,
+    "educationRequirement": {
+     "required": [
+      "high_school",
+      "associate_degree",
+      "bachelor_degree"
+     ],
+     "preferred": [
+      "bachelor_degree"
+     ]
+    },
+    "industry": [
+     "healthcare_medical"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": true,
+    "hasRelocation": null,
+    "requiresTravel": true,
+    "travelPercentage": null,
+    "postedAt": 1790035200,
+    "expiresAt": 1790467199,
+    "applyUrl": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/San-Francisco-California-United-States-of-America/Principal-Affera-Mapping-Specialist---CAS_R66182-1",
+    "status": "active",
+    "companies": [
+     {
+      "name": "medtronic.com",
+      "website": "medtronic.com"
+     }
+    ]
+   }
+  ],
+  "meta": {
+   "count": 7,
+   "hasMore": false,
+   "requestTimeMs": 297,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

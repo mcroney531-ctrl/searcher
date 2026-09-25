@@ -1,0 +1,129 @@
+{
+ "call_id": "sem_19_all_active",
+ "phase": "semantics",
+ "url": "https://api.jobven.com/v1/public/jobs?limit=1&includeTotal=true",
+ "params": [
+  [
+   "limit",
+   1
+  ],
+  [
+   "includeTotal",
+   "true"
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:17:18 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "transfer-encoding": "chunked",
+  "connection": "close",
+  "server": "cloudflare",
+  "vary": "Accept-Encoding",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "238e8307-8214-4186-98d6-a71d1206a4a4",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2487",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "3677",
+  "etag": "W/\"1b46-CpjZhfhqGYAXU2ONIBkAAzpo3Fs\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=Jcmh%2BIcc%2Bcj7gvhHSeIXV1Mcf3SmTEVvGrzcF2m1aBrAPj90MxfW9GbMJ6V7sVCTzU2yjqLAGNKBOz5lRob1aUWgbzLYN%2B2DiTG9osBHXx4U2Qdd%2F8dA4mm18Hvpshg6ycdKUFpqw%2BmB3OZCuw%3D%3D\"}]}",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "cf-ray": "a406dff18d79f2f9-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "id": "c87f1672-d9b7-466c-94dd-efa90462cb36",
+    "title": "Accountant 2, Fund Accounting",
+    "description": "<h2>Company Description</h2><p><strong>ABOUT IQ-EQ</strong></p><p>We’re a leading Investor Services group offering end-to-end services in administration, accounting, reporting, regulatory and compliance needs of the investment sector worldwide.  We employ a global workforce of&nbsp;6,500+ people across 24 jurisdictions&nbsp;and have assets under administration (AUA) exceeding&nbsp;US$857 billion. We work with 13 of the world’s top-15 private equity firms.</p><p>Our services are underpinned by a Group-wide commitment to ESG and best-in-class technology including a global data platform and innovative proprietary tools supported by in-house experts.</p><p>Above all, what makes us different is our people. Operating as trusted partners to our clients, we deliver intelligent solutions through a combination of technical expertise and strong relationships based on deep client understanding. </p><p>We’re driven by our Group purpose, to power people and possibilities.&nbsp;</p><h2>Job Description</h2><p><strong>THIS ROLE</strong></p><p>A mid-level accounting position responsible for delivering comprehensive fund accounting services with&nbsp;minimal supervision. This role handles both low and medium complexity funds, focusing on core&nbsp;accounting processes and standard cluster communications. The position requires independent&nbsp;execution of established procedures while maintaining quality and timeliness standards.&nbsp;<br><br><strong>WHAT YOU WILL DO</strong></p><ul><li>You'll Prepare financial statements, NAV reports, and other deliverables using prescribed guidelines&nbsp;</li><li>You'll Ensure accuracy and timeliness of work within established standards and following detailed&nbsp;checklists&nbsp;</li><li>You'll Apply relevant accounting standards and requirements as directed&nbsp;</li><li>You'll Follow quality control processes and risk management protocols&nbsp;</li><li>You'll Build knowledge of client's specific requirements and industry practices</li></ul><p><strong>WHAT WE OFFER</strong>&nbsp;</p><ul><li>Competitive compensation and benefits – including allowances, government-mandated benefits, 13th month pay, and performance-based bonuses</li><li>Health and wellness support – HMO coverage from Day 1 (with dependents), life and accident insurance, mental health support, and medical allowances</li><li>Leave benefits – generous paid time off, special leave types, and observance of all Philippine holidays</li><li>Hybrid work setup and tools – company-issued laptop, work-from-home kit, and flexibility after initial onboarding</li><li>Learning and growth opportunities – access to training, annual salary reviews, internal mobility, and performance rewards</li></ul><h2>Qualifications</h2><p><strong>ABOUT YOU</strong></p><ul><li>You have bachelor’s degree in accounting, Finance, or a related field&nbsp;</li><li>You have minimum 1.5 years of experience in fund accounting, financial reporting, or related roles&nbsp;</li><li>You have strong understanding of accounting principles and fund structures&nbsp;</li><li>You have proficiency in using accounting tools and systems &nbsp;</li><li>You have ability to independently handle mid complex financial data and execute detailed accounting&nbsp;processes</li></ul><h2>Additional Information</h2><p>Sustainability is integral to our strategy and operations. Our sustainability depends on us building and maintaining long-term relationships with all our stakeholders – including our employees, clients, and local communities – while also reducing our impact on our natural environment.</p><p>There is always more we can, and should do, to improve – whether in relation to our people, our clients, our planet, or our governance. Our ongoing success as a business depends on our sustainability and agility in a changing and challenging global landscape. We’re committed to fostering an inclusive, equitable and diverse culture for our people, led by our Diversity, Equity, and Inclusion steering committee.&nbsp;</p><p>Our learning and development programmes and systems (including PowerU and MyCampus) enable us to invest in growing our employees’ careers, while our hybrid working approach supports our employees in achieving balance and flexibility while remaining connected to their colleagues. We want to empower our&nbsp;6,500+ employees - from 94 nationalities, across 24 countries&nbsp;- to each achieve their potential. Through IQ-EQ Launchpad we support women managers launching their first fund, in an environment where only 15% of all private equity and venture capital firms are gender balanced.&nbsp;</p><p>We’re committed to growing relationships with our clients and supporting them in achieving their objectives. We understand that our clients’ sustainability and success lead to our sustainability and success. We’re emotionally invested in our clients right from the beginning.</p>",
+    "summary": "The Accountant 2, Fund Accounting role delivers fund accounting services for low- and medium-complexity funds with minimal supervision. Responsibilities include preparing financial statements and NAV reports, following accounting standards and quality-control procedures, and meeting accuracy and timeliness requirements while building knowledge of client needs and industry practices.",
+    "locations": [
+     {
+      "workLocation": "hybrid",
+      "streetAddress": "19th floor Cyberscape Gamma Ortigas Center",
+      "addressCountry": "PH",
+      "addressLocality": "Pasig City"
+     }
+    ],
+    "remoteType": "hybrid",
+    "skills": {
+     "soft_skills": [],
+     "primary_skills": [
+      "Fund Accounting",
+      "Financial Reporting",
+      "Accounting Principles",
+      "Accounting Standards",
+      "Net Asset Value Reporting",
+      "Financial Statement Preparation",
+      "Accounting Systems",
+      "Quality Control",
+      "Risk Management"
+     ],
+     "secondary_skills": [
+      "Fund Structures",
+      "Client Requirements",
+      "Industry Practices"
+     ]
+    },
+    "benefits": [
+     "performance_bonuses",
+     "health_insurance",
+     "life_insurance",
+     "mental_health_support",
+     "paid_time_off_vacation_personal_days",
+     "remote_work_hybrid_work_options",
+     "company_laptop_equipment",
+     "professional_development",
+     "other_benefits"
+    ],
+    "salary": null,
+    "experienceLevel": "mid",
+    "employmentType": "full_time",
+    "minYearsExperience": 2,
+    "educationRequirement": {
+     "required": [
+      "bachelor_degree"
+     ],
+     "preferred": []
+    },
+    "industry": [
+     "finance_banking"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790304752,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.smartrecruiters.com/IQEQ/744000151754018-accountant-2-fund-accounting-",
+    "status": "active",
+    "companies": [
+     {
+      "name": "iqeq.com",
+      "website": "iqeq.com"
+     }
+    ]
+   }
+  ],
+  "meta": {
+   "total": 465835,
+   "count": 1,
+   "nextCursor": "eyJpZCI6ImM4N2YxNjcyLWQ5YjctNDY2Yy05NGRkLWVmYTkwNDYyY2IzNiIsInNvcnRWYWx1ZSI6MTc5MDMwNDc1MiwidGllQnJlYWtlciI6IjIwMjYtMDktMjVUMDM6MDU6MTEuMTg2WiJ9",
+   "hasMore": true,
+   "requestTimeMs": 3677,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

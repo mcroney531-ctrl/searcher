@@ -1,0 +1,159 @@
+{
+ "call_id": "fam_size_desc_course_development_flex",
+ "phase": "family",
+ "url": "https://api.jobven.com/v1/public/jobs?q=-%22account+executive%22+-%22account+manager%22+-%22sales+representative%22+-%22sales+manager%22+-%22customer+service+representative%22+-%22help+desk%22+-%22customer+success+manager%22+-%22support+specialist%22&descriptionQuery=course+development&country=US&remoteType%5B%5D=remote&remoteType%5B%5D=flexible&postedAfter=1789702200&limit=1&includeTotal=true",
+ "params": [
+  [
+   "q",
+   "-\"account executive\" -\"account manager\" -\"sales representative\" -\"sales manager\" -\"customer service representative\" -\"help desk\" -\"customer success manager\" -\"support specialist\""
+  ],
+  [
+   "descriptionQuery",
+   "course development"
+  ],
+  [
+   "country",
+   "US"
+  ],
+  [
+   "remoteType[]",
+   "remote"
+  ],
+  [
+   "remoteType[]",
+   "flexible"
+  ],
+  [
+   "postedAfter",
+   1789702200
+  ],
+  [
+   "limit",
+   1
+  ],
+  [
+   "includeTotal",
+   "true"
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:27:13 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "transfer-encoding": "chunked",
+  "connection": "close",
+  "server": "cloudflare",
+  "vary": "Accept-Encoding",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "00ff87b9-7f58-4cda-a6d8-7baafdd9092b",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2376",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "716",
+  "etag": "W/\"15b5-zunxUGa05mOIIySxrhHrmmmfnvI\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=1WMiHa2oDNfjh6oSanF%2BREKj2jI5eWhKHvst1NTbgxStiUQUm7Zc20Oa4hej7NwGsFlzD4HUWGZnZoDpqNwciJoJMusCe63%2FHzvnPlP4h2N5KqJaJrFWRPxTbjac9%2B%2FWpyg43tznwwSMTO1yaw%3D%3D\"}]}",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "cf-ray": "a406ee8bdb95f3e6-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "id": "c6e39b2a-f947-4b53-8d4a-6d412f45d810",
+    "title": "Instructional Designer",
+    "description": "<p>The Instructional Designer is responsible for designing and developing online courses that align with Excelsior University’s academic standards and best practices for adult learning. Working closely with SMEs, instructional technologists, media developers, and other members of the Instructional Design and Development team (IDD), the Instructional Designer ensures that course content is pedagogically sound, accessible, and aligns with Excelsior’s course design standards. The ideal candidate has experience in higher education course development and expertise in instructional design principles, online learning technologies, and assessment strategies. This role plays a key part in maintaining course quality and supporting Excelsior’s commitment to delivering an exceptional learning experience for students.</p><p>Duties and Responsibilities:&nbsp;</p><p>• Collaborate with SMEs to design and develop engaging online courses.<br>• Apply instructional design principles to structure content and create relevant, engaging learning experiences.<br>• Guide SMEs in analyzing and assessing the application of appropriate and effective instructional strategies, tools, and assessments to achieve identified learning outcomes.<br>• Ensure course content aligns with Excelsior’s course design standards, accessibility guidelines, and online learning best practices.<br>• Partner with media developers to create high-quality course materials, including videos, simulations, and interactive elements.<br>• Review and refine course content to ensure clarity, coherence, and alignment with learning objectives.<br>• Collaborate with other instructional designers to enhance Excelsior’s course development methodologies and resources.</p><p>Qualifications: <em>To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.</em></p><p>• Bachelor’s degree in Instructional Design, Educational Technology, or a related field.<br>• 3+ years’ experience designing and developing online courses for higher education.<br>• Strong knowledge of instructional design models (e.g., Backward Design, Bloom’s Taxonomy).<br>• Strong relationship-building skills.<br>• Familiarity with best practices for online learning and adult education.<br>• Ability to guide SMEs in structuring content for effective online delivery.<br>• Experience with learning management systems (LMS), preferably Canvas.<br>• Strong written and verbal communication skills.<br>• Strong organizational skills and attention to detail.<br>• Ability to manage multiple projects and meet deadlines in a fast-paced environment.</p><p>Preferred Qualifications:&nbsp;</p><p>• Master’s degree in Instructional Design, Educational Technology, or a related field.<br>• Experience developing courses for non-traditional, adult learners.<br>• Prior experience working in a centralized course development model.<br>• Proficiency in accessibility standards and universal design for learning (UDL).<br>• Experience using data and learner analytics to inform course improvements.</p><p><span>The hiring salary range for this position is $68,000.00 - $74,000.00. The hiring salary range above represents the University's good faith estimate at the time of posting.</span></p>",
+    "summary": "The Instructional Designer develops online courses that meet the university’s academic, accessibility, and course-design standards. The role collaborates with subject matter experts and media developers, applies instructional design and assessment strategies, and reviews content to support effective learning experiences.",
+    "locations": [
+     {
+      "postalCode": "12203",
+      "workLocation": "flexible",
+      "addressRegion": "New York",
+      "addressCountry": "US",
+      "addressLocality": "Albany"
+     }
+    ],
+    "remoteType": "flexible",
+    "skills": {
+     "soft_skills": [
+      "Relationship Building",
+      "Communication",
+      "Organization",
+      "Attention to Detail",
+      "Time Management"
+     ],
+     "primary_skills": [
+      "Instructional Design",
+      "Online Course Development",
+      "Higher Education",
+      "Backward Design",
+      "Bloom's Taxonomy",
+      "Learning Management Systems",
+      "Canvas",
+      "Adult Education",
+      "Online Learning",
+      "Assessment Strategies"
+     ],
+     "secondary_skills": [
+      "Accessibility Standards",
+      "Universal Design for Learning",
+      "Learner Analytics",
+      "Centralized Course Development"
+     ]
+    },
+    "benefits": [],
+    "salary": {
+     "max": 74000,
+     "min": 68000,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "mid",
+    "employmentType": "full_time",
+    "minYearsExperience": 3,
+    "educationRequirement": {
+     "required": [
+      "bachelor_degree"
+     ],
+     "preferred": [
+      "master_degree"
+     ]
+    },
+    "industry": [
+     "education"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790208000,
+    "expiresAt": null,
+    "applyUrl": "https://recruiting.ultipro.com/EXC1011/JobBoard/eb378fdd-1d75-0520-8078-55ee35061807/OpportunityDetail?opportunityId=59e7fb10-8b66-442a-a687-bb44f2234529",
+    "status": "active",
+    "companies": [
+     {
+      "name": "Excelsior",
+      "website": "excelsior.edu"
+     }
+    ]
+   }
+  ],
+  "meta": {
+   "total": 2,
+   "count": 1,
+   "nextCursor": "eyJpZCI6ImM2ZTM5YjJhLWY5NDctNGI1My04ZDRhLTZkNDEyZjQ1ZDgxMCIsInNvcnRWYWx1ZSI6MTc5MDIwODAwMCwidGllQnJlYWtlciI6IjIwMjYtMDktMjRUMjI6MTE6MzYuNTA0WiJ9",
+   "hasMore": true,
+   "requestTimeMs": 715,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

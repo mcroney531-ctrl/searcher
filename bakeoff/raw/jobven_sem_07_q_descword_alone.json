@@ -1,0 +1,67 @@
+{
+ "call_id": "sem_07_q_descword_alone",
+ "phase": "semantics",
+ "url": "https://api.jobven.com/v1/public/jobs?q=Skilljar&country=US&remoteType%5B%5D=remote&postedAfter=1789701404&limit=1&includeTotal=true",
+ "params": [
+  [
+   "q",
+   "Skilljar"
+  ],
+  [
+   "country",
+   "US"
+  ],
+  [
+   "remoteType[]",
+   "remote"
+  ],
+  [
+   "postedAfter",
+   1789701404
+  ],
+  [
+   "limit",
+   1
+  ],
+  [
+   "includeTotal",
+   "true"
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:16:54 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "118",
+  "connection": "close",
+  "server": "cloudflare",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "f01f5e19-0586-49ab-8be3-7b5991398afc",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2496",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "16",
+  "etag": "W/\"76-l4knaOtKwqIlPu/zYLex0YkMgVw\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=Mh2hoLWvY3Z9dfE8N221A8UhIQMyfuxt3JbyCFZzj%2FhvswEAIEOsxMPtJGrDxQqYvGxM0yCtRKo7tDR4fBKg6kgrGTpeic04BpdLHmlqDV3TAqB0QydO2qI746lRHcVL8Lb55xx9Rqj4g%2B53dQ%3D%3D\"}]}",
+  "cf-ray": "a406df6fad4b985c-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [],
+  "meta": {
+   "total": 0,
+   "count": 0,
+   "hasMore": false,
+   "requestTimeMs": 14,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

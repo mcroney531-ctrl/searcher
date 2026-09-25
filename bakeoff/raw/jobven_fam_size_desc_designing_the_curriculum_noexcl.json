@@ -1,0 +1,67 @@
+{
+ "call_id": "fam_size_desc_designing_the_curriculum_noexcl",
+ "phase": "family",
+ "url": "https://api.jobven.com/v1/public/jobs?descriptionQuery=designing+the+curriculum&country=US&remoteType%5B%5D=remote&postedAfter=1789702200&limit=1&includeTotal=true",
+ "params": [
+  [
+   "descriptionQuery",
+   "designing the curriculum"
+  ],
+  [
+   "country",
+   "US"
+  ],
+  [
+   "remoteType[]",
+   "remote"
+  ],
+  [
+   "postedAfter",
+   1789702200
+  ],
+  [
+   "limit",
+   1
+  ],
+  [
+   "includeTotal",
+   "true"
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:27:54 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "119",
+  "connection": "close",
+  "server": "cloudflare",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "211e5dfc-313d-49a4-875e-d52d501bdad8",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2363",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "473",
+  "etag": "W/\"77-3EM1/Faay19vyrWNxgenWkzjNoU\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=qTrXY7T5JzWA2XXeOR8z2C9p9%2FSlcIFZ2ih%2FZ%2FFJDXCFvIRGGfwZkV1jatt6ifxXZUAL%2FHNUvgq96%2Fr4QA7FnF6JDE9ERWPI%2BCmoJNCeR1ic0XxRyVMLWXA1cNYtHM3hhOCjkh2N2PW9IFdA0w%3D%3D\"}]}",
+  "cf-ray": "a406ef896e40f797-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [],
+  "meta": {
+   "total": 0,
+   "count": 0,
+   "hasMore": false,
+   "requestTimeMs": 471,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "call_id": "rec_850357921_co_miaplaza",
+ "phase": "recall",
+ "url": "https://api.jobven.com/v1/public/companies?search=Miaplaza&limit=10",
+ "params": [
+  [
+   "search",
+   "Miaplaza"
+  ],
+  [
+   "limit",
+   10
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:21:53 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "65",
+  "connection": "close",
+  "server": "cloudflare",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "1b9e2eb8-f628-4402-a607-2d82a55543bb",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2453",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "6",
+  "etag": "W/\"41-c0On01lj8RZhy+1JbnXQRdKB5vI\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=vEaHqFfzhwzr5vQN2HxPb1Ma2wYjIPinVFwvQTSUZplVCYLu6GWaXpHtDl%2Byf9VPA6IXiMASmuqN4AlcPxssSWIqYSo%2FKoZjT28vT%2BphHUF7MJbUFc89BMl3udk2oUY%2FgDkLR8X9Ohi49rOlZg%3D%3D\"}]}",
+  "cf-ray": "a406e6bc7b4980df-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [],
+  "meta": {
+   "page": 1,
+   "limit": 10,
+   "total": 0,
+   "totalPages": 0
+  }
+ }
+}

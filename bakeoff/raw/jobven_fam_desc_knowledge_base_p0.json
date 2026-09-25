@@ -1,0 +1,1319 @@
+{
+ "call_id": "fam_desc_knowledge_base_p0",
+ "phase": "family",
+ "url": "https://api.jobven.com/v1/public/jobs?q=-%22account+executive%22+-%22account+manager%22+-%22sales+representative%22+-%22sales+manager%22+-%22customer+service+representative%22+-%22help+desk%22+-%22customer+success+manager%22+-%22support+specialist%22&descriptionQuery=knowledge+base&country=US&remoteType%5B%5D=remote&postedAfter=1789702200&limit=25",
+ "params": [
+  [
+   "q",
+   "-\"account executive\" -\"account manager\" -\"sales representative\" -\"sales manager\" -\"customer service representative\" -\"help desk\" -\"customer success manager\" -\"support specialist\""
+  ],
+  [
+   "descriptionQuery",
+   "knowledge base"
+  ],
+  [
+   "country",
+   "US"
+  ],
+  [
+   "remoteType[]",
+   "remote"
+  ],
+  [
+   "postedAfter",
+   1789702200
+  ],
+  [
+   "limit",
+   25
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:28:49 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "transfer-encoding": "chunked",
+  "connection": "close",
+  "server": "cloudflare",
+  "vary": "Accept-Encoding",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "8978938a-37a5-4bb1-a2e6-2649af585d4f",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2290",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "290",
+  "etag": "W/\"1f1c6-XD06SJam16bgo2u635pXfQRYAqo\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=RefBRpn1SDDrtRSqHumVa2rElh%2F8bYr6CThpP%2FxIlcixU60d7n5tIOz0NMnwmSIjWSVnUEzgR%2B3flYiyD51JwuwQELxjfwMRl0LrpJSOWr6vdfPLXT7PUB0McNXZtVexTk1GoAgpyCfwMROoVQ%3D%3D\"}]}",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "cf-ray": "a406f0e4cc0375b1-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "id": "fe60264e-79f6-4c92-aa2f-ab0e6d64dc71",
+    "title": "Client Support Representative - Healthcare Revenue Cycle",
+    "description": "<h2>Company Description</h2><p>Experian is a global data and technology company, powering opportunities for people and businesses around the world. We operate across a range of markets, from financial services to healthcare, automotive, agribusiness, insurance, and many more. Experian invests in people and new advanced technologies to unlock the power of data. We have an amazing team of 25,200 people in 32 countries.</p><h2>Job Description</h2><p>As our Healthcare Revenue Cycle, Tier 2 Client Support Representative, you will manage and resolve complex issues escalated from our teams and external clients.</p><p>You will partner with clients, payers, trading partners, and internal technical teams to investigate, troubleshoot, and resolve issues, while delivering a high level of customer support.</p><p>You will be a problem solver who can balance technical troubleshooting, client communication, and collaboration in a healthcare technology environment.</p><ul><li>Troubleshoot and resolve complex product, system, and workflow-related issues.</li><li>Investigate and resolve payer-related and transaction-processing issues.</li><li>Be an escalation point for Customer Support, Client Relationship Management, and other teams.</li><li>Manage a high-volume caseload of support requests, incidents, and inquiries while meeting established service level expectations.</li><li>Communicate with clients through support cases, email, telephone, and virtual meetings to guide issue resolution and maintain client relationships.</li><li>Determine the severity, scope, and effect of reported issues and coordinate appropriate resolution efforts.</li><li>Collaborate with internal technical teams, payers, vendors, and trading partners to investigate and resolve client-affecting issues.</li><li>Analyze, troubleshoot, and maintain client and user configurations.</li><li>Participate in small to medium-sized projects, including testing, implementations, process improvements, and operational plans.</li><li>Create, maintain, and enhance internal and external knowledge base documentation using Knowledge-Centered Service (KCS) best practices.</li><li>Identify recurring issues, trends, and process improvement opportunities and provide recommendations to improve our client experience.</li><li>Maintain a comprehensive understanding of supported products, workflows, and industry standards.</li></ul><h2>Qualifications</h2><ul><li>2+ year's experience with healthcare workflows, payer processes, and electronic healthcare transactions is beneficial</li><li>2+ years' experience with healthcare industry standards such as ANSI X12 transactions is beneficial</li><li>2+ years' experience using CRM or case management systems, such as Salesforce, is beneficial</li><li>Bachelor's degree in business, healthcare management, or a related field is beneficial</li><li>2+ years; experience in healthcare technology, healthcare operations, revenue cycle management, technical support, or a related field</li><li>Experience supporting client-facing software applications</li><li>Experience working with healthcare providers, payers, clearinghouses, or healthcare technology solutions</li></ul><h2>Additional Information</h2><p>Our uniqueness is that we celebrate yours. Experian's people first, inclusive and purpose driven culture is multi award-winning; World's Best Workplaces™ 2025 (Fortune Global Top 25), Great Place To Work™ in 26 countries to name a few. Check out Experian Life on social or explore our Careers Site to understand why.</p><p>Our compensation reflects the cost of labor across several U.S. geographic markets. The base pay range for this position is listed above. Within this range, individual pay is determined by work location and additional factors such as job-related skills, experience, and education. You will be also eligible for a variable pay opportunity.</p><p>Experian is proud to be an Equal Opportunity Employer for all groups protected under applicable federal, state and local law, including protected veterans and individuals with disabilities. If you have a disability or special need that requires accommodation, please let us know at the earliest opportunity.</p><p><strong>Benefits/Perks:</strong></p><ul><li>Great compensation package and bonus plan</li><li>Core benefits including medical, dental, vision, and matching 401K</li><li>Flexible work environment, ability to work remote, hybrid or in-office</li><li>Flexible time off including volunteer time off, vacation, sick and 12-paid holidays</li><li>Explore all our exciting benefits here: <a href=\"https://myexperianbenefits.com/\">https://myexperianbenefits.com/</a></li></ul><p><strong>Recruitment Fraud Awareness </strong>- Experian's recruitment process is conducted only through authorised channels. Recruitment communications will only be sent from an <strong>@</strong><a href=\"http://experian.com\"><strong>experian.com</strong></a> email address.</p><p><strong>Experian will never ask candidates to make any payment</strong> as part of an application, interview, assessment, onboarding, or recruitment process. To apply for roles or verify opportunities, please visit <a href=\"http://experian.com/careers\"><strong>experian.com/careers</strong></a></p>",
+    "summary": "The Client Support Representative handles escalated, complex issues for healthcare revenue cycle products and supports clients, payers, trading partners, and internal teams through investigation and resolution. Responsibilities include troubleshooting product, payer, transaction, and workflow issues; managing support cases; maintaining configurations and documentation; and contributing to testing, implementations, and process improvements.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Problem-Solving",
+      "Communication",
+      "Collaboration",
+      "Client Relationship Management"
+     ],
+     "primary_skills": [
+      "Healthcare Revenue Cycle Management",
+      "Healthcare Workflows",
+      "Payer Processes",
+      "Electronic Healthcare Transactions",
+      "ANSI X12",
+      "CRM Systems",
+      "Case Management Systems",
+      "Technical Support",
+      "Client-Facing Software Support",
+      "Knowledge-Centered Service"
+     ],
+     "secondary_skills": [
+      "Salesforce",
+      "Healthcare Operations",
+      "Client Configuration Management",
+      "Software Testing",
+      "Software Implementation",
+      "Process Improvement",
+      "Knowledge Base Documentation"
+     ]
+    },
+    "benefits": [
+     "health_insurance",
+     "dental_insurance",
+     "vision_care",
+     "pensions_401k",
+     "pension_contribution_matching",
+     "performance_bonuses",
+     "flexible_work_hours",
+     "remote_work_hybrid_work_options",
+     "paid_time_off_vacation_personal_days",
+     "sick_leave",
+     "company_events_retreats"
+    ],
+    "salary": null,
+    "experienceLevel": "mid",
+    "employmentType": "full_time",
+    "minYearsExperience": 2,
+    "educationRequirement": {
+     "required": [],
+     "preferred": [
+      "bachelor_degree"
+     ]
+    },
+    "industry": [
+     "healthcare_medical",
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790271413,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.smartrecruiters.com/Experian/744000151676369-client-support-representative-healthcare-revenue-cycle",
+    "status": "active",
+    "companies": [
+     {
+      "name": "Experian",
+      "website": "experian.com"
+     }
+    ]
+   },
+   {
+    "id": "853f65c4-2f1c-49a7-aa0e-58a0bc15c6b9",
+    "title": "Support Engineer III",
+    "description": "<p>Blackpoint Cyber is the leading provider of world-class cybersecurity threat hunting, detection and remediation technology. Founded by former National Security Agency (NSA) cyber operations experts who applied their learnings&nbsp;to bring national security-grade technology solutions to commercial customers around the world, Blackpoint Cyber is in hyper-growth mode, &nbsp;fueled by a recent $190m series C round.&nbsp;</p><p><strong>The Role:</strong></p><p>We are looking for a <strong>Support Engineer III</strong> with experience in software technical support, particularly in environments utilizing Zendesk automation and complex software workflows. This is a hybrid role: you'll provide expert-level technical assistance to our customers while also building and optimizing the automation and processes that power our support operations.</p><p>You will be responsible for handling complex issues escalated from Tier 1 and Tier 2 teams, requiring a deep understanding of our software, underlying microservices, and support tools. If you're passionate about delivering exceptional customer service, solving intricate technical problems, and are skilled in support automation, we want you on our team.</p><h2><br><strong>Responsibilities and Expectations:</strong><br></h2><h2><strong>Technical Support</strong></h2><ul><li><p>Serve as an expert resource for complex technical issues, resolving escalated support cases with precision and efficiency.</p></li></ul><ul><li><p>Troubleshoot and resolve software issues, focusing on microservices, APIs, and system integrations.</p></li></ul><ul><li><p>Leverage your expertise in software workflows to diagnose and resolve system anomalies, deployment challenges, and configuration issues.</p></li></ul><ul><li><p>Collaborate with the Engineering and Product teams to identify, report, and prioritize software bugs and enhancements.</p></li></ul><ul><li><p>Analyze ticket trends and use data to implement proactive solutions, reducing ticket volume and improving response times.</p></li></ul><ul><li><p>Create and maintain detailed documentation, knowledge base articles, and support resources.</p></li></ul><ul><li><p>Mentor and train junior engineers, enhancing overall team competency and knowledge sharing.</p></li></ul><ul><li><p>Drive continuous improvement initiatives to optimize the customer support journey.</p></li></ul><p><strong>Support Operations &amp; Automation</strong></p><ul><li><p>Utilize Zendesk automation and other support tools to streamline workflows, optimize ticket management, and enhance customer satisfaction.</p></li></ul><ul><li><p>Develop, implement, and optimize automated solutions to enhance technical support operations, using tools like Superblocks, n8n, Tines, and webhooks.</p></li></ul><ul><li><p>Perform account management request analysis and automate routine and manual tasks.</p></li></ul><ul><li><p>Collaborate closely with the Support team to understand operational needs and develop automation strategies that improve operational efficiency.</p></li></ul><ul><li><p>Document automation processes and provide comprehensive training materials to enable the Support team to effectively use new tools and procedures.</p></li></ul><h2><strong>Key Skills and Experience</strong></h2><ul><li><p>5+ years of experience in a Technical Support or Customer Support role, with a focus on complex software environments.</p></li></ul><ul><li><p>Proficiency in Zendesk, especially in utilizing automations, triggers, and macros to optimize support workflows.</p></li></ul><ul><li><p>Strong understanding of microservices architecture, including APIs, containers (Docker), and cloud services.</p></li></ul><ul><li><p>Strong troubleshooting methodology across the following areas:</p></li></ul><ul><li><p>Advanced knowledge of Windows, macOS, and Linux operating systems.</p></li></ul><ul><li><p>Experience with PowerShell, Sysinternals Suite, and remote support tools.</p></li></ul><ul><li><p>Familiarity with scripting languages (Python, Bash, or Ansible — one or more preferred).</p></li></ul><ul><li><p>Strong grasp of networking concepts (IP addressing, VLANs, DNS, DHCP, firewalls, etc.).</p></li></ul><ul><li><p>Experience with cloud platforms (AWS, Azure) and understanding of DevOps practices.</p></li></ul><ul><li><p>Demonstrated ability to understand and optimize support workflows to improve efficiency and customer satisfaction.</p></li></ul><ul><li><p>Certifications such as CompTIA A+, Network+, or Security+ are a plus, but not required.</p></li></ul><p><strong>Desired Soft Skills</strong></p><ul><li><p>Exceptional problem-solving skills with a knack for diagnosing complex issues quickly.</p></li></ul><ul><li><p>Strong customer communication skills, able to explain technical concepts to non-technical users effectively.</p></li></ul><ul><li><p>Highly self-motivated with the ability to work independently in a dynamic, fast-paced environment.</p></li></ul><ul><li><p>Ability to multi-task and manage multiple priorities with excellent time management skills.</p></li></ul><ul><li><p>Passionate about continuous learning and professional development.</p></li></ul><p>Blackpoint Cyber welcomes and encourages applications from qualified individuals of all races, colors, religions, sex, sexual orientation, gender identity or expression, national origin, age, marital status, or any other legally protected status. We are committed to equality of opportunity in all aspects of employment.</p><p>For eligible employees in the US, Blackpoint offers competitive Health, Vision, Dental, and Life Insurance plans, a robust 401k plan, Discretionary Time Off, and other minor perks. International employees receive competitive benefits in accordance with local market standards and applicable country requirements.</p><p>Blackpoint believes all employees should share in the company’s success – equity participation is available to employees globally, with program details varying by location and employment structure.</p>",
+    "summary": "The Support Engineer III provides expert technical support by resolving complex escalations involving software, microservices, APIs, and integrations, while collaborating with Engineering and Product on bugs and improvements. The role also builds and optimizes Zendesk workflows and other support automations, analyzes ticket trends, documents processes, and mentors junior engineers.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Problem-Solving",
+      "Communication",
+      "Self-Motivation",
+      "Time Management",
+      "Adaptability"
+     ],
+     "primary_skills": [
+      "Technical Support",
+      "Zendesk",
+      "Support Workflow Automation",
+      "Microservices Architecture",
+      "APIs",
+      "Docker",
+      "Windows",
+      "macOS",
+      "Linux",
+      "PowerShell"
+     ],
+     "secondary_skills": [
+      "Sysinternals Suite",
+      "Remote Support Tools",
+      "Python",
+      "Bash",
+      "Ansible",
+      "Networking",
+      "AWS",
+      "Azure",
+      "DevOps",
+      "CompTIA A"
+     ]
+    },
+    "benefits": [
+     "health_insurance",
+     "vision_care",
+     "dental_insurance",
+     "life_insurance",
+     "pensions_401k",
+     "paid_time_off_vacation_personal_days",
+     "stock_options_equity",
+     "other_benefits"
+    ],
+    "salary": null,
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 5,
+    "educationRequirement": {
+     "required": [],
+     "preferred": [
+      "professional_certificate"
+     ]
+    },
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790195567,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/blackpoint%20cyber/fefcbfcf-4ea3-48cb-ae3f-cdbc805e085c",
+    "status": "active",
+    "companies": [
+     {
+      "name": "Blackpoint Cyber",
+      "website": "blackpointcyber.com"
+     }
+    ]
+   },
+   {
+    "id": "0b2f287b-94df-498e-8f5f-54066d38e446",
+    "title": "Senior Data Engineer - Analytics",
+    "description": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;&lt;span style=\"color: rgb(0, 0, 0);\"&gt;Machinify is a leading healthcare intelligence company with expertise across the payment continuum, delivering unmatched value, transparency, and efficiency to health plan clients across the country. Deployed by over 85 health plans, including many of the top 20, and representing more than 270 million lives, Machinify brings together a fully configurable and content-rich, AI-powered platform along with best-in-class expertise. We’re constantly reimagining what’s possible in our industry, creating disruptively simple, powerfully clear ways to maximize financial outcomes and drive down healthcare costs.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;div&gt; &lt;p&gt;As a &lt;strong&gt;Senior Data Engineer (Analytics)&lt;/strong&gt; you own the layer where messy operational data becomes a number a business leader will act on. You’ll sit with the people who run our business, learn how the work actually happens, and turn that into certified models, metric definitions that survive scrutiny, and reports people use. Our analytics warehouse unifies four platforms into one measurement model across dozens of unique client workflows.&lt;/p&gt; &lt;p&gt;This is a data modeling and measurement enabling role more than a pipeline development role, though such skills will be helpful. Expect real time on calls with finance, operations, and client-facing teams, and real time in dbt, SQL, and Power BI. If you won’t ship a dashboard you can’t reconcile, you’ll fit in great.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What You’ll Do&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Run discovery with business stakeholders.&lt;/strong&gt;&amp;nbsp;Find the real need behind the request and turn it into acceptance criteria you can build against.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Model noisy healthcare operational data&lt;/strong&gt;&amp;nbsp;into certified dimensional models across our Databricks bronze → silver → gold architecture in dbt and SQL. Our sources disagree with each other in ways that are interesting rather than trivial. Sorting that out is most of the job.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Own metric definitions.&lt;/strong&gt;&amp;nbsp;One measure, one definition, one place, documented so a non-engineer can read it. Today a single operating metric can be re-derived in a dozen models; collapsing that into a governed semantic layer is yours.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Build and own the visualization layer.&lt;/strong&gt;&amp;nbsp;Power BI semantic models, dashboards, and paginated reports, including refresh health and semantic-model currency. We want real visualization judgment: the right chart for the question, a hierarchy an executive can read in ten seconds, and a reason for every choice.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Own observability for your models.&lt;/strong&gt;&amp;nbsp;Freshness and latency detection, statistical anomaly detection, and value-drift monitoring, plus the data tests, regression guards, and CI checks that keep a defect you just fixed from coming back.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Own orchestration for what you build.&lt;/strong&gt;&amp;nbsp;dbt Cloud job design, Airflow DAGs, scheduling, dependency ordering, dependable incremental runs.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Write it down.&lt;/strong&gt;&amp;nbsp;Design documents, model documentation, a CI-enforced knowledge base, and business-readable handoff packets, so whoever inherits your work doesn’t have to re-derive it.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Automate the recurring work.&lt;/strong&gt;&amp;nbsp;We codify repeating work into repeatable, testable, AI-assisted workflows instead of checklists in someone’s notes. You should be comfortable directing LLMs and supervising what they produce.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;What You Bring&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;6+ years across analytics engineering, BI engineering, data engineering, or business analysis, with production ownership of the models and metrics you built.&lt;/li&gt; &lt;li&gt;Expert SQL and strong dimensional modeling instincts. You spot a grain mismatch in someone else’s model before you run it.&lt;/li&gt; &lt;li&gt;Production dbt: models, tests, macros, exposures, documentation, and CI. You have opinions about project structure and can defend them.&lt;/li&gt; &lt;li&gt;Hands-on with a cloud lakehouse or warehouse. Databricks and Spark SQL preferred; Snowflake, BigQuery, or Redshift transfer well.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Real visualization talent.&lt;/strong&gt;&amp;nbsp;You’ve owned a BI semantic layer and the reports on top of it, not just the tables underneath. Power BI and DAX strongly preferred; Looker/LookML, Tableau, MetricFlow, or Cube are credible substitutes. Bring dashboards you designed and be ready to say what you left out.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Stakeholder fluency.&lt;/strong&gt;&amp;nbsp;You can run a requirements conversation with a non-technical owner, turn a vague complaint into a testable definition, explain a data problem as business risk, and tell someone their metric is wrong without losing them.&lt;/li&gt; &lt;li&gt;A reconciliation reflex. When two numbers disagree you don’t average them, escalate them, or trust the newer one. You find out why.&lt;/li&gt; &lt;li&gt;Git and pull-request discipline as normal practice rather than overhead.&lt;/li&gt; &lt;li&gt;Python where it’s genuinely the right tool (API calls, file parsing, statistics, report generation), and the judgment to reach for SQL where it isn’t.&lt;/li&gt; &lt;li&gt;Comfort with high autonomy in a fast, async, Slack-first environment. You decide inside your lane and inform, rather than queuing decisions for permission.&lt;/li&gt; &lt;li&gt;Strong writing. Much of your impact is a document, a definition, or a chart someone reads without you in the room.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Bonus points for&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Healthcare data: claims (837/835/UB04), DRG and coding review, payment integrity, provider contracts, or revenue cycle.&lt;/li&gt; &lt;li&gt;Data contracts, schema enforcement, or ODCS-style governance; quality gating in CI.&lt;/li&gt; &lt;li&gt;Databricks Unity Catalog, lineage, and cost/DBU accountability.&lt;/li&gt; &lt;li&gt;Paginated reporting, SharePoint/Excel delivery, or other “the business needs it in exactly this format” surfaces.&lt;/li&gt; &lt;li&gt;Working alongside AI coding agents and reviewing what they produce against a contract you wrote.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Why Join Us&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Own a real greenfield problem.&lt;/strong&gt; We’re building a governed semantic layer that centralizes business logic. It’s a funded priority and one of the highest-impact problems on the team.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Strong engineering foundation.&lt;/strong&gt; We already have 634 production models, 1,800+ automated tests, and strong CI guardrails. You can focus on solving new problems instead of building basic engineering discipline from scratch.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;See your work reach the business.&lt;/strong&gt; This team owns the work all the way to the reporting layer, so you’ll see how your decisions affect real business users.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Work directly with stakeholders.&lt;/strong&gt; Every project has a clear business owner and defined acceptance criteria, so you know who you’re building for and what success looks like.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Use AI in the actual engineering workflow.&lt;/strong&gt; We’ve built agent-driven workflows into our day-to-day development process, and our delivery velocity has grown significantly as a result. If you’re interested in actually using AI to change how software gets built, you’ll have plenty of opportunity here.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Make an impact in healthcare.&lt;/strong&gt; The systems you build help a large-scale healthcare payment integrity business understand and improve its performance.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;What We Offer&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Work from anywhere in the US! Machinify is digital-first.&lt;/li&gt; &lt;li&gt;Full Medical/Dental/Vision for employees &amp;amp; their families&lt;/li&gt; &lt;li&gt;Flexible and trusting environment where you’ll feel empowered to do your best work&lt;/li&gt; &lt;li&gt;Unlimited FTO&lt;/li&gt; &lt;li&gt;Competitive salary, equity, 401(k) including employer match&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;span data-contrast=\"none\"&gt;The salary for this position is based on an array of factors unique to each candidate: Such as years and depth of experience, set skills, certifications, etc. &amp;nbsp;We are hiring for different levels, and our Recruiting team will let you know if you qualify for a different role/range. &lt;/span&gt;&lt;span data-contrast=\"none\"&gt;Salary is one&amp;nbsp;component&amp;nbsp;of the total compensation package, which includes meaningful equity, excellent healthcare, flexible time off, and other benefits and&amp;nbsp;perks.&lt;/span&gt;&lt;span data-ccp-props=\"{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335559738&amp;quot;:240,&amp;quot;335559739&amp;quot;:240}\"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span data-contrast=\"none\"&gt;Pay range: $170,000 - $200,000&lt;/span&gt;&lt;/p&gt; &lt;/div&gt; &lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=\"content-conclusion\"&gt;&lt;div&gt;&lt;span style=\"color: rgb(0, 0, 0);\"&gt;&lt;strong&gt;Equal Employment Opportunity at Machinify&lt;/strong&gt;&lt;/span&gt;&lt;/div&gt; &lt;div&gt;&amp;nbsp;&lt;/div&gt; &lt;div&gt;&lt;span style=\"color: rgb(0, 0, 0);\"&gt;We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender, gender identity or expression, or veteran status. We are proud to be an equal opportunity workplace. Machinify is an employment at will employer. We participate in E-Verify as required by applicable law. In accordance with applicable state laws, we do not inquire about salary history during the recruitment process. If you require a reasonable accommodation to complete any part of the application or recruitment process, please let our recruiters know. See our Candidate Privacy Notice at:&amp;nbsp;&lt;u&gt;&lt;a id=\"m_4907613542122963413OWAae7934b9-fa06-3f98-e336-0c5f8a6d5638\" style=\"color: rgb(0, 0, 0);\" href=\"https://www.machinify.com/candidate-privacy-notice/\" target=\"_blank\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.machinify.com/candidate-privacy-notice/&amp;amp;source=gmail&amp;amp;ust=1763168899816000&amp;amp;usg=AOvVaw0FJrzi47RtxTK_RN63lbaj\"&gt;https://www.machinify.com/candidate-privacy-notice/&lt;/a&gt;&lt;/u&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;",
+    "summary": "The Senior Data Engineer (Analytics) turns healthcare operational data into certified dimensional models, governed metrics, and business-ready reporting. The role owns analytics models and definitions, Power BI dashboards and reports, data quality and observability, orchestration, documentation, and AI-assisted workflows, working closely with business stakeholders.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Problem-Solving",
+      "Autonomy",
+      "Adaptability"
+     ],
+     "primary_skills": [
+      "SQL",
+      "Dimensional Modeling",
+      "dbt",
+      "Databricks",
+      "Power BI",
+      "Data Visualization",
+      "Data Observability",
+      "Apache Airflow",
+      "Git",
+      "Python"
+     ],
+     "secondary_skills": [
+      "Apache Spark",
+      "Snowflake",
+      "Google BigQuery",
+      "Amazon Redshift",
+      "DAX",
+      "Looker",
+      "LookML",
+      "Tableau",
+      "MetricFlow",
+      "Cube"
+     ]
+    },
+    "benefits": [
+     "health_insurance",
+     "dental_insurance",
+     "vision_care",
+     "paid_time_off_vacation_personal_days",
+     "flexible_work_hours",
+     "remote_work_hybrid_work_options",
+     "pensions_401k",
+     "pension_contribution_matching",
+     "stock_options_equity"
+    ],
+    "salary": {
+     "max": 200000,
+     "min": 170000,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 6,
+    "educationRequirement": null,
+    "industry": [
+     "healthcare_medical",
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790192191,
+    "expiresAt": null,
+    "applyUrl": "https://job-boards.greenhouse.io/machinifyinc/jobs/4418234009",
+    "status": "active",
+    "companies": [
+     {
+      "name": "machinify.com",
+      "website": "machinify.com"
+     }
+    ]
+   },
+   {
+    "id": "c1ced9fa-90ed-470c-9a37-34913300df95",
+    "title": "Senior Market Development Manager- Gi And Endo-surgical Innovation",
+    "description": "<h2>Company Description</h2><p>It started with a simple idea: what if surgery could be less invasive and recovery less painful? Nearly 30 years later, that question still fuels everything we do at <strong>Intuitive</strong>. As a global leader in <strong>robotic-assisted surgery</strong> and <strong>minimally invasive care</strong>, our technologies—like the <strong>da Vinci surgical system</strong> and <strong>Ion</strong>—have transformed how care is delivered for millions of patients worldwide.</p><p>We’re a team of engineers, clinicians, and innovators united by one purpose: to make surgery smarter, safer, and more human. Every day, our work helps care teams perform with greater precision and patients recover faster, improving outcomes around the world.</p><p>The problems we solve demand creativity, rigor, and collaboration. The work is challenging, but deeply meaningful—because every improvement we make has the potential to change a life.</p><p>If you’re ready to contribute to something bigger than yourself and help <strong>transform the future of healthcare</strong>, you’ll find your purpose here.</p><h2>Job Description</h2><p><strong>Primary Function of Position </strong></p><p>The Senior Market Development Manager is a market-facing commercial leader for <strong>new indications, customer bases, markets and platforms</strong> — operating across the full spectrum from product development through early commercialization. This role builds early go-to-market strategy, validates product market fit, ensures the commercial perspective informs upstream decisions, and builds the market infrastructure required for successful future Intuitive launches.&nbsp; <strong>This individual will focus on GI and endosurgical innovation.</strong></p><p>This role is deeply integrated with <strong>engineering, product, clinical, regulatory, market access and corporate strategy teams</strong> in both existing business units and future forward— serving as the commercial anchor in cross-functional forums and embedding market insight into product, clinical evidence, and market access roadmaps. Success requires equal fluency and trust in the external market and the internal development cycle.</p><p>The Senior Market Development Manager works directly with <strong>physicians, hospital executives, payers, and societies</strong> to identify unmet needs and shape clinical and commercial strategy. Where markets must be created rather than captured, this role is tasked with designing strategies to shift <strong>patient pathways, referral patterns, and clinical beliefs</strong> to unlock demand and accelerate commercial success.</p><p><strong>Essential Job Duties </strong>(Specific responsibilities and tasks an individual would be expected to perform in the role. Additional job duties may be determined by functional people manager)</p><ul><li><p>Serve as market-facing commercial lead throughout the upstream development cycle; bring commercial guidance to inform strategy and optimize launch success</p></li><li><p>Refine product market fit with market insight</p></li><li><p>Generate deep market, customer, and clinical insights; translate into actionable product and commercial recommendations aligned with the largest unmet clinical needs</p></li><li><p>Partner with engineering, product, clinical, and corporate strategy teams to define and execute go-to-market strategy from product development through early commercialization; serve as the commercial anchor in cross-functional forums and influence product roadmap and prioritization</p></li><li><p>Identify and engage KOLs, society leadership, and key stakeholders to shape market entry, build pre-market advocacy, and market seeding priming early adoption</p></li><li><p>Support clinical and economic evidence-building to enable market access, value articulation, and regulatory/ reimbursement strategy; support transfer into ROI and economic value models</p></li><li><p>Understand existing commercial strategy and ways of working across Intuitive- find opportunities to leverage existing expertise to accelerate adoption in new domains.</p></li><li><p>Develop market creation strategies where skillsets are not transferable— design approaches to change patient referral pathways, shift clinical beliefs and behaviors, and build demand in spaces where historic strategic success may be less transferable</p></li><li><p>Originate and develop creative market entry strategies for new clinical spaces — write the playbook for indications where no established commercial model exists</p></li><li><p>Synthesize complex inputs into clear strategic recommendations for senior leadership</p></li><li><p>Develop commercialization strategy for new indications, including salesforce structure, go-to-market model, pricing, territory design, and sales incentive plan frameworks</p></li></ul><h2>Qualifications</h2><p><strong>Required Skills and Experience:</strong></p><ul><li><p>10 years of experience in Sales, Marketing, Strategy, or Market Development in MedTech</p></li><li><p>Prior leadership experience required, including direct or matrixed leadership</p></li><li><p>Demonstrated success operating in early-stage, ambiguous, or emerging market environments</p></li><li><p>Capacity to rapidly upskill in clinical and technical knowledge base</p></li><li><p>Experience building and executing go to market/ market creation strategy</p></li><li><p>Proven ability to influence cross-functional teams without formal authority</p></li><li><p>Experience building and leveraging KOL, society, and executive-level relationships</p></li><li><p>Strong analytical, communication and executive presentation skills</p></li><li><p>Ability to identify trends, distill themes, and translate customer preference to strategic priorities</p></li><li><p>Familiarity with clinical pathways, hospital economics, capital strategy, and enterprise decision-making</p></li></ul><p><strong>Required Education and Training:</strong></p><ul><li><p>Bachelor’s degree required</p></li></ul><p><strong>Working Conditions:</strong></p><ul><li><p>Global travel required</p></li></ul><p><strong>Preferred Skills and Experience:</strong></p><ul><li><p>GI experience</p></li><li><p>Exposure to early product development, market shaping, or pre-launch commercialization working with engineers</p></li><li><p>Experience with surgical and/or endoscopic procedures preferred</p></li><li><p>Strategic clinical and reimbursement experience; payer fluency</p></li><li><p>Global or international experience</p></li></ul><h2>Additional Information</h2><p>Due to the nature of our business and the role, please note that Intuitive and/or your customer(s) may require that you show current proof of vaccination against certain diseases including COVID-19.&nbsp; Details can vary by role.</p><p>Intuitive is an Equal Opportunity Employer.&nbsp;We provide equal employment opportunities to all qualified applicants and employees, and prohibit discrimination and harassment of any type, without regard to race, sex, pregnancy, sexual orientation, gender identity, national origin, color, age, religion, protected veteran or disability status, genetic information or any other status protected under federal, state, or local applicable laws.</p><p><a href=\"https://careers.intuitive.com/en/eeo-and-aap/\">Mandatory Notices</a></p><p>U.S. Export Controls Disclaimer: In accordance with the U.S. Export Administration Regulations (15 CFR §743.13(b)), some roles at Intuitive Surgical may be subject to U.S. export controls for prospective employees who are nationals from countries currently on embargo or sanctions status.</p><p>Certain information you provide as part of the application will be used for purposes of determining whether Intuitive Surgical will need to (i) obtain an export license from the U.S. Government on your behalf (note: the government’s licensing process can take 3 to 6+ months) or (ii) implement a Technology Control Plan (“TCP”) (note: typically adds 2 weeks to the hiring process).</p><p>For any Intuitive role subject to export controls, final offers are contingent upon obtaining an approved export license and/or an executed TCP prior to the prospective employee’s start date, which may or may not be flexible, and within a timeframe that does not unreasonably impede the hiring need. If applicable, candidates will be notified and instructed on any requirements for these purposes.&nbsp;</p><p>We will consider for employment qualified applicants with arrest and conviction records in accordance with fair chance laws.</p><p>This position may be filled at a different job level than listed here depending on<br>business need and/or on the selected candidate’s experience, knowledge and skills.<br>Compensation will be based primarily on the job level at which the role is filled and the<br>candidate’s qualifications, consistent with applicable law.</p><p>Accommodation &amp; Accessibility Notice:</p><p>Intuitive is committed to providing reasonable accommodations to qualified individuals with disabilities. If you require assistance or an accommodation during any part of the application or interview process, please contact People Services at HRHelpNow@intusurg.com.</p><p>We provide market-competitive compensation packages, inclusive of base pay, incentives, benefits, and equity. It would not be typical for someone to be hired at the top end of range for the role, as actual pay will be determined based on several factors, including experience, skills, and qualifications. The target base compensation ranges are listed.</p>",
+    "summary": "The Senior Market Development Manager leads commercial strategy for GI and endosurgical innovations from product development through early commercialization. Responsibilities include validating product-market fit, shaping go-to-market and market-creation strategies, building stakeholder relationships, informing product and clinical roadmaps, and developing launch plans covering market access, pricing, sales structure, and territories.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressRegion": "California",
+      "addressCountry": "US",
+      "addressLocality": "Sunnyvale"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Leadership",
+      "Communication",
+      "Influence",
+      "Analytical Thinking",
+      "Collaboration"
+     ],
+     "primary_skills": [
+      "Sales",
+      "Marketing",
+      "Market Development",
+      "Go-to-Market Strategy",
+      "Market Creation Strategy",
+      "Product-Market Fit",
+      "Commercialization Strategy",
+      "Market Research",
+      "Clinical Pathways",
+      "Hospital Economics"
+     ],
+     "secondary_skills": [
+      "Gastroenterology",
+      "Product Development",
+      "Surgical Procedures",
+      "Endoscopic Procedures",
+      "Clinical Strategy",
+      "Reimbursement Strategy",
+      "Market Access",
+      "Pricing Strategy",
+      "Territory Design",
+      "Salesforce Structure"
+     ]
+    },
+    "benefits": [
+     "stock_options_equity"
+    ],
+    "salary": null,
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 10,
+    "educationRequirement": {
+     "required": [
+      "bachelor_degree"
+     ],
+     "preferred": []
+    },
+    "industry": [
+     "healthcare_medical"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": true,
+    "travelPercentage": null,
+    "postedAt": 1790189925,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.smartrecruiters.com/Intuitive/744000151452410-senior-market-development-manager-gi-and-endo-surgical-innovation",
+    "status": "active",
+    "companies": [
+     {
+      "name": "intuitive.com",
+      "website": "intuitive.com"
+     }
+    ]
+   },
+   {
+    "id": "2f9307ef-0cce-4cac-be18-62d8611d8e07",
+    "title": "Manager, HR Shared Services",
+    "description": "<p><strong>At Instructure</strong>, we believe in the power of people to grow and succeed throughout their lives. Our goal is to amplify that power by creating intuitive products that simplify learning and personal development, facilitate meaningful relationships, and inspire people to go further in their education and careers.<br>We do this by giving smart, creative, passionate people opportunities to create awesome. And that's where you come in:</p><p>HR Shared Services is the front door for employee questions at Instructure. Our team handles day-to-day questions and owns complex cases: escalations, compliance-sensitive issues, and the problems that don't have a template answer yet.</p><h2>What you'll do.</h2><ul><li><p>Manage and coach a team of HR specialists, including performance, development, and day-to-day workload.</p></li><li><p>Own escalations and complex employee cases end to end, from intake through resolution, keeping quality and consistency high.</p></li><li><p>Take ownership of AskHR reporting and dashboards, turning ticket and case data into insights HR leadership can act on.</p></li><li><p>Monitor knowledge base quality and close gaps so employees can self-serve more and escalate less.</p></li><li><p>Drive process improvement, especially where automation can take on more of the routine volume.</p></li><li><p>Some of the specific processes you’ll own include: immigration, global compliance, background checks and reporting</p></li><li><p>Cross-functional partnership with Payroll, IT and other HR COEs.</p></li></ul><h2>What you'll bring.</h2><ul><li><p>Three to five years of HR experience, ideally in a shared services, HR operations, or people support environment.</p></li><li><p>One to two years leading a team</p></li><li><p>Comfort with case management and ticketing tools (we use Jira and Confluence); dashboard or reporting experience is a strong plus.</p></li><li><p>Sound judgment on sensitive or ambiguous cases, and the ability to know when something needs to be escalated further.</p></li><li><p>Experience with Workday or a similar HRIS.</p></li><li><p>Exposure to global or multi-region HR support</p></li></ul><p><strong>Get in on all the awesome at Instructure!</strong></p><p>We offer competitive, meaningful benefits in every country where we operate. While they vary by location, here's a general idea of what you can expect:</p><ul><li><p>Competitive compensation, plus all full-time employees participate in our ownership program - because everyone should have a stake in our success.</p></li><li><p>Flexible work culture. Our remote, hybrid and in-office collaboration spaces vary by role, team and location.</p></li><li><p>Generous time off, including local holidays and our annual “Dim the Lights” period in late December, when teams are encouraged to step back and recharge based on departmental needs.</p></li><li><p>Comprehensive wellness programs and mental health support</p></li><li><p>Learning and development resources, including professional development tools and tuition reimbursement, to support your growth</p></li><li><p>The technology and tools you need to do your best work</p></li><li><p>Motivosity employee recognition program</p></li><li><p>A culture rooted in inclusivity, support, and meaningful connection</p></li></ul><p>We believe in hiring great people and treating them right. The more diverse we are, the better our ideas and outcomes.</p><p>Instructure is an Equal Opportunity Employer. We comply with applicable employment and anti-discrimination laws in every country where we operate.</p><p>All employees must pass a background check as part of the hiring process. To help protect our teams and systems, we’ve implemented identity verification measures. Candidates may be asked to verify their legal name, current physical location, and provide a valid contact number and residential address, in accordance with local data privacy laws.</p><p>Any attempt to misrepresent personal or professional information will result in disqualification.</p>",
+    "summary": "The Manager, HR Shared Services leads and coaches HR specialists while overseeing complex employee cases, escalations, compliance-sensitive issues, and service quality. The role manages AskHR reporting, knowledge base improvements, process automation, and cross-functional collaboration with Payroll, IT, and other HR centers of excellence.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Coaching",
+      "Judgment",
+      "Communication",
+      "Problem-solving",
+      "Collaboration"
+     ],
+     "primary_skills": [
+      "Human Resources",
+      "HR Shared Services",
+      "Team Management",
+      "Case Management",
+      "Employee Relations",
+      "HR Operations",
+      "Process Improvement",
+      "Jira",
+      "Confluence",
+      "Workday"
+     ],
+     "secondary_skills": [
+      "Dashboard Development",
+      "HR Reporting",
+      "Knowledge Base Management",
+      "Automation",
+      "Global Compliance",
+      "Background Checks",
+      "Global HR Support"
+     ]
+    },
+    "benefits": [
+     "stock_options_equity",
+     "remote_work_hybrid_work_options",
+     "paid_time_off_vacation_personal_days",
+     "wellness_program",
+     "mental_health_support",
+     "professional_development",
+     "tuition_reimbursement",
+     "company_laptop_equipment",
+     "employee_discounts"
+    ],
+    "salary": null,
+    "experienceLevel": "mid",
+    "employmentType": "full_time",
+    "minYearsExperience": 3,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790185061,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/instructure/e7be8ff2-5635-4b7c-883d-9087a966410c",
+    "status": "active",
+    "companies": [
+     {
+      "name": "Instructure, Inc.",
+      "website": "instructure.com"
+     }
+    ]
+   },
+   {
+    "id": "11f14001-0f9f-4710-8864-6f97abfedfed",
+    "title": "Senior Professional Services Engineer",
+    "description": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;At NiCE, we don’t limit our challenges. We challenge our limits. Always. We’re ambitious. We’re game changers. And we play to win. We set the highest standards and execute beyond them. And if you’re like us, we can offer you the ultimate career opportunity that will light a fire within you.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;span data-contrast=\"none\"&gt;Senior Professional Services Engineer (Actimize, Inc.; Hoboken, NJ): Install and configure software solutions and equipment at customer sites (remotely) while following defined methodology, processes, system requirements, and customer specific needs. Resolve technical issues related to application implementation and support product functionality troubleshooting. Perform necessary tests to ensure that all components of the technical&amp;nbsp; architecture are properly implemented. Complete necessary project documentation. Provide basic application overview, technical support, and technical quality control throughout all stages of the project. Contribute to work plan creation, document issue resolution to knowledge base system, and support internal team members with technical issues. Provide proactive updates to the project manager and customers during the project and follow-up on project pending items and open issues until project closure. Integrate applications with Oracle, MSSQL, Flat Files, and other backend enterprise systems using ETL, XML, and scripting languages (integration specific only). Assist in the design effort on Enterprise Risk and Compliance Management projects. Design, review, and document the on-site architecture of software solutions, working with implementation teams and the customer IT teams. Design and monitor the development of an implementation infrastructure and framework. Create standard architecture (as built) documents to be used on projects by the deployment team (including subcontractors). Provide solutions to high-level and low-level design problems on both the company side and the client side. Telecommuting permitted pursuant to company policy.&lt;/span&gt;&lt;span data-ccp-props=\"{&amp;quot;201341983&amp;quot;:0,&amp;quot;335559739&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}\"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span data-ccp-props=\"{&amp;quot;201341983&amp;quot;:0,&amp;quot;335559739&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}\"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;span data-contrast=\"none\"&gt;Minimum requirements: &lt;/span&gt;&lt;/strong&gt;&lt;span data-contrast=\"none\"&gt;Master’s degree or foreign equivalent in Computer Applications, Computer information Systems, or related field, plus 3 years of experience in the job offered or related occupation.&amp;nbsp;&lt;/span&gt;&lt;span data-ccp-props=\"{&amp;quot;201341983&amp;quot;:0,&amp;quot;335559739&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}\"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span data-ccp-props=\"{&amp;quot;201341983&amp;quot;:0,&amp;quot;335559739&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}\"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;span data-contrast=\"none\"&gt;Must have experience with the following:&lt;/span&gt;&lt;/strong&gt;&lt;span data-ccp-props=\"{&amp;quot;201341983&amp;quot;:0,&amp;quot;335559739&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}\"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span data-contrast=\"none\"&gt;Java/J2ee Technologies (Java, Servlet/JSP, EJB, Struts, spring 2x/3x/4x, Hibernate, IBATIS, JPA, and Web); Services (SOAP, REST), JMS,&lt;/span&gt;&lt;span data-ccp-props=\"{&amp;quot;201341983&amp;quot;:0,&amp;quot;335559739&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}\"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span data-contrast=\"none\"&gt;MDB, Design Patterns, Web method, Spring boot, Micro services, and Kafka; Databases: MS SQL, and Oracle; Operating Systems: Windows, Citrix, Linux, and MAC OS; Building Tools:&lt;/span&gt;&lt;span data-ccp-props=\"{&amp;quot;201341983&amp;quot;:0,&amp;quot;335559739&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}\"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span data-contrast=\"none\"&gt;ANT and Maven; Performance Tuning MAT, Visual VM, JMeter, JPROBE, JPROFILER, Dyna trace; Version/Source Control: GIT, SVN, Star Team, CVS, VSS, and CLEARCASE; Track&lt;/span&gt;&lt;span data-ccp-props=\"{&amp;quot;201341983&amp;quot;:0,&amp;quot;335559739&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}\"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span data-contrast=\"none\"&gt;Tool: JIRA, Silk Central, HP ALM, and SharePoint; Application Servers: JBoss, Apache Tomcat, IBM WebSphere, and Oracle WebLogic; Telephony: PBX, Switch, CTI, VoIP, SIP [Avaya,&lt;/span&gt;&lt;span data-ccp-props=\"{&amp;quot;201341983&amp;quot;:0,&amp;quot;335559739&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}\"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span data-contrast=\"none\"&gt;Cisco, Nortel, and Genesis Networking; Scripting/web: JavaScript, jQuery, CSS, HTML, DHTML, XML, and VTL; IDE and Tools: IDEA IntelliJ, Eclipse, Edit plus, SQL Developer, SOAPUI,&lt;/span&gt;&lt;span data-ccp-props=\"{&amp;quot;201341983&amp;quot;:0,&amp;quot;335559739&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}\"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span data-contrast=\"none\"&gt;Check Style, Jenkins, File net, SSH, and WinSCP; installation and integration of NIM/Engage/NTR solutions into Customer Environments; and Testing/Logging Frameworks (Mockito,&lt;/span&gt;&lt;span data-ccp-props=\"{&amp;quot;201341983&amp;quot;:0,&amp;quot;335559739&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}\"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span data-contrast=\"none\"&gt;JUnit, and Log4j).&lt;/span&gt;&lt;span data-ccp-props=\"{&amp;quot;201341983&amp;quot;:0,&amp;quot;335559739&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}\"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span data-ccp-props=\"{&amp;quot;201341983&amp;quot;:0,&amp;quot;335559739&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}\"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span data-contrast=\"none\"&gt;Salary: $128,939.00 to $135,000.00 per year&lt;/span&gt;&lt;span data-ccp-props=\"{&amp;quot;201341983&amp;quot;:0,&amp;quot;335559739&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}\"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span data-ccp-props=\"{&amp;quot;201341983&amp;quot;:0,&amp;quot;335559739&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}\"&gt;Requisition: 11773&amp;nbsp;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span data-contrast=\"none\"&gt;&lt;span data-ccp-parastyle=\"Default\" data-ccp-parastyle-defn=\"{&amp;quot;ObjectId&amp;quot;:&amp;quot;272499da-5523-5969-b17c-4f82c0ce3910|1&amp;quot;,&amp;quot;ClassId&amp;quot;:1073872969,&amp;quot;Properties&amp;quot;:[469775450,&amp;quot;Default&amp;quot;,201340122,&amp;quot;2&amp;quot;,134233614,&amp;quot;true&amp;quot;,469778129,&amp;quot;Default&amp;quot;,335572020,&amp;quot;1&amp;quot;,469777841,&amp;quot;Calibri&amp;quot;,469777842,&amp;quot;Calibri&amp;quot;,469777843,&amp;quot;SimSun&amp;quot;,469777844,&amp;quot;Calibri&amp;quot;,469769226,&amp;quot;Calibri,SimSun&amp;quot;,335551500,&amp;quot;0&amp;quot;,268442635,&amp;quot;24&amp;quot;,335559740,&amp;quot;240&amp;quot;,201341983,&amp;quot;0&amp;quot;,335559739,&amp;quot;0&amp;quot;,201342446,&amp;quot;1&amp;quot;,201342447,&amp;quot;5&amp;quot;,201342448,&amp;quot;1&amp;quot;,201342449,&amp;quot;1&amp;quot;,201341986,&amp;quot;1&amp;quot;]}\"&gt;Click apply or send resume to &lt;/span&gt;&lt;/span&gt;&lt;a href=\"mailto:marian.alvarado@nice.com\"&gt;&lt;span data-contrast=\"none\"&gt;&lt;span data-ccp-charstyle=\"Hyperlink\"&gt;marian.alvarado@nice.com&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;span data-contrast=\"none\"&gt;&lt;span data-ccp-parastyle=\"Default\"&gt;. &lt;/span&gt;&lt;span data-ccp-parastyle=\"Default\"&gt;An EOE.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;div class=\"content-conclusion\"&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;About NiCE &lt;/strong&gt;&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;NICE Ltd. (NASDAQ: NICE) software products are used by 25,000+ global businesses, including 85 of the Fortune 100 corporations, to deliver extraordinary customer experiences, fight financial crime and ensure public safety. Every day, NiCE software manages more than 120 million customer interactions and monitors 3+ billion financial transactions. &lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Known as an innovation powerhouse that excels in AI, cloud and digital, NiCE is consistently recognized as the market leader in its domains, with over 8,500 employees across 30+ countries. &lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;NiCE is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, age, sex, marital status, ancestry, neurotype, physical or mental disability, veteran status, gender identity, sexual orientation or any other category protected by law.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;",
+    "summary": "The Senior Professional Services Engineer installs, configures, integrates, tests, and troubleshoots software solutions and technical architectures for customer environments. The role also documents implementations, supports project planning and issue resolution, assists with Enterprise Risk and Compliance Management design, and provides technical coordination with project managers, customers, and implementation teams.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressRegion": "Texas",
+      "addressCountry": "US",
+      "addressLocality": "Richardson"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Problem-solving",
+      "Teamwork",
+      "Organization"
+     ],
+     "primary_skills": [
+      "Java",
+      "Java EE",
+      "Servlet/JSP",
+      "Enterprise JavaBeans",
+      "Struts",
+      "Spring Framework",
+      "Hibernate",
+      "iBATIS",
+      "Java Persistence API",
+      "Web Services"
+     ],
+     "secondary_skills": [
+      "DHTML",
+      "VTL",
+      "IntelliJ IDEA",
+      "Eclipse",
+      "SQL Developer",
+      "SoapUI",
+      "Checkstyle",
+      "SSH",
+      "WinSCP",
+      "Mockito"
+     ]
+    },
+    "benefits": [
+     "remote_work_hybrid_work_options"
+    ],
+    "salary": {
+     "max": 135000,
+     "min": 128939,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 3,
+    "educationRequirement": {
+     "required": [
+      "master_degree"
+     ],
+     "preferred": []
+    },
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790117466,
+    "expiresAt": null,
+    "applyUrl": "https://boards.eu.greenhouse.io/nice/jobs/4983305101?gh_jid=4983305101",
+    "status": "active",
+    "companies": [
+     {
+      "name": "nice.com",
+      "website": "nice.com"
+     }
+    ]
+   },
+   {
+    "id": "b2e1e6fc-ebb6-4fde-b38b-0ca9e0c36870",
+    "title": "Technical Support Engineer",
+    "description": "<p>We are seeking a highly skilled <strong>Technical</strong> <strong>Support Engineer</strong> to join our team and provide exceptional customer service for enterprise workload automation solutions. In this role, you will diagnose and resolve complex technical issues, collaborate with engineering teams for escalations, and partner throughout the sales cycle to ensure appropriate client solutions. If you thrive in problem-solving, have strong scripting skills, and enjoy working in dynamic environments, this position is for you.</p><p><strong>Key Responsibilities</strong></p><ul><li><p>Respond to and resolve technical support tickets within defined SLAs.</p></li></ul><ul><li><p>Diagnose and troubleshoot complex issues related to workload automation and system integrations.</p></li></ul><ul><li><p>Analyze, validate, transform, and reconcile environmental data during migration.</p></li></ul><ul><li><p>Ensure accuracy and integrity even when source and target platforms had partial compatibility.</p></li></ul><ul><li><p>Perform root cause analysis and implement preventive measures to reduce recurring incidents.</p></li></ul><ul><li><p>Collaborate with development teams to escalate and resolve bugs or system defects.</p></li></ul><ul><li><p>Participate in the on-call rotation to provide support for critical incidents.</p></li><li><p>Create and maintain scripts (PowerShell, Bash, Python) to automate routine tasks and improve efficiency.</p></li></ul><ul><li><p>Document solutions and contribute to the internal knowledge base for future reference.</p></li></ul><ul><li><p>Monitor system performance and proactively identify potential issues.</p></li></ul><ul><li><p>May assist with minimal solution engineering or product demos on an ad-hoc basis (limited time commitment).</p></li></ul><ul><li><p>Provide clear and professional communication with clients during issue resolution.</p></li><li><p>Participate in the on-call rotation to provide after-hours support for critical incidents, including overnights.</p></li><li><p>Ability to work Western, Mountain, or Central time zone hours.</p></li></ul><p><strong>Required Skills &amp; Qualifications</strong></p><ul><li><p>4+ years experience in a technical support position, interacting directly with both customers and engineering teams.</p></li></ul><ul><li><p>Strong diagnostic and troubleshooting skills in enterprise environments.</p></li></ul><ul><li><p>Experience with data migrations</p></li></ul><ul><li><p>Proficiency in scripting languages: <strong>PowerShell</strong>, <strong>Bash</strong>, and <strong>Python</strong>.</p></li></ul><ul><li><p>Solid understanding of <strong>Windows</strong> and <strong>Linux</strong> operating systems.</p></li></ul><ul><li><p>Experience with <strong>SQL</strong> for data queries and troubleshooting.</p></li></ul><ul><li><p>Familiarity with ticketing systems (e.g., ServiceNow, Jira) and monitoring tools.</p></li></ul><ul><li><p>Excellent communication skills for explaining technical concepts to non-technical stakeholders.</p></li></ul><ul><li><p>Ability to work under pressure and prioritize multiple incidents effectively.</p></li></ul><p><strong>Preferred Qualifications</strong></p><ul><li><p>Experience with workload automation platforms or similar enterprise software.</p></li></ul><ul><li><p>Knowledge of networking fundamentals and cloud environments (AWS, Azure).</p></li></ul><ul><li><p>Exposure to ITIL practices and incident management workflows.</p></li></ul><p><strong>Why JAMS</strong></p><ul><li><p>100% remote work environment with colleagues around the globe</p></li></ul><ul><li><p>Competitive benefits</p></li></ul><ul><li><p>401k program and employer match</p></li></ul><ul><li><p>Flexible PTO</p></li></ul><ul><li><p>Paid Holidays</p></li></ul>",
+    "summary": "The Technical Support Engineer provides enterprise customers with technical support for workload automation solutions, including diagnosing complex issues, troubleshooting integrations, managing data migrations, and performing root cause analysis. The role also involves scripting automation, collaborating with engineering teams on escalations, documenting solutions, monitoring systems, and participating in after-hours on-call support.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Problem-solving",
+      "Prioritization",
+      "Working Under Pressure"
+     ],
+     "primary_skills": [
+      "Technical Support",
+      "Diagnostic Troubleshooting",
+      "Data Migration",
+      "PowerShell",
+      "Bash",
+      "Python",
+      "Windows",
+      "Linux",
+      "SQL",
+      "Ticketing Systems"
+     ],
+     "secondary_skills": [
+      "Workload Automation",
+      "Networking Fundamentals",
+      "Cloud Computing",
+      "AWS",
+      "Microsoft Azure",
+      "ITIL",
+      "Incident Management"
+     ]
+    },
+    "benefits": [
+     "pension_contribution_matching",
+     "paid_time_off_vacation_personal_days",
+     "other_benefits"
+    ],
+    "salary": null,
+    "experienceLevel": "mid",
+    "employmentType": "full_time",
+    "minYearsExperience": 4,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790088448,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/jamssoftware/3b284d06-92a0-41e4-84ed-28cf2d812b22",
+    "status": "active",
+    "companies": [
+     {
+      "name": "JAMS Software",
+      "website": "jamsscheduler.com"
+     }
+    ]
+   },
+   {
+    "id": "fa89ffb3-1cae-444b-9192-6af3f3409b11",
+    "title": "Support Analyst",
+    "description": "<p><b>SUPPORT ANALYST</b></p><p><i>Fully Remote&nbsp; |&nbsp; Full-Time&nbsp; |&nbsp; Customer Support&nbsp; |&nbsp; Reports to Manager, Support Services | </i></p><p><b>About the Role</b></p><p>Harris Computer is looking for a driven, tech-savvy Support Analyst to join our growing team. In this role, you'll be the front line of support for our customers — diagnosing technical issues, providing solutions, and ensuring a seamless experience with our software products. You'll report to the Manager, Support Services, and work in a fully remote, fast-paced environment where problem-solving, clear communication, and modern tools, including AI, are part of daily work. If you thrive on solving problems and are passionate about customer success, we want to hear from you.</p><p><b>Why Join Us</b></p><ul><li>Work fully remote, with a supportive team and manager invested in your growth</li><li>Build deep expertise in mission-critical software used by customers who depend on it every day</li><li>Grow your technical and customer-facing skills, with a clear path to take on more complex, high-impact issues</li></ul><p><b>Core Responsibilities</b></p><ul><li>Own assigned customer tickets from intake through resolution, including timely responses, clear status updates, and accurate documentation</li><li>Diagnose and resolve functional, configuration, data, and software issues by asking effective questions, reproducing problems, and identifying root causes</li><li>Escalate complex issues to Development, QA, or Product with complete findings, reproduction steps, and actions already attempted</li><li>Communicate technical information clearly and manage customer expectations throughout the resolution process</li><li>Learn, implement, and deliver training on our software applications to both customers and internal stakeholders</li><li>Create and maintain knowledge-base content, including solutions, procedures, and best practices that improve customer self-service</li><li>Identify recurring issues and product or process gaps, and share trends with the appropriate teams</li><li>Identify and communicate additional revenue or upsell opportunities to the appropriate internal teams</li><li>Collaborate with Support colleagues and cross-functional partners, sharing knowledge and contributing to testing when needed</li></ul><p><b>AI Tools &amp; Proficiency</b></p><p>As part of our commitment to innovation, we expect Support Analysts to use AI tools as a core part of their daily workflow, always validating outputs and following company data and privacy requirements.</p><p><b>Required:</b></p><ul><li>Demonstrated experience using AI-powered productivity tools (e.g., Microsoft Copilot, ChatGPT, Google Gemini, Claude) to draft communications, summarize issues, or research solutions</li><li>Ability to use AI tools to triage, document, and resolve customer support tickets more efficiently</li><li>Comfort working alongside AI-assisted support platforms, including chatbots and automated ticketing suggestions</li></ul><p><b>Preferred:</b></p><ul><li>Basic understanding of prompt engineering — crafting clear, effective prompts to get high-quality outputs from AI tools</li><li>Experience contributing to or maintaining an AI-assisted knowledge base</li><li>Familiarity with AI integrations within CRM or helpdesk platforms (e.g., Salesforce Einstein, Zendesk AI)</li></ul><p><b>What we are looking for:</b></p><ul><li>2+ years of experience in technical support, software support, or customer service</li><li>BS/BA degree in a related business or technical field, or equivalent industry experience</li><li>Strong troubleshooting and analytical skills, with the discipline to investigate beyond the immediate symptom</li><li>Excellent written and verbal communication skills, including the ability to explain technical concepts to non-technical users</li><li>Customer-focused, professional, and patient approach, with the ability to build trust and remain composed under pressure</li><li>Strong organization and time-management skills, with the ability to manage multiple priorities independently in a remote environment</li><li>Team player who is willing to share knowledge, seek help, and support team goals</li></ul><p><b>What would make you stand out:</b></p><ul><li>Experience with local government, municipal finance, taxation, or related public-sector workflows</li><li>Experience with ticketing and work-management platforms such as TeamSupport or Jira</li><li>Working knowledge of SQL, databases, APIs, or reporting tools</li><li>Experience creating knowledge-base articles, technical documentation, or customer training content</li></ul><p><b>Salary range: $50,000 - $55,000 USD per year.</b></p><p><br>AAP/EEO Statement</p><p>Harris Computer is an <span>EEO/AA/Disability/Vets</span> Employer.</p><p><br>Other Duties:</p><p>Please note this job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee for this job. Duties, responsibilities and activities may change at any time with or without notice.</p>",
+    "summary": "Harris Computer is seeking a fully remote Support Analyst to provide front-line technical and customer support for its software products. The role involves diagnosing and resolving customer issues, managing tickets, documenting solutions, delivering training, using AI tools, and collaborating with Development, QA, Product, and Support teams.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressRegion": "Maine",
+      "addressCountry": "US",
+      "addressLocality": "Remote - Maine"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Problem-solving",
+      "Analytical Thinking",
+      "Time Management",
+      "Teamwork"
+     ],
+     "primary_skills": [
+      "AI Tools",
+      "Technical Support",
+      "Software Support",
+      "Customer Support",
+      "Troubleshooting",
+      "Root Cause Analysis",
+      "Ticket Management",
+      "Knowledge Base Management",
+      "Technical Documentation",
+      "Customer Training"
+     ],
+     "secondary_skills": [
+      "Prompt Engineering",
+      "CRM Platforms",
+      "Helpdesk Platforms",
+      "SQL",
+      "Databases",
+      "APIs",
+      "Reporting Tools",
+      "Jira",
+      "TeamSupport",
+      "Public-Sector Workflows"
+     ]
+    },
+    "benefits": [
+     "remote_work_hybrid_work_options",
+     "professional_development"
+    ],
+    "salary": {
+     "max": 55000,
+     "min": 50000,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "entry",
+    "employmentType": "full_time",
+    "minYearsExperience": 2,
+    "educationRequirement": {
+     "required": [],
+     "preferred": [
+      "bachelor_degree"
+     ]
+    },
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790035200,
+    "expiresAt": null,
+    "applyUrl": "https://harriscomputer.wd3.myworkdayjobs.com/en-US/1/job/Maine-United-States/Support-Analyst_R0046644-1",
+    "status": "active",
+    "companies": [
+     {
+      "name": "Harris Computer",
+      "website": "harriscomputer.com"
+     }
+    ]
+   },
+   {
+    "id": "ee7953b8-4d26-4edd-bafd-c568bbf0c478",
+    "title": "Sr. Technical Support Engineer",
+    "description": "<p><span>Rockwell Automation is a global technology leader focused on helping the world’s manufacturers be more productive, sustainable, and agile. With more than 28,000 employees who make the world better every day, we know we have something special. Behind our customers - amazing companies that help feed the world, provide life-saving medicine on a global scale, and focus on clean water and green mobility -&nbsp;our people are energized problem solvers that take pride in how the&nbsp;work we do changes the world for the better.</span></p><p><span>We welcome all makers, forward thinkers, and problem solvers who are looking for a place to do their best work. And if that’s you we would love to have you join us!</span></p><p><span>Job Description</span></p><p><b>Position Summary:</b></p><p>Rockwell Automation is building machine vision and visual inspection into the Automation Control Software portfolio, alongside Studio 5000 Logix Designer and FactoryTalk Optix. You will own front-line technical support for it - the first response when a customer's inspection station stops passing parts, and the path from that call to a resolved defect.</p><p>You will also own the support function itself: the portal, the ticket taxonomy, the escalation path into engineering, and the knowledge base that keeps the same question from being answered twice.</p><p>You will work in an organization that applies agents to its own operating loop - triage, log analysis, summarization, and knowledge retrieval through MCP-connected systems - using GitHub Copilot Enterprise and Claude. You will help build that loop for support specifically, and measure whether it actually cut time to resolution.</p><br><p>This role will have a remote schedule and will report to the Manager, Customer Support Engineering.</p><br><p><b>Your Responsibilities:</b></p><ul><li>Own front-line and second-line technical support for inspection deployments, from intake through resolution.</li><li>Diagnose issues across application, model behavior, edge device, network, and controller integration.</li><li>Own and improve the support portal, ticket taxonomy, SLAs, and the escalation path into engineering.</li><li>Build and maintain the knowledge base and troubleshooting documentation used by customers and the field.</li><li>Turn recurring support patterns into product requirements, diagnostics, and test coverage.</li><li>Apply agents to triage, log analysis, and knowledge retrieval, and measure the effect on time to resolution.</li></ul><br><p><b>The Essentials - You Will Have:</b></p><ul><li>Bachelor's Degree or Equivalent Years of Relevant Work Experience</li><li>Legal authorization to work in the US is required. We will not sponsor individuals for employment visas, now or in the future, for this job opening.</li></ul><p><br><br></p><p><b>The Preferred - You Might Also Have:</b></p><ul><li>Typically requires a minimum of 2 years of related experience in a technical support or field engineering environment.</li><li>Bachelor's degree in Engineering, Computer Science, or a related technical discipline.</li><li>Experience providing technical support for a software or hardware-software product</li><li>Experience diagnosing issues that span software, network, and physical hardware</li><li>Experience owning a support function - portal, ticketing system, SLAs, and escalation process.</li><li>Comfort on a Linux command line for log collection and diagnostics.</li><li>Familiarity with industrial networking and controllers - EtherNet/IP, OPC UA, PLCs.</li><li>Experience with machine vision systems, cameras, or optics troubleshooting.</li><li>Experience building knowledge bases or self-service documentation that measurably deflects tickets.</li></ul><br><p><b>What We Offer:</b></p><ul><li>Health Insurance including Medical, Dental and Vision</li><li>401k</li><li>Paid Time off</li><li>Parental and Caregiver Leave</li><li>Flexible Work Schedule where you will work with your manager to enjoy a work schedule that can be flexible with your personal life.</li><li>To learn more about our benefits package, please visit at www.raquickfind.com.</li></ul><br><p><i>At Rockwell Automation we are dedicated to building a diverse, inclusive and authentic workplace, so if you're excited about this role but your experience doesn't align perfectly with every qualification in the job description, we encourage you to apply anyway. You may be just the right person for this or other roles.</i></p><br><p>#LI-Remote</p><p>#LifeAtRok</p><br><p><b>This position is part of a job family. Experience will be the determining factor for position level and compensation</b></p><br><p>For this role, the Base Salary Compensation is <span>92,000.00 -138,000.00 USD</span> Annual with an annual target bonus of 5% of base salary. Our benefits for the US can be found <a href=\"https://s3-us-east-2.amazonaws.com/rockwell-qf/2023/01/0622.1078-Rockwell-2023-New-Hire-Guide-ER1.pdf\">here</a>. Actual pay will be based on factors such as skills, knowledge, education, and experience.</p><p>We are an Equal Opportunity Employer including disability and veterans.&nbsp;</p><p>If you are an individual with a disability and you need assistance or a reasonable accommodation during the application process, please contact our services team at +1 (844) 404-7247.</p>",
+    "summary": "Rockwell Automation is seeking a Senior Technical Support Engineer to provide front-line and second-line support for machine vision and visual inspection deployments. The role includes diagnosing application, model, hardware, network, and controller issues; managing support operations and documentation; and applying agent-based tools to improve triage and time to resolution.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressRegion": "California",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Problem-solving",
+      "Communication",
+      "Adaptability"
+     ],
+     "primary_skills": [
+      "Technical Support",
+      "Machine Vision",
+      "Visual Inspection",
+      "Application Troubleshooting",
+      "Log Analysis",
+      "Network Troubleshooting",
+      "Hardware Troubleshooting",
+      "Linux",
+      "Industrial Networking",
+      "Knowledge Base Management"
+     ],
+     "secondary_skills": [
+      "EtherNet/IP",
+      "OPC UA",
+      "Programmable Logic Controllers",
+      "Cameras",
+      "Optics Troubleshooting",
+      "Support Portal Management",
+      "Ticket Taxonomy",
+      "Service-Level Agreement Management",
+      "GitHub Copilot Enterprise",
+      "Claude"
+     ]
+    },
+    "benefits": [
+     "health_insurance",
+     "dental_insurance",
+     "vision_care",
+     "pensions_401k",
+     "paid_time_off_vacation_personal_days",
+     "parental_leave",
+     "flexible_work_hours",
+     "performance_bonuses"
+    ],
+    "salary": {
+     "max": 138000,
+     "min": 92000,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 2,
+    "educationRequirement": {
+     "required": [
+      "bachelor_degree"
+     ],
+     "preferred": [
+      "bachelor_degree"
+     ]
+    },
+    "industry": [
+     "technology_software",
+     "manufacturing"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790035200,
+    "expiresAt": null,
+    "applyUrl": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/California-United-States/Sr-Technical-Support-Engineer_R26-7281",
+    "status": "active",
+    "companies": [
+     {
+      "name": "Rockwell Automation",
+      "website": "rockwellautomation.com"
+     }
+    ]
+   },
+   {
+    "id": "a4a39e46-e673-437d-9f14-333a5b21bab0",
+    "title": "Technical Support Associate",
+    "description": "<h2>Company Description</h2><p>Privia Health™ is a technology-driven, national physician enablement company that collaborates with medical groups, health plans, and health systems to optimize physician practices, improve patient experiences, and reward doctors for delivering high-value care in both in-person and virtual settings. The Privia Platform is led by top industry talent and exceptional physician leadership, and consists of scalable operations and end-to-end, cloud-based technology that reduces unnecessary healthcare costs, achieves better outcomes, and improves the health of patients and the well-being of providers</p><h2>Job Description</h2><p>The Technical Support Associate&nbsp;is a customer-facing role that offers a unique opportunity to enhance skill sets and work across a wide range of customer experience and technology services. This position is responsible for providing hardware, software, and general systems support for end-user computers and endpoint protection services. This is a fully remote position and plays a crucial role in supporting the Care Center's end-user devices. The ideal candidate is innovative, energetic, adaptable to new processes and procedures, and can effectively handle a high volume of requests while maintaining quality support.</p><ul><li>Responding to high volume inquiries via email, phone, and other communication channels.</li><li>Provide hardware, software, and general systems support for end-users computers. Troubleshoot issues and provide timely resolutions to customers in a professional and customer-focused manner.</li><li>Assisting care center staff with technology systems such as athenaNet, Privia Connect, Salesforce, and other software</li><li>Collaborating with cross-functional teams on projects, tasks, and cases</li><li>Showcase effective case management by resolving a high volume of diverse case types, ensuring timely and effective resolution while maintaining clear communication and adherence to established guidelines and service level agreements.</li><li>Participating in the implementation of new care centers and providing technical assistance remotely.</li><li>Identify opportunities to improve existing processes and procedures. Actively contribute to the development and implementation of new support methodologies. Identify and report common issues and trends to management</li><li>Consistently meet call center productivity and quality standards.</li><li>Accurately document all customer interactions, technical solutions, and issue resolutions in the designated knowledge base or ticketing system.</li><li>Stay up to date with the latest technology trends, industry best practices, and product knowledge. Continuously enhance personal expertise.</li></ul><h2>Qualifications</h2><ul><li>Education: High school diploma is required. Associate's degree or equivalent work experience is preferred.</li><li>Work Experience: 1+ years of work-related experience. Experience in healthcare is preferred.</li><li>Remote Work Experience: Experience working in a remote workforce culture is a plus.</li><li>Technical Skills: Strong understanding of Google Apps, NinjaOne, Salesforce, and experience with iOS, Android, Windows, and Desktop Mac systems. Familiarity with networking concepts is a plus.</li><li>Customer Focus: Strong customer service and communication skills. Ability to interact professionally with customers to gather information and provide technical assistance.</li><li>Adaptability: Ability to quickly adapt to changing processes, procedures, and technologies in a fast-paced environment.</li><li>Problem-Solving: Excellent problem-solving skills, with the ability to research, analyze, and resolve complex technical issues.</li><li>Productivity: Proven ability to maintain high levels of productivity while delivering quality support and meeting defined SLAs.</li><li>Team Player: Collaborative mindset and willingness to work with cross-functional teams to resolve issues and contribute to the overall success of the organization.</li><li>Documentation Skills: Strong documentation skills to accurately record customer interactions, technical solutions, and issue resolutions.</li><li>Continuous Learning: Passion for learning and staying up to date with the latest technology trends and industry best practices.</li><li>HIPAA Compliance: Understanding and ability to comply with all HIPAA rules and regulations.</li></ul><p><em>The hourly range for this role is $20.00 to $25.00 in base pay and exclusive of any bonuses or benefits (medical, dental, vision, life, and pet insurance, 401K, paid time off, and other wellness programs)</em><em>. This role is also eligible for an annual bonus targeted at 10%. The base pay offered will be determined based on relevant factors such as experience, education, and geographic location.</em></p><h2>Additional Information</h2><p>All your information will be kept confidential according to EEO guidelines.</p><p><strong>﻿Technical Requirements (for remote workers only, not applicable for onsite/in office work):</strong></p><p><strong>In order to successfully work remotely, supporting our patients and providers, we require a minimum of 5 MBPS for Download Speed and 3 MBPS for the Upload Speed. This should be acquired prior to the start of your employment. The best measure of your internet speed is to use online speed tests like <a href=\"https://www.speedtest.net/\">https://www.speedtest.net/</a>. This gives you an update as to how fast data transfer is with your internet connection and if it meets the minimum speed requirements. Work with your internet provider if you have questions about your connection. Employees who regularly work from home offices are eligible for expense reimbursement to offset this cost.</strong></p><p>Privia Health is committed to creating and fostering a work environment that allows and encourages you to bring your whole self to work. We understand that healthcare is local and we are better when&nbsp;our people are a reflection of the communities that we serve. Our goal is to encourage people to pursue all opportunities regardless of their age, color, national origin, physical or mental (dis)ability, race, religion, gender, sex, gender identity and/or expression, marital status, veteran status, or any other characteristic protected by federal, state or local law.</p>",
+    "summary": "The Technical Support Associate provides remote, customer-facing hardware, software, systems, and endpoint support for care center end users. Responsibilities include resolving high-volume technical inquiries, supporting healthcare technology platforms, documenting cases, meeting service standards, assisting with care center implementations, and improving support processes while maintaining HIPAA compliance.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressRegion": "United States",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Customer Service",
+      "Communication",
+      "Adaptability",
+      "Problem-solving",
+      "Teamwork"
+     ],
+     "primary_skills": [
+      "Hardware Support",
+      "Software Support",
+      "Systems Support",
+      "Technical Troubleshooting",
+      "Google Workspace",
+      "NinjaOne",
+      "Salesforce",
+      "iOS",
+      "Android",
+      "Windows"
+     ],
+     "secondary_skills": [
+      "macOS",
+      "Networking",
+      "athenaNet",
+      "Privia Connect",
+      "Case Management",
+      "Ticketing Systems",
+      "HIPAA Compliance",
+      "Service Level Agreement Management",
+      "Knowledge Base Management",
+      "Endpoint Protection"
+     ]
+    },
+    "benefits": [
+     "health_insurance",
+     "dental_insurance",
+     "vision_care",
+     "life_insurance",
+     "pensions_401k",
+     "paid_time_off_vacation_personal_days",
+     "wellness_program",
+     "pet_friendly_office",
+     "performance_bonuses",
+     "other_benefits"
+    ],
+    "salary": {
+     "max": 25,
+     "min": 20,
+     "period": "hourly",
+     "currency": "USD"
+    },
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 1,
+    "educationRequirement": {
+     "required": [
+      "high_school"
+     ],
+     "preferred": [
+      "associate_degree"
+     ]
+    },
+    "industry": [
+     "healthcare_medical",
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790008739,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.smartrecruiters.com/PriviaHealth/744000150747189-technical-support-associate-",
+    "status": "active",
+    "companies": [
+     {
+      "name": "priviahealth.com",
+      "website": "priviahealth.com"
+     }
+    ]
+   },
+   {
+    "id": "fca7449d-f88b-4985-989f-4af1742f1e4e",
+    "title": "Senior Technical Enablement Program Manager",
+    "description": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;Come join the organization that is redefining security for the AI era. As one of the&lt;a href=\"https://www.wiz.io/blog/100m-arr-in-18-months-wiz-becomes-the-fastest-growing-software-company-ever\"&gt; fastest-growing startups ever,&lt;/a&gt; we enable teams to secure cloud and AI applications by connecting code, cloud, and runtime into a single shared context. Trusted by security teams all over the world, we have a proven&lt;a href=\"https://www.g2.com/products/wiz-wiz/reviews\"&gt; track record of success&lt;/a&gt; and a culture that values world-class talent. Not to mention, we're now&lt;a href=\"https://cloud.google.com/blog/products/identity-security/google-completes-acquisition-of-wiz\"&gt; powered by Google&lt;/a&gt;, meaning we offer our customers an AI-powered platform that harnesses Google’s Threat Intelligence and Security Operations to better detect, prevent, and respond to threats across all environments, allowing for further innovation.&lt;/p&gt; &lt;p&gt;Our Wizards from all over the globe work together to protect the infrastructure of our customers, including over 65% of the Fortune 100, who trust us to scan and secure over 230 billion files daily. We’re honored to be a leading player in a massive and growing market, and we continue to look for exceptional Wizards who are eager to make a significant impact on our team. At Wiz, you’ll have the freedom to think creatively, dream big, and use your full range of skills to contribute to our momentous growth. Come join our team and help us create secure cloud environments that allow even the best companies to move faster, all while having some fun!&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;&lt;span data-markdown-start-index=\"561\"&gt;Minimum Qualifications:&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Experience: 5+ years proven experience in Technical Enablement, Technical Program Management, or technical customer engagements within a fast-paced, high-tech B2B environment.&lt;/li&gt; &lt;li&gt;Deep Technical Acumen: Mandatory and demonstrable advanced knowledge of Cloud Security principles, architecture, and technical troubleshooting.&lt;/li&gt; &lt;li&gt;Exceptional Program Management: Strong attention to detail with a proven ability to manage multiple complex, cross-functional projects across various timelines. You are a powerful and effective communicator for both executives and individual contributors.&lt;/li&gt; &lt;li&gt;Executive Engagement: Ability to consult, influence, and drive decision-making with senior leadership and executives. Strong initiative-taking and project ownership skills.&lt;/li&gt; &lt;li&gt;Exceptional Collaboration: Ability to effectively partner with Product Management, Technical Enablement Teams, Operations, and Technical Leadership to bridge the gap between \"product built\" and \"product supported/sold.\"&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;&lt;span data-markdown-start-index=\"561\"&gt;Preferred Qualifications:&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Technical Field Expertise: Demonstrated experience supporting, enabling, or working directly with technical sales, architecture, professional services, or technical support teams.&lt;/li&gt; &lt;li&gt;Architectural Fluency: Strong understanding of how to translate technical product specs and \"how-it-works\" logic into field-consumable materials (playbooks, troubleshooting guides, configuration SOPs).&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;&lt;span data-markdown-start-index=\"1878\"&gt;About the Job:&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;span data-markdown-start-index=\"1894\"&gt;The Senior Technical Enablement Program Manager is a crucial team member for the Technical Enablement Programs organization. This role owns the creation and delivery of dedicated programming to support the overarching efforts of our technical enablement team. You are the conductor of enablement programming to ensure role efficacy and the steward of deep product expertise across all of our technical audiences. You will work directly with the technical enablement program managers team to implement our most important programs.&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span data-markdown-start-index=\"2424\"&gt;In this role, you will go upstream and collaborate with technical leadership, Operations, Product, Product Marketing, the CTO organization, and our broader enablement teams to ensure that as our processes evolve and our product grows, our technical field teams have the deep-dive knowledge required to effectively position, implement, and support our solutions.&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;span data-markdown-start-index=\"2788\"&gt;Responsibilities:&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;span data-markdown-start-index=\"2809\"&gt;The Architect&lt;/span&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Ensure Technical Efficacy: Be the voice of the technical field on New Product Introductions. You'll rapidly absorb complex architectural changes and translate them into actionable, high-impact technical requirements—answering the essential questions for our technical teams: \"How do we deploy this?\" \"How do we troubleshoot it?\" and \"What are the known limitations?\"&lt;/li&gt; &lt;li&gt;Build the Technical Toolkit: Convert product updates into the \"Survival Guide\" the field uses every day. This includes everything from implementation playbooks and API documentation summaries to troubleshooting trees and technical checklists.&lt;/li&gt; &lt;li&gt;(Co)Design Impactful Programs: You are the strategic mind building programs that ensure our technical teams have the product, process, tool, and best practice knowledge needed for excellence. From onboarding to ongoing enablement and strategic initiatives, you drive our teams to success with measurable, worldwide programming.&lt;/li&gt; &lt;li&gt;Drive Operational Alignment: Partner with key stakeholders in Operations, Strategic Programs, the CTO organization, and technical leaders directly to ensure global alignment across technical roles, elevating best practices and driving both efficiency and consistency.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;The Builder&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Technical Liaison: Serve as the strategic hub between technical leadership (who defines role-based gaps), implementation groups, the Content Creation team, AI tool builders, and more. Some days will be heavily focused on Program Management—making sure critical projects that benefit the broader enablement team cross the finish line. Other days will be more hands-on—influencing requirements, rapidly prototyping, or whipping up content yourself. You will translate complex technical workflows into precise content requirements and lab scoping documents for production. When you’re at your best, our SMEs spend more time in the field and less time on content.&lt;/li&gt; &lt;li&gt;Facilitate Key Sessions: You’re not just a partner behind the scenes; you are the face of technical enablement programming for your audiences. You lead key enablement sessions, can create a killer deck, and get to know your audience well.&lt;/li&gt; &lt;li&gt;Lifecycle Knowledge Manager: Working with our content builders and governance teams, you take full responsibility for the key materials needed for our technical roles to succeed. You will consistently review, refresh, and retire outdated guides and documentation to ensure our technical knowledge base is always current and accurate.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;The Impact Maker&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Enablement Impact: Go beyond delivery by actively measuring the effectiveness of technical enablement programs. Use field data, engagement metrics, and audience feedback to drive constant improvement, optimizing for technical proficiency and quantifiable success in the field.&lt;/li&gt; &lt;li&gt;Stakeholder Consultant: You are the face of and strategic thought leader for technical enablement for our internal audiences. You build effective relationships with field leaders, individual contributors, supporting teams, and enablement leadership. You are these teams’ trusted advisor in all aspects of technical enablement.&lt;/li&gt; &lt;/ul&gt;&lt;div class=\"content-pay-transparency\"&gt;&lt;div class=\"pay-input\"&gt;&lt;div class=\"description\"&gt;&lt;p&gt;&lt;span style=\"font-size: 16px;\"&gt;&lt;span style=\"font-size: 18px;\"&gt;&lt;strong&gt;&lt;span data-contrast=\"auto\"&gt;Compensation + Benefits&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;span data-ccp-props=\"{&amp;quot;335559731&amp;quot;:0}\"&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;Compensation for this full-time position includes base salary + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.&lt;/p&gt; &lt;p&gt;Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about &lt;a href=\"https://careers.google.com/benefits/\"&gt;benefits at Google&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;The US base salary range for this full-time position is listed below.&lt;/p&gt;&lt;/div&gt;&lt;div class=\"title\"&gt;US Base Pay Range&lt;/div&gt;&lt;div class=\"pay-range\"&gt;&lt;span&gt;$136,000&lt;/span&gt;&lt;span class=\"divider\"&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$185,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\"content-conclusion\"&gt;&lt;p&gt;&lt;em&gt;&lt;span class=\"TextRun SCXW149741735 BCX0\" lang=\"EN-US\" data-contrast=\"auto\"&gt;&lt;span class=\"NormalTextRun SCXW149741735 BCX0\"&gt;Applicants must have the legal right to work in the country where the position is based,&amp;nbsp;&lt;/span&gt;&lt;span class=\"NormalTextRun SCXW149741735 BCX0\"&gt;without the need for&lt;/span&gt; &lt;span class=\"NormalTextRun SCXW149741735 BCX0\"&gt;visa &lt;/span&gt;&lt;span class=\"NormalTextRun SCXW149741735 BCX0\"&gt;sponsorship.&lt;/span&gt; &lt;span class=\"NormalTextRun SCXW149741735 BCX0\"&gt;This&lt;/span&gt;&lt;span class=\"NormalTextRun SCXW149741735 BCX0\"&gt; role does not offer&lt;/span&gt; &lt;span class=\"NormalTextRun SCXW149741735 BCX0\"&gt;visa&lt;/span&gt;&lt;/span&gt; &lt;span class=\"TextRun SCXW149741735 BCX0\" lang=\"EN-US\" data-contrast=\"auto\"&gt;&lt;span class=\"NormalTextRun SCXW149741735 BCX0\"&gt;sponsorship&lt;/span&gt;&lt;span class=\"NormalTextRun SCXW149741735 BCX0\"&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/em&gt;&lt;/p&gt; &lt;p&gt;Wiz is an equal opportunity employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics.&amp;nbsp;&lt;/p&gt; &lt;p&gt;By submitting your application, you acknowledge that Wiz will process your personal data in accordance with &lt;a href=\"https://www.wiz.io/legal/privacy\" target=\"_blank\"&gt;Wiz's Privacy Policy.&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;",
+    "summary": "The Senior Technical Enablement Program Manager owns the creation and delivery of technical enablement programs for technical field teams. Responsibilities include translating cloud security and product changes into implementation playbooks, troubleshooting guides, documentation, training sessions, and measurable enablement programs while coordinating with technical leadership, Product, Operations, and other cross-functional teams.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Leadership",
+      "Initiative",
+      "Collaboration",
+      "Attention to Detail"
+     ],
+     "primary_skills": [
+      "Technical Enablement",
+      "Technical Program Management",
+      "Cloud Security",
+      "Program Management",
+      "Project Management",
+      "Executive Engagement",
+      "Cross-functional Collaboration",
+      "Technical Troubleshooting",
+      "Technical Documentation",
+      "Performance Measurement"
+     ],
+     "secondary_skills": [
+      "Technical Sales Enablement",
+      "Solution Architecture",
+      "Professional Services",
+      "Technical Support",
+      "API Documentation",
+      "Content Development",
+      "Product Marketing",
+      "Rapid Prototyping",
+      "Knowledge Management",
+      "Configuration Management"
+     ]
+    },
+    "benefits": [
+     "performance_bonuses",
+     "stock_options_equity",
+     "other_benefits"
+    ],
+    "salary": {
+     "max": 185000,
+     "min": 136000,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 5,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790007964,
+    "expiresAt": null,
+    "applyUrl": "https://www.wiz.io/careers/job/4705217006/:title?gh_jid=4705217006",
+    "status": "active",
+    "companies": [
+     {
+      "name": "Wiz",
+      "website": "wiz.io"
+     }
+    ]
+   },
+   {
+    "id": "a840d289-e8ad-4c33-90ba-cddc948feddb",
+    "title": "Sr. Sap Basis / Netweaver Admin",
+    "description": "<p><strong>Position Overview:</strong></p><p>Protera is seeking a <strong>Sr. SAP Basis / NetWeaver Admin</strong> to join our dynamic team. This role is vital in ensuring the smooth operation of our SAP environments, focusing on system administration, performance optimization, and effective management of SAP landscapes. The ideal candidate will be well-versed in SAP Basis administration and will be instrumental in supporting cloud-based SAP solutions on platforms like AWS, Azure, and Google Cloud. This position will also involve collaborating with cross-functional teams to enhance service delivery and customer satisfaction.</p><p><strong>Key Responsibilities:</strong></p><ul><li>Administer and maintain SAP landscapes ensuring optimal performance and availability.</li><li>Handle the installation, configuration, and upgrades of SAP systems, including S/4 HANA and other Business Suite products.</li><li>Provide technical expertise and support during SAP migrations to cloud environments.</li><li>Monitor system performance, troubleshooting issues proactively to minimize downtime.</li><li>Implement and support SAP Fiori applications and ensure smooth operations of the SAP ecosystem.</li><li>Work closely with development and application teams to address technical challenges.</li><li>Manage backup, recovery, and disaster recovery operations ensuring compliance with company policies.</li><li>Create and maintain system documentation and technical procedures to support operations.</li><li>Act as a point of contact for customer issues and be involved in change management processes.</li><li>Mentor junior staff and contribute to the team's knowledge base.</li></ul><p><strong>Requirements</strong></p><p><strong>Qualifications Needed:</strong></p><ul><li>5-8 years of experience in SAP Basis administration, with substantial knowledge of NetWeaver.</li><li>Deep understanding of SAP cloud solutions, including AWS, Azure, or GCP.</li><li>Experience with SAP Business Suite implementations, particularly S/4 HANA.</li><li>Strong troubleshooting skills with the ability to analyze system performance issues.</li><li>Proficiency in database management, including Oracle, MSSQL, or HANA.</li><li>Excellent communication skills, both verbal and written, to collaborate with technical and non-technical teams.</li><li>Ability to work independently and manage multiple tasks effectively.</li><li>Certifications related to SAP Basis or HANA are a plus.</li></ul><p><strong>Preferred Attributes:</strong></p><ul><li>Experience in cloud migration projects and SAP Managed Services.</li><li>Strong analytical and problem-solving skills to address complex technical issues.</li><li>A proactive approach to staying current with SAP technologies and best practices.</li></ul><p><strong>Educational Background:</strong></p><ul><li>Bachelor's degree in Computer Science, Information Technology, or a related field.</li></ul><p><strong>Benefits</strong></p><p>Protera offers a variety of health and wellbeing programs. Benefit options include two PPO Medical plans, Dental, Vision, Health Savings Account, Flexible Spending Accounts, Dependent Care FSA, 401k retirement savings plan, company paid Life Insurance, Flexible PTO policy, Paid Holidays.</p>",
+    "summary": "Protera is seeking a Senior SAP Basis / NetWeaver Administrator to administer, maintain, and optimize SAP landscapes, including S/4HANA and Business Suite environments. The role supports SAP cloud solutions and migrations across AWS, Azure, and Google Cloud, manages performance, backup and recovery, troubleshooting, and disaster recovery, and collaborates with technical teams and customers while mentoring junior staff.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Problem-solving",
+      "Adaptability",
+      "Time Management",
+      "Mentorship"
+     ],
+     "primary_skills": [
+      "SAP Basis Administration",
+      "SAP NetWeaver",
+      "SAP S/4HANA",
+      "SAP Business Suite",
+      "SAP Cloud Solutions",
+      "Cloud Migration",
+      "SAP Fiori",
+      "Database Management",
+      "Oracle Database",
+      "Microsoft SQL Server"
+     ],
+     "secondary_skills": [
+      "SAP Managed Services",
+      "Google Cloud Platform",
+      "SAP Basis Certification",
+      "SAP HANA Certification",
+      "Disaster Recovery",
+      "Backup and Recovery"
+     ]
+    },
+    "benefits": [
+     "health_insurance",
+     "dental_insurance",
+     "vision_care",
+     "pensions_401k",
+     "life_insurance",
+     "flexible_work_hours",
+     "paid_time_off_vacation_personal_days",
+     "other_benefits"
+    ],
+    "salary": null,
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 5,
+    "educationRequirement": {
+     "required": [
+      "bachelor_degree"
+     ],
+     "preferred": []
+    },
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1789948800,
+    "expiresAt": null,
+    "applyUrl": "https://apply.workable.com/j/B6C430798B",
+    "status": "active",
+    "companies": [
+     {
+      "name": "protera.com",
+      "website": "protera.com"
+     }
+    ]
+   },
+   {
+    "id": "522496e5-d0df-432c-98d3-6be811b7c344",
+    "title": "Tier 1 Technical Support Representative",
+    "description": "<p><b>Tier 1 Technical Support Representative Day Shift - 40 hours/week</b></p><p><b>$18/hour</b></p><p><b>Shifts:</b></p><p><b>Training Monday – Friday 7am – 4pm – Approx. 4 weeks</b></p><p><b>Permanent Shifts:</b></p><p><b>Monday – Friday 8am – 5pm</b></p><p><b>Or </b></p><p><b>Sunday – Thursday 10am – 7pm</b></p><p><b>General Job Description</b>:</p><p>The Tier 1 Technical Support Representative will support our national and local Enterprise Business accounts by troubleshooting and/or resolving customer calls or cases by following set processes in an ever-changing environment. This position must be able to adapt to changes quickly. The Tier 1 Technical Support Representative is detail oriented, extremely well organized, and can communicate well with others. This position should be able to work independently, act professionally in all aspects of this position, and work in an environment that can be very fast paced and challenging.</p><p><b>Essential Functions</b>:</p><p>Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.</p><ul><li>Answer inbound GPS troubleshooting calls (20-25 daily est.)</li><li>Respond to inbound GPS troubleshooting emails, cases (20-30 daily est.)</li><li>Track all troubleshooting activities in CRM system – Sales Force</li><li>Must be able to work multiple systems at a time efficiently while on a call or working cases</li><li>Learn, understand, and support multiple products and services within a technical support department</li><li>Manage multiple support cases at one time as well as</li><li>Meet support SLA’s and provide superior customer support</li><li>Follow Knowledge Base Articles / create Technical Notes</li><li>Work with support and/or product development personnel to troubleshoot and workaround product issues</li><li>Advocate for the client to ensure timely and accurate issue resolution.</li><li>Document and track client interactions and resolutions.</li><li>Continuously improve knowledge of the company's products and services.</li></ul><div><p><b>Job Requirements</b></p></div><p><b>Knowledge, Skills and Abilities</b>:</p><ul><li>Excellent troubleshooting and customer service skills, including strong follow-up and the ability to examine, investigate, and solve dynamic problems with creative, out-of-the-box thinking.</li><li>Good technical skills in Windows, Microsoft Office (particularly Excel), and CRM (Salesforce preferred), with a commitment to proactively staying current on the underlying technologies.</li><li>Able to multitask across multiple computer applications at the same time to log and resolve support cases, and to adapt quickly to change.</li><li>Able to listen, comprehend, and communicate effectively and clearly \"on the fly.\"</li><li>Recognize and escalate difficult technical / business issues within the Sales, Customer Support, and Engineering organizations.</li><li>Highly self-motivated, able to prioritize both time, cases and projects and work independently as well as with a team.</li><li>Scheduling flexibility (support department will run 24x7).</li></ul><p><b>Education and Experience</b>:</p><ul><li>1-3+ years high-tech customer support experience in a fast-paced environment</li></ul><p><b>Supervisory Responsibility</b></p><p>None</p><p><b>Work Environment</b></p><p>This job operates in a clerical, office setting. Noise level is typically moderate. This role routinely uses standard office equipment such as computers, phones, filing cabinets, copiers, scanners and fax machines.</p><p><b>Physical Demands</b></p><p>The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job.</p><p>While performing the duties of this job, the employee is regularly required to talk or hear. The employee is frequently required to stand; walk; use hands to finger, handle or feel; and reach with hands and arms. The employee is occasionally required to sit; climb or balance; and stoop, kneel, crouch or crawl. The employee must frequently lift and move up to 10 pounds and occasionally lift and move up to 25 pounds. Specific vision abilities required by this job include close vision, distance vision, color vision, peripheral vision, depth perception and ability to adjust focus.</p><p><b>Position Type/Expected Hours of Work</b></p><p>This is a full-time position with a schedule that varies but will typically involve approximately 40 hours a week. Hours are subject to change at the company’s discretion.</p><p><b>Travel</b></p><p>Little to no travel is expected for this position.</p><p><b>Other Duties</b></p><p>Please note this job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee for this job. Duties, responsibilities and activities may change at any time with or without notice.</p><p><br>Requirements:<br>- Bachelor's degree in Computer Science or a related field, or relevant experience.<br>- 1+ year(s) of experience in customer service or technical support role.<br>- Excellent communication and interpersonal skills.<br>- Proven problem-solving and critical-thinking abilities.<br>- Ability to work independently and in a team environment.</p>",
+    "summary": "The Tier 1 Technical Support Representative provides technical support to enterprise business customers by troubleshooting inbound calls, emails, and support cases involving GPS products and services. The role documents interactions in Salesforce, manages multiple cases, meets support SLAs, escalates complex issues, and collaborates with support and product development teams.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressRegion": "Arizona",
+      "addressCountry": "US",
+      "addressLocality": "Remote - Arizona"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Adaptability",
+      "Problem-solving",
+      "Time Management",
+      "Teamwork"
+     ],
+     "primary_skills": [
+      "Technical Support",
+      "Troubleshooting",
+      "Customer Service",
+      "Windows",
+      "Microsoft Office",
+      "Microsoft Excel",
+      "Salesforce",
+      "Customer Relationship Management",
+      "Knowledge Base Management",
+      "Service Level Agreement Management"
+     ],
+     "secondary_skills": [
+      "GPS Technology",
+      "Technical Documentation",
+      "Product Support",
+      "Case Management",
+      "CRM Systems"
+     ]
+    },
+    "benefits": [],
+    "salary": {
+     "max": 18,
+     "min": 18,
+     "period": "hourly",
+     "currency": "USD"
+    },
+    "experienceLevel": "entry",
+    "employmentType": "full_time",
+    "minYearsExperience": 1,
+    "educationRequirement": {
+     "required": [
+      "bachelor_degree"
+     ],
+     "preferred": []
+    },
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1789948800,
+    "expiresAt": null,
+    "applyUrl": "https://harriscomputer.wd3.myworkdayjobs.com/en-US/1/job/Arizona-United-States/Tier-1-Technical-Support-Representative_R0046653",
+    "status": "active",
+    "companies": [
+     {
+      "name": "Harris Computer",
+      "website": "harriscomputer.com"
+     }
+    ]
+   },
+   {
+    "id": "8a60545f-fc9c-415b-af2f-4e4d9c432e35",
+    "title": "Technical Support Analyst",
+    "description": "<h2>Company Description</h2><p>Privia Health™ is a technology-driven, national physician enablement company that collaborates with medical groups, health plans, and health systems to optimize physician practices, improve patient experiences, and reward doctors for delivering high-value care in both in-person and virtual settings. The Privia Platform is led by top industry talent and exceptional physician leadership, and consists of scalable operations and end-to-end, cloud-based technology that reduces unnecessary healthcare costs, achieves better outcomes, and improves the health of patients and the well-being of providers</p><h2>Job Description</h2><p>The Technical Support Analyst is a customer-facing role that offers a unique opportunity to enhance skill sets and work across a wide range of customer experience and technology services. This position is responsible for providing hardware, software, and general systems support for end-user computers and endpoint protection services. This is a fully remote position and plays a crucial role in supporting the Care Center's end-user devices. The ideal candidate is innovative, energetic, adaptable to new processes and procedures, and can effectively handle a high volume of requests while maintaining quality support.</p><ul><li>Responding to high volume inquiries via email, phone, and other communication channels.</li><li>Provide hardware, software, and general systems support for end-users computers. Troubleshoot issues and provide timely resolutions to customers in a professional and customer-focused manner.</li><li>Assisting care center staff with technology systems such as athenaNet, Privia Connect, Salesforce, and other software</li><li>Collaborating with cross-functional teams on projects, tasks, and cases</li><li>Showcase effective case management by resolving a high volume of diverse case types, ensuring timely and effective resolution while maintaining clear communication and adherence to established guidelines and service level agreements.</li><li>Participating in the implementation of new care centers and providing technical assistance remotely.</li><li>Identify opportunities to improve existing processes and procedures. Actively contribute to the development and implementation of new support methodologies. Identify and report common issues and trends to management</li><li>Consistently meet call center productivity and quality standards.</li><li>Accurately document all customer interactions, technical solutions, and issue resolutions in the designated knowledge base or ticketing system.</li><li>Stay up to date with the latest technology trends, industry best practices, and product knowledge. Continuously enhance personal expertise.</li></ul><h2>Qualifications</h2><ul><li>Education: High school diploma is required. Associate's degree or equivalent work experience is preferred.</li><li>Work Experience: 1+ years of work-related experience. Experience in healthcare is preferred.</li><li>Remote Work Experience: Experience working in a remote workforce culture is a plus.</li><li>Technical Skills: Strong understanding of Google Apps, NinjaOne, Salesforce, and experience with iOS, Android, Windows, and Desktop Mac systems. Familiarity with networking concepts is a plus.</li><li>Customer Focus: Strong customer service and communication skills. Ability to interact professionally with customers to gather information and provide technical assistance.</li><li>Adaptability: Ability to quickly adapt to changing processes, procedures, and technologies in a fast-paced environment.</li><li>Problem-Solving: Excellent problem-solving skills, with the ability to research, analyze, and resolve complex technical issues.</li><li>Productivity: Proven ability to maintain high levels of productivity while delivering quality support and meeting defined SLAs.</li><li>Team Player: Collaborative mindset and willingness to work with cross-functional teams to resolve issues and contribute to the overall success of the organization.</li><li>Documentation Skills: Strong documentation skills to accurately record customer interactions, technical solutions, and issue resolutions.</li><li>Continuous Learning: Passion for learning and staying up to date with the latest technology trends and industry best practices.</li><li>HIPAA Compliance: Understanding and ability to comply with all HIPAA rules and regulations.</li></ul><p><em>The hourly range for this role is $20.00 to $25.00 in base pay and exclusive of any bonuses or benefits (medical, dental, vision, life, and pet insurance, 401K, paid time off, and other wellness programs)</em><em>. This role is also eligible for an annual bonus targeted at 10%. The base pay offered will be determined based on relevant factors such as experience, education, and geographic location.</em></p><h2>Additional Information</h2><p>All your information will be kept confidential according to EEO guidelines.</p><p><strong>﻿Technical Requirements (for remote workers only, not applicable for onsite/in office work):</strong></p><p><strong>In order to successfully work remotely, supporting our patients and providers, we require a minimum of 5 MBPS for Download Speed and 3 MBPS for the Upload Speed. This should be acquired prior to the start of your employment. The best measure of your internet speed is to use online speed tests like <a href=\"https://www.speedtest.net/\">https://www.speedtest.net/</a>. This gives you an update as to how fast data transfer is with your internet connection and if it meets the minimum speed requirements. Work with your internet provider if you have questions about your connection. Employees who regularly work from home offices are eligible for expense reimbursement to offset this cost.</strong></p><p>Privia Health is committed to creating and fostering a work environment that allows and encourages you to bring your whole self to work. We understand that healthcare is local and we are better when&nbsp;our people are a reflection of the communities that we serve. Our goal is to encourage people to pursue all opportunities regardless of their age, color, national origin, physical or mental (dis)ability, race, religion, gender, sex, gender identity and/or expression, marital status, veteran status, or any other characteristic protected by federal, state or local law.</p>",
+    "summary": "The Technical Support Analyst provides remote, customer-facing hardware, software, and systems support for end-user computers and endpoint protection services. Responsibilities include troubleshooting and resolving high-volume technical requests, supporting healthcare technology platforms, documenting cases, collaborating cross-functionally, assisting with care-center implementations, and maintaining service and quality standards.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Customer Service",
+      "Communication",
+      "Adaptability",
+      "Problem-solving",
+      "Teamwork"
+     ],
+     "primary_skills": [
+      "Hardware Support",
+      "Software Support",
+      "Systems Support",
+      "Endpoint Protection",
+      "Google Workspace",
+      "NinjaOne",
+      "Salesforce",
+      "iOS",
+      "Android",
+      "Windows"
+     ],
+     "secondary_skills": [
+      "macOS",
+      "Networking",
+      "athenaNet",
+      "Privia Connect",
+      "Case Management",
+      "Service Level Agreement Management",
+      "HIPAA Compliance"
+     ]
+    },
+    "benefits": [
+     "health_insurance",
+     "dental_insurance",
+     "vision_care",
+     "life_insurance",
+     "pet_friendly_office",
+     "pensions_401k",
+     "paid_time_off_vacation_personal_days",
+     "wellness_program",
+     "performance_bonuses",
+     "other_benefits"
+    ],
+    "salary": {
+     "max": 25,
+     "min": 20,
+     "period": "hourly",
+     "currency": "USD"
+    },
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 1,
+    "educationRequirement": {
+     "required": [
+      "high_school"
+     ],
+     "preferred": [
+      "associate_degree"
+     ]
+    },
+    "industry": [
+     "healthcare_medical",
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1789770873,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.smartrecruiters.com/PriviaHealth/744000150465619-technical-support-analyst",
+    "status": "active",
+    "companies": [
+     {
+      "name": "priviahealth.com",
+      "website": "priviahealth.com"
+     }
+    ]
+   },
+   {
+    "id": "14059ee2-dcc3-41c3-823b-e3bc95986461",
+    "title": "IT Support Engineer (hybrid, 90-115k)",
+    "description": "<h1>IT Support Engineer — Global (based in New York)</h1><h2>About Conveo</h2><p>Conveo is an AI-powered qualitative research platform. Our AI moderates real interviews at scale, so insights teams can run qual research with the speed and reach of quant — without losing the depth that makes qual worth doing.</p><p>We've raised a Series A ($50M) and we're headquartered in London, with a team across Belgium and the US. We hold ISO 27001, ISO 27701 and SOC 2 Type II certifications, with ISO 42001 in progress.</p><h2>How we work</h2><ul><li><p><strong>AI-first, genuinely.</strong> We use AI across the whole company, not just in the product.</p></li><li><p><strong>Automate the boring parts.</strong> If a process runs often, it shouldn't be manual.</p></li><li><p><strong>Small team, real ownership.</strong> You'll own systems outright, not a slice of someone else's queue.</p></li><li><p><strong>Distributed by design.</strong> Being in a different time zone from your colleagues shouldn't be a handicap.</p></li></ul><h2>About the role</h2><p>This is a <strong>global IT role, based in New York.</strong></p><p>You'd be the second person on Conveo's IT team, working alongside our IT Manager in London and reporting to him. You'd take day-to-day ownership of support, devices, access and the office - freeing the IT Manager to focus on strategy, security and governance.</p><p>Why New York? Presence and coverage. Our US team is growing, and they should be able to reach someone in their own hours rather than wait for the next London morning. With one of us in each region, IT's combined working day stretches across both.</p><p>You'd inherit a modern stack — Okta with SSO and SCIM, Google Workspace, Iru for macOS management,Notion, 1Password, Vanta and a whole load of Internal AI agents — and a lot of room to shape what comes next.</p><h2>What you'll do</h2><p><strong>Support the team, wherever they are</strong></p><ul><li><p>Be a first point of contact for colleagues across the US, UK and Belgium - patient and clear with people who don't share your technical vocabulary</p></li><li><p>Triage and resolve requests end-to-end, from password resets to complex access problems, fixing causes rather than symptoms</p></li><li><p>When something bigger breaks, drive it to resolution, keep people informed before they ask, and document the root cause</p></li><li><p>Own vendor escalations, and know when to bring in the IT Manager — you'll be the only IT person in your time zone for much of the day</p></li></ul><p><strong>Run identity, access and the employee lifecycle</strong></p><ul><li><p>Administer Okta, Google Workspace, Slack, Notion and 1Password day-to-day</p></li><li><p>Handle access requests through our approval workflow, and keep our SaaS inventory accurate</p></li><li><p>Run onboarding and offboarding end-to-end for any region</p></li></ul><p><strong>Own devices and the office</strong></p><ul><li><p>Manage our macOS fleet through Iru — blueprints, configuration profiles, security baselines — plus BYOD enrolment and hardware lifecycle</p></li><li><p>Help engineers with development environment issues: tooling, permissions, machine setup</p></li><li><p>Own office AV, meeting booths and hardware, and hold the standard that calls start on time without anyone fiddling with cables</p></li><li><p>Shape the office into somewhere people choose to come, because collaborating there is easier than doing it from home</p></li></ul><p><strong>Improve how IT runs</strong></p><ul><li><p>Design the processes that repeat - onboarding, access requests, provisioning</p></li><li><p>Decide what should be automated and what shouldn't. Judgement about where a human needs to approve something matters as much as knowing what can be handed off</p></li><li><p>Build how we track IT work. We don't have a request tracking system and we want one but we don't want to become a ticket-driven company. Visibility not bureaucracy</p></li><li><p>Turn repeat questions into self-service. Write the documentation once — clear internal guides and a knowledge base that colleagues and our helpdesk tooling can both answer from.</p></li></ul><p><strong>Keep IT compliant</strong></p><ul><li><p>Operate the IT controls that sit behind ISO 27001, ISO 27701, SOC 2 and ISO 42001 — access reviews, evidence collection, joiner-mover-leaver records, so audits are seamless rather than a scramble</p></li></ul><ul><li><p>Help answer customer security questionnaires and vendor assessments. Clear, accurate answers about how we actually run things.</p></li></ul><h2>Where this role can grow</h2><p><strong>Security and compliance ownership.</strong> You'd start by supporting our certifications, evidence, access reviews, control operation across ISO 27001, ISO 27701, SOC 2 and ISO 42001, and grow into being accountable for a defined set of controls.</p><p><strong>Deeper identity work.</strong> User lifecycle management, joiner-mover-leaver automation, and access governance and designing the policy and procedures</p><p><strong>AI governance.</strong> Conveo runs on AI internally as well as selling it. There's a growing body of work around how we govern our own agent and tool usage, access, data boundaries, audit trails.</p><p><strong>The automation roadmap.</strong> More say in what gets built and in what order, and eventually owning the decision rather than proposing it.</p><h2>What you bring</h2><p>The stack is learnable. The temperament isn't.</p><ul><li><p><strong>You genuinely like helping people.</strong> Not \"tolerates end users\" — you enjoy unblocking someone and explaining it in a way that leaves them better off. Personable, approachable, empathetic. This is the one we won't compromise on.</p></li><li><p><strong>Meticulous, and calm when things break.</strong> Access provisioning is a security control, not an errand — a sloppy mistake is an incident. You know what to handle yourself and what needs another pair of eyes.</p></li><li><p><strong>Comfortable working across time zones.</strong> Much of your support happens in writing, with colleagues you may rarely meet. You write things down without being chased.</p></li><li><p><strong>You think in processes.</strong> You notice when something's being done the slow way, and can describe a better version clearly enough that someone else could build it.</p></li><li><p><strong>You care about the physical environment.</strong> Working AV and a well-set-up office aren't beneath you — they're most of how people experience IT.</p></li><li><p><strong>Solid IT fundamentals</strong>— macOS, networking basics, SaaS administration — and hands-on experience with an identity provider and Google Workspace. Okta or Entra ID, or a track record of picking things like this up fast.</p></li><li><p><strong>You've run onboarding and offboarding before</strong>— groups, roles, access changes, secure deprovisioning.</p></li><li><p><strong>Comfortable working autonomously</strong> in a fast-changing environment, without a defined procedure for everything.</p></li></ul><h2>Nice to have</h2><ul><li><p>Startup experience — somewhere small and fast-moving, where the answer to \"who owns this?\" was often \"you, now\"</p></li><li><p>Agentic AI — you've used AI agents in your own work and have a view on where they're reliable and where a human still needs to approve</p></li><li><p>Supporting a distributed or multi-country workforce</p></li><li><p>familiarity with SOC 2, ISO 27001, 27701 &amp; 42001</p></li><li><p>Setting up request tracking from scratch, especially somewhere that wanted visibility without bureaucracy</p></li><li><p>An early-stage IT function where the processes were still being built</p></li></ul><h2>Interview process</h2>",
+    "summary": "The IT Support Engineer will provide global support across the US, UK, and Belgium, managing requests, access, devices, onboarding and offboarding, office technology, and vendor escalations. The role also involves improving IT processes, documentation, automation, request tracking, and compliance controls supporting ISO and SOC certifications.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressRegion": "New York",
+      "addressCountry": "US",
+      "addressLocality": "New York"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Empathy",
+      "Problem-solving",
+      "Autonomy",
+      "Adaptability"
+     ],
+     "primary_skills": [
+      "macOS Administration",
+      "Networking",
+      "SaaS Administration",
+      "Identity and Access Management",
+      "Okta",
+      "Google Workspace",
+      "Onboarding and Offboarding",
+      "Access Provisioning",
+      "Device Management",
+      "IT Process Automation"
+     ],
+     "secondary_skills": [
+      "Microsoft Entra ID",
+      "Slack Administration",
+      "Notion Administration",
+      "1Password Administration",
+      "Agentic AI",
+      "SOC 2",
+      "ISO 27001",
+      "ISO 27701",
+      "ISO 42001",
+      "Request Tracking"
+     ]
+    },
+    "benefits": [],
+    "salary": {
+     "max": 115000,
+     "min": 90000,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "mid",
+    "employmentType": "full_time",
+    "minYearsExperience": null,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1789730848,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/conveo/12f48f51-cd67-450b-9017-907d097a26c2",
+    "status": "active",
+    "companies": [
+     {
+      "name": "Conveo.ai",
+      "website": "conveo.ai"
+     }
+    ]
+   }
+  ],
+  "meta": {
+   "count": 15,
+   "hasMore": false,
+   "requestTimeMs": 289,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

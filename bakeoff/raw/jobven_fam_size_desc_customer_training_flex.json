@@ -1,0 +1,175 @@
+{
+ "call_id": "fam_size_desc_customer_training_flex",
+ "phase": "family",
+ "url": "https://api.jobven.com/v1/public/jobs?q=-%22account+executive%22+-%22account+manager%22+-%22sales+representative%22+-%22sales+manager%22+-%22customer+service+representative%22+-%22help+desk%22+-%22customer+success+manager%22+-%22support+specialist%22&descriptionQuery=customer+training&country=US&remoteType%5B%5D=remote&remoteType%5B%5D=flexible&postedAfter=1789702200&limit=1&includeTotal=true",
+ "params": [
+  [
+   "q",
+   "-\"account executive\" -\"account manager\" -\"sales representative\" -\"sales manager\" -\"customer service representative\" -\"help desk\" -\"customer success manager\" -\"support specialist\""
+  ],
+  [
+   "descriptionQuery",
+   "customer training"
+  ],
+  [
+   "country",
+   "US"
+  ],
+  [
+   "remoteType[]",
+   "remote"
+  ],
+  [
+   "remoteType[]",
+   "flexible"
+  ],
+  [
+   "postedAfter",
+   1789702200
+  ],
+  [
+   "limit",
+   1
+  ],
+  [
+   "includeTotal",
+   "true"
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:28:28 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "transfer-encoding": "chunked",
+  "connection": "close",
+  "server": "cloudflare",
+  "vary": "Accept-Encoding",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "d14844a4-d700-4133-8973-2445cb4e04cc",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2319",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "432",
+  "etag": "W/\"2025-oDi+T6t/MpbObq0Z0yVqtwXw/0U\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=3%2BJkMgCZTFM1UfVkuSrILdzYlKQHnA0cFz%2FcQl0bIT6cFDdJulKCZEzIV0WPi0zUwBWNYJk9XofSwVyYinmoB0wNboBMaBPnYpzm3%2BafTYJXg%2FpeYG7yuPFn3pV8PhjBFEiJSZcIWS3WXBI4Rw%3D%3D\"}]}",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "cf-ray": "a406f0621c2c499b-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "id": "f5687a16-c327-4b5c-970d-7db2785a5947",
+    "title": "Manufacturing Engineering Trainee - Iiot Service Specialist",
+    "description": "<p><strong>Job Title:</strong> Manufacturing Engineering Trainee - IIoT Service Specialist</p><p><strong>Location:</strong> Kansas City, MO; Crossville, TN; Dallas, TX</p><p><strong>Reports to:</strong> Director of IIoT &amp; Services</p><p><strong>Employment Type:</strong>&nbsp;Full Time</p><p><strong>Industry:</strong>&nbsp;Manufacturing | Mechanical Power Transmission Components | Engineering Services</p><p><strong>Job Function:</strong> IIoT Product Support | Technical Advising</p><p><strong>Job Summary:</strong></p><p>The Manufacturing Engineering Trainee (MET) is an entry-level manufacturing engineering position tailored for high-potential future leaders of Dodge® Industrial. This program will follow a formal and structured rotational training and development program for 1-2 years. This role will include:</p><ul><li>Assigned daily mentorship from a technical and non-technical senior leader.</li><li>Pre-assigned critical hands-on manufacturing projects that aim to eliminate cost and time and improve safety, quality, and on-time delivery.</li><li>Tremendous exposure to all levels of Dodge leadership.</li><li>Rotational opportunity for all Dodge manufacturing facilities and the North American Headquarters.</li><li>In-depth training from all facets of the business (i.e., human resources, supply chain, finance, quality, etc.).</li></ul><p>The IIoT Service Specialist serves as the primary support resource for customers utilizing the OPTIFY™ platform and IIoT solutions. Working closely with the Customer Solutions Center, Sales, Product Management, and Application Engineering teams, this role delivers exceptional customer support, drives customer satisfaction, and helps achieve growth objectives for the IIoT business. The position acts as a trusted advisor, educator, and facilitator, supporting customers throughout their OPTIFY journey while ensuring successful adoption and utilization of IIoT technologies.</p><p><strong>Key Responsibilities:</strong></p><p><strong>Product Related Inquiries</strong></p><ul><li>Serve as the primary technical resource for OPTIFY™ and IIoT solutions, supporting customers, sales teams, and the Customer Solutions Center.</li><li>Provide application guidance, troubleshooting, and solution recommendations while driving customer satisfaction, successful adoption, and long-term business growth through proactive support and engagement.</li></ul><p><strong>Competition</strong></p><ul><li>Maintain awareness of competitive IIoT solutions, market trends, and customer needs to effectively position OPTIFY™, support sales activities, and provide market feedback for continuous product improvement.</li></ul><p><strong>Up-to-date IIoT Resources within Sales Region</strong></p><ul><li>Provide sales teams with the latest OPTIFY™ and IIoT product information, technical support, and market insights while capturing customer feedback to support continuous product improvement and business growth.</li></ul><p><strong>IIoT Field Installation</strong></p><ul><li>Install, commission, and troubleshoot OPTIFY™ and IIoT solutions at customer sites.</li><li>Configure hardware and software, provide customer training, and ensure successful deployment, adoption, and ongoing customer satisfaction.</li></ul><p><strong>Training</strong></p><ul><li>Provide OPTIFY™ and IIoT product training, technical workshops, and customer education programs to support adoption and business growth.</li></ul><p><strong>Drive Product Pull-Through &amp; Interchange</strong></p><ul><li>Conduct reliability assessments and plant surveys to identify OPTIFY™, Intelli-Lube, and Dodge product opportunities.</li><li>Develop recommendations that improve equipment reliability, support product conversions, and drive business growth through data-driven customer insights and professional reporting.</li></ul><p><strong>Required Qualifications:</strong></p><ul><li>Bachelor’s degree in Engineering, Computer Science or related field.</li><li>Strong technical aptitude with a understanding of sensor technologies, industrial communication protocols, and IoT platforms.</li><li>Excellent communication and interpersonal skills, with the ability to effectively engage with internal and external stakeholders at all levels.</li><li>Strong problem-solving skills and the ability to work independently as well as part of a team.</li><li>Ability to multitask and prioritize tasks effectively.</li></ul><p><strong>Physical Requirements:</strong></p><ul><li>Travel to customer sites, tradeshows, and industry events.</li><li>Extended periods of standing, walking, and occasional lifting.</li><li>Overnight travel as needed.</li><li>Able to lift and pull up to 15 lbs.</li><li>Ability to type, reach and grasp.</li><li>Reach, climb, crawl.</li><li>Speak and present in person and virtually to individuals and small groups.</li></ul><p><strong>Essential Job Functions:</strong></p><ul><li>Collaborate and meet with internal teams, including sales, engineering, and customer service, to address customer needs and improve processes.</li><li>Engage with customers to gather feedback, understand use cases, and validate product concepts through user testing and surveys.</li><li>Deliver in-person training programs for internal staff, distributors, and customer</li><li>Conduct market analysis, competitive research, and voice-of-customer studies.</li><li>Collaborate with cross-functional teams to drive product success.</li></ul><p><strong>&nbsp;Why Join Us?</strong></p><ul><li>Work for a collaborative, experienced leadership team.</li><li>Be part of an industry leader with a strong brand reputation and an innovation-driven culture.</li></ul><br>",
+    "summary": "The Manufacturing Engineering Trainee - IIoT Service Specialist supports customers using the OPTIFY platform and IIoT solutions, providing technical guidance, troubleshooting, installations, training, and customer-site support. The role also conducts market and reliability assessments, shares product and competitive insights with sales teams, and collaborates across functions to promote successful adoption and business growth.",
+    "locations": [
+     {
+      "workLocation": "flexible",
+      "addressRegion": "Missouri",
+      "addressCountry": "US",
+      "addressLocality": "Kansas City"
+     },
+     {
+      "workLocation": "flexible",
+      "addressRegion": "Tennessee",
+      "addressCountry": "US",
+      "addressLocality": "Crossville"
+     },
+     {
+      "workLocation": "flexible",
+      "addressRegion": "Texas",
+      "addressCountry": "US",
+      "addressLocality": "Dallas"
+     },
+     {
+      "postalCode": "64030",
+      "workLocation": "flexible",
+      "addressRegion": "Missouri",
+      "addressCountry": "US",
+      "addressLocality": "Grandview"
+     }
+    ],
+    "remoteType": "flexible",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Interpersonal Skills",
+      "Problem-Solving",
+      "Teamwork",
+      "Multitasking"
+     ],
+     "primary_skills": [
+      "Sensor Technology",
+      "Industrial Communication Protocols",
+      "Internet of Things (IoT",
+      "OPTIFY Platform",
+      "Troubleshooting",
+      "Application Guidance",
+      "IIoT Field Installation",
+      "Hardware and Software Configuration",
+      "Customer Training",
+      "Market Analysis"
+     ],
+     "secondary_skills": [
+      "Competitive Research",
+      "Voice of Customer Research",
+      "Reliability Assessment",
+      "Plant Survey",
+      "Technical Workshops",
+      "User Testing",
+      "Survey Design"
+     ]
+    },
+    "benefits": [],
+    "salary": null,
+    "experienceLevel": "entry",
+    "employmentType": "full_time",
+    "minYearsExperience": null,
+    "educationRequirement": {
+     "required": [
+      "bachelor_degree"
+     ],
+     "preferred": []
+    },
+    "industry": [
+     "manufacturing",
+     "technology_software",
+     "consulting_professional"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": true,
+    "travelPercentage": null,
+    "postedAt": 1790208000,
+    "expiresAt": null,
+    "applyUrl": "https://recruiting.ultipro.com/ROL1001RBCAI/JobBoard/323503a8-be53-4e45-a425-31ab5d011434/OpportunityDetail?opportunityId=d0c87e4b-075e-4f57-9593-1af614a4d995",
+    "status": "active",
+    "companies": [
+     {
+      "name": "rbcbearings.com",
+      "website": "rbcbearings.com"
+     }
+    ]
+   }
+  ],
+  "meta": {
+   "total": 12,
+   "count": 1,
+   "nextCursor": "eyJpZCI6ImY1Njg3YTE2LWMzMjctNGI1Yy05NzBkLTdkYjI3ODVhNTk0NyIsInNvcnRWYWx1ZSI6MTc5MDIwODAwMCwidGllQnJlYWtlciI6IjIwMjYtMDktMjRUMjE6Mjg6MjQuODczWiJ9",
+   "hasMore": true,
+   "requestTimeMs": 430,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

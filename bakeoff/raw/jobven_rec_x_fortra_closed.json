@@ -1,0 +1,483 @@
+{
+ "call_id": "rec_x_fortra_closed",
+ "phase": "recall",
+ "url": "https://api.jobven.com/v1/public/jobs?q=%22Offensive+Security%22&status=closed&limit=5",
+ "params": [
+  [
+   "q",
+   "\"Offensive Security\""
+  ],
+  [
+   "status",
+   "closed"
+  ],
+  [
+   "limit",
+   5
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:25:01 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "transfer-encoding": "chunked",
+  "connection": "close",
+  "server": "cloudflare",
+  "vary": "Accept-Encoding",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "824c2bca-025f-45e7-b617-c7a5bda42c2c",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2401",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "44",
+  "etag": "W/\"a005-ShDP63ADbPMF2cWfTn8GkwnQtOY\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=a%2Bc3P6EnxLV9nGcAgjVzOeRvKCELSO5vvtOf%2BwpA4yWn7qHVdoUzAKNUdOUNpAskKTOnLhXts3xcS94TLnCfMbj5ihIv0AQVp6yZz05S8r5J0bYKPlb7OPqv0fdHppHqwOvzyfXwgsleKbqzAg%3D%3D\"}]}",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "cf-ray": "a406eb53b8007ce8-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "id": "dc9ce1e0-bb90-45f1-9734-9c6beaa4448a",
+    "title": "Manager, Offensive Security",
+    "description": "<p><em><strong>We’re building the AI-driven future of customer success, from retention to growth!</strong></em></p><p>We’re building the AI-driven future of customer success, from retention to growth! Gainsight is the AI-powered retention engine behind the world’s most customer-centric companies. The Gainsight CustomerOS platform orchestrates the customer journey from onboarding to outcomes to advocacy. More than 2,000 companies trust Gainsight’s applications and AI agents to drive learning, adoption, community connection, and success for their customers. To explore how our suite of solutions is shaping the future of customer success, check out the <a href=\"https://www.gainsight.com\">link</a>.</p><p><strong>About This Role:</strong></p><p>We’re looking for a full-time Manager, Offensive Security to join our security team reporting to the Chief Security Officer. This role is a remote role based in the United States.</p><p>In this role, you’ll play a key role in by performing Red and Purple Team assessments, including adversarial emulation of cyber attacks against customer organizations, and other technical cyber assessments including external pen testing, web application, mobile, and wireless security testing. You will expand the team’s capabilities through tool creation, research on offensive techniques, incorporation of threat actor intelligence, internal presentations, and knowledge sharing.</p><p>This is a great opportunity for someone who thrives in a high performing growth environment and enjoys working cross-functionally with teams like engineering, IT, legal and product.</p><p><strong>What You'll Do:</strong></p><ul><li><p>Perform red and purple team assessments, assumed breach assessments (e.g., red team engagements with a pre-deployed implant), ransomware readiness reviews (e.g., assessing susceptibility to modern ransomware threats), threat analysis, and social engineering assessments.</p></li><li><p>Conduct external and internal wireless assessments, web and mobile applications testing, and embedded system assessments.</p></li><li><p>Recognize and safely utilize attacker tools, tactics, and procedures.</p></li><li><p>Develop comprehensive and accurate reports and presentations for both technical and executive audiences.</p></li><li><p>Perform offensive technical cyber security engagements of a varied nature.</p></li></ul><p><em>This role may require occasional travel (up to 10%) for team meetings, training, or company events.</em></p><p><em>This is not a complete list of responsibilities, and the scope of the role may evolve with the needs of the team and business.</em></p><p><em><strong>What We're Looking For:</strong></em></p><ul><li><p>5-7 years of relevant experience (or equivalent combination of education and experience), including recent management experience required.</p></li><li><p>5 years of experience with pen testing and red teaming functions, including network, web application, mobile, cloud, social engineering, scripting, or tool development.</p></li><li><p>Experience with tools used for wireless, web application, and network security testing.<br></p></li></ul><p><em><strong>Nice-to-have Skills:</strong></em></p><ul><li><p>Certifications related to offensive security including OSCE, OSEP, OSEE, OSCP, CCSAS, CCT, INF, or relevant SANS courses.</p></li><li><p>Experience implementing or assessing information security implementation or assessment of security controls.</p></li></ul><p><em><strong>Why You’ll Love It Here:</strong></em></p><p>Gainsight is a place where innovation is shaped through collaboration, curiosity, and a shared focus on solving real-world problems. With a growing suite of products across customer success, product experience, community, education, and AI-powered relationship intelligence, we continue to evolve with the needs of our customers. When people with diverse strengths, a strong sense of community, and true passion for our mission come together, they drive greater impact and create lasting value. What underpins it all is a culture that offers the stability, trust, and support that people need - not just to do the job, but to show up as themselves and feel connected to the work they do. Gainsters love working here for several reasons. Here are a few:</p><p><strong>Our Compensation and Benefits:</strong> At Gainsight, we believe great work happens when teammates feel fully supported.</p><ul><li><p>The starting base salary range for this role is $160,000 - $200,000 USD annually. This role is also eligible for commission based on performance and participation in Gainsight’s equity program. Actual compensation may vary based on factors such as skills, experience, and location.</p></li><li><p>We offer a comprehensive benefits package including fully covered medical premiums (employee-only), flexible PTO, 401(k) plan, dental and vision coverage, and remote work options. Additional benefits include a $10,000 lifetime fertility stipend and access to coworking spaces around the globe. You'll also enjoy dedicated Recharge Holidays - one long weekend each quarter to relax and reset.</p></li></ul><p><strong>Our Core Values</strong>: We are guided by our values and our mission to be living proof you can win in business while being <strong>Human-First</strong>. Learn more <a href=\"https://www.gainsight.com/company/\"><u>here</u></a>.</p><p><strong>Our Growth Opportunities</strong>: From mentoring to career development opportunities, we’re passionate about helping our teammates learn, grow, and thrive.</p><p><strong>Our Parody Videos</strong>: No explanation needed. Just watch them <a href=\"https://www.youtube.com/playlist?list=PLB2Z_xLbXPiAcvQr28ggP2CndoSu29zq_\"><u>here!</u></a></p><p><strong>If this sounds like the right role for you, we’d love to hear from you.</strong></p><p><em>Additional Information:</em></p><p><em>We’re committed to creating an inclusive, fair, and transparent hiring process. As an equal opportunity employer, we celebrate diversity and are committed to creating a welcoming experience for all candidates.</em></p><p><em>If you require accommodations or have questions about how your personal data will be used during the hiring process, please contact</em><a href=\"mailto:recruiting@gainsight.com\"><em><u>recruiting@gainsight.com</u></em></a><em>.</em></p><p><em>If you are based in San Francisco, we will consider qualified applicants with arrest and conviction records, in accordance with the San Francisco Fair Chance Ordinance.</em></p>",
+    "summary": "Gainsight is hiring a remote Manager, Offensive Security based in the United States to lead and perform red and purple team assessments, penetration testing, threat analysis, and other offensive security engagements. The role also involves developing tools, researching offensive techniques, producing reports for technical and executive audiences, and collaborating cross-functionally, with occasional travel of up to 10%.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Collaboration",
+      "Communication",
+      "Knowledge Sharing",
+      "Adaptability"
+     ],
+     "primary_skills": [
+      "Red Team Assessment",
+      "Purple Team Assessment",
+      "Penetration Testing",
+      "Network Security Testing",
+      "Web Application Security Testing",
+      "Mobile Security Testing",
+      "Wireless Security Testing",
+      "Social Engineering Assessment",
+      "Cloud Security Testing",
+      "Scripting"
+     ],
+     "secondary_skills": [
+      "Offensive Security Certifications",
+      "OSCE",
+      "OSEP",
+      "OSEE",
+      "OSCP",
+      "CCSAS",
+      "CCT",
+      "SANS Courses",
+      "Security Controls Assessment",
+      "Embedded System Assessment"
+     ]
+    },
+    "benefits": [
+     "pension_401k",
+     "dental_insurance",
+     "vision_care",
+     "paid_time_off_vacation_personal_days",
+     "remote_work_hybrid_work_options",
+     "commission_based_earnings",
+     "stock_options_equity",
+     "other_benefits",
+     "professional_development"
+    ],
+    "salary": {
+     "max": 200000,
+     "min": 160000,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 5,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": true,
+    "travelPercentage": null,
+    "postedAt": 1785427746,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/gainsight/34104cd3-97c4-42cf-8194-bc4b64b7a3a3",
+    "status": "closed",
+    "companies": [
+     {
+      "name": "Gainsight",
+      "website": "gainsight.com"
+     }
+    ]
+   },
+   {
+    "id": "c3a96efc-d793-4dea-97ab-f497e41dad6e",
+    "title": "Sr. Offensive Security Engineer",
+    "description": "<h2><strong>Our Mission</strong></h2><p><strong>SPAN is enabling electrification for all ⚡</strong></p><h2>We are a mission-driven company designing, building, and deploying products that electrify the built environment, reduce carbon emissions, and slow the effects of climate change.</h2><ul><li><p><strong>Decarbonization</strong> is the process to reduce or remove greenhouse gas emissions, especially carbon dioxide, from entering our atmosphere.</p></li><li><p><strong>Electrification</strong> is the process of replacing fossil fuel appliances that run on gas or oil with all-electric upgrades for a cleaner way to power our lives.</p></li></ul><h2>At SPAN, we believe in:</h2><ul><li><p>Enabling homes and vehicles powered by clean energy</p></li><li><p>Making electrification upgrades possible</p></li><li><p>Building more resilient homes with reliable backup</p></li><li><p>Designing a flexible and distributed electrical grid</p></li></ul><h2><strong>The Role</strong></h2><p>We are looking for a hands-on individual with an offensive security engineering mindset to join us as a <strong>Senior Offensive Security Engineer (Threat &amp; Response)</strong> as part of the Security team at SPAN. In this role, you will act as our internal ethical hacker,<strong>conducting full-scope, threat intelligence-informed adversary emulations</strong> across our cloud infrastructure, proprietary applications, and corporate IT assets. We are looking for someone who can continuously simulate real-world cyber attacks to identify vulnerabilities before malicious actors do, while seamlessly leading the full <strong>Technical Incident Response (IR) lifecycle</strong>, from initial triage and containment through to eradication and post-incident recovery, when security events occur.</p><h2><strong>What You’ll Do (Responsibilities)</strong></h2><ul><li><p><strong>Execute full-scope adversary emulations</strong> against any valuable objectives across SPAN's cloud environments , proprietary web/mobile applications, APIs, and corporate IT infrastructure.</p></li><li><p><strong>Lead Technical Incident Response operations</strong> during live security events, leveraging your understanding of attacker TTPs to direct rapid containment, threat eradication, and system recovery.</p></li><li><p><strong>Provide a crucial feedback loop</strong> to our Cloud Infrastructure and Software Engineering teams by translating offensive findings into proactive detection rules and actionable hardening requirements.</p></li><li><p><strong>Own the end-to-end VDP pipeline</strong>, serving as the primary internal owner for our public vulnerability disclosure channel, managing communications with external researchers, and validating incoming reports.</p></li><li><p><strong>Build automated scripts and tools</strong> to streamline continuous internal security testing, vulnerability scanning, and VDP triage workflows</p></li><li><p><strong>Utilize frameworks like MITRE ATT&amp;CK</strong> to design and execute red team scenarios that rigorously test the organization’s live detection capabilities, defense evasion thresholds, and IR readiness.</p></li><li><p><strong>Develop and maintain Incident Response playbooks</strong> and runbooks to standardize our technical response to cloud, application, and infrastructure breaches.</p></li><li><p><strong>Conduct root-cause analysis and digital forensics</strong> post-incident to reconstruct attacker timelines, identify Indicators of Compromise (IoCs), and perform comprehensive post-incident reviews.</p></li></ul><h2><strong>What You’ll Bring (Qualifications)</strong></h2><ul><li><p><strong>Experience:</strong> 6+ years of professional experience in offensive security (penetration testing, red teaming), dedicated technical incident response, or a closely related field.</p></li><li><p><strong>Incident Response (IR) Mastery:</strong> Demonstrated experience executing the full IR lifecycle (e.g., NIST SP 800-61 or SANS frameworks) and managing critical security breaches under high-pressure conditions.</p></li><li><p><strong>DFIR &amp; Log Analysis:</strong> Strong capability in parsing complex log data, analyzing system telemetry, and leveraging forensics techniques to track adversarial movement across a network.</p></li><li><p><strong>Cloud Security:</strong> Advanced hands-on experience exploiting and securing modern cloud infrastructure , containerized environments (<strong>Docker/Kubernetes</strong>), and complex IAM policies.</p></li><li><p><strong>Application Hacking:</strong> Deep technical expertise in web application and API security, including a masterful understanding of the <strong>OWASP Top 10</strong> and complex business logic flaws.</p></li><li><p><strong>Automation &amp; Scripting:</strong> Decent programming proficiency in <strong>Python</strong>,<strong>Go</strong>, or <strong>Bash</strong> for developing custom exploitation tools, automating proofs-of-concept, and parsing security logs.</p></li><li><p><strong>Breaker Mindset:</strong> A proven track record of finding critical vulnerabilities (via bug bounties, VDPs, or professional engagements) paired with the analytical, defensive mindset required to hunt threats and isolate incidents.</p></li></ul><h2>Life at SPAN</h2><p>Headquartered in San Francisco’s vibrant SoMa neighborhood, we are an eclectic group of creative thinkers who value open communication, teamwork, and a ‘make it happen’ approach to addressing complex challenges.&nbsp;</p><p>SPAN embraces diversity and equal opportunity in a serious way. We are committed to building a team that represents a variety of backgrounds, perspectives, and skills.&nbsp;</p><p>We’re hiring talented individuals who are driven by success and are passionate about shaping the future of renewable energy. If that sounds like you, we’d love for you to consider joining the rapidly growing team at SPAN.</p><p><strong>The Perks:</strong></p><p>⚡ Competitive compensation + equity grants at a well-funded, venture-backed company</p><p>⚡ Comprehensive benefits: 100% employee premiums for base plans on medical, dental, vision with options for additional coverage.&nbsp; Parental leave up to twenty four (24)&nbsp; weeks depending on eligibility</p><p>⚡ Comfortable, sunny office space located near BART and Caltrain public transit</p><p>⚡ Strong focus on team building and company culture: Employee Resource Groups, monthly social events, SPANcakes recognition breakfast, lunch, and learns</p><p>⚡ Flexible hours, one holiday per month, and flexible time off</p><p>Interested in joining our team? Apply today and we’ll be in touch with the next steps!</p>",
+    "summary": "SPAN is seeking a Senior Offensive Security Engineer to act as an internal ethical hacker, conducting full-scope adversary emulations and leading technical incident response operations. The role involves simulating real-world cyber attacks, managing security incidents from triage to recovery, and providing feedback to engineering teams to enhance detection and hardening.",
+    "locations": [
+     {
+      "workLocation": "onsite",
+      "addressRegion": "California",
+      "addressCountry": "US",
+      "addressLocality": "San Francisco"
+     }
+    ],
+    "remoteType": "onsite",
+    "skills": {
+     "soft_skills": [
+      "Teamwork",
+      "Problem-Solving",
+      "Adaptability",
+      "Communication",
+      "Leadership"
+     ],
+     "primary_skills": [
+      "Penetration Testing",
+      "Red Teaming",
+      "Incident Response",
+      "Digital Forensics",
+      "Cloud Security",
+      "Container Security",
+      "Application Security",
+      "OWASP Top 10",
+      "IAM Policies",
+      "Automation Scripting"
+     ],
+     "secondary_skills": [
+      "Python",
+      "Go",
+      "Bash",
+      "Vulnerability Disclosure Programs",
+      "Threat Intelligence",
+      "MITRE ATT&CK",
+      "Log Analysis",
+      "System Telemetry",
+      "Forensic Techniques"
+     ]
+    },
+    "benefits": [
+     "health_insurance",
+     "dental_insurance",
+     "vision_care",
+     "mental_health_support",
+     "parental_leave",
+     "flexible_work_hours",
+     "remote_work_hybrid_work_options",
+     "company_events_retreats",
+     "employee_discounts",
+     "stock_options_equity"
+    ],
+    "salary": null,
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 6,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1780526351,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/span/2d9d5520-ed92-4e47-938c-aa664d9f5f01",
+    "status": "closed",
+    "companies": [
+     {
+      "name": "span.io",
+      "website": "span.io"
+     }
+    ]
+   },
+   {
+    "id": "6871f5e1-55be-44b7-b454-4e281dae3f12",
+    "title": "Senior Offensive Security Engineer",
+    "description": "<h2>Company Description</h2><p>Experian is a global data and technology company, powering opportunities for people and businesses around the world. We help to redefine lending practices, uncover and prevent fraud, simplify healthcare, create marketing solutions, and gain deeper insights into the automotive market, all using our unique combination of data, analytics and software. We also assist millions of people to realize their financial goals and help them save time and money.</p><p>We invest in people and new advanced technologies to unlock the power of data. As a FTSE 100 Index company listed on the London Stock Exchange (EXPN), we have a team of 22,500 people across 32 countries. Our corporate headquarters are in Dublin, Ireland. Learn more at experianplc.com.</p><p><strong>Internal Grade D/EB8</strong></p><h2>Job Description</h2><p>Experian's Offensive Security team charges itself with improving the organisation's security posture through clarifying risk and verifying the efficacy of our technical, people, physical and process controls from an attacker perspective. The team perform regular Adversary Simulation (Red Team) testing and a range of Ad-Hoc and Tactical Assessments based on changes to the threat landscape and organisational needs.</p><p>To succeed in this role, you have breadth and depth of knowledge in security. This knowledge will include operating systems, networking and protocols, firewalls, databases, and middleware applications. Additionally, you will have expertise in forensics, scripting and programming, vulnerabilities, and the usage of GenAI / social engineering techniques.</p><p>This is a Hybrid, Nottingham or London based role (40% in office) reporting to the Head of Offensive Security.</p><p><strong>Responsibilities</strong></p><ul><li>Collaborate with other teams within the Cyber Fusion Centre and the wider organisation. This ensures that we understand and articulate Cyber Risks in a threat-informed manner. The ultimate goal is to contribute to the successful defense of the organisation.</li><li>Support Offensive Security's engagement at multiple organizational levels, from senior leaders to technical analysts to help improve risk understanding and verify the efficacy of remediation/mitigative actions.</li><li>Participate in performing physical exploitation, network exploitation and social engineering assessments against authorized targets.</li><li>Use CyberThreat Intelligence, Offensive Security Research, previous Adversary Simulation (Red Team) findings and internal risk intelligence to develop test cases demonstrating TTP effectiveness against Experian's control environment.</li><li>Research and stay up to date with the latest cyber threats, attack vectors and attacker methodologies.</li><li>Develop scripts, tools and methodologies to increase Offensive Security's capabilities and educate other team members around automation and AI.</li><li>Use MITRE ATT&amp;CK Framework and other structured attack analysis tools to describe and classify attacker methodology and significance.</li></ul><h2>Qualifications</h2><p><strong>What your core background is</strong></p><ul><li>Background in offensive security and adversary simulation.</li><li>Detailed knowledge of global cyber threats and the procedures used by cyber adversaries.</li><li>Two or more of the following skills:<ul><li>Network penetration testing and manipulation of network infrastructure</li><li>Web application penetration testing assessments</li><li>Email, phone, or physical social-engineering assessments</li><li>Development, extension, or modifying of exploits, shecode or exploit tools</li><li>Covert physical intrusion</li><li>Cloud security or penetration testing (any major provider)</li><li>AI Red Teaming/Testing and usage of Agentic AI for automation.</li></ul></li><li>Industry certifications such as OSCP, OSCE, OSWE, GPEN, GCIH, GWAPT, or GXPN or equivalent experience.</li></ul><p><strong>Specialist skills:</strong></p><ul><li>Proficient in attacker tooling, including post-exploitation frameworks and tooling.</li><li>Proficient in any of following programming languages (C, C++, C#, Python, PowerShell, Bash, or Ruby)</li><li>Proficient in Social Engineering techniques across OSINT, phishing, vishing and impersonation.</li><li>Knowledge of current cloud attack methodologies and mitigations.</li><li>Experience of Windows Operating System architecture and internals and use thereof in an enterprise environment.</li><li>Core Information Technology concepts such as TCP/IP networking, Windows &amp; Active Directory, Unix/Linux, Mainframe, Cloud Service Providers, Relational Databases, Data Warehouses, and filesystems</li><li>Knowledge of IT technologies and methods to secure them i.e. databases, SharePoint, storage area networks and cloud-based storage.</li></ul><h2>Additional Information</h2><p>Benefits package includes:</p><ul><li>Great compensation package and discretionary bonus plan</li><li>Core benefits include pension, bupa healthcare, sharesave scheme and more</li><li>25 days annual leave with 8 bank holidays and 3 volunteering days. You can purchase additional annual leave.</li></ul><p>Experian is proud to be an Equal Opportunity and Affirmative Action employer. Innovation is an important part of Experian's DNA and practices, and our diverse workforce drives our success. Everyone can succeed at Experian and bring their whole self to work, irrespective of their gender, ethnicity, religion, colour, sexuality, physical ability or age. If you have a disability or special need that requires accommodation, please let us know at the earliest opportunity.</p><p>Experian Careers - Creating a better tomorrow together</p><p><a href=\"https://www.experian.com/careers/\">Find out what its like to work for Experian by clicking here</a></p>",
+    "summary": "This Senior Offensive Security Engineer role involves improving Experian's security posture by conducting Adversary Simulation (Red Team) testing and tactical assessments. Responsibilities include performing physical exploitation, network exploitation, and social engineering assessments, while developing scripts and tools to enhance offensive security capabilities. The role requires deep knowledge of security domains like operating systems, networking, and programming, and contributes to articulating Cyber Risks in a threat-informed manner across the organization.",
+    "locations": [
+     {
+      "postalCode": "NG2",
+      "workLocation": "hybrid",
+      "addressRegion": "England",
+      "streetAddress": "Experian Way",
+      "addressCountry": "GB",
+      "addressLocality": "Nottingham"
+     }
+    ],
+    "remoteType": "hybrid",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Problem-solving"
+     ],
+     "primary_skills": [
+      "Adversary Simulation",
+      "Red Teaming",
+      "Network Penetration Testing",
+      "Web Application Penetration Testing",
+      "Social Engineering",
+      "Exploit Development",
+      "Cloud Security Testing",
+      "AI Red Teaming",
+      "Python",
+      "PowerShell"
+     ],
+     "secondary_skills": [
+      "Forensics",
+      "OSINT",
+      "Vishing",
+      "C",
+      "Bash",
+      "Ruby",
+      "Mainframe",
+      "Data Warehouses"
+     ]
+    },
+    "benefits": [
+     "pensions_401k",
+     "performance_bonuses",
+     "health_insurance",
+     "stock_options_equity",
+     "paid_time_off_vacation_personal_days",
+     "other_benefits"
+    ],
+    "salary": null,
+    "experienceLevel": "mid",
+    "employmentType": "full_time",
+    "minYearsExperience": 3,
+    "educationRequirement": {
+     "required": [],
+     "preferred": [
+      "professional_certificate"
+     ]
+    },
+    "industry": [
+     "finance_banking",
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1773308236,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.smartrecruiters.com/Experian/744000114326527-senior-offensive-security-engineer",
+    "status": "closed",
+    "companies": [
+     {
+      "name": "Experian",
+      "website": "experian.com"
+     }
+    ]
+   },
+   {
+    "id": "2343b011-48f7-4e44-bb86-ad152cbad985",
+    "title": "Senior Offensive Security Engineer (m/f)",
+    "description": "<h2>Company Description</h2><p><strong>At Bosch, we shape the future by inventing high-quality technologies and services that spark enthusiasm and enrich people’s lives. Our promise to our associates is rock-solid: we grow together, we enjoy our work, and we inspire each other.&nbsp;</strong></p><p><strong>Join in and feel the difference!&nbsp;</strong></p><h2>Job Description</h2><p>As a Senior Offensive Security Engineer, you will be a key member of our corporate central monitoring and overseeing team. Your role is to provide expert oversight and ensure the quality and effectiveness of our offensive security activities. You will act as a subject matter expert, guiding the organization in proactively&nbsp;identifying&nbsp;and mitigating complex security threats.&nbsp;</p><p>Your key responsibilities will include:&nbsp;</p><ul><li><p>Quality Assurance: Critically assess multiple penetration test reports from various internal and external teams to ensure the quality, accuracy, and completeness of the findings.&nbsp;</p></li></ul><ul><li><p>Vendor and Team Assessment: Evaluate the efficacy of penetration testing teams and vendors to build a panel of trusted, high-quality security partners.&nbsp;</p></li></ul><ul><li><p>Verification Testing: Be prepared to conduct independent, hands-on penetration tests to&nbsp;validate&nbsp;the quality of assessments performed by other teams.&nbsp;</p></li></ul><ul><li><p>Strategic Guidance: Support the development and implementation of the corporate cybersecurity resilience roadmap by providing an adversarial perspective.&nbsp;</p></li></ul><ul><li><p>Stakeholder Communication: Serve as a key liaison between the central cybersecurity team and business stakeholders, clearly articulating risks and recommendations to peers and senior management.&nbsp;</p></li></ul><ul><li><p>Knowledge Sharing: Interface with development and infrastructure teams to strengthen secure development and operational practices throughout the organization.&nbsp;</p></li></ul><h2>Qualifications</h2><ul><li><p>Industry Experience: 4-8 years of professional industry experience, with at least 5 years dedicated to cybersecurity roles.&nbsp;</p></li></ul><ul><li><p>Core Skills: Extensive, hands-on experience and deep technical knowledge in penetration testing is a primary requirement.&nbsp;</p></li></ul><ul><li><p>Broad Knowledge Base: You should have a wide-ranging security knowledge base, primarily focused on enterprise IT. Preferably, you also have some knowledge of product security and Operational Technology (OT) security.&nbsp;</p></li></ul><ul><li><p>Communication &amp; Presentation: You must have excellent written and verbal communication skills in English, with a proven ability to create high-quality reports and present complex technical findings to both technical and senior management audiences.&nbsp;</p></li></ul><ul><li><p>Analytical Mindset: You&nbsp;possess&nbsp;strong analytical skills to assess reports,&nbsp;identify&nbsp;patterns, and evaluate the effectiveness of security assessments.&nbsp;</p></li></ul><ul><li><p>Learning Mindset: You have a passion for continuous learning and are driven to stay current with the ever-evolving landscape of security threats, vulnerabilities, and mitigation techniques.&nbsp;</p></li></ul><p><strong>Additional&nbsp;or Preferred Qualifications&nbsp;</strong></p><ul><li><p>Relevant industry certifications such as OSCP, GPEN, GWAPT, GXPN, or CISSP are highly desirable.&nbsp;</p></li></ul><ul><li><p>Experience in Red Teaming, threat modeling, or vulnerability research.&nbsp;</p></li></ul><ul><li><p>Familiarity with major cloud platforms (AWS, Azure, GCP) and their security services.&nbsp;</p></li></ul><ul><li><p>Knowledge of cybersecurity frameworks like the MITRE ATT&amp;CK framework.&nbsp;</p></li></ul><ul><li><p>Experience working within a large, global corporate environment.&nbsp;</p></li></ul><h2>Additional Information</h2><p><strong>Bosch’s culture of innovation and digital transformation offers you a fantastic platform to grow your skills and enhance your network. We are dedicated to building a warm, open, transparent, and inclusive work environment for all.</strong></p><p><strong>Work #LikeABosch:</strong></p><ul><li>Employment&nbsp;Contract</li><li>Competitive salary + annual bonus</li><li>Hybrid work with flexible working hours</li><li>Referral Bonus Program</li><li>Copyright costs for IT employees</li></ul><p><strong>Grow #LikeABosch:</strong></p><ul><li>Complex environment of working, professional support and possibility to share knowledge and best practices</li><li>Ongoing development opportunities in a multinational environment</li><li>Broad access to professional trainings (incl. language courses), conferences and webinars</li></ul><p><strong>Live #LikeABosch:</strong></p><ul><li>Private medical care and life insurance</li><li>Cafeteria System with multiple benefits (incl. MultiSport, shopping vouchers, cinema&nbsp;tickets, etc.)</li><li>Prepaid Lunch Card&nbsp;</li><li>Number of benefits for families (for instance summer camps for kids)</li><li>Non-working day on the 31st of December</li></ul>",
+    "summary": "The Senior Offensive Security Engineer will be a subject matter expert responsible for quality assurance of penetration test reports and assessment of security vendors. Key responsibilities include verifying test quality through independent testing and providing adversarial guidance for the corporate cybersecurity resilience roadmap. This role requires extensive hands-on penetration testing knowledge and serving as a liaison between technical teams and senior management stakeholders.",
+    "locations": [
+     {
+      "postalCode": "02-231",
+      "workLocation": "hybrid",
+      "addressRegion": "Województwo Mazowieckie",
+      "streetAddress": "Jutrzenki 105",
+      "addressCountry": "PL",
+      "addressLocality": "Warszawa"
+     }
+    ],
+    "remoteType": "hybrid",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Presentation",
+      "Analytical Thinking",
+      "Continuous Learning"
+     ],
+     "primary_skills": [
+      "Penetration Testing",
+      "Cybersecurity Resilience Roadmap",
+      "Stakeholder Communication",
+      "Secure Development Practices",
+      "Operational Technology Security",
+      "Product Security",
+      "Enterprise IT Security",
+      "Report Creation"
+     ],
+     "secondary_skills": [
+      "AWS Security",
+      "Azure Security",
+      "GCP Security",
+      "Red Teaming",
+      "Threat Modeling",
+      "Vulnerability Research",
+      "MITRE ATT&CK Framework",
+      "OSCP Certification",
+      "GPEN Certification",
+      "CISSP Certification"
+     ]
+    },
+    "benefits": [
+     "performance_bonuses",
+     "flexible_work_hours",
+     "remote_work_hybrid_work_options",
+     "life_insurance",
+     "professional_development",
+     "other_benefits"
+    ],
+    "salary": null,
+    "experienceLevel": "mid",
+    "employmentType": "full_time",
+    "minYearsExperience": 4,
+    "educationRequirement": {
+     "required": [],
+     "preferred": [
+      "master_degree"
+     ]
+    },
+    "industry": [
+     "technology_software",
+     "consulting_professional"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1770040372,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000106832769-senior-offensive-security-engineer-m-f-",
+    "status": "closed",
+    "companies": [
+     {
+      "name": "Bosch Group",
+      "website": "bosch.com"
+     }
+    ]
+   },
+   {
+    "id": "1836e60a-98f3-4617-967c-7c7d50312c88",
+    "title": "Senior Offensive Security Engineer",
+    "description": "<div><p>Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years.</p></div><h3>ABOUT THE TEAM&nbsp;</h3><p>We're seeking an Senior Security Engineer, Offensive Security to grow Anduril's offensive security practice within our Product Security organization. The ideal candidate has a background in software or systems engineering and has pivoted to product or offensive security. They will be able to conduct complex security architecture reviews, understand modern threats and exploits against both hardware and software, and are capable of working hand in hand with engineering teams to build resiliency into Anduril products.</p><h3>ABOUT THE JOB&nbsp;</h3><h4>WHAT YOU’LL DO&nbsp;</h4><ul><li>Assesses security posture of both Anduril built software, hardware and firmware as well as the third party components used in our products</li><li>Provides expertise to other Anduril teams on real-world attack vectors and works with appropriate team members to implement and test mitigations</li><li>Plans for, builds and maintains capabilities needed to execute red team projects</li></ul><h4>REQUIRED QUALIFICATIONS</h4><ul><li>Experience assessing the security posture of everything from web applications to hardware and embedded systems</li><li>Experience leading offensive security engagements</li><li>Experience with assessment of cloud based and containerized environments (AWS, Azure, Kubernetes)</li><li>Experience assessing and improving the the security of mobile devices (Android and/or iOS)</li><li>Experience with one or more programming languages (e.g. Rust, C/C++, Golang, Swift)</li><li>Strong and professional communication skills (written and verbal)</li><li>Eligible to obtain and maintain an active U.S. Secret security clearance</li></ul><h4>PREFERRED QUALIFICATIONS&nbsp;</h4><ul><li>Excels at the above listed requirements</li><li>Experience building custom tooling to assist in offensive security activities</li><li>Experience weaponizing vulnerabilities to provide unique capabilities</li><li>Familiarity with security architectures of robot platforms (consumer or otherwise), aerospace, and physical systems</li><li>Experience developing features for and improving security of mobile applications, networks, or embedded systems</li><li>Familiarity with mobile device exploitation techniques</li><li>Familiarity with anti-tamper and reverse engineering mechanisms</li><li>Regularly builds, tests, and delivers production-ready systems, especially for embedded and/or mobile</li></ul><div><div><div>US Salary Range</div><div><span>$166,000</span><span>—</span><span>$220,000 USD</span></div></div></div><div><p><span>The salary range for this role is an estimate based on a wide range of compensation factors, inclusive of base salary only. Actual salary offer may vary based on (but not limited to) work experience, education and/or training, critical skills, and/or business considerations. Highly competitive equity grants are included in the majority of full time offers; and are considered part of Anduril's total compensation package. Additionally, Anduril offers top-tier benefits for full-time employees, including:</span></p><p><strong><span>Healthcare Benefits&nbsp;</span></strong></p><ul><li><strong><span>US Roles:</span></strong><span>&nbsp;Comprehensive medical, dental, and vision plans at little to no cost to you.</span></li><li><strong><span>UK &amp; AUS Roles:</span></strong><span>&nbsp;We cover full cost of medical insurance premiums for you and your dependents.</span></li><li><strong><span>IE Roles:</span></strong><span>We offer an annual contribution toward your private health insurance for you and your dependents.</span></li></ul><p><strong><span>Additional Benefits</span></strong></p><ul><li><strong><span>Income Protection</span></strong><span>: Anduril covers life and disability insurance for all employees.</span></li><li><strong><span>Generous time off</span></strong><span>: Highly competitive PTO plans with</span><span>a holiday hiatus in December. Caregiver &amp; Wellness Leave is available to care for family members, bond with a new baby, or address your own medical needs.</span></li><li><strong><span>Family Planning &amp; Parenting Support:</span></strong><span>Coverage for fertility treatments (e.g., IVF, preservation), adoption, and gestational carriers, along with resources to support you and your partner from planning to parenting.</span></li><li><strong><span>Mental Health Resources:</span></strong><span>&nbsp;Access free mental health resources 24/7, including therapy and life coaching. Additional work-life services, such as legal and financial support, are also available.</span></li><li><strong><span>Professional Development:</span></strong><span>&nbsp;Annual reimbursement for professional development</span></li><li><strong><span>Commuter Benefits:</span></strong><span>&nbsp;Company-funded commuter benefits based on your region.</span></li><li><strong><span>Relocation Assistance:</span></strong><span>&nbsp;Available depending on role eligibility.</span></li></ul><p><strong><span>Retirement Savings Plan</span></strong></p><ul><li><strong><span>US Roles:</span></strong><span>&nbsp;Traditional 401(k), Roth, and after-tax (mega backdoor Roth) options.</span></li><li><strong><span>UK &amp; IE Roles:</span></strong><span>&nbsp;Pension plan with employer match.</span></li><li><strong><span>AUS Roles:</span></strong><span>&nbsp;Superannuation plan.</span></li></ul><p><span>The recruiter assigned to this role can share more information about the specific compensation and benefit details associated with this role during the hiring process.</span></p><p><span>To view Anduril's candidate data privacy policy, please visit</span><a href=\"https://anduril.com/applicant-privacy-notice/\"><span><span>https://anduril.com/applicant-privacy-notice/</span></span></a><span>.</span></p></div>",
+    "summary": "This role is for a Senior Offensive Security Engineer within the Product Security organization, tasked with expanding the company's offensive security capabilities. Key responsibilities include assessing the security posture of hardware, software, and third-party components, and conducting red team projects. The engineer will provide expertise on attack vectors and collaborate with engineering teams to implement robust mitigations into products.",
+    "locations": [
+     {
+      "workLocation": "onsite",
+      "addressRegion": "Washington",
+      "addressCountry": "US",
+      "addressLocality": "Seattle"
+     }
+    ],
+    "remoteType": "onsite",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Problem-solving"
+     ],
+     "primary_skills": [
+      "Security Posture Assessment",
+      "Cloud Security Assessment",
+      "Container Security Assessment",
+      "Kubernetes Security",
+      "Mobile Device Security Assessment",
+      "Firmware Security Assessment",
+      "Hardware Security Assessment",
+      "Web Application Security Assessment",
+      "Programming",
+      "Red Teaming"
+     ],
+     "secondary_skills": [
+      "Custom Tooling Development",
+      "Vulnerability Weaponization",
+      "Robot Platform Security Architecture",
+      "Aerospace Security Architecture",
+      "Physical Systems Security Assessment",
+      "Mobile Application Security",
+      "Mobile Device Exploitation",
+      "Anti-Tamper Mechanisms",
+      "Reverse Engineering"
+     ]
+    },
+    "benefits": [
+     "health_insurance",
+     "dental_insurance",
+     "vision_care",
+     "life_insurance",
+     "disability_insurance",
+     "paid_time_off_vacation_personal_days",
+     "sick_leave",
+     "parental_leave",
+     "mental_health_support",
+     "professional_development",
+     "relocation_assistance",
+     "pensions_401k"
+    ],
+    "salary": {
+     "max": 220000,
+     "min": 166000,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 5,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": true,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1769621205,
+    "expiresAt": null,
+    "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5036460007?gh_jid=5036460007",
+    "status": "closed",
+    "companies": [
+     {
+      "name": "Anduril",
+      "website": "anduril.com"
+     }
+    ]
+   }
+  ],
+  "meta": {
+   "count": 5,
+   "nextCursor": "eyJpZCI6IjE4MzZlNjBhLTk4ZjMtNDYxNy05NjdjLTdjN2Q1MDMxMmM4OCIsInNvcnRWYWx1ZSI6MTc2OTYyMTIwNSwidGllQnJlYWtlciI6IjIwMjYtMDEtMjhUMjE6MzM6MjEuOTQ2WiJ9",
+   "hasMore": true,
+   "requestTimeMs": 43,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

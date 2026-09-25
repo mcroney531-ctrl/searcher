@@ -1,0 +1,756 @@
+{
+ "call_id": "rec_852195306_title",
+ "phase": "recall",
+ "url": "https://api.jobven.com/v1/public/jobs?q=%22Email+Marketing%22&country=US&postedAfter=1788220800&limit=10",
+ "params": [
+  [
+   "q",
+   "\"Email Marketing\""
+  ],
+  [
+   "country",
+   "US"
+  ],
+  [
+   "postedAfter",
+   1788220800
+  ],
+  [
+   "limit",
+   10
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:20:28 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "transfer-encoding": "chunked",
+  "connection": "close",
+  "server": "cloudflare",
+  "vary": "Accept-Encoding",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "ec0d981a-f9b2-4ba3-94b8-903e51337079",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2465",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "42",
+  "etag": "W/\"13072-TM9WcmOtfiIzhIr39Hp/49h8Ns4\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=gHoSdu%2BVwItWoNi%2Bn%2Fdv1fqNR3r4IqX09xlp%2F94XJDOdoPKCfm04e%2FbOkBAq%2FdmhN8kfarIl1NXkiSQs8trf6poCi6uC%2BvDEXp4md3gXxHUeQIrMS2tS%2FApv8XHCeuzPJsj9OMIxAIAX3HJv9w%3D%3D\"}]}",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "cf-ray": "a406e4ac1b8fae4c-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "id": "827db82e-d1b8-423d-9993-d20897b55c85",
+    "title": "Social Media And Email Marketing Specialist",
+    "description": "<h3>About the Role</h3><p>This role owns social media and email marketing for a fintech wealth planning platform, sitting within the Marketing team and reporting to the Head of Marketing. You will shape how the brand shows up across every channel, turning each post and campaign send into a learning opportunity that drives real audience growth and engagement.</p><h3>What You'll Do</h3><ul><li><p>Manage brand social media channels across Instagram, Facebook, LinkedIn, YouTube, and TikTok, keeping content on-brand and on-calendar.</p></li><li><p>Partner with external content creation agencies to brief, align, and deliver work on time.</p></li><li><p>Build and maintain a content calendar that supports campaigns and key announcements.</p></li><li><p>Engage daily by responding to comments, answering DMs, and starting real conversations with the audience.</p></li><li><p>Spot trends quickly and translate them into on-brand content opportunities.</p></li><li><p>Own the email marketing strategy in HubSpot, from planning through execution.</p></li><li><p>Write and design newsletters that subscribers genuinely want to read.</p></li><li><p>Run continuous experiments on subject lines, send times, formats, and segmentation to improve opens, clicks, and conversions.</p></li><li><p>Track performance weekly, report clearly, and adjust strategy based on data.</p></li></ul><h3>What We're Looking For</h3><ul><li><p>1 to 2 years of experience in social media, email marketing, or digital marketing with measurable results.</p></li><li><p>Demonstrated track record of growing audiences or improving campaign performance metrics through owned work.</p></li><li><p>Hands-on experience managing at least one major social platform, including content posting, community engagement, and performance tracking.</p></li><li><p>Strong writing skills with a natural instinct for brand voice and tone across social posts, email copy, and newsletters.</p></li><li><p>Proficiency executing email campaigns in HubSpot or a comparable platform such as Mailchimp or Klaviyo.</p></li><li><p>Experience designing and analyzing A/B tests on email campaigns.</p></li><li><p>Comfort reading marketing performance data and translating it into clear, actionable insights.</p></li><li><p>Experience coordinating with external agencies, content creators, or freelancers to deliver on-brand work on deadline.</p></li><li><p>Background in fintech, personal finance, or consumer brand marketing is a plus.</p></li><li><p>Familiarity with paid social advertising to complement organic strategy is a plus.</p></li></ul><h3>Compensation &amp; Benefits</h3><p>Salary range: <strong>$80,000 to $100,000 USD annually.</strong> Visa sponsorship is not available for this role.</p><h3>Location</h3><p>This is a full-time, on-site role based in <strong>New York, NY, United States.</strong></p>",
+    "summary": "The Social Media and Email Marketing Specialist owns social media and email marketing for a fintech wealth planning platform. Responsibilities include managing social channels and community engagement, coordinating content and agencies, running HubSpot email campaigns and A/B tests, and tracking performance to improve audience growth and campaign results.",
+    "locations": [
+     {
+      "workLocation": "onsite",
+      "addressRegion": "New York",
+      "addressCountry": "US",
+      "addressLocality": "New York"
+     }
+    ],
+    "remoteType": "onsite",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Creativity"
+     ],
+     "primary_skills": [
+      "Social Media Marketing",
+      "Email Marketing",
+      "Content Calendar Management",
+      "HubSpot",
+      "Email Campaign Management",
+      "A/B Testing",
+      "Marketing Analytics",
+      "Copywriting",
+      "Community Management",
+      "Agency Coordination"
+     ],
+     "secondary_skills": [
+      "Mailchimp",
+      "Klaviyo",
+      "Fintech Marketing",
+      "Personal Finance Marketing",
+      "Consumer Brand Marketing",
+      "Paid Social Advertising"
+     ]
+    },
+    "benefits": [],
+    "salary": {
+     "max": 100000,
+     "min": 80000,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "entry",
+    "employmentType": "full_time",
+    "minYearsExperience": 1,
+    "educationRequirement": null,
+    "industry": [
+     "marketing_advertising",
+     "finance_banking",
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790283838,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/clera/2e589b19-7dfa-46de-8dc3-bd8b6bc36bd2",
+    "status": "active",
+    "companies": [
+     {
+      "name": "Clera",
+      "website": "getclera.com"
+     }
+    ]
+   },
+   {
+    "id": "fa0f9bf0-7044-4722-bd02-5c32a922401f",
+    "title": "Webinar & Email Marketing Associate",
+    "description": "<p><span>As the global leader in high-speed connectivity, Ciena builds the critical infrastructure powering the AI era. We’re a technology company shaping the future of networking, guided by innovation, integrity, and collaboration. Through development opportunities, meaningful work, and flexibility, Ciena supports growth and well-being—on and off the job. Connect with a career that matters.</span></p><br><p>Join Ciena’s Digital Engagement team to contribute to the execution of webinar, event, and email marketing programs that support audience engagement and campaign performance. This role helps deliver consistent, high-quality marketing communications through marketing automation platforms while maintaining accuracy, compliance, and operational excellence. The position also strengthens email marketing execution through quality assurance, reporting, and support during high-volume campaign periods.<br></p><h3>How you will make an impact:</h3><ul><li>Own assigned Marketo builds and execution activities for webinar and event email programs, including invitations, confirmations, reminders, follow-ups, post-event emails, and on-demand promotions.</li><li>Configure and perform quality assurance for Marketo program elements, including smart lists, smart campaigns, tokens, forms, landing pages, send scheduling, suppression logic, and deployment setup.</li><li>Partner with webinar and email marketing specialists to execute programs in alignment with channel strategy, process standards, and best practices.</li><li>Coordinate with webinar, event, campaign, and email stakeholders to validate requirements, assets, audience criteria, timelines, approvals, and deployment readiness.</li><li>Collect and perform first-level analysis of email and webinar metrics and reporting.</li><li>Review email programs against internal standards and documented quality assurance processes and complete assigned overflow build and QA activities.</li><li>Provide day-of-production or technical support for live webinars as required.<br></li></ul><h3>The must haves:</h3><ul><li>3+ years using application of Marketo or a similar marketing automation platform.</li><li>Experience building or supporting email marketing campaigns, landing pages, forms, and automated marketing programs.</li><li>Application of email marketing fundamentals, including segmentation, suppression logic, personalization tokens, send scheduling, and compliance requirements.</li><li>Organizational and communication skills applied to managing multiple timelines, stakeholder requests, and campaign details while maintaining quality and accuracy.</li><li>Familiarity with marketing performance data collection, organization, and interpretation for email and webinar metrics.<br></li></ul><h3>Nice to haves:</h3><ul><li>Application of webinar platforms such as ON24, Zoom Webinars, Zoom Events, Microsoft Teams, or similar tools.</li><li>Experience with Knak or similar block- or template-based WYSIWYG email editors and Optimizely CMS or related content management platforms.</li><li>Experience supporting webinars, email programs, live events, and digital events.</li><li>Familiarity with webinar registration workflows, reminder sequences, attendee and no-show follow-up, on-demand promotion, and campaign timelines.</li><li>Basic understanding of HTML/CSS, email rendering, QA tools, UTM tracking, preference center and unsubscribe requirements, and email compliance practices.</li></ul><h3>Pay Range:</h3><p>CAD: 57,800.00 to 92,300.00<br>USA: 65,100.00 to 100,000.00</p><p>Pay ranges at Ciena are designed to accommodate variations in knowledge, skills, experience, market conditions, and locations, reflecting our diverse products, industries, and lines of business. Please note that the pay range information provided in this posting pertains specifically to the primary location, which is the top location listed in case multiple locations are available.</p><p>Non-Sales employees may be eligible for a discretionary incentive bonus, while Sales employees may be eligible for a sales commission. In addition to competitive compensation, Ciena offers a comprehensive benefits package, including medical, dental, and vision plans, participation in 401(K) (USA) &amp; DCPP (Canada) with company matching, Employee Stock Purchase Program (ESPP), Employee Assistance Program (EAP), company-paid holidays, paid sick leave, and vacation time. We also comply with all applicable laws regarding Paid Family Leave and other leaves of absence.<br><br>At Ciena, we are committed to building and fostering an environment in which our employees feel respected, valued, and heard.&nbsp; Ciena values the diversity of its workforce and respects its employees as individuals. We do not tolerate any form of discrimination.</p><p>Ciena is an&nbsp;Equal Opportunity Employer, including disability and protected veteran status.</p><p>If contacted in relation to a job opportunity, please advise Ciena of any accommodation measures you may require.</p>",
+    "summary": "The Webinar & Email Marketing Associate executes webinar, event, and email marketing programs using marketing automation platforms, primarily Marketo. Responsibilities include campaign builds, quality assurance, stakeholder coordination, reporting and first-level metrics analysis, and technical support for live webinars.",
+    "locations": [
+     {
+      "workLocation": "flexible",
+      "addressRegion": "Maryland",
+      "streetAddress": "8150 Maple Lawn",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "flexible",
+    "skills": {
+     "soft_skills": [
+      "Organization",
+      "Communication",
+      "Attention to Detail"
+     ],
+     "primary_skills": [
+      "Marketo",
+      "Marketing Automation",
+      "Email Marketing",
+      "Landing Page Development",
+      "Marketing Program Development",
+      "Audience Segmentation",
+      "Suppression Logic",
+      "Personalization Tokens",
+      "Email Scheduling",
+      "Email Compliance"
+     ],
+     "secondary_skills": [
+      "Webinar Platforms",
+      "ON24",
+      "Zoom Webinars",
+      "Zoom Events",
+      "Microsoft Teams",
+      "Knak",
+      "Optimizely CMS",
+      "HTML",
+      "CSS",
+      "Email Rendering"
+     ]
+    },
+    "benefits": [
+     "health_insurance",
+     "dental_insurance",
+     "vision_care",
+     "pensions_401k",
+     "pension_contribution_matching",
+     "stock_options_equity",
+     "sick_leave",
+     "paid_time_off_vacation_personal_days",
+     "other_benefits"
+    ],
+    "salary": {
+     "max": 100000,
+     "min": 65100,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "mid",
+    "employmentType": "full_time",
+    "minYearsExperience": 3,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790035200,
+    "expiresAt": null,
+    "applyUrl": "https://ciena.wd5.myworkdayjobs.com/en-US/careers/job/Baltimore/Webinar---Email-Marketing-Associate_R031670",
+    "status": "active",
+    "companies": [
+     {
+      "name": "ciena.com",
+      "website": "ciena.com"
+     }
+    ]
+   },
+   {
+    "id": "c1a550e2-5bff-4c1f-98f8-345950416937",
+    "title": "Senior Lifecycle & Email Marketing Strategist",
+    "description": "<h2>Company Description</h2><p>It all started when engineer Fred Luddy wrote code that automated a tedious task for his coworker, Phyllis. She cried tears of joy. That moment inspired Fred to build a company that could do that for everyone—freeing people from busywork so they could focus on meaningful work. Today, ServiceNow is the AI control tower for business reinvention. Our ServiceNow AI platform brings together any AI, any data, and any workflow— helping 85% of the Fortune 500® work smarter, faster, and better. We're building an AI-native culture where technology and talent are unstoppable together. And we're just getting started.</p><p>Join us to put AI to work for people.</p><h2>Job Description</h2><p>The Senior Email and Lifecycle Marketing Strategist owns lifecycle email strategy and deployment for high-complexity or high-visibility programs, spanning a subset of existing Integrated Marketing buying group programs (IT, CRM, Employee Experience, Risk &amp; Security).&nbsp;</p><p>Each program strategy covers audience segmentation, campaign architecture, content POV, volume and cadence plan, and KPIs by campaign type. The Senior Lifecycle &amp; Email Marketing Strategist will set the point of view across these dimensions, partners with Integrated counterparts to align, and deploys in Marketo Engage or AJO.&nbsp;</p><p><strong>Responsibilities&nbsp;</strong></p><ul><li>Own lifecycle and email campaign architecture across email nurtures, webinar promotion, event invitations, and product launches, driving alignment with Campaign Managers.&nbsp;</li><li>Manage lifecycle email strategy and deployment for high-complexity or high-visibility books (Flagship events, multi-product, or multi-region scope), mapped to buying group structures and the ABX motion.&nbsp;</li><li>Define audience segmentation for each program (buying group roles, account tier, lifecycle stage), driving alignment with Audience Planners.&nbsp;</li><li>Partner with Content Strategists to shape email content POV, providing recommendations on the email content journey.&nbsp;</li><li>Set the volume and cadence plan (quarterly volume, audience cuts, fatigue governance), driving alignment with Audience Planners and Campaign Managers.&nbsp;</li><li>Define KPIs and activities by campaign type, tied to program business outcomes and the ABX motion.&nbsp;</li><li>Build, configure, and deploy email programs end-to-end in Marketo Engage or comparable platform, including branching logic, dynamic content, and template architecture.&nbsp;</li><li>Refine the lifecycle copy framework for the assigned book and use AI-assisted tooling to scale persona-level content across Champions, Economic Buyers, and Influencers.&nbsp;</li><li>Operate the team's human-in-the-loop approval gates on agentic builds and contribute to refinement of governance standards within the assigned book.&nbsp;</li><li>Design A/B and multivariate testing programs, surface insights through QBR reporting, and proactively address sequencing conflicts and governance risks.&nbsp;</li></ul><h2>Qualifications</h2><p><strong>Qualifications</strong>&nbsp;</p><p>6+ years in B2B email marketing, lifecycle marketing, or marketing automation, with hands-on experience deploying programs in an enterprise marketing automation platform and a track record operationalizing lifecycle strategy.&nbsp;</p><p><strong>Hard Skills&nbsp;</strong></p><ul><li>Email Platform Fluency: Hands-on experience deploying email programs in Marketo Engage required. Adobe Journey Optimizer B2B, Salesforce Marketing Cloud, or Oracle Eloqua acceptable. Depth in audience selection, triggered sends, dynamic content, branching logic, and template architecture.&nbsp;</li><li>Lifecycle Program Design: Multi-stage strategies across Awareness, Education, Acquisition, Progression, and Adoption (industry equivalents: awareness, consideration, conversion, pipeline progression, and retention), including Flagship event programs and multi-product motions.&nbsp;</li><li>Audience and Cadence Strategy: Designs audience segmentation and cadence architecture for high-complexity books. Sets volume targets, audience cuts, and fatigue rules that hold across overlapping programs without creating channel conflict.&nbsp;</li><li>Content POV and Copy: Shapes narrative arc and copy recommendations using the lifecycle copy framework. Fluency on persona-level messaging and content strategy.&nbsp;</li><li>Testing and Measurement: A/B and multivariate testing tied to business impact. Defines KPIs by campaign type and translates results into stakeholder-ready insights.&nbsp;</li><li>Analytical Fluency: Partners closely with Analytics and Digital partners to scope out KPI’s and build an impactful performance report that tells how programs are driving growth from multiple angles of performance data.&nbsp;</li><li>AI and Automation Fluency: Practical use of the lifecycle copy framework, AI-assisted copy and personalization tooling, and human-in-the-loop approval gates on agentic builds. Brings judgment on where AI improves program quality and where it doesn’t.&nbsp;</li><li>Compliance Fluency: CAN-SPAM, CASL, GDPR, CCPA/CPRA.&nbsp;</li></ul><p><strong>Soft Skills (Leadership Competencies)&nbsp;</strong></p><ul><li>Cross-Functional Influence: Operates as the email channel voice in Integrated planning forums for assigned programs. Brings recommendations and tradeoffs that shape program direction.&nbsp;</li><li>Strategic Definition: Defines program strategy within ambiguous or high-complexity scope, then translates it into executable plans.&nbsp;</li><li>Systems Thinking: Sees how email decisions ripple across cadence, sender reputation, and buying group engagement.&nbsp;</li><li>Operational Discipline: Holds multiple high-stakes programs on overlapping timelines, stepping in to unblock sequencing or governance issues before they escalate.&nbsp;</li><li>Automation Mindset: Identifies manual work worth automating, with judgment on where AI helps and where it does not.&nbsp;</li></ul><p><strong>Preferred&nbsp;</strong></p><ul><li>Track record applying ABM, ABX, or buying group frameworks to email strategy.&nbsp;</li><li>Fluency with Adobe Experience Platform and Real-Time CDP.&nbsp;</li><li>Familiarity with webinar and event platforms (ON24, RainFocus) and their integration into lifecycle programs.&nbsp;</li><li>Track record using AI tools to improve email throughput, personalization, or decision quality.&nbsp;</li></ul><div>For positions in this location, we offer a base pay of $114200-$199900 plus equity (when applicable), variable/incentive compensation and benefits. Sales positions generally offer a competitive On Target Earnings (OTE) incentive compensation structure. Please note that the base pay shown is a guideline, and individual total compensation will vary based on factors such as qualifications, skill level, competencies, and work location. We also offer health plans, including flexible spending accounts, a 401(k) Plan with company match, ESPP, matching donations, a flexible time away plan and family leave programs.</div><div>Compensation is based on the geographic location in which the role is located and is subject to change based on work location.</div><h2>Additional Information</h2><p><strong>Work Personas</strong></p><p>We approach our distributed world of work with flexibility and trust. Work personas (flexible, remote, or required in office) are categories that are assigned to ServiceNow employees depending on the nature of their work and their assigned work location.<a href=\"https://careers.servicenow.com/life-at-servicenow#workpersonas\"><u>Learn more here</u></a>. To determine eligibility for a work persona, ServiceNow may confirm the distance between your primary residence and the closest ServiceNow office using a third-party service.</p><p><strong>Equal Opportunity Employer</strong></p><p>ServiceNow is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, national origin, age, disability, gender identity,&nbsp; veteran status, or any other category protected by law. In addition, all qualified applicants with arrest or conviction records will be considered for employment in accordance with legal requirements. &nbsp;</p><p><strong>Accommodations</strong></p><p>We strive to create an accessible and inclusive experience for all candidates. If you require a reasonable accommodation to complete any part of the application process, or are unable to use this online application and need an alternative method to apply, please contact <a href=\"mailto:globaltalentss@servicenow.com\">globaltalentss@servicenow.com</a> for assistance.&nbsp;</p><p><strong>Export Control Regulations</strong></p><p>For positions requiring access to controlled technology subject to export control regulations, including the U.S. Export Administration Regulations (EAR), ServiceNow may be required to obtain export control approval from government authorities for certain individuals. All employment is contingent upon ServiceNow obtaining any export license or other approval that may be required by relevant export control authorities.&nbsp;</p><p>From Fortune. ©2026 Fortune Media IP Limited. All rights reserved. Used under license.</p>",
+    "summary": "The Senior Lifecycle & Email Marketing Strategist owns lifecycle email strategy, campaign architecture, audience segmentation, deployment, testing, and measurement for complex B2B marketing programs. The role partners cross-functionally to align content, cadence, KPIs, governance, and AI-assisted personalization across email nurtures, events, webinars, and product launches.",
+    "locations": [
+     {
+      "postalCode": "92121",
+      "workLocation": "remote",
+      "addressRegion": "California",
+      "streetAddress": "4810 Eastgate Mall",
+      "addressCountry": "US",
+      "addressLocality": "San Diego"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Leadership",
+      "Communication",
+      "Strategic Thinking",
+      "Problem-solving",
+      "Adaptability"
+     ],
+     "primary_skills": [
+      "Marketo Engage",
+      "Email Marketing",
+      "Lifecycle Marketing",
+      "Marketing Automation",
+      "Audience Segmentation",
+      "Campaign Architecture",
+      "Dynamic Content",
+      "Branching Logic",
+      "A/B Testing",
+      "Multivariate Testing"
+     ],
+     "secondary_skills": [
+      "Adobe Journey Optimizer B2B",
+      "Salesforce Marketing Cloud",
+      "Oracle Eloqua",
+      "Account-Based Marketing",
+      "Adobe Experience Platform",
+      "Real-Time CDP",
+      "ON24",
+      "RainFocus",
+      "Artificial Intelligence",
+      "Email Compliance"
+     ]
+    },
+    "benefits": [
+     "health_insurance",
+     "pension_contribution_matching",
+     "pensions_401k",
+     "stock_options_equity",
+     "paid_time_off_vacation_personal_days",
+     "parental_leave",
+     "flexible_work_hours",
+     "other_benefits"
+    ],
+    "salary": {
+     "max": 199900,
+     "min": 114200,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 6,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1789059412,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.smartrecruiters.com/ServiceNow/744000148832669-senior-lifecycle-email-marketing-strategist-",
+    "status": "active",
+    "companies": [
+     {
+      "name": "ServiceNow",
+      "website": "servicenow.com"
+     }
+    ]
+   },
+   {
+    "id": "83851c7b-d1a1-4ff8-ab67-ed174b57637e",
+    "title": "Senior Lifecycle & Email Marketing Strategist",
+    "description": "<h2>Company Description</h2><p>It all started when engineer Fred Luddy wrote code that automated a tedious task for his coworker, Phyllis. She cried tears of joy. That moment inspired Fred to build a company that could do that for everyone—freeing people from busywork so they could focus on meaningful work. Today, ServiceNow is the AI control tower for business reinvention. Our ServiceNow AI platform brings together any AI, any data, and any workflow— helping 85% of the Fortune 500® work smarter, faster, and better. We're building an AI-native culture where technology and talent are unstoppable together. And we're just getting started.</p><p>Join us to put AI to work for people.</p><h2>Job Description</h2><p>The Senior Email and Lifecycle Marketing Strategist owns lifecycle email strategy and deployment for high-complexity or high-visibility programs, spanning a subset of existing Integrated Marketing buying group programs (IT, CRM, Employee Experience, Risk &amp; Security).&nbsp;</p><p>Each program strategy covers audience segmentation, campaign architecture, content POV, volume and cadence plan, and KPIs by campaign type. The Senior Lifecycle &amp; Email Marketing Strategist will set the point of view across these dimensions, partners with Integrated counterparts to align, and deploys in Marketo Engage or AJO.&nbsp;</p><p><strong>Responsibilities&nbsp;</strong></p><ul><li>Own lifecycle and email campaign architecture across email nurtures, webinar promotion, event invitations, and product launches, driving alignment with Campaign Managers.&nbsp;</li><li>Manage lifecycle email strategy and deployment for high-complexity or high-visibility books (Flagship events, multi-product, or multi-region scope), mapped to buying group structures and the ABX motion.&nbsp;</li><li>Define audience segmentation for each program (buying group roles, account tier, lifecycle stage), driving alignment with Audience Planners.&nbsp;</li><li>Partner with Content Strategists to shape email content POV, providing recommendations on the email content journey.&nbsp;</li><li>Set the volume and cadence plan (quarterly volume, audience cuts, fatigue governance), driving alignment with Audience Planners and Campaign Managers.&nbsp;</li><li>Define KPIs and activities by campaign type, tied to program business outcomes and the ABX motion.&nbsp;</li><li>Build, configure, and deploy email programs end-to-end in Marketo Engage or comparable platform, including branching logic, dynamic content, and template architecture.&nbsp;</li><li>Refine the lifecycle copy framework for the assigned book and use AI-assisted tooling to scale persona-level content across Champions, Economic Buyers, and Influencers.&nbsp;</li><li>Operate the team's human-in-the-loop approval gates on agentic builds and contribute to refinement of governance standards within the assigned book.&nbsp;</li><li>Design A/B and multivariate testing programs, surface insights through QBR reporting, and proactively address sequencing conflicts and governance risks.&nbsp;</li></ul><h2>Qualifications</h2><p><strong>Qualifications</strong>&nbsp;</p><p>6+ years in B2B email marketing, lifecycle marketing, or marketing automation, with hands-on experience deploying programs in an enterprise marketing automation platform and a track record operationalizing lifecycle strategy.&nbsp;</p><p><strong>Hard Skills&nbsp;</strong></p><ul><li>Email Platform Fluency: Hands-on experience deploying email programs in Marketo Engage required. Adobe Journey Optimizer B2B, Salesforce Marketing Cloud, or Oracle Eloqua acceptable. Depth in audience selection, triggered sends, dynamic content, branching logic, and template architecture.&nbsp;</li><li>Lifecycle Program Design: Multi-stage strategies across Awareness, Education, Acquisition, Progression, and Adoption (industry equivalents: awareness, consideration, conversion, pipeline progression, and retention), including Flagship event programs and multi-product motions.&nbsp;</li><li>Audience and Cadence Strategy: Designs audience segmentation and cadence architecture for high-complexity books. Sets volume targets, audience cuts, and fatigue rules that hold across overlapping programs without creating channel conflict.&nbsp;</li><li>Content POV and Copy: Shapes narrative arc and copy recommendations using the lifecycle copy framework. Fluency on persona-level messaging and content strategy.&nbsp;</li><li>Testing and Measurement: A/B and multivariate testing tied to business impact. Defines KPIs by campaign type and translates results into stakeholder-ready insights.&nbsp;</li><li>Analytical Fluency: Partners closely with Analytics and Digital partners to scope out KPI’s and build an impactful performance report that tells how programs are driving growth from multiple angles of performance data.&nbsp;</li><li>AI and Automation Fluency: Practical use of the lifecycle copy framework, AI-assisted copy and personalization tooling, and human-in-the-loop approval gates on agentic builds. Brings judgment on where AI improves program quality and where it doesn’t.&nbsp;</li><li>Compliance Fluency: CAN-SPAM, CASL, GDPR, CCPA/CPRA.&nbsp;</li></ul><p><strong>Soft Skills (Leadership Competencies)&nbsp;</strong></p><ul><li>Cross-Functional Influence: Operates as the email channel voice in Integrated planning forums for assigned programs. Brings recommendations and tradeoffs that shape program direction.&nbsp;</li><li>Strategic Definition: Defines program strategy within ambiguous or high-complexity scope, then translates it into executable plans.&nbsp;</li><li>Systems Thinking: Sees how email decisions ripple across cadence, sender reputation, and buying group engagement.&nbsp;</li><li>Operational Discipline: Holds multiple high-stakes programs on overlapping timelines, stepping in to unblock sequencing or governance issues before they escalate.&nbsp;</li><li>Automation Mindset: Identifies manual work worth automating, with judgment on where AI helps and where it does not.&nbsp;</li></ul><p><strong>Preferred&nbsp;</strong></p><ul><li>Track record applying ABM, ABX, or buying group frameworks to email strategy.&nbsp;</li><li>Fluency with Adobe Experience Platform and Real-Time CDP.&nbsp;</li><li>Familiarity with webinar and event platforms (ON24, RainFocus) and their integration into lifecycle programs.&nbsp;</li><li>Track record using AI tools to improve email throughput, personalization, or decision quality.&nbsp;</li></ul><div>For positions in this location, we offer a base pay of $114200-$199900 plus equity (when applicable), variable/incentive compensation and benefits. Sales positions generally offer a competitive On Target Earnings (OTE) incentive compensation structure. Please note that the base pay shown is a guideline, and individual total compensation will vary based on factors such as qualifications, skill level, competencies, and work location. We also offer health plans, including flexible spending accounts, a 401(k) Plan with company match, ESPP, matching donations, a flexible time away plan and family leave programs.</div><div>Compensation is based on the geographic location in which the role is located and is subject to change based on work location.</div><h2>Additional Information</h2><p><strong>Work Personas</strong></p><p>We approach our distributed world of work with flexibility and trust. Work personas (flexible, remote, or required in office) are categories that are assigned to ServiceNow employees depending on the nature of their work and their assigned work location.<a href=\"https://careers.servicenow.com/life-at-servicenow#workpersonas\"><u>Learn more here</u></a>. To determine eligibility for a work persona, ServiceNow may confirm the distance between your primary residence and the closest ServiceNow office using a third-party service.</p><p><strong>Equal Opportunity Employer</strong></p><p>ServiceNow is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, national origin, age, disability, gender identity,&nbsp; veteran status, or any other category protected by law. In addition, all qualified applicants with arrest or conviction records will be considered for employment in accordance with legal requirements. &nbsp;</p><p><strong>Accommodations</strong></p><p>We strive to create an accessible and inclusive experience for all candidates. If you require a reasonable accommodation to complete any part of the application process, or are unable to use this online application and need an alternative method to apply, please contact <a href=\"mailto:globaltalentss@servicenow.com\">globaltalentss@servicenow.com</a> for assistance.&nbsp;</p><p><strong>Export Control Regulations</strong></p><p>For positions requiring access to controlled technology subject to export control regulations, including the U.S. Export Administration Regulations (EAR), ServiceNow may be required to obtain export control approval from government authorities for certain individuals. All employment is contingent upon ServiceNow obtaining any export license or other approval that may be required by relevant export control authorities.&nbsp;</p><p>From Fortune. ©2026 Fortune Media IP Limited. All rights reserved. Used under license.</p>",
+    "summary": "The Senior Lifecycle & Email Marketing Strategist owns lifecycle email strategy, campaign architecture, audience segmentation, deployment, testing, and measurement for complex B2B marketing programs. The role builds and deploys programs in Marketo Engage or comparable platforms, aligns with cross-functional marketing teams, and applies AI-assisted personalization and governance practices.",
+    "locations": [
+     {
+      "postalCode": "02451",
+      "workLocation": "remote",
+      "addressRegion": "Massachusetts",
+      "streetAddress": "275 Wyman Street, 2nd Floor",
+      "addressCountry": "US",
+      "addressLocality": "Waltham"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Leadership",
+      "Problem-solving",
+      "Strategic Thinking",
+      "Adaptability"
+     ],
+     "primary_skills": [
+      "Marketo Engage",
+      "Email Marketing",
+      "Lifecycle Marketing",
+      "Marketing Automation",
+      "Audience Segmentation",
+      "Campaign Architecture",
+      "A/B Testing",
+      "Multivariate Testing",
+      "KPI Measurement",
+      "Compliance Management"
+     ],
+     "secondary_skills": [
+      "Adobe Journey Optimizer",
+      "Salesforce Marketing Cloud",
+      "Oracle Eloqua",
+      "Account-Based Marketing",
+      "Account-Based Experience",
+      "Adobe Experience Platform",
+      "Real-Time Customer Data Platform",
+      "ON24",
+      "RainFocus",
+      "Artificial Intelligence"
+     ]
+    },
+    "benefits": [
+     "health_insurance",
+     "pensions_401k",
+     "pension_contribution_matching",
+     "stock_options_equity",
+     "paid_time_off_vacation_personal_days",
+     "parental_leave",
+     "flexible_work_hours",
+     "remote_work_hybrid_work_options",
+     "other_benefits"
+    ],
+    "salary": {
+     "max": 199900,
+     "min": 114200,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 6,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1789059315,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.smartrecruiters.com/ServiceNow/744000148832479--senior-lifecycle-email-marketing-strategist-",
+    "status": "active",
+    "companies": [
+     {
+      "name": "ServiceNow",
+      "website": "servicenow.com"
+     }
+    ]
+   },
+   {
+    "id": "1b791cf9-91e0-4e29-bad6-42a18b7d9b17",
+    "title": "Senior Lifecycle & Email Marketing Strategist",
+    "description": "<h2>Company Description</h2><p>It all started when engineer Fred Luddy wrote code that automated a tedious task for his coworker, Phyllis. She cried tears of joy. That moment inspired Fred to build a company that could do that for everyone—freeing people from busywork so they could focus on meaningful work. Today, ServiceNow is the AI control tower for business reinvention. Our ServiceNow AI platform brings together any AI, any data, and any workflow— helping 85% of the Fortune 500® work smarter, faster, and better. We're building an AI-native culture where technology and talent are unstoppable together. And we're just getting started.</p><p>Join us to put AI to work for people.</p><h2>Job Description</h2><p>The Senior Email and Lifecycle Marketing Strategist owns lifecycle email strategy and deployment for high-complexity or high-visibility programs, spanning a subset of existing Integrated Marketing buying group programs (IT, CRM, Employee Experience, Risk &amp; Security).&nbsp;</p><p>Each program strategy covers audience segmentation, campaign architecture, content POV, volume and cadence plan, and KPIs by campaign type. The Senior Lifecycle &amp; Email Marketing Strategist will set the point of view across these dimensions, partners with Integrated counterparts to align, and deploys in Marketo Engage or AJO.&nbsp;</p><p><strong>Responsibilities&nbsp;</strong></p><ul><li>Own lifecycle and email campaign architecture across email nurtures, webinar promotion, event invitations, and product launches, driving alignment with Campaign Managers.&nbsp;</li><li>Manage lifecycle email strategy and deployment for high-complexity or high-visibility books (Flagship events, multi-product, or multi-region scope), mapped to buying group structures and the ABX motion.&nbsp;</li><li>Define audience segmentation for each program (buying group roles, account tier, lifecycle stage), driving alignment with Audience Planners.&nbsp;</li><li>Partner with Content Strategists to shape email content POV, providing recommendations on the email content journey.&nbsp;</li><li>Set the volume and cadence plan (quarterly volume, audience cuts, fatigue governance), driving alignment with Audience Planners and Campaign Managers.&nbsp;</li><li>Define KPIs and activities by campaign type, tied to program business outcomes and the ABX motion.&nbsp;</li><li>Build, configure, and deploy email programs end-to-end in Marketo Engage or comparable platform, including branching logic, dynamic content, and template architecture.&nbsp;</li><li>Refine the lifecycle copy framework for the assigned book and use AI-assisted tooling to scale persona-level content across Champions, Economic Buyers, and Influencers.&nbsp;</li><li>Operate the team's human-in-the-loop approval gates on agentic builds and contribute to refinement of governance standards within the assigned book.&nbsp;</li><li>Design A/B and multivariate testing programs, surface insights through QBR reporting, and proactively address sequencing conflicts and governance risks.&nbsp;</li></ul><h2>Qualifications</h2><p><strong>Qualifications</strong>&nbsp;</p><p>6+ years in B2B email marketing, lifecycle marketing, or marketing automation, with hands-on experience deploying programs in an enterprise marketing automation platform and a track record operationalizing lifecycle strategy.&nbsp;</p><p><strong>Hard Skills&nbsp;</strong></p><ul><li>Email Platform Fluency: Hands-on experience deploying email programs in Marketo Engage required. Adobe Journey Optimizer B2B, Salesforce Marketing Cloud, or Oracle Eloqua acceptable. Depth in audience selection, triggered sends, dynamic content, branching logic, and template architecture.&nbsp;</li><li>Lifecycle Program Design: Multi-stage strategies across Awareness, Education, Acquisition, Progression, and Adoption (industry equivalents: awareness, consideration, conversion, pipeline progression, and retention), including Flagship event programs and multi-product motions.&nbsp;</li><li>Audience and Cadence Strategy: Designs audience segmentation and cadence architecture for high-complexity books. Sets volume targets, audience cuts, and fatigue rules that hold across overlapping programs without creating channel conflict.&nbsp;</li><li>Content POV and Copy: Shapes narrative arc and copy recommendations using the lifecycle copy framework. Fluency on persona-level messaging and content strategy.&nbsp;</li><li>Testing and Measurement: A/B and multivariate testing tied to business impact. Defines KPIs by campaign type and translates results into stakeholder-ready insights.&nbsp;</li><li>Analytical Fluency: Partners closely with Analytics and Digital partners to scope out KPI’s and build an impactful performance report that tells how programs are driving growth from multiple angles of performance data.&nbsp;</li><li>AI and Automation Fluency: Practical use of the lifecycle copy framework, AI-assisted copy and personalization tooling, and human-in-the-loop approval gates on agentic builds. Brings judgment on where AI improves program quality and where it doesn’t.&nbsp;</li><li>Compliance Fluency: CAN-SPAM, CASL, GDPR, CCPA/CPRA.&nbsp;</li></ul><p><strong>Soft Skills (Leadership Competencies)&nbsp;</strong></p><ul><li>Cross-Functional Influence: Operates as the email channel voice in Integrated planning forums for assigned programs. Brings recommendations and tradeoffs that shape program direction.&nbsp;</li><li>Strategic Definition: Defines program strategy within ambiguous or high-complexity scope, then translates it into executable plans.&nbsp;</li><li>Systems Thinking: Sees how email decisions ripple across cadence, sender reputation, and buying group engagement.&nbsp;</li><li>Operational Discipline: Holds multiple high-stakes programs on overlapping timelines, stepping in to unblock sequencing or governance issues before they escalate.&nbsp;</li><li>Automation Mindset: Identifies manual work worth automating, with judgment on where AI helps and where it does not.&nbsp;</li></ul><p><strong>Preferred&nbsp;</strong></p><ul><li>Track record applying ABM, ABX, or buying group frameworks to email strategy.&nbsp;</li><li>Fluency with Adobe Experience Platform and Real-Time CDP.&nbsp;</li><li>Familiarity with webinar and event platforms (ON24, RainFocus) and their integration into lifecycle programs.&nbsp;</li><li>Track record using AI tools to improve email throughput, personalization, or decision quality.&nbsp;</li></ul><div>For positions in this location, we offer a base pay of $114200-$199900, plus equity (when applicable), variable/incentive compensation and benefits. Sales positions generally offer a competitive On Target Earnings (OTE) incentive compensation structure. Please note that the base pay shown is a guideline, and individual total compensation will vary based on factors such as qualifications, skill level, competencies, and work location. We also offer health plans, including flexible spending accounts, a 401(k) Plan with company match, ESPP, matching donations, a flexible time away plan and family leave programs.</div><div>Compensation is based on the geographic location in which the role is located and is subject to change based on work location.</div><h2>Additional Information</h2><p><strong>Work Personas</strong></p><p>We approach our distributed world of work with flexibility and trust. Work personas (flexible, remote, or required in office) are categories that are assigned to ServiceNow employees depending on the nature of their work and their assigned work location.<a href=\"https://careers.servicenow.com/life-at-servicenow#workpersonas\"><u>Learn more here</u></a>. To determine eligibility for a work persona, ServiceNow may confirm the distance between your primary residence and the closest ServiceNow office using a third-party service.</p><p><strong>Equal Opportunity Employer</strong></p><p>ServiceNow is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, national origin, age, disability, gender identity,&nbsp; veteran status, or any other category protected by law. In addition, all qualified applicants with arrest or conviction records will be considered for employment in accordance with legal requirements. &nbsp;</p><p><strong>Accommodations</strong></p><p>We strive to create an accessible and inclusive experience for all candidates. If you require a reasonable accommodation to complete any part of the application process, or are unable to use this online application and need an alternative method to apply, please contact <a href=\"mailto:globaltalentss@servicenow.com\">globaltalentss@servicenow.com</a> for assistance.&nbsp;</p><p><strong>Export Control Regulations</strong></p><p>For positions requiring access to controlled technology subject to export control regulations, including the U.S. Export Administration Regulations (EAR), ServiceNow may be required to obtain export control approval from government authorities for certain individuals. All employment is contingent upon ServiceNow obtaining any export license or other approval that may be required by relevant export control authorities.&nbsp;</p><p>From Fortune. ©2026 Fortune Media IP Limited. All rights reserved. Used under license.</p>",
+    "summary": "The Senior Lifecycle & Email Marketing Strategist owns lifecycle email strategy, campaign architecture, audience segmentation, cadence planning, KPI definition, and end-to-end deployment for complex B2B marketing programs. The role deploys programs in Marketo Engage or comparable platforms, leads testing and performance reporting, shapes persona-level content, and supports governance and AI-assisted personalization.",
+    "locations": [
+     {
+      "postalCode": "60607",
+      "workLocation": "remote",
+      "addressRegion": "Illinois",
+      "streetAddress": "176 North Racine Ave, Suite 500",
+      "addressCountry": "US",
+      "addressLocality": "Chicago"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Cross-Functional Collaboration",
+      "Strategic Thinking",
+      "Systems Thinking",
+      "Operational Discipline",
+      "Problem-solving"
+     ],
+     "primary_skills": [
+      "Marketo Engage",
+      "Email Marketing",
+      "Lifecycle Marketing",
+      "Marketing Automation",
+      "Audience Segmentation",
+      "Campaign Architecture",
+      "Dynamic Content",
+      "Branching Logic",
+      "A/B Testing",
+      "Multivariate Testing"
+     ],
+     "secondary_skills": [
+      "Adobe Journey Optimizer",
+      "Salesforce Marketing Cloud",
+      "Oracle Eloqua",
+      "Adobe Experience Platform",
+      "Real-Time Customer Data Platform",
+      "Account-Based Marketing",
+      "Webinar Marketing",
+      "Event Marketing",
+      "Artificial Intelligence",
+      "Compliance Management"
+     ]
+    },
+    "benefits": [
+     "health_insurance",
+     "pension_contribution_matching",
+     "pensions_401k",
+     "stock_options_equity",
+     "paid_time_off_vacation_personal_days",
+     "parental_leave",
+     "flexible_work_hours",
+     "other_benefits"
+    ],
+    "salary": {
+     "max": 199900,
+     "min": 114200,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 6,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software",
+     "marketing_advertising"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1789059187,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.smartrecruiters.com/ServiceNow/744000148832020-senior-lifecycle-email-marketing-strategist-",
+    "status": "active",
+    "companies": [
+     {
+      "name": "ServiceNow",
+      "website": "servicenow.com"
+     }
+    ]
+   },
+   {
+    "id": "402fb631-cb12-4b50-b6d2-dfdb186c603d",
+    "title": "Senior Lifecycle & Email Marketing Strategist",
+    "description": "<h2>Company Description</h2><p>It all started when engineer Fred Luddy wrote code that automated a tedious task for his coworker, Phyllis. She cried tears of joy. That moment inspired Fred to build a company that could do that for everyone—freeing people from busywork so they could focus on meaningful work. Today, ServiceNow is the AI control tower for business reinvention. Our ServiceNow AI platform brings together any AI, any data, and any workflow— helping 85% of the Fortune 500® work smarter, faster, and better. We're building an AI-native culture where technology and talent are unstoppable together. And we're just getting started.</p><p>Join us to put AI to work for people.</p><h2>Job Description</h2><p>The Senior Email and Lifecycle Marketing Strategist owns lifecycle email strategy and deployment for high-complexity or high-visibility programs, spanning a subset of existing Integrated Marketing buying group programs (IT, CRM, Employee Experience, Risk &amp; Security).&nbsp;</p><p>Each program strategy covers audience segmentation, campaign architecture, content POV, volume and cadence plan, and KPIs by campaign type. The Senior Lifecycle &amp; Email Marketing Strategist will set the point of view across these dimensions, partners with Integrated counterparts to align, and deploys in Marketo Engage or AJO.&nbsp;</p><p><strong>Responsibilities&nbsp;</strong></p><ul><li>Own lifecycle and email campaign architecture across email nurtures, webinar promotion, event invitations, and product launches, driving alignment with Campaign Managers.&nbsp;</li><li>Manage lifecycle email strategy and deployment for high-complexity or high-visibility books (Flagship events, multi-product, or multi-region scope), mapped to buying group structures and the ABX motion.&nbsp;</li><li>Define audience segmentation for each program (buying group roles, account tier, lifecycle stage), driving alignment with Audience Planners.&nbsp;</li><li>Partner with Content Strategists to shape email content POV, providing recommendations on the email content journey.&nbsp;</li><li>Set the volume and cadence plan (quarterly volume, audience cuts, fatigue governance), driving alignment with Audience Planners and Campaign Managers.&nbsp;</li><li>Define KPIs and activities by campaign type, tied to program business outcomes and the ABX motion.&nbsp;</li><li>Build, configure, and deploy email programs end-to-end in Marketo Engage or comparable platform, including branching logic, dynamic content, and template architecture.&nbsp;</li><li>Refine the lifecycle copy framework for the assigned book and use AI-assisted tooling to scale persona-level content across Champions, Economic Buyers, and Influencers.&nbsp;</li><li>Operate the team's human-in-the-loop approval gates on agentic builds and contribute to refinement of governance standards within the assigned book.&nbsp;</li><li>Design A/B and multivariate testing programs, surface insights through QBR reporting, and proactively address sequencing conflicts and governance risks.&nbsp;</li></ul><h2>Qualifications</h2><p><strong>Qualifications</strong>&nbsp;</p><p>6+ years in B2B email marketing, lifecycle marketing, or marketing automation, with hands-on experience deploying programs in an enterprise marketing automation platform and a track record operationalizing lifecycle strategy.&nbsp;</p><p><strong>Hard Skills&nbsp;</strong></p><ul><li>Email Platform Fluency: Hands-on experience deploying email programs in Marketo Engage required. Adobe Journey Optimizer B2B, Salesforce Marketing Cloud, or Oracle Eloqua acceptable. Depth in audience selection, triggered sends, dynamic content, branching logic, and template architecture.&nbsp;</li><li>Lifecycle Program Design: Multi-stage strategies across Awareness, Education, Acquisition, Progression, and Adoption (industry equivalents: awareness, consideration, conversion, pipeline progression, and retention), including Flagship event programs and multi-product motions.&nbsp;</li><li>Audience and Cadence Strategy: Designs audience segmentation and cadence architecture for high-complexity books. Sets volume targets, audience cuts, and fatigue rules that hold across overlapping programs without creating channel conflict.&nbsp;</li><li>Content POV and Copy: Shapes narrative arc and copy recommendations using the lifecycle copy framework. Fluency on persona-level messaging and content strategy.&nbsp;</li><li>Testing and Measurement: A/B and multivariate testing tied to business impact. Defines KPIs by campaign type and translates results into stakeholder-ready insights.&nbsp;</li><li>Analytical Fluency: Partners closely with Analytics and Digital partners to scope out KPI’s and build an impactful performance report that tells how programs are driving growth from multiple angles of performance data.&nbsp;</li><li>AI and Automation Fluency: Practical use of the lifecycle copy framework, AI-assisted copy and personalization tooling, and human-in-the-loop approval gates on agentic builds. Brings judgment on where AI improves program quality and where it doesn’t.&nbsp;</li><li>Compliance Fluency: CAN-SPAM, CASL, GDPR, CCPA/CPRA.&nbsp;</li></ul><p><strong>Soft Skills (Leadership Competencies)&nbsp;</strong></p><ul><li>Cross-Functional Influence: Operates as the email channel voice in Integrated planning forums for assigned programs. Brings recommendations and tradeoffs that shape program direction.&nbsp;</li><li>Strategic Definition: Defines program strategy within ambiguous or high-complexity scope, then translates it into executable plans.&nbsp;</li><li>Systems Thinking: Sees how email decisions ripple across cadence, sender reputation, and buying group engagement.&nbsp;</li><li>Operational Discipline: Holds multiple high-stakes programs on overlapping timelines, stepping in to unblock sequencing or governance issues before they escalate.&nbsp;</li><li>Automation Mindset: Identifies manual work worth automating, with judgment on where AI helps and where it does not.&nbsp;</li></ul><p><strong>Preferred&nbsp;</strong></p><ul><li>Track record applying ABM, ABX, or buying group frameworks to email strategy.&nbsp;</li><li>Fluency with Adobe Experience Platform and Real-Time CDP.&nbsp;</li><li>Familiarity with webinar and event platforms (ON24, RainFocus) and their integration into lifecycle programs.&nbsp;</li><li>Track record using AI tools to improve email throughput, personalization, or decision quality.&nbsp;</li></ul><p>For positions in this location, we offer a base pay of <strong>$126,800 - $221,900</strong>, plus equity (when applicable), variable/incentive compensation and benefits. Sales positions generally offer a competitive On Target Earnings (OTE) incentive compensation structure. Please note that the base pay shown is a guideline, and individual total compensation will vary based on factors such as qualifications, skill level, competencies, and work location. We also offer health plans, including flexible spending accounts, a 401(k) Plan with company match, ESPP, matching donations, a flexible time away plan and family leave programs. Compensation is based on the geographic location in which the role is located and is subject to change based on work location.</p><h2>Additional Information</h2><p><strong>Work Personas</strong></p><p>We approach our distributed world of work with flexibility and trust. Work personas (flexible, remote, or required in office) are categories that are assigned to ServiceNow employees depending on the nature of their work and their assigned work location.<a href=\"https://careers.servicenow.com/life-at-servicenow#workpersonas\"><u>Learn more here</u></a>. To determine eligibility for a work persona, ServiceNow may confirm the distance between your primary residence and the closest ServiceNow office using a third-party service.</p><p><strong>Equal Opportunity Employer</strong></p><p>ServiceNow is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, national origin, age, disability, gender identity,&nbsp; veteran status, or any other category protected by law. In addition, all qualified applicants with arrest or conviction records will be considered for employment in accordance with legal requirements. &nbsp;</p><p><strong>Accommodations</strong></p><p>We strive to create an accessible and inclusive experience for all candidates. If you require a reasonable accommodation to complete any part of the application process, or are unable to use this online application and need an alternative method to apply, please contact <a href=\"mailto:globaltalentss@servicenow.com\">globaltalentss@servicenow.com</a> for assistance.&nbsp;</p><p><strong>Export Control Regulations</strong></p><p>For positions requiring access to controlled technology subject to export control regulations, including the U.S. Export Administration Regulations (EAR), ServiceNow may be required to obtain export control approval from government authorities for certain individuals. All employment is contingent upon ServiceNow obtaining any export license or other approval that may be required by relevant export control authorities.&nbsp;</p><p>From Fortune. ©2026 Fortune Media IP Limited. All rights reserved. Used under license.</p>",
+    "summary": "The Senior Lifecycle & Email Marketing Strategist owns lifecycle email strategy, campaign architecture, audience segmentation, cadence planning, KPI definition, and deployment for complex or high-visibility B2B marketing programs. The role builds and deploys programs in Marketo Engage or comparable platforms, shapes persona-level content, manages testing and governance, and translates performance data into actionable insights.",
+    "locations": [
+     {
+      "postalCode": "10001",
+      "workLocation": "remote",
+      "addressRegion": "New York",
+      "streetAddress": "50 Hudson Yard 5th floor",
+      "addressCountry": "US",
+      "addressLocality": "New York"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Leadership",
+      "Communication",
+      "Problem-solving",
+      "Adaptability"
+     ],
+     "primary_skills": [
+      "Marketo Engage",
+      "Email Marketing",
+      "Lifecycle Marketing",
+      "Marketing Automation",
+      "Audience Segmentation",
+      "Campaign Architecture",
+      "Dynamic Content",
+      "Branching Logic",
+      "A/B Testing",
+      "Multivariate Testing"
+     ],
+     "secondary_skills": [
+      "Adobe Journey Optimizer B2B",
+      "Salesforce Marketing Cloud",
+      "Oracle Eloqua",
+      "Adobe Experience Platform",
+      "Real-Time Customer Data Platform",
+      "Webinar Marketing",
+      "Event Marketing",
+      "Account-Based Marketing",
+      "Account-Based Experience",
+      "Artificial Intelligence"
+     ]
+    },
+    "benefits": [
+     "health_insurance",
+     "pensions_401k",
+     "pension_contribution_matching",
+     "stock_options_equity",
+     "paid_time_off_vacation_personal_days",
+     "parental_leave",
+     "other_benefits"
+    ],
+    "salary": {
+     "max": 221900,
+     "min": 126800,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 6,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1789059019,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.smartrecruiters.com/ServiceNow/744000148831699--senior-lifecycle-email-marketing-strategist-",
+    "status": "active",
+    "companies": [
+     {
+      "name": "ServiceNow",
+      "website": "servicenow.com"
+     }
+    ]
+   },
+   {
+    "id": "cb5c0288-eb01-4f29-a5c3-15e63e141ce1",
+    "title": "Senior Lifecycle & Email Marketing Strategist",
+    "description": "<h2>Company Description</h2><p>It all started when engineer Fred Luddy wrote code that automated a tedious task for his coworker, Phyllis. She cried tears of joy. That moment inspired Fred to build a company that could do that for everyone—freeing people from busywork so they could focus on meaningful work. Today, ServiceNow is the AI control tower for business reinvention. Our ServiceNow AI platform brings together any AI, any data, and any workflow— helping 85% of the Fortune 500® work smarter, faster, and better. We're building an AI-native culture where technology and talent are unstoppable together. And we're just getting started.</p><p>Join us to put AI to work for people.</p><h2>Job Description</h2><p>The Senior Email and Lifecycle Marketing Strategist owns lifecycle email strategy and deployment for high-complexity or high-visibility programs, spanning a subset of existing Integrated Marketing buying group programs (IT, CRM, Employee Experience, Risk &amp; Security).&nbsp;</p><p>Each program strategy covers audience segmentation, campaign architecture, content POV, volume and cadence plan, and KPIs by campaign type. The Senior Lifecycle &amp; Email Marketing Strategist will set the point of view across these dimensions, partners with Integrated counterparts to align, and deploys in Marketo Engage or AJO.&nbsp;</p><p><strong>Responsibilities&nbsp;</strong></p><ul><li>Own lifecycle and email campaign architecture across email nurtures, webinar promotion, event invitations, and product launches, driving alignment with Campaign Managers.&nbsp;</li><li>Manage lifecycle email strategy and deployment for high-complexity or high-visibility books (Flagship events, multi-product, or multi-region scope), mapped to buying group structures and the ABX motion.&nbsp;</li><li>Define audience segmentation for each program (buying group roles, account tier, lifecycle stage), driving alignment with Audience Planners.&nbsp;</li><li>Partner with Content Strategists to shape email content POV, providing recommendations on the email content journey.&nbsp;</li><li>Set the volume and cadence plan (quarterly volume, audience cuts, fatigue governance), driving alignment with Audience Planners and Campaign Managers.&nbsp;</li><li>Define KPIs and activities by campaign type, tied to program business outcomes and the ABX motion.&nbsp;</li><li>Build, configure, and deploy email programs end-to-end in Marketo Engage or comparable platform, including branching logic, dynamic content, and template architecture.&nbsp;</li><li>Refine the lifecycle copy framework for the assigned book and use AI-assisted tooling to scale persona-level content across Champions, Economic Buyers, and Influencers.&nbsp;</li><li>Operate the team's human-in-the-loop approval gates on agentic builds and contribute to refinement of governance standards within the assigned book.&nbsp;</li><li>Design A/B and multivariate testing programs, surface insights through QBR reporting, and proactively address sequencing conflicts and governance risks.&nbsp;</li></ul><h2>Qualifications</h2><p><strong>Qualifications</strong>&nbsp;</p><p>6+ years in B2B email marketing, lifecycle marketing, or marketing automation, with hands-on experience deploying programs in an enterprise marketing automation platform and a track record operationalizing lifecycle strategy.&nbsp;</p><p><strong>Hard Skills&nbsp;</strong></p><ul><li>Email Platform Fluency: Hands-on experience deploying email programs in Marketo Engage required. Adobe Journey Optimizer B2B, Salesforce Marketing Cloud, or Oracle Eloqua acceptable. Depth in audience selection, triggered sends, dynamic content, branching logic, and template architecture.&nbsp;</li><li>Lifecycle Program Design: Multi-stage strategies across Awareness, Education, Acquisition, Progression, and Adoption (industry equivalents: awareness, consideration, conversion, pipeline progression, and retention), including Flagship event programs and multi-product motions.&nbsp;</li><li>Audience and Cadence Strategy: Designs audience segmentation and cadence architecture for high-complexity books. Sets volume targets, audience cuts, and fatigue rules that hold across overlapping programs without creating channel conflict.&nbsp;</li><li>Content POV and Copy: Shapes narrative arc and copy recommendations using the lifecycle copy framework. Fluency on persona-level messaging and content strategy.&nbsp;</li><li>Testing and Measurement: A/B and multivariate testing tied to business impact. Defines KPIs by campaign type and translates results into stakeholder-ready insights.&nbsp;</li><li>Analytical Fluency: Partners closely with Analytics and Digital partners to scope out KPI’s and build an impactful performance report that tells how programs are driving growth from multiple angles of performance data.&nbsp;</li><li>AI and Automation Fluency: Practical use of the lifecycle copy framework, AI-assisted copy and personalization tooling, and human-in-the-loop approval gates on agentic builds. Brings judgment on where AI improves program quality and where it doesn’t.&nbsp;</li><li>Compliance Fluency: CAN-SPAM, CASL, GDPR, CCPA/CPRA.&nbsp;</li></ul><p><strong>Soft Skills (Leadership Competencies)&nbsp;</strong></p><ul><li>Cross-Functional Influence: Operates as the email channel voice in Integrated planning forums for assigned programs. Brings recommendations and tradeoffs that shape program direction.&nbsp;</li><li>Strategic Definition: Defines program strategy within ambiguous or high-complexity scope, then translates it into executable plans.&nbsp;</li><li>Systems Thinking: Sees how email decisions ripple across cadence, sender reputation, and buying group engagement.&nbsp;</li><li>Operational Discipline: Holds multiple high-stakes programs on overlapping timelines, stepping in to unblock sequencing or governance issues before they escalate.&nbsp;</li><li>Automation Mindset: Identifies manual work worth automating, with judgment on where AI helps and where it does not.&nbsp;</li></ul><p><strong>Preferred&nbsp;</strong></p><ul><li>Track record applying ABM, ABX, or buying group frameworks to email strategy.&nbsp;</li><li>Fluency with Adobe Experience Platform and Real-Time CDP.&nbsp;</li><li>Familiarity with webinar and event platforms (ON24, RainFocus) and their integration into lifecycle programs.&nbsp;</li><li>Track record using AI tools to improve email throughput, personalization, or decision quality.&nbsp;</li></ul><p>For positions in this location, we offer a base pay of <strong>$126,800 - $221,900</strong>, plus equity (when applicable), variable/incentive compensation and benefits. Sales positions generally offer a competitive On Target Earnings (OTE) incentive compensation structure. Please note that the base pay shown is a guideline, and individual total compensation will vary based on factors such as qualifications, skill level, competencies, and work location. We also offer health plans, including flexible spending accounts, a 401(k) Plan with company match, ESPP, matching donations, a flexible time away plan and family leave programs. Compensation is based on the geographic location in which the role is located and is subject to change based on work location.</p><h2>Additional Information</h2><p><strong>Work Personas</strong></p><p>We approach our distributed world of work with flexibility and trust. Work personas (flexible, remote, or required in office) are categories that are assigned to ServiceNow employees depending on the nature of their work and their assigned work location.<a href=\"https://careers.servicenow.com/life-at-servicenow#workpersonas\"><u>Learn more here</u></a>. To determine eligibility for a work persona, ServiceNow may confirm the distance between your primary residence and the closest ServiceNow office using a third-party service.</p><p><strong>Equal Opportunity Employer</strong></p><p>ServiceNow is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, national origin, age, disability, gender identity,&nbsp; veteran status, or any other category protected by law. In addition, all qualified applicants with arrest or conviction records will be considered for employment in accordance with legal requirements. &nbsp;</p><p><strong>Accommodations</strong></p><p>We strive to create an accessible and inclusive experience for all candidates. If you require a reasonable accommodation to complete any part of the application process, or are unable to use this online application and need an alternative method to apply, please contact <a href=\"mailto:globaltalentss@servicenow.com\">globaltalentss@servicenow.com</a> for assistance.&nbsp;</p><p><strong>Export Control Regulations</strong></p><p>For positions requiring access to controlled technology subject to export control regulations, including the U.S. Export Administration Regulations (EAR), ServiceNow may be required to obtain export control approval from government authorities for certain individuals. All employment is contingent upon ServiceNow obtaining any export license or other approval that may be required by relevant export control authorities.&nbsp;</p><p>From Fortune. ©2026 Fortune Media IP Limited. All rights reserved. Used under license.</p>",
+    "summary": "The Senior Lifecycle & Email Marketing Strategist owns strategy, architecture, segmentation, deployment, testing, and measurement for complex B2B lifecycle and email marketing programs. The role uses Marketo Engage or comparable platforms to manage campaigns across buying groups, events, product launches, and lifecycle stages while coordinating with cross-functional marketing partners.",
+    "locations": [
+     {
+      "postalCode": "95054",
+      "workLocation": "remote",
+      "addressRegion": "California",
+      "streetAddress": "Building A,B,C 2225 Lawson Lane",
+      "addressCountry": "US",
+      "addressLocality": "Santa Clara"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Leadership",
+      "Communication",
+      "Problem-solving",
+      "Strategic Thinking",
+      "Adaptability"
+     ],
+     "primary_skills": [
+      "B2B Email Marketing",
+      "Lifecycle Marketing",
+      "Marketing Automation",
+      "Marketo Engage",
+      "Audience Segmentation",
+      "Campaign Architecture",
+      "Dynamic Content",
+      "Branching Logic",
+      "A/B Testing",
+      "Marketing Analytics"
+     ],
+     "secondary_skills": [
+      "Adobe Journey Optimizer B2B",
+      "Salesforce Marketing Cloud",
+      "Oracle Eloqua",
+      "Adobe Experience Platform",
+      "Real-Time Customer Data Platform",
+      "Account-Based Marketing",
+      "Account-Based Experience",
+      "ON24",
+      "RainFocus",
+      "Artificial Intelligence"
+     ]
+    },
+    "benefits": [
+     "stock_options_equity",
+     "health_insurance",
+     "pensions_401k",
+     "pension_contribution_matching",
+     "paid_time_off_vacation_personal_days",
+     "parental_leave"
+    ],
+    "salary": {
+     "max": 221900,
+     "min": 126800,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 6,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1789058298,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.smartrecruiters.com/ServiceNow/744000148829349-senior-lifecycle-email-marketing-strategist-",
+    "status": "active",
+    "companies": [
+     {
+      "name": "ServiceNow",
+      "website": "servicenow.com"
+     }
+    ]
+   },
+   {
+    "id": "901dc25e-f194-4ae7-97c2-61af076f202d",
+    "title": "Senior Specialist, Email Marketing Operations",
+    "description": "<div><div><span><span>SHRM is a member-driven catalyst for creating better workplaces where people and businesses thrive together. As the trusted authority on all things work, SHRM is the foremost expert, researcher, advocate, and thought leader on issues and innovations impacting today’s evolving workplaces. With nearly 340,000 members in 180 countries, SHRM touches the lives of more than 362 million workers and their families globally.</span></span></div></div><h1>Summary</h1><p><span>The Senior Specialist, Email Marketing Operations supports the execution of client marketing campaigns within Advertising Operations, with primary responsibility for eBlast development, audience segmentation, deployment, quality assurance, and performance reporting. The role applies advanced marketing automation expertise to ensure campaigns are delivered accurately, on time, and in accordance with contractual commitments, SHRM standards, and applicable legal requirements, serving as a day-to-day point of contact for assigned partners and ensuring seamless execution of partnership initiatives.</span></p><h1>Responsibilities</h1><ul><li><span>Execute marketing plans for Brand Partnership campaigns, including eBlasts, events, webinar promotions, and executive positioning, in alignment with established strategy, business priorities, and contractual commitments. Manage audience segmentation, targeting, and deployment for partner campaigns in Marketo, including advanced filters to prevent audience fatigue and maintain high engagement rates.</span></li><li><span>Serve as the day-to-day campaign execution contact, coordinating with Advertising, Sales, Product, and Events teams to support timely, client-focused delivery. Ensure all campaigns adhere to legal and industry best practices, including CAN-SPAM compliance.</span></li><li><span>Craft partner emails in Marketo with attention to SHRM branding, tone, and engagement best practices.</span></li><li><span>Performance Optimization: Monitoring campaign performance, prepare reports, and recommend enhancements to improve future campaign effectiveness. Conduct research on client organizations to inform campaign execution and identify insights for Advertising and Sales partners. Coordinate internally across sales, marketing, and events teams to ensure timely delivery of partnership commitments.</span></li><li><span>Support achievement of revenue and engagement goals for assigned accounts, tracking against performance benchmarks.</span></li><li><span>Position SHRM as a trusted advisor and thought leader by incorporating organizational research, workforce insights, and HR trends into client conversations, as appropriate.</span></li></ul><h1>Education &amp; Experience Requirements</h1><h1>Education</h1><ul><li><span>Bachelor’s degree preferred or relevant equivalent experience in lieu of degree.&nbsp;</span></li></ul><h1>Experience</h1><ul><li><span>Five (5) or more years of experience in marketing automation, digital marketing, and email operations.</span></li><li><span>Experience supporting sales or partnership activities within HR-related programs or equivalent professional services.</span></li><li><span>Demonstrated ability to manage multiple accounts and projects simultaneously while maintaining high attention to detail.</span></li><li><span>Proficiency in CRM systems (e.g., Marketo), PowerPoint, Excel, and related tools.</span></li><li><span>Strong research and outreach skills to identify potential prospects and partnership opportunities.</span></li></ul><h1>Certifications <span>- NA</span></h1><h1>Knowledge, Skills &amp; Abilities</h1><ul><li><span>Ability to effectively leverage artificial intelligence (AI) tools and technologies to streamline workflows, enhance productivity, and improve overall work quality.</span></li><li><span>Ability to identify campaign issues, recommends solutions, and escalates matters requiring changes to established processes or standards. Can resolve complex campaign-execution issues within established guidelines and escalates significant risks, roadblocks, or exceptions. Exemplary communication skills, both written and oral.</span></li><li><span>Ability to gain a thorough understanding of SHRM products and services to collaborate closely with internal stakeholders who have delivery responsibility for SHRM offerings and to bundle these offerings in creative ways to meet client requirements.</span></li><li><span>Strong sense of accountability for achieving results.</span></li><li><span>Ability to understand and communicate concepts quickly and accurately.</span></li><li><span>Accomplished skills in developing proposals and client presentations.</span></li><li><span>Strong attention to detail.</span></li><li><span>Self-start; Resourcefulness; self-motivated.</span></li><li><span>Disciplined, agile.</span></li><li><span>Ability to effectively leverage artificial intelligence (AI) tools and technologies to streamline workflows, enhance productivity, and improve overall work quality.</span></li></ul><h1>Physical Requirements</h1><p><span>This position operates in a typical office environment (which includes a home office setting) and requires the ability to perform essential job functions with or without reasonable accommodation. Physical requirements may include:</span></p><ul><li><span>Prolonged periods of sitting at a desk and working on a computer.</span></li><li><span>Frequent use of hands and fingers for typing, handling documents, and using office equipment.</span></li><li><span>Occasional standing, walking, bending, and reaching.</span></li><li><span>Ability to lift and carry up to 30 pounds as needed.</span></li><li><span>Clear verbal and written communication skills for effective interaction with colleagues and stakeholders.</span></li></ul><h1>Work Environment</h1><p><strong><span>Fully Remote:</span></strong><span><br>Employees must be available during standard business hours, with core hours beginning between 8:00–9:00 a.m. and concluding between 5:00–6:00 p.m. &nbsp;</span></p><h1>Travel: &nbsp;Moderate 20 – 30%</h1><p>#LI</p><p><em><span>The hiring range for this position is $80,000 to $98,000 per year. This range is an estimate, and the actual salary may vary based on the candidate's experience, skills, and qualifications. SHRM offers a competitive and comprehensive total rewards package. The benefits for this position include professional growth and development, health, dental, vision, well-being, health savings, flexible spending, retirement, open leave, and annual discretionary bonus and incentives.</span></em></p><div><span><span>Our employment practices are in accordance with the laws that prohibit discrimination against qualified&nbsp;</span></span><span>individuals on the basis of race, religion, color, gender, age, national origin, physical or mental disability,&nbsp;</span><span>genetic information, veteran’s status, marital status, gender identity and expression, sexual orientation,&nbsp;</span><span>or any other status protected by applicable law.</span></div><div><span><span>SHRM is an equal opportunity employer (Minority/Female/Disabled/Veteran).</span></span></div><div><span><span>We do not sponsor applicants for work visas.</span></span></div>",
+    "summary": "The Senior Specialist, Email Marketing Operations executes partner marketing campaigns, with a focus on eBlast development, audience segmentation, deployment, quality assurance, and performance reporting. The role uses Marketo and marketing automation expertise to deliver compliant campaigns, coordinate with internal teams and partners, and optimize engagement and revenue outcomes.",
+    "locations": [
+     {
+      "postalCode": "22314",
+      "workLocation": "remote",
+      "addressRegion": "Virginia",
+      "streetAddress": "1800 Duke St",
+      "addressCountry": "US",
+      "addressLocality": "Alexandria"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Problem-solving",
+      "Attention to Detail",
+      "Accountability",
+      "Resourcefulness"
+     ],
+     "primary_skills": [
+      "Marketing Automation",
+      "Email Marketing Operations",
+      "Audience Segmentation",
+      "Marketo",
+      "Campaign Deployment",
+      "Campaign Quality Assurance",
+      "Campaign Performance Reporting",
+      "CRM Systems",
+      "CAN-SPAM Compliance",
+      "Artificial Intelligence"
+     ],
+     "secondary_skills": [
+      "PowerPoint",
+      "Microsoft Excel",
+      "Client Research",
+      "Proposal Development",
+      "Client Presentation Development"
+     ]
+    },
+    "benefits": [
+     "professional_development",
+     "health_insurance",
+     "dental_insurance",
+     "vision_care",
+     "wellness_program",
+     "other_benefits",
+     "performance_bonuses",
+     "flexible_work_hours",
+     "remote_work_hybrid_work_options"
+    ],
+    "salary": {
+     "max": 98000,
+     "min": 80000,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 5,
+    "educationRequirement": {
+     "required": [],
+     "preferred": [
+      "bachelor_degree"
+     ]
+    },
+    "industry": [
+     "marketing_advertising"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": true,
+    "travelPercentage": null,
+    "postedAt": 1788926400,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.dayforcehcm.com/en-US/shrm/EXTERNAL/jobs/3993",
+    "status": "active",
+    "companies": [
+     {
+      "name": "shrm.org",
+      "website": "shrm.org"
+     }
+    ]
+   }
+  ],
+  "meta": {
+   "count": 8,
+   "hasMore": false,
+   "requestTimeMs": 41,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

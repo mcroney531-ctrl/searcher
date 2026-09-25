@@ -1,0 +1,49 @@
+{
+ "call_id": "sem_p_since",
+ "phase": "semantics",
+ "url": "https://api.jobven.com/v1/public/jobs?q=zzqxvwj&since=1789701323&limit=1",
+ "params": [
+  [
+   "q",
+   "zzqxvwj"
+  ],
+  [
+   "since",
+   1789701323
+  ],
+  [
+   "limit",
+   1
+  ]
+ ],
+ "status": 400,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:15:50 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "199",
+  "connection": "close",
+  "server": "cloudflare",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "36d86482-c90f-4bfd-adf5-a2c14dae4c97",
+  "etag": "W/\"c7-gaDZuPzJ1E6rHVOqb5j9huC2wyQ\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=rUYlDF5pQp4WM2pPW8DqKcM%2FJ9oHls2zzJr8m6tLwOeOh%2FacEdrcpmzhpaYLZu5wO7DLmRf7q4pLund74MUTmz7%2B9L3UYGONvE826HJyuKcdrvHIjKmL1euxMOwnKa4sP3xZeE9GlwDzF1PsPA%3D%3D\"}]}",
+  "cf-ray": "a406ddde7dc68d3f-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "statusCode": 400,
+  "message": "property since should not exist",
+  "error": "Bad Request",
+  "requestId": "36d86482-c90f-4bfd-adf5-a2c14dae4c97",
+  "timestamp": "2026-09-25T03:15:50.181Z",
+  "path": "/v1/public/jobs"
+ }
+}

@@ -1,0 +1,173 @@
+{
+ "call_id": "rec_852303520_phrase_active",
+ "phase": "recall",
+ "url": "https://api.jobven.com/v1/public/jobs?q=%22Technical+Training+Specialist%22&descriptionQuery=Demonstrate+training+effectiveness+through+systematic&status=active&postedAfter=1783036800&limit=1",
+ "params": [
+  [
+   "q",
+   "\"Technical Training Specialist\""
+  ],
+  [
+   "descriptionQuery",
+   "Demonstrate training effectiveness through systematic"
+  ],
+  [
+   "status",
+   "active"
+  ],
+  [
+   "postedAfter",
+   1783036800
+  ],
+  [
+   "limit",
+   1
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:20:57 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "transfer-encoding": "chunked",
+  "connection": "close",
+  "server": "cloudflare",
+  "vary": "Accept-Encoding",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "c1e24d4c-4910-41f0-a9a3-c22e3735875f",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2461",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "19",
+  "etag": "W/\"4392-4zimefVe61RhhXtXOWNa097xQEw\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=FlSA%2B%2B20kBIDbFq19d%2FwOf58WsMjC2xaJkTLqBdesoi5FQcYs01cWeOaeljMoGWR7FN0QjOiUxN68E%2BJS11PA5JKCa%2FAATEfVOcc77fUq3K2LwtzoBEPF9%2BqkOAQRjFUVbPbP4z%2FYxbS2Ivnqw%3D%3D\"}]}",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "cf-ray": "a406e55cbeaa8c6f-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "id": "aeaeeb5a-b04b-47b6-8346-7a68e7f91d68",
+    "title": "Principal Field Service Technical Training Specialist",
+    "description": "We anticipate the application window for this opening will close on - 10 Aug 2026<p><br>&nbsp;</p><p>Careers that change lives start here. Medtronic is a global leader in healthcare technology with a Mission to alleviate pain, restore health, and extend life. Our 95,000 employees work across more than 150 countries to put patients first — developing innovative medical technologies that improve the lives of 72+ million patients each year. Your unique talents will help shape the future of healthcare while building a career grounded in purpose, growth, and impact.</p><h1><b>A Day in the Life</b></h1>The Principal Field Service Technical Training Specialist role is to train field service engineers (FSE), hospital biomed staff, and others on Medtronic cranial and spine medical device repair and maintenance.<br><br>While this position is posted as remote, the facility where training takes place is in Lafayette, CO. and is required to be at the facility full time a minimum of 2 weeks per month to conduct instructor-led training. Medtronic will not cover travel costs to be on site, so only candidates willing to be located close to the facility will be considered.<p>The <b>Principal Field Service Technical Training Specialist</b> has the responsibility and authority to <b>drive, create and deliver training for global field service employees, and hospital Bio-Med customers</b>. This individual will be primarily responsible for creating and delivering the course curriculum for <b>Cranial and Spinal products and technologies, with a focus on X-Ray and Imaging products</b> to educate both employees and customers on the technical knowledge required to troubleshoot, repair, and maintain products in these businesses.</p><p><b>Key Responsibilities:</b></p><p><b>Instructional Design &amp; Project Management</b></p><ul><li><p>Collaborate with a cross functional groups (Product Marketing, Sales, Services, Legal, Quality, and Regulatory) to create technical training programs, curricula, course materials and measurements that support business unit strategies and are compliant with regulatory, quality systems, and Business Conduct Standards.</p></li><li><p>Ensure timely updates to the course curricula to reflect changes in product offerings and market demands.</p></li><li><p>Drive innovative training methods including on-line modules and video tutorials, using Medtronic’s <span>Medical/Legal/Regulatory</span>(MLR) review, Product Lifecycle Management (PLM) and Learning Management systems as required as a central tracking repository.</p></li><li><p>Prepare Instructor Guides and certified instructor program on new/revised curricula and materials, on a global basis.</p></li><li><p>Stay abreast of training and development industry research, (e.g. learning theory, motivation theory), and new methods and techniques.</p></li><li><p>Work with administrative staff to develop agendas, certificates, tests and to schedule requests to attend training courses.</p></li><li><p>Demonstrate training effectiveness through systematic program evaluation and continuous improvement strategy.</p></li><li><p>Provide timely evaluation and feedback to trainees and their <span>managers/supervisors.</span></p></li><li><p>Partner with Field Service Engineers (including job shadow) and Factory to understand the manufacturing process to develop and maintain technical knowledge, system intricacies, and troubleshooting skills.</p></li><li><p>Coordinate continuous training opportunities for the global Field service team. Duties include review of newly released/updated repair procedures.</p></li><li><p>Provide feedback from training into new and sustaining projects as appropriate.</p></li></ul><p><b>Training Services Delivery</b></p><ul><li><p>Conduct training courses at different skill levels and audiences in varied locations as needed.</p></li><li><p>Manage course preparations and facility set up as needed.</p></li><li><p>Conduct training for new product introductions and/or software releases.</p></li><li><p>Ensure proper training attendance is documented and updated in proper locations per procedure.</p></li><li><p>Interact in a professional manner with all course participants in both classroom and social situations.</p></li><li><p>Maintain and demonstrate a high level of technical knowledge of current product maintenance, repair and troubleshooting procedures. Use this knowledge to better present course content and answer technical questions of course participants.</p></li><li><p>Conduct Certified Instructor programs for Service educational course offerings.</p></li><li><p>Retain a comprehensive understanding and clinical knowledge of cranial and spine technology.</p></li><li><p>Obtain any ongoing education necessary to maintain a cutting-edge education and training curriculum.</p></li><li><p>May assist in the technical support for users of products. This may include phone support for users and/or technical staff.</p></li><li><p>Plans, develops, and coordinates in-house product training programs for field support personnel and customers.</p></li><li><p>Obtains information needed to prepare in-house training programs; prepares training materials; develops course content; determines methodology; and coordinates the development of training aids.</p></li><li><p>Ensures training program(s) meets company and customer objectives.</p></li><li><p>Maintains communication with customers to ensure effectiveness of training.</p></li><li><p>Continuously revises lesson plans to meet new training requirements and to keep technical information up to date.</p></li><li><p>Up to 25% domestic or international travel</p></li></ul><p><b>Must Have (Minimum Requirements)</b></p><ul><li><p>High School Diploma or equivalent with 8+ years of engineering, technical training or troubleshooting experience, OR</p></li><li><p>Associate's Degree with 6+ years of of engineering, technical training or troubleshooting experience, OR</p></li><li><p>Bachelor’s Degree with 4+ years of of engineering, technical training or troubleshooting experience</p></li></ul><p><b>Nice to Have (Preferred Qualifications):</b></p><ul><li><p><b>Previous experience servicing electromechanical systems for imaging equipment such as x-ray, mammography, and gamma ray systems.</b></p></li><li><p>Previous experience in field service or factory engineering in the medical device industry</p></li><li><p>Direct experience with Cranial and Spine products such as imaging systems</p></li><li><p>Experience developing content and delivering technical training</p></li><li><p>Familiarity with Articulate</p></li><li><p>Familiarity with commonly used test equipment (i.e.: power supplies, DVM's, signal generators, dosimeters, flow meters, etc.)</p></li><li><p>Ability to read and understand schematics and engineering drawings</p></li><li><p>Familiar with the FDA 21 CFR, CGMP for Medical device</p></li><li><p>Advanced education in Electrical Engineering or Scientific discipline or similar related field.</p></li><li><p>Biomedical Engineering background or equivalent.</p></li><li><p>Mechanical, electrical, and Windows based computer experience providing technical support &amp; services. Including equipment and application support.</p></li><li><p>Healthcare/surgical setting experience.</p></li><li><p>Familiarity with state regulations for imaging equipment.</p></li><li><p>Ability to function well under pressure and expend effort to meet schedules and deadlines</p></li><li><p>Adept with the use of basic hand tools and mechanical and electronic devices.</p></li></ul><p>#LI-MDT</p><p>For Baccalaureate degrees earned outside of the United States, a degree that satisfies the requirements of 8 C.F.R. § 214.2(h)(4)(iii)(A) is required.</p><p><b>Physical Job Requirements</b></p><p>The above statements are intended to describe the general nature and level of work being performed by employees assigned to this position, but they are not an exhaustive list of all the required responsibilities and skills of this position.</p><p>The physical demands described within the Responsibilities section of this job description are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. For Office Roles: While performing the duties of this job, the employee is regularly required to be independently mobile. The employee is also required to interact with a computer, and communicate with peers and co-workers. Contact your manager or local HR to understand the Work Conditions and Physical requirements that may be specific to each role.</p><p><b>U.S. Work Authorization &amp; Sponsorship</b></p><p>At Medtronic, we are committed to fostering an environment where employees can thrive and make a meaningful impact. In alignment with our enterprise-wide workforce planning approach, U.S. work authorization sponsorship (H-1B, TN, J, etc.) is offered exclusively for Principal-level roles and above, where specialized expertise aligns with long-term business needs. Roles below the Principal level require candidates to possess unrestricted U.S. work authorization at the time of hire and for the duration of employment.</p><p>‌</p><p><b>Recruitment Fraud Alert</b></p><p><span>We are aware of phishing scams targeting job seekers. Please keep the following in mind:&nbsp;</span></p><br><p><span>Apply only through official Medtronic channels. All legitimate Medtronic recruiting communications come from approved Medtronic platforms and official @medtronic.com email addresses.&nbsp;</span></p><br><p><span>Medtronic will never ask for payment or sensitive personal information (such as bank account or Social Security details) during early stages of the hiring process. Any such requests are not legitimate.&nbsp;</span></p><br><p><span>If you receive a suspicious message claiming to be from Medtronic, do not respond, click links, or open attachments.&nbsp;</span></p><br><p><span>If you have any questions, concerns regarding the authenticity of a communication alleged to have been made by or on behalf of Medtronic, please contact us immediately at</span><a href=\"mailto:AskHR@medtronic.com\"><span><u>AskHR@medtronic.com</u></span></a>.&nbsp;</p><p>‌</p><h1><b>Benefits &amp; Compensation</b><br>&nbsp;</h1><p><b>Medtronic offers a competitive Salary and flexible Benefits Package</b><br>A commitment to our employees lives at the core of our values. We recognize their contributions. They share in the success they help to create.We offer a wide range of benefits, resources, and competitive compensation plans designed to support you at every career and life stage.<br>&nbsp;</p>Salary ranges for U.S (excl. PR) locations (USD):$109,600.00 - $164,400.00This position is eligible for a short-term incentive called the Medtronic Incentive Plan (MIP).<br>The base salary range is applicable across the United States, excluding Puerto Rico and specific locations in California. The offered rate complies with federal and local regulations and may vary based on factors such as experience,<span>certification/education,</span> market conditions, and location. Compensation and benefits information pertains solely to candidates hired within the United States (local market compensation and benefits will apply for others).<p><span>The following benefits and additional compensation are available to those regular employees who work 20+ hours per week: Health, Dental and vision insurance</span><span>,</span><span>Health Savings Account</span><span>,</span><span>Healthcare Flexible Spending Account</span><span>,</span><span>Life insurance, Long-term disability leave</span><span>,</span><span>Dependent daycare spending account</span><span>,</span><span>Tuition <span><span><span><span><span>assistance/reimbursement</span></span></span></span></span></span><span>, and</span><span>Simple Steps (global well-being program).</span></p><p><span>The following benefits and additional compensation are available to all regular employees:</span><span>Incentive plans, 401(k) plan plus employer contribution and match</span><span>,</span><span>Short-term disability</span><span>,</span><span>Paid time off</span><span>,</span><span>Paid holidays</span><span>,</span><span>Employee Stock Purchase Plan</span><span>,</span><span>Employee Assistance Program</span><span>,</span><span>Non-qualified Retirement Plan Supplement (subject to IRS earning minimums)</span><span>, and</span><span>Capital Accumulation Plan (available to Vice Presidents and above, or subject to IRS earning minimums).</span></p><p><span>Regular employees are those who are not temporary, such as interns.&nbsp; Temporary employees are eligible for paid sick time, as required under applicable state law, and the Employee Stock Purchase Plan.</span><span>Please note some of the above benefits may not apply to workers in Puerto Rico.</span></p><p><span>Further details are available at the link below:</span></p><p><a href=\"https://www3.benefitsolver.com/benefits/BenefitSolverView?page_name=signon&amp;co_num=30601&amp;co_affid=medtronic\">Medtronic benefits and compensation plans</a></p><p>It is the policy of Medtronic to provide equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state or local law. In addition, Medtronic will provide reasonable accommodations for qualified individuals with disabilities.</p><br><p>If you are applying to perform work for Medtronic, Inc. (“Medtronic”) in any position which will involve performing at least two (2) hours of work on average each week within the unincorporated areas of Los Angeles County, you can find&nbsp;<a href=\"https://www.medtronic.com/content/dam/medtronic-wide/public/united-states/employee-support-services/careers/la-county-legal-notice.pdf\">here</a> a list of all material job duties of the specific job position which Medtronic reasonably believes that criminal history may have a direct, adverse and negative relationship potentially resulting in the withdrawal of a conditional offer of employment. Medtronic will consider for employment qualified job applicants with arrest or conviction records in accordance with the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act.</p>",
+    "summary": "This role involves designing, developing, and delivering technical training programs for field service engineers and hospital biomed staff on Medtronic's cranial and spine medical device repair and maintenance. The position requires on-site presence at the Lafayette, CO facility for at least 2 weeks per month to conduct instructor-led training, with up to 25% domestic or international travel.",
+    "locations": [
+     {
+      "workLocation": "hybrid",
+      "addressRegion": "Colorado",
+      "addressCountry": "US",
+      "addressLocality": "Lafayette"
+     }
+    ],
+    "remoteType": "hybrid",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Teamwork",
+      "Problem-solving",
+      "Adaptability",
+      "Leadership"
+     ],
+     "primary_skills": [
+      "Technical Training",
+      "Instructional Design",
+      "Project Management",
+      "Curriculum Development",
+      "Medical Device Repair",
+      "Troubleshooting",
+      "Regulatory Compliance",
+      "Learning Management Systems",
+      "Product Lifecycle Management",
+      "Schematic Reading"
+     ],
+     "secondary_skills": [
+      "X-Ray Systems",
+      "Imaging Systems",
+      "Electromechanical Systems",
+      "Articulate",
+      "Test Equipment",
+      "FDA 21 CFR",
+      "CGMP",
+      "Biomedical Engineering",
+      "Electrical Engineering",
+      "Mechanical Engineering"
+     ]
+    },
+    "benefits": [
+     "health_insurance",
+     "dental_insurance",
+     "vision_care",
+     "health_savings_account",
+     "healthcare_flexible_spending_account",
+     "life_insurance",
+     "long_term_disability_leave",
+     "dependent_daycare_spending_account",
+     "tuition_reimbursement",
+     "pensions_401k",
+     "pension_contribution_matching",
+     "short_term_disability",
+     "paid_time_off_vacation_personal_days",
+     "paid_holidays",
+     "employee_stock_purchase_plan",
+     "employee_assistance_program",
+     "non_qualified_retirement_plan_supplement",
+     "capital_accumulation_plan"
+    ],
+    "salary": {
+     "max": 164400,
+     "min": 109600,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 4,
+    "educationRequirement": {
+     "required": [
+      "high_school"
+     ],
+     "preferred": [
+      "associate_degree",
+      "bachelor_degree",
+      "master_degree",
+      "professional_certificate"
+     ]
+    },
+    "industry": [
+     "healthcare_medical",
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": true,
+    "hasRelocation": null,
+    "requiresTravel": true,
+    "travelPercentage": null,
+    "postedAt": 1784606400,
+    "expiresAt": 1786406399,
+    "applyUrl": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Principal-Field-Service-Technical-Training-Specialist_R72439-2",
+    "status": "active",
+    "companies": [
+     {
+      "name": "medtronic.com",
+      "website": "medtronic.com"
+     }
+    ]
+   }
+  ],
+  "meta": {
+   "count": 1,
+   "hasMore": false,
+   "requestTimeMs": 19,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

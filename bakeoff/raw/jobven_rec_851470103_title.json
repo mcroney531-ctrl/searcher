@@ -1,0 +1,58 @@
+{
+ "call_id": "rec_851470103_title",
+ "phase": "recall",
+ "url": "https://api.jobven.com/v1/public/jobs?q=%22AI+SDLC+Enablement+Consultant%22&country=US&postedAfter=1788220800&limit=10",
+ "params": [
+  [
+   "q",
+   "\"AI SDLC Enablement Consultant\""
+  ],
+  [
+   "country",
+   "US"
+  ],
+  [
+   "postedAfter",
+   1788220800
+  ],
+  [
+   "limit",
+   10
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:24:15 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "107",
+  "connection": "close",
+  "server": "cloudflare",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "5f00b0a7-745d-4ef8-a955-c065f73e4312",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2411",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "7",
+  "etag": "W/\"6b-/cW/FUFhGGlZpMzFdkrMXZbIRoY\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=cKw3AgCZD%2Ff67aiE4fl8RTIHAhqk%2FfnL%2FA4IAl30Z1HWv%2B2qbrLi8Ci8eKQTbxDPdoC5qG9%2BY1JzOe9PJDisK675eNb6JyKHqc9pbQqrnyxrh0fAs6Vyuz0OInXBB7PdF%2FDHFz5LE1BV3Pc4sw%3D%3D\"}]}",
+  "cf-ray": "a406ea373822f52e-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [],
+  "meta": {
+   "count": 0,
+   "hasMore": false,
+   "requestTimeMs": 7,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

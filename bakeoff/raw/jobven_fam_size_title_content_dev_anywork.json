@@ -1,0 +1,140 @@
+{
+ "call_id": "fam_size_title_content_dev_anywork",
+ "phase": "family",
+ "url": "https://api.jobven.com/v1/public/jobs?q=%22content+developer%22+OR+%22content+designer%22+OR+%22content+strategist%22+OR+%22content+development+manager%22+OR+%22content+lead%22&country=US&postedAfter=1789702200&limit=1&includeTotal=true",
+ "params": [
+  [
+   "q",
+   "\"content developer\" OR \"content designer\" OR \"content strategist\" OR \"content development manager\" OR \"content lead\""
+  ],
+  [
+   "country",
+   "US"
+  ],
+  [
+   "postedAfter",
+   1789702200
+  ],
+  [
+   "limit",
+   1
+  ],
+  [
+   "includeTotal",
+   "true"
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:30:10 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "transfer-encoding": "chunked",
+  "connection": "close",
+  "server": "cloudflare",
+  "vary": "Accept-Encoding",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "6b184630-8929-4497-90a7-d41c8f03e657",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2223",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "56",
+  "etag": "W/\"13d4-2OHUZpsb8yI4FW0UwfRSdq43Km0\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=me8Br3n8x6wjfL7MFXxtV3eVlB%2Fzar2ni22Wh4AlD564CBtfpq2mct51%2FyIHLQuQg72EIPOWYETMdJMRq%2BgtsM8QjS10YFF4HSfk3aeYoTztGdNS2CnCsju%2FQMdkY4BPX0dqn1kYHWTot1Io9g%3D%3D\"}]}",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "cf-ray": "a406f2e19a936a5c-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "id": "6ef580d5-0c07-4f10-98b0-0109a2e7b729",
+    "title": "Social Media & Content Designer",
+    "description": "<h3>About the Role</h3><p>This is a full-time, on-camera-forward creative role sitting within the Marketing team of an AI-native immigration legal services company. You will own the brand's social media presence end to end, transforming expert legal content into visually polished, highly engaging posts that educate and grow an audience across every channel. The role reports directly to the Head of Marketing and is central to making immigration law feel clear, accessible, and human.</p><h3>What You'll Do</h3><ul><li><p>Own day-to-day publishing, scheduling, and community engagement across LinkedIn, Instagram, X, and other channels.</p></li><li><p>Build and maintain a content calendar that balances timely immigration news with evergreen educational content.</p></li><li><p>Design high-quality graphics, carousels, and repeatable visual templates based on content supplied by the legal writing team.</p></li><li><p>Film and edit polished short-form video (Reels, Shorts) with strong hooks, pacing, captions, and platform-native techniques, appearing on camera regularly.</p></li><li><p>Uphold and evolve brand guidelines so every published asset looks and feels consistent.</p></li><li><p>Track performance metrics and iterate on content strategy based on what drives engagement and growth.</p></li><li><p>Represent the brand at industry and community events in person.</p></li></ul><h3>What We're Looking For</h3><ul><li><p>2 to 7 years of experience managing and growing social media or content marketing for a brand, ideally at an early-stage startup.</p></li><li><p>A portfolio that demonstrates broad, professionally executed social content design, not limited to one or two projects.</p></li><li><p>Strong design eye capable of producing premium, editorial-quality graphics and social content consistently.</p></li><li><p>Confidence and comfort on camera, with the ability to clearly articulate complex topics in short-form video.</p></li><li><p>Solid video editing skills including transitions, captions, hooks, and pacing for short-form platforms.</p></li><li><p>Expert-level proficiency in at least one creative tool such as Figma, Adobe Illustrator, After Effects, or similar.</p></li><li><p>Excellent written communication and judgment when translating dense or regulated subject matter into engaging posts.</p></li><li><p>Experience marketing trust-heavy, regulated, or compliance-sensitive services (legal, fintech, healthcare, or similar) is a strong plus.</p></li><li><p>Working knowledge of basic HTML and CSS is a plus.</p></li><li><p>Personal connection to immigration or international communities is a plus.</p></li><li><p>Self-starter comfortable owning a channel strategy independently with minimal oversight.</p></li></ul><h3>Compensation &amp; Benefits</h3><p><strong>Salary:</strong> $80,000 to $100,000 USD annually. Visa sponsorship is not available for this role.</p><h3>Location</h3><p>Based in <strong>San Francisco, California</strong>. Strong preference for in-person work at least three days per week. Exceptional remote candidates within the United States may be considered.</p>",
+    "summary": "The Social Media & Content Designer owns the company’s social media presence, creating and publishing engaging content across channels to make immigration law accessible. Responsibilities include designing graphics and templates, producing short-form video, managing community engagement and content calendars, maintaining brand consistency, analyzing performance, and representing the brand at events.",
+    "locations": [
+     {
+      "workLocation": "hybrid",
+      "addressRegion": "California",
+      "addressCountry": "US",
+      "addressLocality": "San Francisco"
+     }
+    ],
+    "remoteType": "hybrid",
+    "skills": {
+     "soft_skills": [
+      "Written Communication",
+      "Judgment",
+      "Self-Starter"
+     ],
+     "primary_skills": [
+      "Social Media Management",
+      "Content Marketing",
+      "Content Calendar Management",
+      "Graphic Design",
+      "Short-Form Video Production",
+      "Video Editing",
+      "Brand Guidelines",
+      "Social Media Analytics",
+      "Figma",
+      "Adobe Illustrator"
+     ],
+     "secondary_skills": [
+      "After Effects",
+      "HTML",
+      "CSS",
+      "Regulated Industry Marketing",
+      "Compliance-Sensitive Marketing",
+      "Immigration Services Marketing"
+     ]
+    },
+    "benefits": [],
+    "salary": {
+     "max": 100000,
+     "min": 80000,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "mid",
+    "employmentType": "full_time",
+    "minYearsExperience": 2,
+    "educationRequirement": null,
+    "industry": [
+     "consulting_professional",
+     "marketing_advertising"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": true,
+    "travelPercentage": null,
+    "postedAt": 1790270772,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/clera/8a650213-06f1-46e1-b1c5-5d7fe17dc006",
+    "status": "active",
+    "companies": [
+     {
+      "name": "Clera",
+      "website": "getclera.com"
+     }
+    ]
+   }
+  ],
+  "meta": {
+   "total": 7,
+   "count": 1,
+   "nextCursor": "eyJpZCI6IjZlZjU4MGQ1LTBjMDctNGYxMC05OGIwLTAxMDlhMmU3YjcyOSIsInNvcnRWYWx1ZSI6MTc5MDI3MDc3MiwidGllQnJlYWtlciI6IjIwMjYtMDktMjRUMjI6MjI6NDMuNDgzWiJ9",
+   "hasMore": true,
+   "requestTimeMs": 55,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

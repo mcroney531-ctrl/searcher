@@ -1,0 +1,920 @@
+{
+ "call_id": "rec_850608574_title",
+ "phase": "recall",
+ "url": "https://api.jobven.com/v1/public/jobs?q=%22Technical+Writer%22&country=US&postedAfter=1788220800&limit=10",
+ "params": [
+  [
+   "q",
+   "\"Technical Writer\""
+  ],
+  [
+   "country",
+   "US"
+  ],
+  [
+   "postedAfter",
+   1788220800
+  ],
+  [
+   "limit",
+   10
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:23:49 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "transfer-encoding": "chunked",
+  "connection": "close",
+  "server": "cloudflare",
+  "vary": "Accept-Encoding",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "71ae162f-9297-43bb-a29e-99d84f4daa67",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2421",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "86",
+  "etag": "W/\"199fe-TMpZpFgs6zC8VHb8wWoWnbVJFd0\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=ic7cK%2FbUxOPThPQDHH6xHVaZl%2FZAg6B5WMAMkhRuU5F7Par8MfAvIyq40AZ9oEaHvbajo71en2Ijr23dsWnNyVH0gXjYUWpPHu0ABJTcEqkGF0r0OUwOV%2BG7tXZLBeunHEPgLk6yFfTk0VvTYw%3D%3D\"}]}",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "cf-ray": "a406e992bdebc60f-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "id": "e9397852-f9a7-4231-be42-584dfbad650e",
+    "title": "Technical Writer And Deliverables Lead",
+    "description": "<div><p>A program office runs on its deliverable cadence, and the documents that carry it have to be accurate, on time, and readable by every audience that touches them. The Red Gate Group is seeking a <strong>Technical Writer and Deliverables Lead</strong> to support a Department of Defense intelligence customer, producing clear documentation that meets both technical accuracy and regulatory compliance standards while owning the recurring contract deliverable cadence for a newly established joint program office. You will produce and maintain recurring program deliverables, including monthly activity reports, quarterly business review briefs, transition plans, and project plans.</p><br><p>You will develop Risk Management Framework documentation in accordance with NIST SP 800-37 and DoD RMF guidance, including system security plans, security assessment reports, and authorization packages that support the Authority to Operate process. You will also translate complex technical concepts into accessible documentation for diverse audiences and support broader status reporting and project management artifact production.</p><br><p><strong>You Have</strong></p><p>• 5+ years of technical writing or IT project support experience, including recent experience within the last 2 years. This experience requirement is firm and cannot be met through education or certifications.</p><p>• Bachelor's degree in a related field, or one of the following in its place: an Associate's degree in a related field and 2 additional years of relevant experience, or 4 additional years of relevant experience. The additional years used in place of the degree are on top of the 5 year experience requirement above, not counted within it.</p><br><p>In plain terms: with a Bachelor's you need 5 years, with an Associate's 7, and with no degree 9.</p><p>• Demonstrated experience producing RMF documentation supporting the Authority to Operate process</p><p>• Active TS/SCI clearance with a current CI polygraph</p><br><p><strong>Nice If You Have</strong></p><p>• Experience with government CDRL formats and templates</p><h2>Company Description</h2></div><div><p>The Red Gate Group, founded in 2006, is a Service-Disabled Veteran-Owned Company based in Chantilly, VA. As an SDVOSB, the Red Gate Group has established a reputation for delivering quality multi-tiered services in intelligence analysis, strategic planning, program management, policy development, operational design, and technology integration. RGG delivers high-quality, customer-centric solutions around the world—from the foxhole to the highest levels of Government. Our motto, \"Making a Difference for Country and Client,\" reflects our deep commitment to national security and service excellence. As an employer of choice, we offer comprehensive benefits including flexible time off, 11 paid holidays, immediate 401(k) eligibility with a generous match, and full medical, dental, and vision coverage. Our employees enjoy 100% company-paid life insurance and disability benefits, along with professional development assistance for degrees and certifications. We foster a culture of growth and work-life balance, backed by our commitment to supporting both our clients' missions and our employees' success. Join our team and be part of an organization that values both service excellence and employee wellbeing.</p></div>",
+    "summary": "The Technical Writer and Deliverables Lead will support a Department of Defense intelligence customer by producing and maintaining recurring program deliverables, including reports, briefs, plans, and project artifacts. The role also develops Risk Management Framework documentation for the Authority to Operate process and translates complex technical concepts into clear documentation that meets technical and regulatory standards.",
+    "locations": [
+     {
+      "workLocation": "onsite",
+      "addressRegion": "Virginia",
+      "addressCountry": "US",
+      "addressLocality": "Reston"
+     }
+    ],
+    "remoteType": "onsite",
+    "skills": {
+     "soft_skills": [
+      "Written Communication"
+     ],
+     "primary_skills": [
+      "Technical Writing",
+      "IT Project Support",
+      "Risk Management Framework",
+      "NIST SP 800-37",
+      "DoD Risk Management Framework Guidance",
+      "Authority to Operate Process",
+      "Program Deliverable Management",
+      "Status Reporting",
+      "Project Management Artifacts"
+     ],
+     "secondary_skills": [
+      "Government CDRL Formats and Templates"
+     ]
+    },
+    "benefits": [
+     "paid_time_off_vacation_personal_days",
+     "pensions_401k",
+     "pension_contribution_matching",
+     "health_insurance",
+     "dental_insurance",
+     "vision_care",
+     "life_insurance",
+     "disability_insurance",
+     "professional_development"
+    ],
+    "salary": null,
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 5,
+    "educationRequirement": {
+     "required": [
+      "bachelor_degree"
+     ],
+     "preferred": [
+      "associate_degree"
+     ]
+    },
+    "industry": [
+     "government_public",
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790298440,
+    "expiresAt": null,
+    "applyUrl": "https://secure7.saashr.com/ta/6199162.careers?ShowJob=638016656",
+    "status": "active",
+    "companies": [
+     {
+      "name": "redgategrp.com",
+      "website": "redgategrp.com"
+     }
+    ]
+   },
+   {
+    "id": "2e0c46f8-28c6-4ede-8ec2-8faf87d91da4",
+    "title": "Technical Writer",
+    "description": "Position Overview<p>We are seeking a Project Manager to coordinate and manage the delivery, verification, tracking, and closeout of operational procedures supporting data center construction, expansion, retrofit, and infrastructure projects.</p><p>The Project Manager will coordinate cross-functional stakeholders, manage project timelines and deliverables, monitor workflow progress, facilitate meetings, maintain project documentation, and support timely resolution of project risks and operational blockers.</p><h2>Key Responsibilities</h2><h3>Project Initiation and Planning</h3><ul><li>Review and triage incoming procedure delivery requests for new construction, expansion, and retrofit projects.</li><li>Coordinate site discovery activities and establish project tracking requirements.</li><li>Initiate project plans, trackers, and required project documentation.</li><li>Distribute and manage equipment and information questionnaires.</li><li>Coordinate introductory process-alignment sessions with facility operations stakeholders.</li></ul><h3>Project Execution and Stakeholder Coordination</h3><ul><li>Schedule and facilitate project kickoff meetings with facility representatives and subject matter experts (SMEs).</li><li>Coordinate recurring operational meetings to monitor procedure verification and project progress.</li><li>Assign and track review activities across appropriate technical or operational SMEs.</li><li>Maintain clear communication regarding project milestones, deliverables, dependencies, and outstanding actions.</li><li>Coordinate information flow among project stakeholders to support timely completion of deliverables.</li></ul><h3>Project Tracking, Risk Management, and Governance</h3><ul><li>Monitor project schedules, milestones, deliverables, and completion status.</li><li>Maintain project trackers and provide accurate status updates.</li><li>Monitor applicable Service Level Objectives (SLOs) and identify potential schedule or delivery risks.</li><li>Document project issues, dependencies, and blockers.</li><li>Escalate unresolved project issues through established management and governance processes.</li><li>Support project reporting and operational dashboards with accurate and timely information.</li></ul><h3>Workflow and Tracking Systems</h3><ul><li>Manage project workflow activities using applicable ticketing and task-management systems.</li><li>Administer workflow automation processes used for procedure delivery tracking.</li><li>Create and maintain child tracking items and route assigned verification activities to appropriate SMEs.</li><li>Maintain accurate task status, ownership, dependencies, and completion information.</li><li>Experience with Buganizer or similar workflow/ticketing platforms is beneficial.</li></ul><h3>Project Closeout</h3><ul><li>Coordinate completion of project closeout activities and checklists.</li><li>Track final procedure verification and required approvals/sign-offs.</li><li>Confirm completion of outstanding project deliverables.</li><li>Facilitate final project closeout and retrospective meetings with relevant stakeholders.</li><li>Maintain final project documentation and status records.</li></ul><h2>Key Deliverables</h2><ul><li>Site-specific procedure delivery plans and project artifacts.</li><li>Procedure verification trackers showing completion status across applicable operational disciplines.</li><li>Project status reports and milestone tracking.</li><li>Verification and completion metrics.</li><li>Project health and risk updates.</li><li>Accurate records within project tracking and workflow systems.</li><li>Completed project closeout documentation.</li></ul><h2>Required Qualifications</h2><ul><li>Minimum 3 years of experience in project management, program coordination, technical operations, technical documentation, infrastructure projects, or a related professional area.</li><li>Experience coordinating projects involving multiple stakeholders or functional teams.</li><li>Experience managing project schedules, milestones, deliverables, risks, and dependencies.</li><li>Experience using project management, ticketing, workflow, or task-management systems.</li><li>Ability to organize and prioritize multiple concurrent project activities.</li><li>Strong written and verbal communication skills.</li><li>Ability to facilitate meetings, document action items, and follow up on assigned deliverables.</li><li>Ability to identify project risks, blockers, and dependencies and escalate them through established processes.</li><li>Ability to work onsite at the designated Lenoir, North Carolina data center location as required by the hybrid work arrangement.</li></ul><h2>Preferred Qualifications</h2><ul><li>Experience supporting data center operations, technical facilities, infrastructure engineering, construction/retrofit projects, or technical procedure/documentation programs.</li><li>Experience working with operational or technical SMEs.</li><li>Experience with Agile, operational workflow, or structured project-tracking processes.</li><li>Familiarity with Service Level Objectives (SLOs) and operational performance tracking.</li><li>Experience with Buganizer or comparable issue/task management platforms.</li><li>Experience coordinating procedure verification or technical documentation workflows.</li></ul><h2>Work Environment and Physical Requirements</h2><ul><li>This position follows a hybrid work arrangement with required onsite work at the designated data center location.</li><li>The role primarily involves project coordination, communication, documentation, tracking, and stakeholder management.</li><li>When onsite, the individual must follow applicable site access, safety, security, and operational procedures.</li><li>Any additional physical or site-access requirements will be communicated as part of the applicable worksite requirements.</li></ul><h2>Equal Employment Opportunity</h2><p>We are committed to providing equal employment opportunities to qualified applicants and employees. Employment decisions are based on job-related qualifications, business requirements, and applicable law. We do not discriminate on the basis of characteristics protected by applicable federal, state, or local law.</p><p>Reasonable accommodations may be available for qualified individuals with disabilities, consistent with applicable law.</p><h2>Application Considerations</h2><p>Candidates will be evaluated based on the qualifications, skills, experience, and job-related requirements described in this posting</p><br><br><br><br><br><br><br><br><br><br><strong><u><span>Disclaimer</span></u><span>:</span></strong><span> Diverse Lynx LLC is an Equal Opportunity Employer. All applicants and employees are evaluated without discrimination, based solely on their qualifications, ability, competence and performance. </span><span>This email and its attachments may contain confidential or proprietary information and is intended only for the recipient(s). </span><span><span><span>If you received this message in error, please disregard it and notify the sender. If you no longer wish to receive our communications, you may </span></span></span><span><a href=\"https://ind01.safelinks.protection.outlook.com/?url=https://diverselynx.com/unsubscribe&amp;data=05|02|divyanshu.agarwal@diverselynx.com|97140cf178a3493a2a3608df128e261c|7ebe3230b01e4293b47f17c6df6abe38|0|0|639250073855175896|Unknown|TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ==|0|||&amp;sdata=8a2fRzg0xVb22IxUT5pOv7Lj/o1YWdJ9XwDnbvqxi0o=&amp;reserved=0\">unsubscribe</a> </span><span><span><span> at any time.</span></span></span><br><strong><u><span><span>Security Notice</span></span></u></strong><strong><span>:</span></strong> <strong>Our official website is <a href=\"https://ind01.safelinks.protection.outlook.com/?url=http://www.diverselynx.com/&amp;data=05|02|divyanshu.agarwal@diverselynx.com|97140cf178a3493a2a3608df128e261c|7ebe3230b01e4293b47f17c6df6abe38|0|0|639250073855185695|Unknown|TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ==|0|||&amp;sdata=QBOFftVmWjwSJUCR665yZNMvaYasEW5P5e5dsF+5Tj0=&amp;reserved=0\">www.diverselynx.com</a> We do not operate or authorize any other websites representing Diverse Lynx LLC.</strong>",
+    "summary": "The role coordinates and manages the delivery, verification, tracking, and closeout of operational procedures for data center construction, expansion, retrofit, and infrastructure projects. Responsibilities include coordinating stakeholders and meetings, managing schedules and deliverables, maintaining workflow systems and documentation, monitoring risks and service objectives, and supporting project closeout.",
+    "locations": [
+     {
+      "workLocation": "hybrid",
+      "addressRegion": "North Carolina",
+      "addressCountry": "US",
+      "addressLocality": "Lenoir"
+     }
+    ],
+    "remoteType": "hybrid",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Organization",
+      "Prioritization",
+      "Meeting Facilitation"
+     ],
+     "primary_skills": [
+      "Project Management",
+      "Project Planning",
+      "Project Scheduling",
+      "Project Tracking",
+      "Risk Management",
+      "Stakeholder Coordination",
+      "Workflow Management",
+      "Ticketing Systems",
+      "Task Management Systems",
+      "Technical Documentation"
+     ],
+     "secondary_skills": [
+      "Data Center Operations",
+      "Infrastructure Projects",
+      "Construction Project Management",
+      "Agile",
+      "Service Level Objectives",
+      "Buganizer",
+      "Operational Performance Tracking",
+      "Procedure Verification"
+     ]
+    },
+    "benefits": [],
+    "salary": null,
+    "experienceLevel": "mid",
+    "employmentType": "full_time",
+    "minYearsExperience": 3,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software",
+     "real_estate_construction"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790284144,
+    "expiresAt": null,
+    "applyUrl": "https://www2.jobdiva.com/portal/?a=9xjdnw687b7a7nvvdyut936kpjlgy0023blrozaecads0pdnwppcswnaaku8ji2g#/jobs/29361080",
+    "status": "active",
+    "companies": [
+     {
+      "name": "Diverse Lynx",
+      "website": "diverselynx.com"
+     }
+    ]
+   },
+   {
+    "id": "17fd5f4e-86a4-4b83-a522-b090a1b42b4a",
+    "title": "Lead Technical Writer",
+    "description": "<div><strong><span>Lead Technical Writer</span></strong><br><strong><span>Wichita KS</span></strong><br><strong><span>Onsite only</span></strong><br><strong><span>Salary-$90k with benefits.</span></strong><br><br>Note: <strong><span>For the Lead Technical Writer role, we require candidates with aerospace experience, strong technical writing skills, and A&amp;P certification. Candidates must have at least a High School or an Associate degree. </span></strong><br><br><strong><span>A&amp;P license or military aviation maintenance experience with Technical Orders a plus.</span></strong><br>Requires an understanding of engineering data, with an ability to research and analyze engineering drawings and technical documents.<br>Mechanical aptitude with experience and knowledge of aircraft operation, aircraft systems, aircraft maintenance practices, manufacturing and GAMA/ATA guidelines.<br>Experience using SGML/XML, Arbortext, Adobe FrameMaker or equivalent tool in authoring environment.<br>Professional and diplomatic demeanor with excellent verbal and written communication skills.<br><br><strong><span>Maintenance Manual Author</span></strong><br>Create and revise maintenance documents (maintenance manuals, structural repair manuals, non-destructive testing manuals, tool &amp; equipment manuals and component maintenance manuals) using engineering database information, engineering drawings, functional tests and other sources to provide customers with detailed aircraft continued airworthiness instructions.<br>Submit work packages to create illustrations that will accompany maintenance document instructions for use in technical publications.<br>Conduct self and peer quality checks of completed work packages for accuracy and consistency.<br>Follow established procedures and improve procedures as necessary.<br>Collaborate with core teams, engineers and customer service representatives to validate maintenance document procedures.</div><br><br><br><br><br><br><br><br><br><br><strong><u><span>Disclaimer</span></u><span>:</span></strong><span> Diverse Lynx LLC is an Equal Opportunity Employer. All applicants and employees are evaluated without discrimination, based solely on their qualifications, ability, competence and performance. </span><span>This email and its attachments may contain confidential or proprietary information and is intended only for the recipient(s). </span><span><span><span>If you received this message in error, please disregard it and notify the sender. If you no longer wish to receive our communications, you may </span></span></span><span><a href=\"https://ind01.safelinks.protection.outlook.com/?url=https://diverselynx.com/unsubscribe&amp;data=05|02|divyanshu.agarwal@diverselynx.com|97140cf178a3493a2a3608df128e261c|7ebe3230b01e4293b47f17c6df6abe38|0|0|639250073855175896|Unknown|TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ==|0|||&amp;sdata=8a2fRzg0xVb22IxUT5pOv7Lj/o1YWdJ9XwDnbvqxi0o=&amp;reserved=0\">unsubscribe</a> </span><span><span><span> at any time.</span></span></span><br><strong><u><span><span>Security Notice</span></span></u></strong><strong><span>:</span></strong> <strong>Our official website is <a href=\"https://ind01.safelinks.protection.outlook.com/?url=http://www.diverselynx.com/&amp;data=05|02|divyanshu.agarwal@diverselynx.com|97140cf178a3493a2a3608df128e261c|7ebe3230b01e4293b47f17c6df6abe38|0|0|639250073855185695|Unknown|TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ==|0|||&amp;sdata=QBOFftVmWjwSJUCR665yZNMvaYasEW5P5e5dsF+5Tj0=&amp;reserved=0\">www.diverselynx.com</a> We do not operate or authorize any other websites representing Diverse Lynx LLC.</strong>",
+    "summary": "The Lead Technical Writer creates and revises aircraft maintenance documentation, including manuals and technical instructions, using engineering data, drawings, and tests. Responsibilities include preparing illustration work packages, conducting quality checks, following and improving procedures, and collaborating with engineering and customer-facing teams.",
+    "locations": [
+     {
+      "workLocation": "onsite",
+      "addressRegion": "Kansas",
+      "addressCountry": "US",
+      "addressLocality": "Wichita"
+     }
+    ],
+    "remoteType": "onsite",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Professionalism",
+      "Diplomacy",
+      "Collaboration",
+      "Attention to Detail"
+     ],
+     "primary_skills": [
+      "Technical Writing",
+      "Aerospace Experience",
+      "A&P Certification",
+      "Engineering Data Analysis",
+      "Engineering Drawing Analysis",
+      "Aircraft Maintenance",
+      "Aircraft Systems",
+      "Aircraft Operations",
+      "Aircraft Manufacturing",
+      "Technical Publications Authoring"
+     ],
+     "secondary_skills": [
+      "SGML",
+      "XML",
+      "Arbortext",
+      "Adobe FrameMaker",
+      "GAMA/ATA Guidelines",
+      "Military Aviation Maintenance",
+      "Technical Orders",
+      "Illustration Work Packages",
+      "Procedure Improvement",
+      "Quality Assurance"
+     ]
+    },
+    "benefits": [
+     "other_benefits"
+    ],
+    "salary": {
+     "max": 90000,
+     "min": 90000,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "lead",
+    "employmentType": "full_time",
+    "minYearsExperience": null,
+    "educationRequirement": {
+     "required": [
+      "high_school",
+      "associate_degree",
+      "professional_certificate"
+     ],
+     "preferred": [
+      "professional_certificate"
+     ]
+    },
+    "industry": [
+     "manufacturing"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790258929,
+    "expiresAt": null,
+    "applyUrl": "https://www2.jobdiva.com/portal/?a=9xjdnw687b7a7nvvdyut936kpjlgy0023blrozaecads0pdnwppcswnaaku8ji2g#/jobs/29356718",
+    "status": "active",
+    "companies": [
+     {
+      "name": "Diverse Lynx",
+      "website": "diverselynx.com"
+     }
+    ]
+   },
+   {
+    "id": "32bba9b9-8aa2-4233-8bfe-07b534779089",
+    "title": "Senior Technical Writer - On-site",
+    "description": "We anticipate the application window for this opening will close on - 17 Oct 2026<p><br>&nbsp;</p><p>Careers that change lives start here. Medtronic is a global leader in healthcare technology with a Mission to alleviate pain, restore health, and extend life. Our 95,000 employees work across more than 150 countries to put patients first — developing innovative medical technologies that improve the lives of 72+ million patients each year. Your unique talents will help shape the future of healthcare while building a career grounded in purpose, growth, and impact.</p><h1><b>A Day in the Life</b></h1><p>Cranial and Spinal Technologies develops technologies and therapies used in neurosurgery, spine surgery, biologics, navigation, robotics, and enabling technologies that support patient care across a broad range of cranial and spinal procedures. This role is part of the technical publications function and is responsible for creating and maintaining Instructions for Use (IFU) and related customer-facing documentation that support the safe and effective use of advanced imaging products.<br><br><span>Check us out on LinkedIn: </span><a href=\"https://www.linkedin.com/company/medtronic-brain-and-spine-therapies/posts/?feedView=all\"><span><u>Medtronic CST</u></span></a></p><p><br>This position is based in Lafayette, Colorado, and requires an on-site work arrangement. Occasional domestic and international travel may be required, with expected travel less than 10%.</p><p>The Senior Technical Writer develops, maintains, and manages Instructions for Use (IFU) and related technical documentation for advanced imaging products. This role collaborates with engineering, marketing, regulatory, and quality teams to gather information, translate complex technical concepts into clear user documentation, manage document release activities, and coordinate translation projects supporting global product distribution.</p><h2>Primary Responsibilities</h2><ul><li>Develop, maintain, and update Instructions for Use (IFU), system manuals, quick reference guides, package inserts, technical bulletins, and software help documentation.</li><li>Gather technical content through collaboration with product development, marketing, regulatory, and subject matter experts.</li><li>Create and manage structured documentation using Adobe FrameMaker, XML authoring tools, and related content management systems.</li><li>Manage document version control, archival activities, and documentation release processes within Product Lifecycle Management systems.</li><li>Coordinate translation projects, including document preparation, tracking, review, and finalization with external translation providers.</li><li>Review, edit, and proofread technical documentation to ensure accuracy, consistency, and compliance with quality requirements.</li><li>Support cross-functional teams with <span>documentation-related</span> guidance and ensure documentation is available for product releases.</li><li>Identify and implement process improvements that enhance documentation quality, efficiency, and compliance.</li></ul><h2>Required Qualifications</h2><ul><li>Bachelor's degree and 4+ years of technical writing or technical editing experience OR Master's degree and 2+ years of technical writing or technical editing experience.</li><li>Advanced experience with Adobe FrameMaker.</li><li>Experience with structured authoring, XML, and content management systems.</li><li>Advanced experience with Adobe Acrobat, Adobe Photoshop, vector graphics software, and HTML.</li><li>Experience creating technical documentation for global audiences.</li></ul><br><h2>Preferred Qualifications</h2><ul><li>Technical writing experience in the medical device, scientific, or other regulated industry.</li><li>Experience with Vasont Content Management System (CMS).</li><li>Experience developing online documentation or software help systems.</li><li>Experience managing professional translation projects and vendors.</li><li>Experience supporting documentation activities in regulated quality system environments.</li></ul><p>For Baccalaureate degrees earned outside of the United States, a degree that satisfies the requirements of 8 C.F.R. § 214.2(h)(4)(iii)(A) is required.</p><p><b>Physical Job Requirements</b></p><p>The above statements are intended to describe the general nature and level of work being performed by employees assigned to this position, but they are not an exhaustive list of all the required responsibilities and skills of this position. </p><p>The physical demands described within the Responsibilities section of this job description are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. For Office Roles: While performing the duties of this job, the employee is regularly required to be independently mobile. The employee is also required to interact with a computer, and communicate with peers and co-workers. Contact your manager or local HR to understand the Work Conditions and Physical requirements that may be specific to each role.</p><p><b>U.S. Work Authorization &amp; Sponsorship </b></p><p>At Medtronic, we are committed to fostering an environment where employees can thrive and make a meaningful impact. In alignment with our enterprise-wide workforce planning approach, U.S. work authorization sponsorship (H-1B, TN, J, etc.) is offered exclusively for Principal-level roles and above, where specialized expertise aligns with long-term business needs. Roles below the Principal level require candidates to possess unrestricted U.S. work authorization at the time of hire and for the duration of employment.</p><p>‌</p><p><b>Recruitment Fraud Alert</b></p><p><span>We are aware of phishing scams targeting job seekers. Please keep the following in mind:&nbsp;</span></p><br><p><span>Apply only through official Medtronic channels. All legitimate Medtronic recruiting communications come from approved Medtronic platforms and official @medtronic.com email addresses.&nbsp;</span></p><br><p><span>Medtronic will never ask for payment or sensitive personal information (such as bank account or Social Security details) during early stages of the hiring process. Any such requests are not legitimate.&nbsp;</span></p><br><p><span>If you receive a suspicious message claiming to be from Medtronic, do not respond, click links, or open attachments.&nbsp;</span></p><br><p><span>If you have any questions, concerns regarding the authenticity of a communication alleged to have been made by or on behalf of Medtronic, please contact us immediately at </span><a href=\"mailto:AskHR@medtronic.com\"><span><u>AskHR@medtronic.com</u></span></a>.&nbsp;</p><p>‌</p><h1><b>Benefits &amp; Compensation</b><br>&nbsp;</h1><p><b>Medtronic offers a competitive Salary and flexible Benefits Package</b><br>A commitment to our employees lives at the core of our values. We recognize their contributions. They share in the success they help to create. We offer a wide range of benefits, resources, and competitive compensation plans designed to support you at every career and life stage.<br>&nbsp;</p>Salary ranges for U.S (excl. PR) locations (USD):$84,800.00 - $127,200.00<br>This position is eligible for a short-term incentive called the Medtronic Incentive Plan (MIP).<br>The base salary range is applicable across the United States, excluding Puerto Rico and specific locations in California. The offered rate complies with federal and local regulations and may vary based on factors such as experience, <span>certification/education,</span> market conditions, and location. Compensation and benefits information pertains solely to candidates hired within the United States (local market compensation and benefits will apply for others).<p><span>The following benefits and additional compensation are available to those regular employees who work 20+ hours per week: Health, Dental and vision insurance</span><span>,</span><span>Health Savings Account</span><span>,</span><span>Healthcare Flexible Spending Account</span><span>,</span><span>Life insurance, Long-term disability leave</span><span>,</span><span>Dependent daycare spending account</span><span>,</span><span>Tuition <span><span><span><span><span>assistance/reimbursement</span></span></span></span></span></span><span>, and</span><span>Simple Steps (global well-being program).</span></p><p><span>The following benefits and additional compensation are available to all regular employees:</span><span>Incentive plans, 401(k) plan plus employer contribution and match</span><span>,</span><span>Short-term disability</span><span>,</span><span>Paid time off</span><span>,</span><span>Paid holidays</span><span>,</span><span>Employee Stock Purchase Plan</span><span>,</span><span>Employee Assistance Program</span><span>,</span><span>Non-qualified Retirement Plan Supplement (subject to IRS earning minimums)</span><span>, and</span><span>Capital Accumulation Plan (available to Vice Presidents and above, or subject to IRS earning minimums).</span></p><p><span>Regular employees are those who are not temporary, such as interns.&nbsp; Temporary employees are eligible for paid sick time, as required under applicable state law, and the Employee Stock Purchase Plan. </span><span>Please note some of the above benefits may not apply to workers in Puerto Rico.</span></p><p><span>Further details are available at the link below:</span></p><p><a href=\"https://www3.benefitsolver.com/benefits/BenefitSolverView?page_name=signon&amp;co_num=30601&amp;co_affid=medtronic\">Medtronic benefits and compensation plans</a></p><p>It is the policy of Medtronic to provide equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state or local law. In addition, Medtronic will provide reasonable accommodations for qualified individuals with disabilities.</p><br><p>If you are applying to perform work for Medtronic, Inc. (“Medtronic”) in any position which will involve performing at least two (2) hours of work on average each week within the unincorporated areas of Los Angeles County, you can find&nbsp;<a href=\"https://www.medtronic.com/content/dam/medtronic-wide/public/united-states/employee-support-services/careers/la-county-legal-notice.pdf\">here</a> a list of all material job duties of the specific job position which Medtronic reasonably believes that criminal history may have a direct, adverse and negative relationship potentially resulting in the withdrawal of a conditional offer of employment. Medtronic will consider for employment qualified job applicants with arrest or conviction records in accordance with the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act.</p>",
+    "summary": "The Senior Technical Writer creates and maintains Instructions for Use and related technical documentation for advanced imaging products. Responsibilities include collaborating with cross-functional teams to gather and clarify technical content, managing documentation production and release, coordinating translations, and improving documentation quality and compliance.",
+    "locations": [
+     {
+      "workLocation": "onsite",
+      "addressRegion": "Colorado",
+      "addressCountry": "US",
+      "addressLocality": "Lafayette"
+     }
+    ],
+    "remoteType": "onsite",
+    "skills": {
+     "soft_skills": [
+      "Collaboration",
+      "Communication"
+     ],
+     "primary_skills": [
+      "Technical Writing",
+      "Adobe FrameMaker",
+      "Structured Authoring",
+      "XML",
+      "Content Management Systems",
+      "Adobe Acrobat",
+      "Adobe Photoshop",
+      "Vector Graphics Software",
+      "HTML",
+      "Technical Editing"
+     ],
+     "secondary_skills": [
+      "Medical Device Documentation",
+      "Vasont Content Management System",
+      "Online Documentation",
+      "Software Help Systems",
+      "Translation Project Management",
+      "Regulated Quality Systems"
+     ]
+    },
+    "benefits": [
+     "health_insurance",
+     "dental_insurance",
+     "vision_care",
+     "wellness_program",
+     "pension_contribution_matching",
+     "pensions_401k",
+     "stock_options_equity",
+     "tuition_reimbursement",
+     "paid_time_off_vacation_personal_days",
+     "sick_leave",
+     "life_insurance",
+     "disability_insurance",
+     "performance_bonuses",
+     "other_benefits"
+    ],
+    "salary": {
+     "max": 127200,
+     "min": 84800,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 2,
+    "educationRequirement": {
+     "required": [
+      "bachelor_degree",
+      "master_degree"
+     ],
+     "preferred": []
+    },
+    "industry": [
+     "healthcare_medical",
+     "manufacturing"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": true,
+    "travelPercentage": null,
+    "postedAt": 1790208000,
+    "expiresAt": 1792281599,
+    "applyUrl": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Senior-Technical-Writer---On-site_R77602-1",
+    "status": "active",
+    "companies": [
+     {
+      "name": "medtronic.com",
+      "website": "medtronic.com"
+     }
+    ]
+   },
+   {
+    "id": "16828c71-b758-42a3-a930-6a0dd69b2fdb",
+    "title": "Technical Writer - On-site",
+    "description": "We anticipate the application window for this opening will close on - 17 Oct 2026<p><br>&nbsp;</p><p>Careers that change lives start here. Medtronic is a global leader in healthcare technology with a Mission to alleviate pain, restore health, and extend life. Our 95,000 employees work across more than 150 countries to put patients first — developing innovative medical technologies that improve the lives of 72+ million patients each year. Your unique talents will help shape the future of healthcare while building a career grounded in purpose, growth, and impact.</p><h1><b>A Day in the Life</b></h1><p>Cranial and Spinal Technologies develops products and therapies for neurosurgical and spinal procedures, supporting physicians with technologies that improve patient outcomes. This technical writing function is responsible for developing and maintaining Instructions for Use (IFU) and related product documentation for regulated medical devices throughout the product lifecycle. The role partners closely with Product Development, Marketing, Regulatory Affairs, and other cross-functional teams to ensure documentation is accurate, compliant, and available to global users.</p><p><span>Check us out on LinkedIn: </span><a href=\"https://www.linkedin.com/company/medtronic-brain-and-spine-therapies/posts/?feedView=all\"><span><u>Medtronic CST</u></span></a></p><p>This position is based onsite in Lafayette, Colorado. Limited domestic and international travel may be required, with an expected travel commitment of less than 10%.</p><p>In this role, you will develop, maintain, and manage product documentation for medical device products, including Instructions for Use (IFU), system manuals, quick reference guides, technical bulletins, and other end-user materials. You will collaborate with cross-functional teams to gather technical information, translate complex concepts into clear documentation, support document control and release processes, and coordinate translation activities for global markets.</p><p><b>Primary Responsibilities</b></p><ul><li>Develop, update, and maintain IFU, manuals, quick reference guides, package inserts, technical bulletins, and other product documentation.</li><li>Gather technical content through collaboration with Product Development, Marketing, Regulatory Affairs, and subject matter experts.</li><li>Create documentation using Adobe FrameMaker and structured authoring tools to support regulated medical device products.</li><li>Manage document version control, archival activities, and documentation release processes within Product Lifecycle Management systems.</li><li>Coordinate translation projects, including preparation, tracking, review, and finalization of multilingual documentation.</li><li>Review and edit documentation for accuracy, clarity, consistency, and compliance with established standards.</li><li>Support continuous improvement initiatives related to documentation processes, workflows, and content management practices.</li><li>Provide documentation guidance and support to cross-functional stakeholders and, as needed, mentor less experienced writers.</li></ul><p><b>Required Qualifications</b></p><ul><li>Bachelor's degree in Technical Science, English, Journalism, or related writing discipline with 2+ years of technical writing or technical editing experience.</li><li>Experience developing technical documentation in a technical publications or regulated environment.</li><li>Advanced experience with Adobe FrameMaker.</li><li>Experience with Structured Authoring, XML, and content management systems.</li><li>Experience with Adobe Acrobat, Adobe Photoshop, vector graphics software, HTML, and document publishing tools.</li></ul><p><b>Preferred Qualifications</b></p><ul><li>Technical writing experience in the medical device industry.</li><li>Experience supporting scientific, healthcare, or other regulated industries.</li><li>Experience with Vasont Content Management System (CMS).</li><li>Experience developing online help systems or digital user documentation.</li><li>Experience managing professional translation projects for global product documentation.</li></ul><p>For Baccalaureate degrees earned outside of the United States, a degree that satisfies the requirements of 8 C.F.R. § 214.2(h)(4)(iii)(A) is required.</p><p><b>Physical Job Requirements</b></p><p>The above statements are intended to describe the general nature and level of work being performed by employees assigned to this position, but they are not an exhaustive list of all the required responsibilities and skills of this position. </p><p>The physical demands described within the Responsibilities section of this job description are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. For Office Roles: While performing the duties of this job, the employee is regularly required to be independently mobile. The employee is also required to interact with a computer, and communicate with peers and co-workers. Contact your manager or local HR to understand the Work Conditions and Physical requirements that may be specific to each role.</p><p><b>U.S. Work Authorization &amp; Sponsorship </b></p><p>At Medtronic, we are committed to fostering an environment where employees can thrive and make a meaningful impact. In alignment with our enterprise-wide workforce planning approach, U.S. work authorization sponsorship (H-1B, TN, J, etc.) is offered exclusively for Principal-level roles and above, where specialized expertise aligns with long-term business needs. Roles below the Principal level require candidates to possess unrestricted U.S. work authorization at the time of hire and for the duration of employment.</p><p>‌</p><p><b>Recruitment Fraud Alert</b></p><p><span>We are aware of phishing scams targeting job seekers. Please keep the following in mind:&nbsp;</span></p><br><p><span>Apply only through official Medtronic channels. All legitimate Medtronic recruiting communications come from approved Medtronic platforms and official @medtronic.com email addresses.&nbsp;</span></p><br><p><span>Medtronic will never ask for payment or sensitive personal information (such as bank account or Social Security details) during early stages of the hiring process. Any such requests are not legitimate.&nbsp;</span></p><br><p><span>If you receive a suspicious message claiming to be from Medtronic, do not respond, click links, or open attachments.&nbsp;</span></p><br><p><span>If you have any questions, concerns regarding the authenticity of a communication alleged to have been made by or on behalf of Medtronic, please contact us immediately at </span><a href=\"mailto:AskHR@medtronic.com\"><span><u>AskHR@medtronic.com</u></span></a>.&nbsp;</p><p>‌</p><h1><b>Benefits &amp; Compensation</b><br>&nbsp;</h1><p><b>Medtronic offers a competitive Salary and flexible Benefits Package</b><br>A commitment to our employees lives at the core of our values. We recognize their contributions. They share in the success they help to create. We offer a wide range of benefits, resources, and competitive compensation plans designed to support you at every career and life stage.<br>&nbsp;</p>Salary ranges for U.S (excl. PR) locations (USD):$68,000.00 - $102,000.00<br>This position is eligible for a short-term incentive called the Medtronic Incentive Plan (MIP).<br>The base salary range applies across the United States, excluding Puerto Rico and certain locations in California. The offered rate complies with federal and local regulations and may vary based on factors such as experience, <span>certification/education,</span> market conditions, and location. Compensation and benefits information pertains solely to candidates hired within the United States (local market compensation and benefits will apply for others).<p><span>The following benefits and additional compensation are available to those regular employees who work 20+ hours per week: Health, Dental and vision insurance</span><span>,</span><span>Health Savings Account</span><span>,</span><span>Healthcare Flexible Spending Account</span><span>,</span><span>Life insurance, Long-term disability leave</span><span>,</span><span>Dependent daycare spending account</span><span>,</span><span>Tuition <span><span><span><span><span>assistance/reimbursement</span></span></span></span></span></span><span>, and</span><span>Simple Steps (global well-being program).</span></p><p><span>The following benefits and additional compensation are available to all regular employees:</span><span>Incentive plans, 401(k) plan plus employer contribution and match</span><span>,</span><span>Short-term disability</span><span>,</span><span>Paid time off</span><span>,</span><span>Paid holidays</span><span>,</span><span>Employee Stock Purchase Plan</span><span>,</span><span>Employee Assistance Program</span><span>,</span><span>Non-qualified Retirement Plan Supplement (subject to IRS earning minimums)</span><span>, and</span><span>Capital Accumulation Plan (available to Vice Presidents and above, or subject to IRS earning minimums).</span></p><p><span>Regular employees are those who are not temporary, such as interns.&nbsp; Temporary employees are eligible for paid sick time, as required under applicable state law, and the Employee Stock Purchase Plan. </span><span>Please note some of the above benefits may not apply to workers in Puerto Rico.</span></p><p><span>Further details are available at the link below:</span></p><p><a href=\"https://www3.benefitsolver.com/benefits/BenefitSolverView?page_name=signon&amp;co_num=30601&amp;co_affid=medtronic\">Medtronic benefits and compensation plans</a></p><p>It is the policy of Medtronic to provide equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state or local law. In addition, Medtronic will provide reasonable accommodations for qualified individuals with disabilities.</p><br><p>If you are applying to perform work for Medtronic, Inc. (“Medtronic”) in any position which will involve performing at least two (2) hours of work on average each week within the unincorporated areas of Los Angeles County, you can find&nbsp;<a href=\"https://www.medtronic.com/content/dam/medtronic-wide/public/united-states/employee-support-services/careers/la-county-legal-notice.pdf\">here</a> a list of all material job duties of the specific job position which Medtronic reasonably believes that criminal history may have a direct, adverse and negative relationship potentially resulting in the withdrawal of a conditional offer of employment. Medtronic will consider for employment qualified job applicants with arrest or conviction records in accordance with the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act.</p>",
+    "summary": "The Technical Writer develops and maintains Instructions for Use and other product documentation for regulated medical devices throughout the product lifecycle. Responsibilities include gathering technical information, creating compliant materials with authoring tools, managing document control and release, coordinating translations, and collaborating with cross-functional stakeholders.",
+    "locations": [
+     {
+      "workLocation": "onsite",
+      "addressRegion": "Colorado",
+      "addressCountry": "US",
+      "addressLocality": "Lafayette"
+     }
+    ],
+    "remoteType": "onsite",
+    "skills": {
+     "soft_skills": [
+      "Collaboration",
+      "Communication",
+      "Mentoring"
+     ],
+     "primary_skills": [
+      "Technical Writing",
+      "Technical Editing",
+      "Adobe FrameMaker",
+      "Structured Authoring",
+      "XML",
+      "Content Management Systems",
+      "Adobe Acrobat",
+      "Adobe Photoshop",
+      "Vector Graphics Software",
+      "HTML"
+     ],
+     "secondary_skills": [
+      "Medical Device Documentation",
+      "Vasont CMS",
+      "Online Help Systems",
+      "Digital User Documentation",
+      "Translation Project Management",
+      "Document Control",
+      "Product Lifecycle Management Systems"
+     ]
+    },
+    "benefits": [
+     "health_insurance",
+     "dental_insurance",
+     "vision_care",
+     "wellness_program",
+     "life_insurance",
+     "disability_insurance",
+     "tuition_reimbursement",
+     "pensions_401k",
+     "pension_contribution_matching",
+     "paid_time_off_vacation_personal_days",
+     "performance_bonuses",
+     "stock_options_equity",
+     "other_benefits"
+    ],
+    "salary": {
+     "max": 102000,
+     "min": 68000,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "entry",
+    "employmentType": "full_time",
+    "minYearsExperience": 2,
+    "educationRequirement": {
+     "required": [
+      "bachelor_degree"
+     ],
+     "preferred": []
+    },
+    "industry": [
+     "healthcare_medical",
+     "manufacturing"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": true,
+    "travelPercentage": null,
+    "postedAt": 1790208000,
+    "expiresAt": 1792281599,
+    "applyUrl": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Technical-Writer---On-site_R77598-1",
+    "status": "active",
+    "companies": [
+     {
+      "name": "medtronic.com",
+      "website": "medtronic.com"
+     }
+    ]
+   },
+   {
+    "id": "acbff928-1957-478a-b9e6-fd18396e7674",
+    "title": "Staff (technical) Writer & Editor",
+    "description": "<h2>About Us</h2><p><a href=\"http://FAR.AI\">FAR.AI</a> is a non-profit AI research institute working to ensure advanced AI is safe and beneficial for everyone. Our mission is to facilitate breakthrough AI safety research, advance global understanding of AI risks and solutions, and foster a coordinated global response.</p><p>We’re structured to support that work from early research through real-world adoption:</p><p><strong>Independent by design.</strong> We can pursue what's most impactful based on our theory of change and share what we find publicly.</p><p><strong>A portfolio approach.</strong> Rather than focus on one single direction, we run diverse bets across the safety stack. We take promising ideas from initial experiments to deployment, informed by red-team partnerships with frontier labs and governments.</p><p><strong>Serious infrastructure for ambitious research</strong>. A dedicated engineering team runs our compute cluster and experiment-scaling stack, so researchers spend their time on research instead of on infra.</p><p><strong>Setting the standard</strong>. Our events convene key decision makers; our red-team works with frontier developers and governments; and our communications inform the public. Together, this drives adoption and sets the new standard in safety.</p><p>Since our founding in July 2022, we've grown to <a href=\"https://www.far.ai/about/team\"><u>50+ staff</u></a>, published <a href=\"https://scholar.google.com/citations?user=FVJ24k8AAAAJ\"><u>40+ academic papers</u></a>, and convened leading <a href=\"https://far.ai/events/\"><u>AI safety events</u></a>. Our work is recognized globally, with publications at premier venues such as NeurIPS, ICML including a <a href=\"https://icml.cc/virtual/2026/oral/71065\"><u>Best Paper Honorable Mention in 2026</u></a>, and ICLR, and features in the <a href=\"https://www.ft.com/content/175e5314-a7f7-4741-a786-273219f433a1\"><u>Financial Times</u></a>, <a href=\"https://www.nature.com/articles/d41586-024-02218-7\"><u>Nature News</u></a>, <a href=\"https://www.wired.com/story/jailbreaking-ai-models-google-anthropic-openai-spacexai/\"><u>Wired Magazine</u></a> and <a href=\"https://www.technologyreview.com/2020/02/28/905615/reinforcement-learning-adversarial-attack-gaming-ai-deepmind-alphazero-selfdriving-cars/\"><u>MIT Technology Review</u></a>. We conduct pre-deployment testing on behalf of frontier developers such as OpenAI and independent evaluations for governments <a href=\"https://www.far.ai/news/far-ai-selected-to-lead-eu-ai-act-cbrn-risk-consortium\"><u>including the EU AI Office</u></a> and publish the <a href=\"https://leaderboard.far.ai/\"><u>AI Security Leaderboard</u></a> based on our red-teaming expertise. We help steer and grow the AI safety field through <a href=\"https://arxiv.org/abs/2405.06624\"><u>developing</u></a> <a href=\"https://arxiv.org/abs/2506.20702\"><u>research</u></a> <a href=\"https://www.researchgate.net/publication/396910034_Open_Technical_Problems_in_Open-Weight_AI_Model_Risk_Management\"><u>roadmaps</u></a> with renowned researchers such as Yoshua Bengio; running <a href=\"https://www.far.ai/programs/far-labs\"><u>FAR.Labs</u></a>, an AI safety-focused co-working space in Berkeley housing 40+ members; and supporting the community through <a href=\"https://www.far.ai/programs/grantmaking\"><u>targeted grants</u></a> to technical researchers.</p><p><a href=\"http://FAR.AI\">FAR.AI</a> is seeking an experienced writer and editor to lead development of our written content. You will report into our Communications Team Lead and work across the communications team to shape our narrative, content and messaging. You will work closely with our researchers to translate their research findings into actionable insights for policymakers and corporate decisionmakers across formats from op-eds, blog posts and research papers. We’d love to hear from you if you thrive on communicating complicated technical subject matters and want to shape the future of AI development toward a safer trajectory.</p><h2>About Communications at <a href=\"http://FAR.AI\">FAR.AI</a></h2><p>We believe that AI will be the defining technology of the 21st century. These systems could bring with them unprecedented benefits, but they also pose unprecedented risks, up to human extinction. We already know that AI will fundamentally affect everyone’s lives, reshaping the nature of work and upending geopolitics. Yet few people outside of Silicon Valley appreciate what is about to happen. Key decisionmakers in governments and companies have a limited view on what is to come, while the general public are even more in the dark.</p><p>Communications at <a href=\"http://FAR.AI\"><u>FAR.AI</u></a> fills this urgent gap. As a research and education non-profit, we are a trusted, independent third-party that can cut through the hype, avoid fear mongering, while delivering credible warnings when a technology truly poses a danger. Our <a href=\"https://www.far.ai/team#communications\"><u>Communications Team</u></a> partners directly with <a href=\"http://FAR.AI\"><u>FAR.AI</u></a> researchers to translate our work into compelling narratives that connect with our target audiences, whether policymakers, corporate decisionmakers or the general public.</p><p>The team consists of experts in design, digital media, and media relations, ensuring our research and events reach their key audiences across various channels. Communications works with key <a href=\"http://FAR.AI\"><u>FAR.AI</u></a> team members, including our CEO Adam Gleave, building and amplifying their public profiles and thought leadership. Communications is deeply embedded across <a href=\"http://FAR.AI\"><u>FAR.AI</u></a>, partnering cross-functionally to deliver strategic projects. The team develops and executes communication plans for our key initiatives, such as our <a href=\"https://leaderboard.far.ai/\"><u>leaderboard on AI model security</u></a> to enable consumers and policymakers to make informed decisions on their use and governance of this technology.</p><h2>About the role</h2><p><a href=\"http://FAR.AI\">FAR.AI</a> is seeking a Staff Writer &amp; Editor to own development of our written content. You will work with our researchers and red-team on pre-publication findings to write reports read by key policymakers and decisionmakers at frontier labs; develop content for public-facing products such as our <a href=\"https://leaderboard.far.ai/\"><u>security leaderboard</u></a>; and work with our CEO and key technical leaders to write <a href=\"https://ai-frontiers.org/articles/ai-jailbreak-disclosure-is-broken-heres-how-to-fix-it\"><u>op-eds</u></a> and position papers that shape the field. You will craft a compelling org-wide narrative and ensure <a href=\"http://FAR.AI\">FAR.AI</a>’s voice remains trusted and authoritative in the field. This is a rare opportunity to join a fast-growing, mission-driven organization with the unique blend of independent, trusted technical expertise; ongoing corporate and policy engagements; and a track record of reaching varied audiences.</p><h2>Key responsibilities</h2><ul><li><p><strong>(Technical version of role) Writing to the scientific community</strong></p><ul><li><p>Partner with our technical team early on in key research projects to identify the key narrative and message for their work.</p></li><li><p>Edit drafts of academic papers to more effectively convey their ideas to a scholarly audience, and structure the papers to submission standards (including working in LaTeX where needed).</p></li><li><p>Writing blog post summaries of papers, targeted at a technically knowledgeable (but not necessarily expert) audience (<a href=\"https://www.far.ai/blog/scaling-solid\"><u>example</u></a>).</p></li><li><p>Co-writing blog posts (<a href=\"https://www.far.ai/blog/ai-deception-white-box\"><u>example</u></a>), newsletters (<a href=\"https://newsletter.ai-frontiers.org/p/ai-jailbreak-disclosure-is-broken\"><u>example</u></a>) or position papers (<a href=\"https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6873005\"><u>example</u></a>) with our technical team to convey key positions or ideas.</p></li></ul></li><li><p><strong>Content Strategy &amp; Execution</strong></p><ul><li><p>Translate our core research findings into actionable insights for key non-technical audiences, e.g. policy briefs.</p></li><li><p>Own written content on <a href=\"http://FAR.AI\"><u>FAR.AI</u></a>’s website, our primary brand surface. Collaborate with our Digital Media Manager to shape the structure and presentation so it clearly communicates who we are and what we stand for.</p></li><li><p>Own our quarterly newsletter, setting the editorial direction, consolidating key updates from across the team into a clear narrative for our key supporters.</p></li></ul></li><li><p><strong>Voice, Narrative &amp; Messaging</strong></p><ul><li><p>Work with our Communications Team Lead to establish and steward a consistent organizational voice, develop compelling narratives around our strategic priorities and key messages that support this narrative.</p></li><li><p>Equip staff across all teams with the messaging, framing, and confidence to represent and amplify <a href=\"http://FAR.AI\">FAR.AI</a>’s narrative in their own work and channels.</p></li><li><p>Collaborate with our Digital Media Manager to ensure that our social media posts are consistent with this voice and narrative, including reviewing key posts.</p></li></ul></li></ul><h2>About You</h2><p>You are a skilled writer who is passionate about clearly communicating complex technical findings in a way that is actionable to diverse audiences. You combine crafting a compelling high-level narrative with hands-on execution and thrive in a fast-paced, mission-driven environment. You will be comfortable collaborating with key stakeholders across the organization to ensure <a href=\"http://FAR.AI\">FAR.AI</a>’s messaging is always clear, persuasive, and credible. You will set the bar for clarity, accuracy, and rigor across <a href=\"http://FAR.AI\">FAR.AI</a>'s writing.</p><p>Proactive and self-directed, you can carry several projects at once and bring each one over the finish line. You move fluidly between the rigorous and the accessible, and you treat clarity as a craft. Collaborative and detail-oriented, you make the researchers you work with sound like the best version of themselves.</p><p>We welcome applications from both experienced writers, as well as technical specialist who are skilled and passionate communicators.</p><p>We expect writers to have:</p><ul><li><p>3+ years of professional experience in a writing role (e.g., staff writer, science communicator, editorial lead).</p></li><li><p>A portfolio of published work demonstrating their ability to turn complex technical material into clear, accurate writing (papers, technical reports, research blogs, or similar).</p></li></ul><p>We expect technical specialists to have:</p><ul><li><p>3+ years of experience in machine learning or a closely related field (e.g. maths, stats, physics) as a researcher or engineer (e.g. PhD in ML; Research Engineer).</p></li><li><p>A portfolio of published writing across varying levels of complexity (two or more of: papers / technical documentation; blog posts; social media; op-eds; policy briefs).</p></li></ul><p>We expect all candidates to have:</p><ul><li><p>Proven ability to own projects independently from concept to completion.</p></li></ul><ul><li><p>An interest in AI safety and our mission, and a willingness to learn.</p></li></ul><p>We expect strong candidates to have <strong>some, but not all</strong>, of the following:</p><ul><li><p>Familiarity with the AI landscape and experience engaging with key stakeholders (governments, AI companies, policy think tanks).</p></li><li><p>Strong working understanding of machine learning concepts, sufficient to represent research accurately and converse credibly with researchers.</p></li><li><p>Experience with the academic publication process: arXiv, conference submissions, peer review, LaTeX.</p></li><li><p>Track record of writing, ghostwriting and/or editing op-eds.</p></li><li><p>Track record of writing to policymakers, e.g. policy briefs, especially in technology and innovation policy.</p></li><li><p>Background in science journalism, research communications, or as a researcher who writes.</p></li></ul><h2>Logistics</h2><ul><li><p><strong>Hours and Location</strong>: This is a full-time, long-term position that can be either in-person (Berkeley, CA; or Singapore) or globally remote (with overlap with 9am-noon Pacific time). We offer visa sponsorship for in-person employees.</p></li><li><p><strong>Compensation</strong>: We can offer compensation of $100,000–$200,000/year depending on experience and location, with the potential for additional compensation for exceptional candidates, plus our standard benefits for US &amp; Singapore employees which includes catered lunch and dinner at our offices in Berkeley.</p></li><li><p><strong>Contractual Relationship</strong>: If based in the US or Singapore, you will be an employee of <a href=\"http://FAR.AI\">FAR.AI</a> (501(c)(3) research non-profit / non-profit CLG). Outside the US or Singapore, you will be employed via an EOR organisation on behalf of <a href=\"http://FAR.AI\">FAR.AI</a> or as a contractor.</p></li><li><p><strong>Application process: </strong> Our application process includes a screening call, a paid 2-3h written test task, interviews with our team, and a paid full-day assessment. We expect filling out the initial application form will take less than 15 minutes.</p></li></ul><p>If you have any questions about the role, feel free to contact us at <a href=\"mailto:talent@far.ai\"><u>talent@far.ai</u></a>. Otherwise, if you don't have questions, the best way to ensure a proper review of your skills and qualifications is by applying directly via the application form. Please don't email us to share your resume (it won't have any impact on our decision). Thank you!</p>",
+    "summary": "FAR.AI seeks a Staff Writer & Editor to lead written content across research communications, policy materials, website content, newsletters, op-eds, and position papers. The role partners with researchers, technical teams, organizational leaders, and communications staff to translate complex AI safety research into clear, accurate, and actionable messaging for technical and non-technical audiences.",
+    "locations": [
+     {
+      "workLocation": "onsite",
+      "addressRegion": "California",
+      "addressCountry": "US",
+      "addressLocality": "Berkeley"
+     },
+     {
+      "workLocation": "onsite",
+      "addressCountry": "SG",
+      "addressLocality": "Singapore"
+     },
+     {
+      "workLocation": "remote",
+      "addressCountry": "XX"
+     }
+    ],
+    "remoteType": "hybrid",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Collaboration",
+      "Attention to Detail",
+      "Adaptability",
+      "Self-Direction"
+     ],
+     "primary_skills": [
+      "Technical Writing",
+      "Editing",
+      "Content Strategy",
+      "Narrative Development",
+      "Machine Learning",
+      "Academic Publication",
+      "LaTeX",
+      "Policy Brief Writing",
+      "Op-Ed Writing",
+      "Project Management"
+     ],
+     "secondary_skills": [
+      "Science Journalism",
+      "Research Communications",
+      "Social Media Writing",
+      "Newsletter Management",
+      "Ghostwriting",
+      "Peer Review"
+     ]
+    },
+    "benefits": [
+     "free_subsidized_meals",
+     "other_benefits"
+    ],
+    "salary": {
+     "max": 200000,
+     "min": 100000,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 3,
+    "educationRequirement": null,
+    "industry": [
+     "nonprofit_ngo",
+     "technology_software"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": true,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790168955,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/far.ai/6093c179-fa35-4446-8f15-9d666850ec12",
+    "status": "active",
+    "companies": [
+     {
+      "name": "FAR.AI",
+      "website": "far.ai"
+     }
+    ]
+   },
+   {
+    "id": "e2335c0a-672f-44c5-8898-0a61e1d3612d",
+    "title": "Technical Writer",
+    "description": "<h2>Company Description</h2><p>It started with a simple idea: what if surgery could be less invasive and recovery less painful? Nearly 30 years later, that question still fuels everything we do at <strong>Intuitive</strong>. As a global leader in <strong>robotic-assisted surgery</strong> and <strong>minimally invasive care</strong>, our technologies—like the <strong>da Vinci surgical system</strong> and <strong>Ion</strong>—have transformed how care is delivered for millions of patients worldwide.</p><p>We’re a team of engineers, clinicians, and innovators united by one purpose: to make surgery smarter, safer, and more human. Every day, our work helps care teams perform with greater precision and patients recover faster, improving outcomes around the world.</p><p>The problems we solve demand creativity, rigor, and collaboration. The work is challenging, but deeply meaningful—because every improvement we make has the potential to change a life.</p><p>If you’re ready to contribute to something bigger than yourself and help <strong>transform the future of healthcare</strong>, you’ll find your purpose here.</p><h2>Job Description</h2><p><strong>Primary Function of Position</strong></p><p>As a member of the Services organization’s technical writing team, you’ll serve as both an independent contributor and leader in the development, delivery, and maintenance of Field Service documentation. This role combines hands-on technical writing with responsibility for establishing documentation standards, mentoring junior writers and contractors, and driving continuous improvement in documentation processes and quality.</p><p>To be successful in this role, applicants must demonstrate independence in extracting and synthesizing complex technical information from systems, subject matter experts, field demonstrations, and laboratory environments. Strong technical judgment, combined with exceptional communication skills, enables this role to evolve with changing business needs while ensuring documentation remains accurate, clear, and usable, while staying compliant with company guidelines.</p><p>This is an on-campus position with a minimum of 3 days a week in office and laboratory environments. Hands-on lab access is essential to this role’s effectiveness.</p><p><strong>Essential Job Duties</strong></p><ul><li>Plans, writes, edits, and maintains Field Service documentation (i.e., Field Service procedures) for medical device systems with strong independent technical judgment.</li><li>Independently investigates and extracts technical requirements through systems review, laboratory demonstrations, engineering consultation, and field observation. Takes ownership of information gathering rather than relying on engineers to provide pre-written content.</li><li>Establishes and maintains documentation standards, style guidelines, templates, and best practices. Develops and refines processes to improve team productivity and quality.</li><li>Mentors and coaches junior writers and contractors. Provides technical feedback, reviews documentation, and contributes to team member development.</li><li>Completes documentation control steps to release final documentation, tracking work in JIRA and maintaining Change Order records.</li><li>Collaborates across product, engineering, training, and field service teams to ensure documentation meets end-to-end needs and aligns with company goals and quality standards.</li><li>Evaluates and recommends process improvements, tooling enhancements, and workflow optimizations. Leads or participates in documentation infrastructure initiatives.</li><li>Builds and maintains technical knowledge of Intuitive Surgical hardware systems sufficient to translate complex engineering concepts for field audiences.</li></ul><h2>Qualifications</h2><p><strong>Required Skills and Experience</strong></p><ul><li>5+ years technical writing experience for complex hardware and medical device products (installation, maintenance, troubleshooting, repair).</li><li>Demonstrated ability to independently learn and understand mechanical systems through direct investigation and lab/field demonstrations.</li><li>Expertise in minimalist hardware documentation using DITA XML tools (Oxygen XML Editor or equivalent).</li><li>Professional writing samples must demonstrate technical depth, minimalist principles, and clear communication of complex concepts.</li><li>Exceptional writing and analytical skills; ability to grasp, validate, and effectively communicate complex scientific and engineering concepts with technical rigor.</li><li>Solid project-management skills; ability to manage multiple projects under tight deadlines and mentor others in project execution.</li><li>Proficiency with current Adobe tools (Acrobat, Illustrator, InDesign, Photoshop) for documentation graphics.</li><li>Medical device industry experience required. Field service or customer-facing documentation experience strongly preferred.</li><li>Ownership mindset, commitment to quality and continuous improvement.</li></ul><p><strong>Required Education and Training</strong></p><ul><li>Bachelor’s Degree in Technical Writing, Engineering, or related field required.</li></ul><h2>Additional Information</h2><p>Due to the nature of our business and the role, please note that Intuitive and/or your customer(s) may require that you show current proof of vaccination against certain diseases including COVID-19.&nbsp; Details can vary by role.</p><p>Intuitive is an Equal Opportunity Employer.&nbsp;We provide equal employment opportunities to all qualified applicants and employees, and prohibit discrimination and harassment of any type, without regard to race, sex, pregnancy, sexual orientation, gender identity, national origin, color, age, religion, protected veteran or disability status, genetic information or any other status protected under federal, state, or local applicable laws.</p><p><a href=\"https://careers.intuitive.com/en/eeo-and-aap/\">Mandatory Notices</a></p><p>U.S. Export Controls Disclaimer: In accordance with the U.S. Export Administration Regulations (15 CFR §743.13(b)), some roles at Intuitive Surgical may be subject to U.S. export controls for prospective employees who are nationals from countries currently on embargo or sanctions status.</p><p>Certain information you provide as part of the application will be used for purposes of determining whether Intuitive Surgical will need to (i) obtain an export license from the U.S. Government on your behalf (note: the government’s licensing process can take 3 to 6+ months) or (ii) implement a Technology Control Plan (“TCP”) (note: typically adds 2 weeks to the hiring process).</p><p>For any Intuitive role subject to export controls, final offers are contingent upon obtaining an approved export license and/or an executed TCP prior to the prospective employee’s start date, which may or may not be flexible, and within a timeframe that does not unreasonably impede the hiring need. If applicable, candidates will be notified and instructed on any requirements for these purposes.&nbsp;</p><p>We will consider for employment qualified applicants with arrest and conviction records in accordance with fair chance laws.</p><p>This position may be filled at a different job level than listed here depending on<br>business need and/or on the selected candidate’s experience, knowledge and skills.<br>Compensation will be based primarily on the job level at which the role is filled and the<br>candidate’s qualifications, consistent with applicable law.</p><p>Accommodation &amp; Accessibility Notice:</p><p>Intuitive is committed to providing reasonable accommodations to qualified individuals with disabilities. If you require assistance or an accommodation during any part of the application or interview process, please contact People Services at HRHelpNow@intusurg.com.</p><p>We provide market-competitive compensation packages, inclusive of base pay, incentives, benefits, and equity. It would not be typical for someone to be hired at the top end of range for the role, as actual pay will be determined based on several factors, including experience, skills, and qualifications. The target base compensation ranges are listed.</p>",
+    "summary": "The Technical Writer develops, maintains, and controls Field Service documentation for complex medical-device hardware systems. The role also establishes documentation standards, mentors junior writers and contractors, manages documentation workflows, and drives process and quality improvements through collaboration with engineering, product, training, and field-service teams.",
+    "locations": [
+     {
+      "workLocation": "onsite",
+      "addressRegion": "California",
+      "addressCountry": "US",
+      "addressLocality": "Sunnyvale"
+     }
+    ],
+    "remoteType": "onsite",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Analytical Thinking",
+      "Leadership",
+      "Collaboration",
+      "Ownership"
+     ],
+     "primary_skills": [
+      "Technical Writing",
+      "Medical Device Documentation",
+      "DITA XML",
+      "Oxygen XML Editor",
+      "Adobe Acrobat",
+      "Adobe Illustrator",
+      "Adobe InDesign",
+      "Adobe Photoshop",
+      "JIRA",
+      "Project Management"
+     ],
+     "secondary_skills": [
+      "Field Service Documentation",
+      "Hardware Systems",
+      "Documentation Standards",
+      "Style Guides",
+      "Technical Mentoring",
+      "Documentation Process Improvement"
+     ]
+    },
+    "benefits": [
+     "stock_options_equity",
+     "other_benefits"
+    ],
+    "salary": null,
+    "experienceLevel": "mid",
+    "employmentType": "full_time",
+    "minYearsExperience": 5,
+    "educationRequirement": {
+     "required": [
+      "bachelor_degree"
+     ],
+     "preferred": []
+    },
+    "industry": [
+     "healthcare_medical",
+     "manufacturing"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790121923,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.smartrecruiters.com/Intuitive/744000151150359-technical-writer",
+    "status": "active",
+    "companies": [
+     {
+      "name": "intuitive.com",
+      "website": "intuitive.com"
+     }
+    ]
+   },
+   {
+    "id": "91728842-cc62-4676-ba27-2aae2408eb8b",
+    "title": "Junior Technical Writer",
+    "description": "<div><h5><strong>Benefits</strong></h5><ul><li>11 Paid Holidays</li><li>401(k)</li><li>401(k) matching</li><li>AD&amp;D insurance</li><li>Dental insurance</li><li>Disability insurance</li><li>Employee assistance program</li><li>Health insurance</li><li>Life insurance</li><li>Paid sick time</li><li>Paid time off</li><li>Paid training</li><li>Referral program</li><li>Vision insurance</li></ul><h5><strong>Job type</strong></h5><ul><li>&nbsp;<strong>Temporary position that may result in a permanent position within our compliance department.</strong></li></ul><h5><strong>Location</strong></h5><ul><li>This is an in-office opportunity located at any of our NY offices. (Perry, Geneseo or East Aurora, NY).</li></ul><h5><strong>Number of openings for this position</strong></h5><ul><li>1</li></ul><h5><strong>Pay</strong></h5><ul><li>Starting at $17.75 per hour plus $4.22 health and welfare.</li></ul><h5><strong>Schedule</strong></h5><ul><li>Monday to Friday.</li></ul></div><div><h5><strong><span>Job Summary </span></strong></h5></div><p><span>The</span><span> Junior Technical Writer plays a critical role in ensuring that Coast Professional, Inc., is supported with the creation, editing, and maintenance of clear, accurate, and user-friendly documentation.&nbsp; This role works closely with the Technical Writers, along with Operation and Support teams, to ensure all materials are consistent, technically correct and aligned with organizational standards. Performs related regulatory compliance research, analysis and evaluation activities, along with data entry and tracking within the learning management system and compliance management systems.&nbsp; </span></p><div><h5><strong><span>Job Duties and Responsibilities</span></strong></h5></div><ul><li>Assist in the drafting of policies and procedures in accordance with business goals, regulatory compliance and legal requirements for all Departments of the company</li><li>Maintain and update existing documentation to reflect process changes</li><li>Develop policies that are simple and clear that are easily understood by all employees</li><li>Develop policies that are comprehensive and able to address questions and situations</li><li>Prepares, packages and presents policies and procedures to management and lines of business for review and approval</li><li>Conducts and attends all relevant meetings associated with job function and completes tasks correctly and timely</li><li>Assist in annual ISO 9001 recertification in relation to policies and procedures.</li><li>Monitor and update Compliance Management Systems, keeping records current and assisting with audits, reporting, and documentation required for regulatory adherence.</li><li>Works with the Training team and others as appropriate to ensure policies and procedures are up to date, including appropriate introductory training for new employees as well as ongoing training for all employees and managers as it relates to regulatory compliance</li><li>Support Technical Writers and compliance staff on larger products or tasks, as assigned</li><li>Track and maintain Learning Management System (LMS), ensuring training materials are up to date, properly organized, and accurately assigned.</li><li>Maintains cohesive working relationships with all levels of management and lines of business to effectively produce projects and deliverables.</li><li>Maintain records and files of work and revisions.</li><li>Edit, standardize, or make changes to material prepared by other writers or establishment personnel.</li><li>Perform other duties as required by management.</li></ul><div><h5><span><strong>Qualifications</strong></span></h5></div><p><strong>Education</strong></p><p>High school diploma or GED required</p><div><h5><span><strong>Experience</strong></span></h5></div><p>Experience in collections or related profession required</p><div><h5><span><strong>Knowledge</strong></span></h5></div><ul><li>Knowledge of collection practices.</li><li>Knowledge of Microsoft products (excel and word).</li><li>Ability to prioritize work.</li><li>Report preparations and techniques.</li><li>Modern office procedures, methods, and computer equipment.</li><li>Excellent interpersonal, oral and written communication skills.</li><li>Demonstrates knowledge of FDCPA,FCRA, TCPA, ECOA, UDAPP regulations.</li><li>High aptitude for problem solving, analyzing data and interpreting contractual agreements.</li><li>Highly organized, able to work independently, motivated to successfully meet deadlines, detail oriented with a high level of accuracy and ability to multi-task.</li></ul><div><h5><span><strong>Skills and Abilities</strong></span></h5></div><ul><li>Good verbal and written communication skills.</li><li>Knowledge of the structure and content of the English language including the meaning and spelling of words, rules of composition, and grammar.</li><li>Handle multiple concurrent tasks.</li><li>Maintain appropriate records and compile information for reports.</li><li>Good organizational skills and attention to detail.</li><li>Establish and maintain cooperative working relationships.</li><li>Principles of supervision, training, and performance evaluation.</li><li>Work independently in the absence of immediate supervision.</li><li>Analyze problems, identify alternative solutions.</li><li>MS Office (Word, Power Point, Excel, etc..) at an intermediate level required.</li><li>Successfully pass pre-employment (post offer) background check.</li></ul><h5><strong>Clearance</strong></h5><p><span>As a federal contractor, this position requires U.S. citizenship and security clearance granting access to classified information. The background investigation is conducted by the Office of Personnel Management (OPM) and is an evaluation of the whole person to determine suitability. The suitability review begins after a conditional offer of employment has been accepted and will include a review of your employment, education, residences, references, criminal history and credit, as an example. &nbsp;Some of the most important factors in an investigation are the individual’s honesty, candor, and thoroughness in the completion of their security forms. In rare instances, non-U.S. citizens with highly specialized skills and experience may also be considered for the security clearance process.</span></p><div><h5><span><strong>Security</strong></span></h5></div><p>Information and Physical Security is the responsibility of every employee.&nbsp; In your position you are required to safeguard the computer systems by following proper username and password management which includes selecting challenging passwords and committing them to memory, they should not be written down or stored where others can freely have access.&nbsp; This also includes securing your desk and workstation when you are not there. This includes locking your session and putting sensitive paperwork away when not physically at your desk.&nbsp; You are not to share your username or password with anyone. The physical security of our offices of are equal importance, never shadow or let someone shadow your entry into a Coast Professional, Inc. facility. If this occurs quickly report this action immediately.&nbsp; You are required to follow all Information Technology policies and procedures regarding the management of your system accounts and equipment. If you witness any security violation you should immediately report it to management.</p><div><h5><span><strong>Working Conditions</strong></span></h5></div><p>The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this position. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.</p><p>While performing the duties of this position, the physical presence in the workplace is essential. The employee is regularly required to talk or hear. The noise level in the work environment is usually moderate. Specific vision abilities required by this position include close vision, distance vision, color vision, peripheral vision, and the ability to adjust focus. The employee frequently is required to use hands or finger, handle, or feel objects, tools or controls. The employee is occasionally required to stand; walk; sit; reach with hands and arms. The employee must occasionally lift and/or move up to 10 pounds.</p><div><h5><span><strong>Disclaimer</strong></span></h5></div><p>This job description reflects management’s assignment of essential job functions but is not intended to be a comprehensive list of all activities, duties and responsibilities required by the job incumbent. Nothing in the herein restricts management’s right to assign or reassign duties and responsibilities to this job at any time.&nbsp;</p><p>This document does not create an employment contract, implied or otherwise, other than an \"at will\" relationship.&nbsp;</p><p><strong><em><span>Coast Professional, Inc. is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex (including pregnancy, sexual orientation, or gender identity), national origin, age, disability, protected veteran status, genetic information or any other categories protected by applicable law.</span></em></strong></p>",
+    "summary": "The Junior Technical Writer creates, edits, and maintains policies, procedures, and other documentation while supporting regulatory compliance activities. Responsibilities include maintaining compliance and learning management systems, assisting with audits and ISO 9001 recertification, supporting training activities, and collaborating with technical writers, compliance staff, management, and operational teams.",
+    "locations": [
+     {
+      "postalCode": "14454",
+      "workLocation": "onsite",
+      "addressRegion": "New York",
+      "addressCountry": "US",
+      "addressLocality": "Geneseo"
+     },
+     {
+      "workLocation": "onsite",
+      "addressRegion": "New York",
+      "addressCountry": "US",
+      "addressLocality": "Perry"
+     },
+     {
+      "workLocation": "onsite",
+      "addressRegion": "New York",
+      "addressCountry": "US",
+      "addressLocality": "East Aurora"
+     }
+    ],
+    "remoteType": "onsite",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Problem-solving",
+      "Organization",
+      "Attention to Detail",
+      "Ability to Work Independently"
+     ],
+     "primary_skills": [
+      "Technical Writing",
+      "Policy Development",
+      "Documentation Maintenance",
+      "Regulatory Compliance",
+      "Compliance Management Systems",
+      "Learning Management Systems",
+      "Microsoft Word",
+      "Microsoft Excel",
+      "Microsoft PowerPoint",
+      "Data Analysis"
+     ],
+     "secondary_skills": [
+      "ISO 9001",
+      "Collections Practices",
+      "Report Preparation",
+      "Contract Interpretation",
+      "Data Entry",
+      "Audit Support"
+     ]
+    },
+    "benefits": [
+     "paid_time_off_vacation_personal_days",
+     "pensions_401k",
+     "pension_contribution_matching",
+     "dental_insurance",
+     "disability_insurance",
+     "mental_health_support",
+     "health_insurance",
+     "life_insurance",
+     "sick_leave",
+     "professional_development",
+     "employee_discounts",
+     "vision_care"
+    ],
+    "salary": {
+     "min": 17.75,
+     "period": "hourly",
+     "currency": "USD"
+    },
+    "experienceLevel": "entry",
+    "employmentType": "temporary",
+    "minYearsExperience": null,
+    "educationRequirement": {
+     "required": [
+      "high_school"
+     ],
+     "preferred": []
+    },
+    "industry": [
+     "consulting_professional"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790035200,
+    "expiresAt": null,
+    "applyUrl": "https://recruiting.ultipro.com/COA1007COAST/JobBoard/c31fa32b-a98c-2595-d6d8-e023299b5b94/OpportunityDetail?opportunityId=0fa441fb-db58-4ba6-82d8-ebf8e8c54a76",
+    "status": "active",
+    "companies": [
+     {
+      "name": "Coast Professional, Inc.",
+      "website": "coastprofessional.com"
+     }
+    ]
+   },
+   {
+    "id": "d53b7eee-7298-4746-8ebd-2d43f589186c",
+    "title": "Junior Technical Writer",
+    "description": "<div><h5><strong>Benefits</strong></h5><ul><li>11 Paid Holidays</li><li>401(k)</li><li>401(k) matching</li><li>AD&amp;D insurance</li><li>Dental insurance</li><li>Disability insurance</li><li>Employee assistance program</li><li>Health insurance</li><li>Life insurance</li><li>Paid sick time</li><li>Paid time off</li><li>Paid training</li><li>Referral program</li><li>Vision insurance</li></ul><h5><strong>Job type</strong></h5><ul><li>&nbsp;<strong>Temporary position that may result in a permanent position within our compliance department.</strong></li></ul><h5><strong>Location</strong></h5><ul><li>This is an in-office opportunity located at <span>651 Downing Pines Rd West Monroe, LA 71292.</span></li></ul><h5><strong>Number of openings for this position</strong></h5><ul><li>1</li></ul><h5><strong>Pay</strong></h5><ul><li>Starting at $17.75 per hour plus $4.22 health and welfare.</li></ul><h5><strong>Schedule</strong></h5><ul><li>Monday to Friday.</li></ul></div><div><h5><strong><span>Job Summary </span></strong></h5></div><p><span>The</span><span> Junior Technical Writer plays a critical role in ensuring that Coast Professional, Inc., is supported with the creation, editing, and maintenance of clear, accurate, and user-friendly documentation.&nbsp; This role works closely with the Technical Writers, along with Operation and Support teams, to ensure all materials are consistent, technically correct and aligned with organizational standards. Performs related regulatory compliance research, analysis and evaluation activities, along with data entry and tracking within the learning management system and compliance management systems.&nbsp; </span></p><div><h5><strong><span>Job Duties and Responsibilities</span></strong></h5></div><ul><li>Assist in the drafting of policies and procedures in accordance with business goals, regulatory compliance and legal requirements for all Departments of the company</li><li>Maintain and update existing documentation to reflect process changes</li><li>Develop policies that are simple and clear that are easily understood by all employees</li><li>Develop policies that are comprehensive and able to address questions and situations</li><li>Prepares, packages and presents policies and procedures to management and lines of business for review and approval</li><li>Conducts and attends all relevant meetings associated with job function and completes tasks correctly and timely</li><li>Assist in annual ISO 9001 recertification in relation to policies and procedures.</li><li>Monitor and update Compliance Management Systems, keeping records current and assisting with audits, reporting, and documentation required for regulatory adherence.</li><li>Works with the Training team and others as appropriate to ensure policies and procedures are up to date, including appropriate introductory training for new employees as well as ongoing training for all employees and managers as it relates to regulatory compliance</li><li>Support Technical Writers and compliance staff on larger products or tasks, as assigned</li><li>Track and maintain Learning Management System (LMS), ensuring training materials are up to date, properly organized, and accurately assigned.</li><li>Maintains cohesive working relationships with all levels of management and lines of business to effectively produce projects and deliverables.</li><li>Maintain records and files of work and revisions.</li><li>Edit, standardize, or make changes to material prepared by other writers or establishment personnel.</li><li>Perform other duties as required by management.</li></ul><div><h5><span><strong>Qualifications</strong></span></h5></div><p><strong>Education</strong></p><p>High school diploma or GED required</p><div><h5><span><strong>Experience</strong></span></h5></div><p>Experience in collections or related profession required</p><div><h5><span><strong>Knowledge</strong></span></h5></div><ul><li>Knowledge of collection practices.</li><li>Knowledge of Microsoft products (excel and word).</li><li>Ability to prioritize work.</li><li>Report preparations and techniques.</li><li>Modern office procedures, methods, and computer equipment.</li><li>Excellent interpersonal, oral and written communication skills.</li><li>Demonstrates knowledge of FDCPA,FCRA, TCPA, ECOA, UDAPP regulations.</li><li>High aptitude for problem solving, analyzing data and interpreting contractual agreements.</li><li>Highly organized, able to work independently, motivated to successfully meet deadlines, detail oriented with a high level of accuracy and ability to multi-task.</li></ul><div><h5><span><strong>Skills and Abilities</strong></span></h5></div><ul><li>Good verbal and written communication skills.</li><li>Knowledge of the structure and content of the English language including the meaning and spelling of words, rules of composition, and grammar.</li><li>Handle multiple concurrent tasks.</li><li>Maintain appropriate records and compile information for reports.</li><li>Good organizational skills and attention to detail.</li><li>Establish and maintain cooperative working relationships.</li><li>Principles of supervision, training, and performance evaluation.</li><li>Work independently in the absence of immediate supervision.</li><li>Analyze problems, identify alternative solutions.</li><li>MS Office (Word, Power Point, Excel, etc..) at an intermediate level required.</li><li>Successfully pass pre-employment (post offer) background check.</li></ul><h5><strong>Clearance</strong></h5><p><span>As a federal contractor, this position requires U.S. citizenship and security clearance granting access to classified information. The background investigation is conducted by the Office of Personnel Management (OPM) and is an evaluation of the whole person to determine suitability. The suitability review begins after a conditional offer of employment has been accepted and will include a review of your employment, education, residences, references, criminal history and credit, as an example. &nbsp;Some of the most important factors in an investigation are the individual’s honesty, candor, and thoroughness in the completion of their security forms. In rare instances, non-U.S. citizens with highly specialized skills and experience may also be considered for the security clearance process.</span></p><div><h5><span><strong>Security</strong></span></h5></div><p>Information and Physical Security is the responsibility of every employee.&nbsp; In your position you are required to safeguard the computer systems by following proper username and password management which includes selecting challenging passwords and committing them to memory, they should not be written down or stored where others can freely have access.&nbsp; This also includes securing your desk and workstation when you are not there. This includes locking your session and putting sensitive paperwork away when not physically at your desk.&nbsp; You are not to share your username or password with anyone. The physical security of our offices of are equal importance, never shadow or let someone shadow your entry into a Coast Professional, Inc. facility. If this occurs quickly report this action immediately.&nbsp; You are required to follow all Information Technology policies and procedures regarding the management of your system accounts and equipment. If you witness any security violation you should immediately report it to management.</p><div><h5><span><strong>Working Conditions</strong></span></h5></div><p>The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this position. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.</p><p>While performing the duties of this position, the physical presence in the workplace is essential. The employee is regularly required to talk or hear. The noise level in the work environment is usually moderate. Specific vision abilities required by this position include close vision, distance vision, color vision, peripheral vision, and the ability to adjust focus. The employee frequently is required to use hands or finger, handle, or feel objects, tools or controls. The employee is occasionally required to stand; walk; sit; reach with hands and arms. The employee must occasionally lift and/or move up to 10 pounds.</p><div><h5><span><strong>Disclaimer</strong></span></h5></div><p>This job description reflects management’s assignment of essential job functions but is not intended to be a comprehensive list of all activities, duties and responsibilities required by the job incumbent. Nothing in the herein restricts management’s right to assign or reassign duties and responsibilities to this job at any time.&nbsp;</p><p>This document does not create an employment contract, implied or otherwise, other than an \"at will\" relationship.&nbsp;</p><p><strong><em><span>Coast Professional, Inc. is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex (including pregnancy, sexual orientation, or gender identity), national origin, age, disability, protected veteran status, genetic information or any other categories protected by applicable law.</span></em></strong></p>",
+    "summary": "The Junior Technical Writer creates, edits, and maintains policies, procedures, and other documentation while supporting regulatory compliance activities. The role also maintains compliance and learning management systems, assists with audits and ISO 9001 recertification, and collaborates with technical writers, training teams, management, and operations.",
+    "locations": [
+     {
+      "postalCode": "71292",
+      "workLocation": "onsite",
+      "addressRegion": "Louisiana",
+      "streetAddress": "651 Downing Pines Rd",
+      "addressCountry": "US",
+      "addressLocality": "West Monroe"
+     }
+    ],
+    "remoteType": "onsite",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Problem-solving",
+      "Organization",
+      "Attention to Detail",
+      "Time Management"
+     ],
+     "primary_skills": [
+      "Technical Writing",
+      "Policy Development",
+      "Regulatory Compliance",
+      "Compliance Management Systems",
+      "Learning Management Systems",
+      "ISO 9001",
+      "Microsoft Word",
+      "Microsoft Excel",
+      "Microsoft PowerPoint",
+      "Data Analysis"
+     ],
+     "secondary_skills": [
+      "Collections Practices",
+      "Report Preparation",
+      "Contract Interpretation",
+      "Data Entry",
+      "Audit Support",
+      "Training Development",
+      "Records Management"
+     ]
+    },
+    "benefits": [
+     "paid_time_off_vacation_personal_days",
+     "pensions_401k",
+     "pension_contribution_matching",
+     "dental_insurance",
+     "disability_insurance",
+     "mental_health_support",
+     "health_insurance",
+     "life_insurance",
+     "sick_leave",
+     "professional_development",
+     "vision_care"
+    ],
+    "salary": {
+     "min": 17.75,
+     "period": "hourly",
+     "currency": "USD"
+    },
+    "experienceLevel": "entry",
+    "employmentType": "full_time",
+    "minYearsExperience": null,
+    "educationRequirement": {
+     "required": [
+      "high_school"
+     ],
+     "preferred": []
+    },
+    "industry": [
+     "finance_banking"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790035200,
+    "expiresAt": null,
+    "applyUrl": "https://recruiting.ultipro.com/COA1007COAST/JobBoard/c31fa32b-a98c-2595-d6d8-e023299b5b94/OpportunityDetail?opportunityId=a46d3987-3a3f-41b5-9baa-661a7d41dbf1",
+    "status": "active",
+    "companies": [
+     {
+      "name": "Coast Professional, Inc.",
+      "website": "coastprofessional.com"
+     }
+    ]
+   },
+   {
+    "id": "3b24e661-3eda-4698-8187-7bae1c8aabf2",
+    "title": "Technical Writer & Specifications Analyst",
+    "description": "<div><strong>Key Responsibilities:</strong><br>The Senior Technical Writer &amp; Specifications Analyst is a hybrid role responsible for performing technical<br>business analysis—including requirements gathering and data mapping—and translating those requirements into high-quality,<br>developer-facing API specification documentation. This individual owns the complete lifecycle of documentation for our integration and<br>interoperability services, including orders and results services. Working directly with clinical, technical, product, and analysis teams,<br>they will define data specifications, construct mapping sheets, and build clear, user-friendly documentation to help both internal consumer<br>teams and external customers seamlessly integrate with Quest systems. The ideal candidate has deep expertise in healthcare standards<br>(HL7 and FHIR) and a proven background in simplifying complex integration workflows.<br><br><strong>Key Responsibilities </strong><br>• Responsible for analysis, design, coding and testing of new applications or Partner with technical, development, and product teams to gather, define, and document technical requirements for new and existing interoperability services.<br>• Create and maintain comprehensive, interactive API specification documentation (including schemas, endpoints, headers, and error codes) specifically for orders and results services.<br>• Perform detailed data mapping, interface specification design, and clinical data flow analysis (e.g., mapping HL7 segments/fields and FHIR profiles).<br>• Develop and maintain technical guides, quick-starts, step-by-step tutorials, and release notes for both internal developers and external customer IT teams.<br>• Validate technical specifications by actively testing APIs (using tools like Postman or curl) and reproducing integration workflows to ensure accurate documentation.<br>• Implement and manage a \"Docs-as-Code\" workflow, utilizing version control and markdown formatting to streamline review cycles and updates.<br>• Collaborate during Agile backlog grooming and sprint planning to proactively identify documentation and interface specification needs early in the product lifecycle.<br>• Standardize content across integration portals to ensure consistency, clarity, and adherence to both industry interoperability standards and brand style guides.<br>• Promote an environment that encourages collaboration, initiative, continuous improvement, learning, and the generation of innovative ideas and solutions. Required Skills &amp; Qualifications<br>• 5 or more years of experience in technical writing, business systems analysis, or integration analysis, with progressive responsibilities in documenting APIs or clinical integrations.<br>• 3 or more years of experience in healthcare interoperability, with a focus on electronic health records (EHRs) and clinical data exchange.<br>• Demonstrated hands-on experience mapping HL7 standards (v2.x, v3) for orders, results, or clinical data.<br>• 3 or more years utilizing modern API documentation standards (such as OpenAI/Swagger) and API development tools (such as Postman).<br>• Experience with \"Docs-as-Code\" workflows and version control systems (e.g., Git, GitHub).<br>• Experience in healthcare interoperability in a diagnostic lab or clinical lab setting.<br>• Deep knowledge of HL7 standards specifically applied to lab workflows (LOINC, SNOMED, and lab-to-EHR resulting).<br>• Knowledge of and practical experience with Fast Healthcare Interoperability Resources (FHIR) profiling and JSON data structures.<br>• Experience working in an Agile/SAFe environment.<br><br><strong>Other Requirements:</strong><br><strong>Knowledge: </strong><br>• In-depth knowledge of healthcare interoperability standards, data structures, and clinical vocabularies (HL7, FHIR, JSON, XML).<br>• Knowledge of data-mapping techniques and technical requirements-gathering frameworks.<br>• Knowledge of API architecture styles (REST, SOAP) and security standards (OAuth 2.0).<br>Exceptional written communication, editing, and content design skills, with an extreme attention to detail.<br>• Deep technical proficiency and the ability to interview technical teams to extract crucial product mechanics.<br>• Experience with process Eligible to workimization, structured terminology management, and technical troubleshooting.<br>• Strong collaboration and consensus-building skills.</div><br><br><br><br><br><br><br><br><br><br><strong><u><span>Disclaimer</span></u><span>:</span></strong><span> Diverse Lynx LLC is an Equal Opportunity Employer. All applicants and employees are evaluated without discrimination, based solely on their qualifications, ability, competence and performance. </span><span>This email and its attachments may contain confidential or proprietary information and is intended only for the recipient(s). </span><span><span><span>If you received this message in error, please disregard it and notify the sender. If you no longer wish to receive our communications, you may </span></span></span><span><a href=\"https://ind01.safelinks.protection.outlook.com/?url=https://diverselynx.com/unsubscribe&amp;data=05|02|divyanshu.agarwal@diverselynx.com|97140cf178a3493a2a3608df128e261c|7ebe3230b01e4293b47f17c6df6abe38|0|0|639250073855175896|Unknown|TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ==|0|||&amp;sdata=8a2fRzg0xVb22IxUT5pOv7Lj/o1YWdJ9XwDnbvqxi0o=&amp;reserved=0\">unsubscribe</a> </span><span><span><span> at any time.</span></span></span><br><strong><u><span><span>Security Notice</span></span></u></strong><strong><span>:</span></strong> <strong>Our official website is <a href=\"https://ind01.safelinks.protection.outlook.com/?url=http://www.diverselynx.com/&amp;data=05|02|divyanshu.agarwal@diverselynx.com|97140cf178a3493a2a3608df128e261c|7ebe3230b01e4293b47f17c6df6abe38|0|0|639250073855185695|Unknown|TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ==|0|||&amp;sdata=QBOFftVmWjwSJUCR665yZNMvaYasEW5P5e5dsF+5Tj0=&amp;reserved=0\">www.diverselynx.com</a> We do not operate or authorize any other websites representing Diverse Lynx LLC.</strong>",
+    "summary": "The Senior Technical Writer & Specifications Analyst performs technical business analysis, requirements gathering, data mapping, and developer-facing API specification documentation for healthcare integration and interoperability services. The role owns documentation for orders and results services, validates APIs, maintains Docs-as-Code workflows, and collaborates with clinical, technical, product, and Agile teams.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressRegion": "New Jersey",
+      "addressCountry": "US",
+      "addressLocality": "Secaucus"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Written Communication",
+      "Editing",
+      "Attention to Detail",
+      "Collaboration",
+      "Consensus Building"
+     ],
+     "primary_skills": [
+      "Technical Writing",
+      "Business Systems Analysis",
+      "Requirements Gathering",
+      "Data Mapping",
+      "API Specification Documentation",
+      "HL7",
+      "FHIR",
+      "Healthcare Interoperability",
+      "Postman",
+      "Docs-as-Code"
+     ],
+     "secondary_skills": [
+      "API Testing",
+      "curl",
+      "Markdown",
+      "Clinical Data Flow Analysis",
+      "FHIR Profiling",
+      "Technical Troubleshooting",
+      "Structured Terminology Management"
+     ]
+    },
+    "benefits": [],
+    "salary": null,
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 5,
+    "educationRequirement": null,
+    "industry": [
+     "healthcare_medical"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790025551,
+    "expiresAt": null,
+    "applyUrl": "https://www2.jobdiva.com/portal/?a=9xjdnw687b7a7nvvdyut936kpjlgy0023blrozaecads0pdnwppcswnaaku8ji2g#/jobs/29338968",
+    "status": "active",
+    "companies": [
+     {
+      "name": "Diverse Lynx",
+      "website": "diverselynx.com"
+     }
+    ]
+   }
+  ],
+  "meta": {
+   "count": 10,
+   "nextCursor": "eyJpZCI6IjNiMjRlNjYxLTNlZGEtNDY5OC04MTg3LTdiYWUxYzhhYWJmMiIsInNvcnRWYWx1ZSI6MTc5MDAyNTU1MSwidGllQnJlYWtlciI6IjIwMjYtMDktMjJUMDE6MTE6NDguNDkwWiJ9",
+   "hasMore": true,
+   "requestTimeMs": 86,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

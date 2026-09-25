@@ -1,0 +1,141 @@
+{
+ "call_id": "rec_852286299_title",
+ "phase": "recall",
+ "url": "https://api.jobven.com/v1/public/jobs?q=%22Onboarding+%26+Enablement%22&country=US&postedAfter=1788220800&limit=10",
+ "params": [
+  [
+   "q",
+   "\"Onboarding & Enablement\""
+  ],
+  [
+   "country",
+   "US"
+  ],
+  [
+   "postedAfter",
+   1788220800
+  ],
+  [
+   "limit",
+   10
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:21:03 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "transfer-encoding": "chunked",
+  "connection": "close",
+  "server": "cloudflare",
+  "vary": "Accept-Encoding",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "3379edd7-af97-4a55-aa17-49a5dd4c9fa1",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2460",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "22",
+  "etag": "W/\"1dfa-khqGMNOlmfnSmZFsoeqU/CZjxqw\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=cDp1TfTYCt6oe%2BLcAfJZ3DddWrfdTJumF18vfoAVCJM1TWRduLAsGIiM%2Bh9eDdCvS%2Fg1bHxpkZLLM09j1diqqodqTT0BZxVa4E3zjwBX9rqJqnP5T%2Ft%2Fnm7aCkGgz5Ny7dCJWH73PJ%2BDw0WFfQ%3D%3D\"}]}",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "cf-ray": "a406e5867aacc33e-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "id": "121df36c-c773-4833-a101-3cc8eb6dc739",
+    "title": "Sr. Learning Experience Lead, Onboarding & Enablement",
+    "description": "<p>Replit is the agentic software creation platform that enables anyone to build applications using natural language. With millions of users worldwide, Replit is democratizing software development by removing traditional barriers to application creation.</p><p><br>Replit is building a modern, AI-native learning function, and we're looking for a Sr. Learning Experience Lead to own it. You'll own our learning platform and the onboarding and enablement experiences that run on it: designing them, delivering them, turning them into durable on-demand learning, and proving they work. This is a builder-leader role. You'll design learning, facilitate it live, build it into the platform, and measure its impact, and you'll do much of that hands-on, in the tools, the way a modern builder works.</p><p>You'll start close to home and grow the mandate. Your initial focus is owning the onboarding experience for our Support organization, taking it end-to-end and turning it into a real, tracked, repeatable system. Over time, you'll elevate onboarding and enablement beyond Support to the broader company, partnering with our People team, with the learning platform as the vehicle.<br></p><h2><br><strong>What You'll Do</strong></h2><ul><li><p>Own the learning platform. As its DRI, you own the roadmap, the learning journeys, and the instructional design behind them. You make the calls and own the outcomes.</p></li><li><p>Support onboarding, end-to-end. Facilitation, the live-to-on-demand pipeline, and the role-based journeys that get new team members confident and productive fast.</p></li><li><p>Create content and learning plans. Prescriptive learning paths and the content that fills them.</p></li><li><p>Own measurement criteria and data-driven results: The layer that proves onboarding and enablement change behavior and speed ramp, not just completion rates, with the tracking and feedback loops that keep it healthy over time. As the mandate grows.</p></li><li><p>Grow the platform and the learning function as adoption expands, raising the bar for how people learn at Replit.</p></li></ul><h2><strong>Required Skills &amp; Experience</strong></h2><ul><li><p>Deep L&amp;D / learning-experience expertise. You've designed and run learning programs, not just authored content, and owned outcomes whose impact was visible across an org.</p></li><li><p>A builder. You turn ideas into working things with modern tools (you've built learning apps, LMS experiences, or similar yourself) and you'd rather ship and iterate than wait for a perfect spec.</p></li><li><p>A track record of leading multi-person, cross-functional efforts. You've stood up onboarding, cohort programs, or learning paths from scratch. You think about end-to-end experiences and create learning journeys that people actually use and love.</p></li><li><p>Facilitation chops. You can run the room live and convert what happens there into durable, on-demand content.</p></li><li><p>A measurement instinct. Pre/post, behavior change, co-designing metrics with the leaders and ICs who live with them; a healthy skepticism of vanity surveys.</p></li><li><p>Someone who quickly masters new domains and is comfortable with ambiguity on a small, fast, generative team where everyone builds.</p></li></ul><h2><strong>Bonus Qualifications</strong></h2><ul><li><p>Hands-on with AI-native build tools (Replit) or modern no-/low-code app builders.</p></li><li><p>Micro-learning and cohort-based program design; an experiment-and-report-back philosophy.</p></li><li><p>Experience extending learning experiences across an org.</p></li><li><p>Coaching or manager-development background.</p></li></ul><p><em>This is a full-time role that can be held from our Foster City, CA office. The role has an in-office requirement of Monday, Wednesday, and Friday.</em></p><p><strong>Full-Time Employee Benefits Include:</strong></p><p>💰 Competitive Salary &amp; Equity</p><p>💹 401(k) Program with a 4% match (<em>US Only</em>)</p><p>⚕️ Health, Dental, Vision and Life Insurance</p><p>🩼 Short Term and Long Term Disability</p><p>🚼 Paid Parental, Medical, Caregiver Leave</p><p>🏝 Flexible Time Off (FTO) + Holidays</p><p>🚗 Commuter Benefits (<em>In-Office &amp; US Only</em>)</p><p>📱 Monthly Wellness Stipend</p><p>🧑‍💻 Autonomous Work Environment</p><p>🖥 In Office Set-Up Reimbursement (<em>In-Office Only</em>)</p><p>🚀 Quarterly Team Gatherings</p><p>☕ In Office Amenities (<em>In-Office Only</em>)</p><p><strong>Want to learn more about what we are up to?</strong></p><ul><li><p><a href=\"https://replit.com/blog/self-driving-company\">Self-driving Company</a></p></li><li><p><a href=\"https://replit.com/blog/evaluating-and-improving-agent-at-scale\">Replit Agent at Scale</a></p></li><li><p><a href=\"https://replit.com/blog/ai-adoption\">AI Adoption</a></p></li><li><p><a href=\"https://replit.com/build/open-source-app-builder\">Build Open-Source Apps</a></p></li></ul><p><strong>Interviewing + Culture at Replit</strong></p><ul><li><p><a href=\"https://blog.replit.com/operating-principles\"><u>Operating Principles</u></a></p></li><li><p><a href=\"https://blog.replit.com/reasons-not-to-join-replit\"><u>Reasons not to work at Replit</u></a></p></li></ul><p>To achieve our mission of making programming more accessible around the world, we need our team to be representative of the world. We welcome your unique perspective and experiences in shaping this product. We encourage people from all kinds of backgrounds to apply, including and especially candidates from underrepresented and non-traditional backgrounds.</p>",
+    "summary": "Replit is seeking a Senior Learning Experience Lead to own its learning platform and design, deliver, and measure onboarding and enablement programs. The role initially focuses on end-to-end Support onboarding, including facilitation, content development, learning journeys, platform ownership, and data-driven measurement, with responsibility expanding across the organization.",
+    "locations": [
+     {
+      "workLocation": "hybrid",
+      "addressRegion": "California",
+      "addressCountry": "US",
+      "addressLocality": "Foster City"
+     }
+    ],
+    "remoteType": "hybrid",
+    "skills": {
+     "soft_skills": [
+      "Leadership",
+      "Communication",
+      "Adaptability",
+      "Problem-solving"
+     ],
+     "primary_skills": [
+      "Learning and Development",
+      "Learning Experience Design",
+      "Instructional Design",
+      "Learning Platform Management",
+      "Onboarding Program Design",
+      "Facilitation",
+      "Content Development",
+      "Learning Measurement",
+      "Data-Driven Decision Making",
+      "Cross-Functional Collaboration"
+     ],
+     "secondary_skills": [
+      "Artificial Intelligence",
+      "No-Code/Low-Code Application Development",
+      "Microlearning",
+      "Cohort-Based Learning",
+      "Coaching",
+      "Manager Development"
+     ]
+    },
+    "benefits": [
+     "stock_options_equity",
+     "pensions_401k",
+     "pension_contribution_matching",
+     "health_insurance",
+     "dental_insurance",
+     "vision_care",
+     "life_insurance",
+     "disability_insurance",
+     "parental_leave",
+     "paid_time_off_vacation_personal_days",
+     "wellness_program",
+     "company_events_retreats",
+     "other_benefits"
+    ],
+    "salary": null,
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": null,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1788905308,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/replit/bc400684-41a1-4a16-9e0b-6fb6a11be921",
+    "status": "active",
+    "companies": [
+     {
+      "name": "Replit",
+      "website": "replit.com"
+     }
+    ]
+   }
+  ],
+  "meta": {
+   "count": 1,
+   "hasMore": false,
+   "requestTimeMs": 21,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

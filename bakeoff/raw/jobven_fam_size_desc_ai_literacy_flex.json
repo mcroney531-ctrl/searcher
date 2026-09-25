@@ -1,0 +1,164 @@
+{
+ "call_id": "fam_size_desc_ai_literacy_flex",
+ "phase": "family",
+ "url": "https://api.jobven.com/v1/public/jobs?q=-%22account+executive%22+-%22account+manager%22+-%22sales+representative%22+-%22sales+manager%22+-%22customer+service+representative%22+-%22help+desk%22+-%22customer+success+manager%22+-%22support+specialist%22&descriptionQuery=AI+literacy&country=US&remoteType%5B%5D=remote&remoteType%5B%5D=flexible&postedAfter=1789702200&limit=1&includeTotal=true",
+ "params": [
+  [
+   "q",
+   "-\"account executive\" -\"account manager\" -\"sales representative\" -\"sales manager\" -\"customer service representative\" -\"help desk\" -\"customer success manager\" -\"support specialist\""
+  ],
+  [
+   "descriptionQuery",
+   "AI literacy"
+  ],
+  [
+   "country",
+   "US"
+  ],
+  [
+   "remoteType[]",
+   "remote"
+  ],
+  [
+   "remoteType[]",
+   "flexible"
+  ],
+  [
+   "postedAfter",
+   1789702200
+  ],
+  [
+   "limit",
+   1
+  ],
+  [
+   "includeTotal",
+   "true"
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:29:28 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "transfer-encoding": "chunked",
+  "connection": "close",
+  "server": "cloudflare",
+  "vary": "Accept-Encoding",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "32ae1c25-74d8-4ef6-8d22-383ece132830",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2224",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "531",
+  "etag": "W/\"3b49-HCQF6FOQUxEOT87Vr6+vg3fy1RQ\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=wZ16TEQ2laoMEgm1CHtTSnBMbq6c3Xd4R13PnfqaNNe3SGml28gvWEfXBdVlMRC1ux90M%2BiBMLpYQrowY71ckbZdWDBOJHI99F7DZK1oTd0wtM%2BOTCAaWMvtUuAfil%2BIO0rPoEmdpGbY%2BWh08Q%3D%3D\"}]}",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "cf-ray": "a406f1d5fa8d0f70-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "id": "533846fe-e75f-482d-88cd-5e644252332c",
+    "title": "Staff Software Engineer",
+    "description": "&lt;p&gt;&lt;strong&gt;1 big thing:&lt;/strong&gt; Axios is a growth-focused media company helping people get smarter, faster, on what matters. We’re looking for a Staff Software Engineer—a senior, hands-on individual contributor—to lead architecture and delivery for Axios’ core products across multiple teams using strong product-engineering and AI-native practices.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Why it matters:&lt;/strong&gt; Axios delivers clear, trustworthy news to millions of readers. You’ll be anchored to a product area while shaping full-stack systems and technical direction across multiple teams and connected systems. This is not a people-management role.&lt;/p&gt; &lt;p&gt;AI is core to how we build. You’ll use coding agents throughout implementation, testing, review, debugging, documentation, and operations while remaining accountable for architecture, quality, security, and product outcomes. Staff impact comes from sustained scope, judgment, and results—not tool use alone.&lt;/p&gt; &lt;p&gt;You’ll work with product managers, designers, engineers, and leaders to shape plans, align dependencies, resolve ambiguity, build resilient systems, and help others make better technical decisions.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;As a Staff Software Engineer, you’ll lead reliable product and platform work across Axios’ frontend and backend systems. You’ll remain hands-on while driving multi-quarter initiatives, improving technical coherence, and using agentic practices to accelerate delivery. Key responsibilities include:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Cross-team technical leadership:&lt;/strong&gt; Lead mission-critical or high-risk initiatives spanning teams and connected systems. Frame problems, align ownership and dependencies, make tradeoffs explicit, and drive production adoption.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Architecture and design:&lt;/strong&gt; Own architecture for a product area and scalable boundaries across frontend, APIs, data, and production systems. Lead design reviews and establish standards within your sphere of influence.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Hands-on system ownership:&lt;/strong&gt; Own the technical direction and long-term evolution of key systems while writing and reviewing code, prototyping, debugging, leading migrations, and operating services in production.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;AI-enabled product and engineering:&lt;/strong&gt; Identify where models, agents, retrieval, or automation create value. Build reusable capabilities with measurable behavior, guardrails, and judgment about when conventional software is better.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Quality, reliability, and incident leadership:&lt;/strong&gt; Improve testing, performance, observability, security, and operational readiness. Anticipate systemic risks, address technical debt, and help lead resolution and learning during critical production issues.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Technical leadership and mentorship:&lt;/strong&gt; Mentor mid- and senior-level engineers across teams, spread systems thinking and design patterns, and build alignment through proposals, reviews, and influence without authority.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Product and technical strategy:&lt;/strong&gt; Partner with product, design, and engineering leaders to shape the product-area roadmap, align dependencies, and connect technical investment to reader, editorial, and business outcomes.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Skills:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;The ideal candidate is a staff-level engineer with sustained multi-team impact, deep expertise in a relevant domain, broad systems thinking, and a commitment to user experience, reliability, scalability, maintainable code, and effective AI-enabled practice. You should have:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Experience:&lt;/strong&gt; Typically 7+ years in professional software development, or equivalent sustained Staff-level impact, including leading complex initiatives across multiple teams or systems.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;AI-native development:&lt;/strong&gt; Hands-on experience using agentic coding tools—such as Claude Code, Codex, Cursor, GitHub Copilot, or comparable tools—to complete meaningful, multi-step software work, rather than only generating snippets or using autocomplete.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Agent direction and context:&lt;/strong&gt; Ability to write clear strategies, specifications, and acceptance criteria; provide context; scope complex work; decide what to delegate; and redirect incomplete or incorrect approaches.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Verification and engineering judgment:&lt;/strong&gt; Ability to review AI-generated code critically, validate assumptions, identify security, scalability, and maintainability risks, and catch plausible but wrong solutions. You understand that AI raises the importance of sound architecture, testing, and human judgment.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Frontend development:&lt;/strong&gt; Hands-on experience building production interfaces with JavaScript or TypeScript and React, preferably with Next.js, plus judgment to guide frontend architecture across teams.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Backend development:&lt;/strong&gt; Hands-on experience building production services and APIs. Our backend systems use Go and Python, and you should be able to shape reliable service boundaries and work effectively in or learn either language.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Data fundamentals:&lt;/strong&gt; Experience with relational databases, SQL, schema design, transactions, and migrations.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Quality and security:&lt;/strong&gt; Experience with testing, accessibility, input validation, authentication, authorization, and web security practices, plus the ability to raise standards across teams.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Engineering judgment:&lt;/strong&gt; Ability to operate independently in ambiguity, identify high-leverage problems, align teams, make sound tradeoffs, and connect decisions to product and business goals—including when AI is not the right tool.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Communication:&lt;/strong&gt; Ability to build alignment through clear proposals and reasoning, communicate risks and tradeoffs across functions, and drive clarity during disagreement.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Continuous learning:&lt;/strong&gt; Curiosity about changing models, tools, and practices, paired with an evidence-based approach. You share useful patterns, identify what fails, and make others more effective.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;We’ll be even more excited if you have:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Experience building production AI-enabled features using model APIs, structured outputs, tool or function calling, retrieval, or agent workflows.&lt;/li&gt; &lt;li&gt;Experience evaluating and operating AI-enabled systems through regression tests, evaluation harnesses, tracing, feedback loops, model or prompt versioning, cost and latency monitoring, or human-review paths.&lt;/li&gt; &lt;li&gt;Experience extending AI development environments through MCP servers, agent tools, repository instructions, reusable skills or plugins, custom workflows, or automated code review.&lt;/li&gt; &lt;li&gt;Led a multi-team architecture, platform, migration, or modernization initiative from problem framing through production adoption.&lt;/li&gt; &lt;li&gt;Owned critical systems through incidents, scaling challenges, and long-term architectural evolution.&lt;/li&gt; &lt;li&gt;Drove adoption of technical standards, reusable tools, or platform capabilities across multiple teams.&lt;/li&gt; &lt;li&gt;Mentored experienced engineers and helped improve technical judgment beyond your immediate team.&lt;/li&gt; &lt;li&gt;Experience with CMS, publishing, media, subscription, search, or other consumer-facing products.&lt;/li&gt; &lt;li&gt;Production experience with Go or Python and distributed systems using gRPC, cloud infrastructure, containers, queues, CI/CD, or similar technologies.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;What success looks like:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Cross-team delivery:&lt;/strong&gt; You drive multi-quarter initiatives from problem framing through production adoption, aligning dependencies and ownership to produce durable outcomes.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Engineering leverage:&lt;/strong&gt; Teams deliver more effectively because of the standards, tools, architecture, documentation, and context you create. You establish safe, repeatable AI patterns where they add value.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;System health:&lt;/strong&gt; Key systems become more reliable, scalable, secure, observable, and easier to change. You reduce systemic risk and improve incident prevention and response.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Product-area impact:&lt;/strong&gt; Your decisions support Axios’ readers, products, editorial workflows, and business goals within the teams and systems you influence.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Organizational technical leadership:&lt;/strong&gt; Engineers across teams make better decisions through your mentorship, proposals, reviews, and example. You remain a hands-on IC who multiplies others’ effectiveness.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Starting salary for this role is in the range of $165,000 - $215,000 and is dependent on numerous factors, including but not limited to location, work experience, and skills. This range does not include other compensation benefits. Axios' compensation philosophy takes into account the cost of labor differentials across the country. Because this is a remote-optional job posting, this salary range takes into account all possible locations within the United States, but candidates will only be eligible for the salary range for their location.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;Axios is committed to embracing artificial intelligence as a core part of how we work. All team members are expected to actively develop AI literacy and use AI tools to enhance their productivity, creativity, and efficiency. We invest in ongoing learning to ensure every employee is equipped to responsibly and effectively integrate AI into their daily workflows.&lt;br&gt;&lt;br&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What Axios brings to the table besides salary:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;401(k) with employer match&lt;/li&gt; &lt;li&gt;Robust PPO and High Deductible health insurance options on the Blue Cross Blue Shield network&lt;/li&gt; &lt;li&gt;Employer Health Savings Account (HSA) contribution for the high deductible health plan option&lt;/li&gt; &lt;li&gt;Dental and vision coverage&lt;/li&gt; &lt;li&gt;Primary caregiver 12-week paid leave&lt;/li&gt; &lt;li&gt;Birth-givers will have an additional 6-8 weeks depending on type of delivery, for a total of 18-20 weeks continuous leave&lt;/li&gt; &lt;li&gt;Generous vacation policy, plus holidays&lt;/li&gt; &lt;li&gt;One mental health day per quarter&lt;/li&gt; &lt;li&gt;Annual learning and development stipend&lt;/li&gt; &lt;li&gt;$100 monthly work-from-home stipend&lt;/li&gt; &lt;li&gt;Tele-mental health services through Headspace&lt;/li&gt; &lt;li&gt;OneMedical membership, including tele-health services&lt;/li&gt; &lt;li&gt;Personal health advocacy resources through HealthAdvocate&lt;/li&gt; &lt;li&gt;Inclusive fertility, hormonal health and family forming benefits through Carrot Fertility&lt;/li&gt; &lt;li&gt;Access to the Axios “Family Fund”, which was created to allow employees to request financial support when facing financial hardship or emergencies&lt;/li&gt; &lt;li&gt;Increased work flexibility for parents and caretakers&lt;/li&gt; &lt;li&gt;Virtual company-sponsored social events&lt;/li&gt; &lt;li&gt;A strong and positive work environment&lt;/li&gt; &lt;li&gt;A commitment to an open, inclusive, and diverse work culture&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Equal Opportunity Employer Statement&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Axios is an equal opportunity employer that is committed to diversity and inclusion in the workplace. We prohibit discrimination and harassment of any kind based on race, color, sex, religion, sexual orientation, age, gender identity, gender expression, veteran status, national origin, disability, genetic information, pregnancy, or any other protected characteristic as outlined by federal, state, or local laws.&amp;nbsp;&lt;/p&gt; &lt;p&gt;This policy applies to all employment practices within our organization, including hiring, recruiting, promotion, termination, layoff, recall, leave of absence, compensation, benefits, training, and apprenticeship. Axios makes hiring decisions based solely on qualifications, merit, and business needs at the time.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;",
+    "summary": "The Staff Software Engineer leads architecture, technical direction, and delivery for Axios’ core products across multiple teams while remaining a hands-on individual contributor. Responsibilities include building and operating frontend and backend systems, improving reliability and security, applying AI-enabled engineering practices, leading cross-team initiatives, and mentoring engineers.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Mentorship",
+      "Curiosity"
+     ],
+     "primary_skills": [
+      "Agentic Coding Tools",
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Frontend Architecture",
+      "Backend Services and APIs",
+      "Go",
+      "Python",
+      "Relational Databases",
+      "SQL"
+     ],
+     "secondary_skills": [
+      "Next.js",
+      "Model APIs",
+      "Structured Outputs",
+      "Tool and Function Calling",
+      "Retrieval-Augmented Generation",
+      "Agent Workflows",
+      "gRPC",
+      "Cloud Infrastructure",
+      "Containerization",
+      "CI/CD"
+     ]
+    },
+    "benefits": [
+     "pensions_401k",
+     "health_insurance",
+     "dental_insurance",
+     "vision_care",
+     "parental_leave",
+     "paid_time_off_vacation_personal_days",
+     "mental_health_support",
+     "professional_development",
+     "remote_work_hybrid_work_options",
+     "other_benefits"
+    ],
+    "salary": {
+     "max": 215000,
+     "min": 165000,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "lead",
+    "employmentType": "full_time",
+    "minYearsExperience": 7,
+    "educationRequirement": null,
+    "industry": [
+     "media_entertainment"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790205968,
+    "expiresAt": null,
+    "applyUrl": "https://job-boards.greenhouse.io/axios/jobs/8229298",
+    "status": "active",
+    "companies": [
+     {
+      "name": "axios.com",
+      "website": "axios.com"
+     }
+    ]
+   }
+  ],
+  "meta": {
+   "total": 5,
+   "count": 1,
+   "nextCursor": "eyJpZCI6IjUzMzg0NmZlLWU3NWYtNDgyZC04OGNkLTVlNjQ0MjUyMzMyYyIsInNvcnRWYWx1ZSI6MTc5MDIwNTk2OCwidGllQnJlYWtlciI6IjIwMjYtMDktMjRUMDQ6MDU6MTMuNzQyWiJ9",
+   "hasMore": true,
+   "requestTimeMs": 530,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

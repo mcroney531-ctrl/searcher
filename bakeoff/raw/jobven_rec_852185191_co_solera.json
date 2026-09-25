@@ -1,0 +1,59 @@
+{
+ "call_id": "rec_852185191_co_solera",
+ "phase": "recall",
+ "url": "https://api.jobven.com/v1/public/companies?search=Solera&limit=10",
+ "params": [
+  [
+   "search",
+   "Solera"
+  ],
+  [
+   "limit",
+   10
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:20:35 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "168",
+  "connection": "close",
+  "server": "cloudflare",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "d2bd300c-cb2c-4493-a6ca-788dc4142968",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2465",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "4",
+  "etag": "W/\"a8-JL4kx6AhhlRGpIi3+xFZ/Ay6QJ4\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=9jucxtdVZncEmhX7Q1axtExsO1GIeHUXE%2BaxgWBkS3qNe5woN4Z%2FjQ0uipWbC%2FckWp0vtcoTdTeXZ2rz40MXmqPgZVkuGyqOk1xTmwUz%2BZdhGpPTzxuMgPURSqaHot5mx21it3v5JRbDS73stQ%3D%3D\"}]}",
+  "cf-ray": "a406e4d5491642dd-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "name": "soleranetwork.com",
+    "website": "soleranetwork.com"
+   },
+   {
+    "name": "solera.com",
+    "website": "solera.com"
+   }
+  ],
+  "meta": {
+   "page": 1,
+   "limit": 10,
+   "total": 2,
+   "totalPages": 1
+  }
+ }
+}

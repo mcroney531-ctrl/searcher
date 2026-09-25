@@ -1,0 +1,62 @@
+{
+ "call_id": "rec_851275561_phrase_closed",
+ "phase": "recall",
+ "url": "https://api.jobven.com/v1/public/jobs?q=%22Senior+Content+Designer%22&descriptionQuery=years+experience+in+UX+writing&status=closed&postedAfter=1783036800&limit=1",
+ "params": [
+  [
+   "q",
+   "\"Senior Content Designer\""
+  ],
+  [
+   "descriptionQuery",
+   "years experience in UX writing"
+  ],
+  [
+   "status",
+   "closed"
+  ],
+  [
+   "postedAfter",
+   1783036800
+  ],
+  [
+   "limit",
+   1
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:21:25 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "108",
+  "connection": "close",
+  "server": "cloudflare",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "8b38bd49-7a9d-42bc-bc95-1aba17ca870e",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2457",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "11",
+  "etag": "W/\"6c-53tHMAFB0oFA47D/P1l2qF8fLW8\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=F9KGi7ZhRlkRmviBwVBgX2792zyc3SF9OZZuaHPco%2FxPMQTTtJX5%2FX55kBTnhPo8Pu4yd9GWgQOnGObqEMWaPx%2Fowf0eMvLHRpgMZmy1HN0ghrvaA%2B5fz%2BfB3o3zoeGg%2FqYdxbVmXaaLhMpgNQ%3D%3D\"}]}",
+  "cf-ray": "a406e60d7b54de9b-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [],
+  "meta": {
+   "count": 0,
+   "hasMore": false,
+   "requestTimeMs": 10,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

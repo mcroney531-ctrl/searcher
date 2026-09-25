@@ -1,0 +1,58 @@
+{
+ "call_id": "rec_851631756_title",
+ "phase": "recall",
+ "url": "https://api.jobven.com/v1/public/jobs?q=%22Senior+Customer+Education+Manager%22&country=US&postedAfter=1788220800&limit=10",
+ "params": [
+  [
+   "q",
+   "\"Senior Customer Education Manager\""
+  ],
+  [
+   "country",
+   "US"
+  ],
+  [
+   "postedAfter",
+   1788220800
+  ],
+  [
+   "limit",
+   10
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:22:47 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "108",
+  "connection": "close",
+  "server": "cloudflare",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "21866d7f-d1aa-4767-8a71-97bfd6228856",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2449",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "12",
+  "etag": "W/\"6c-I2Z/chV4d0q4Z2aNI+IFqWE0J8U\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=ZLhuJE5Cz3enHWIwCS30%2FeLe5ZE3uG%2F9MWlvOfB%2FU0%2FyxSML6mVo%2FHVbEjrj5H7pSrysMJiDX8Pbi9TWVIeafiZbxJ8eA9wIvXQ6OANjy0gqs%2Bn9sx9dRn2Yz9YpA7eHrCXB92N1hODPdD7Gxw%3D%3D\"}]}",
+  "cf-ray": "a406e80fbf1c2caf-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [],
+  "meta": {
+   "count": 0,
+   "hasMore": false,
+   "requestTimeMs": 11,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

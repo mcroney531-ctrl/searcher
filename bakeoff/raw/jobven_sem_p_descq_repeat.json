@@ -1,0 +1,57 @@
+{
+ "call_id": "sem_p_descq_repeat",
+ "phase": "semantics",
+ "url": "https://api.jobven.com/v1/public/jobs?q=zzqxvwj&descriptionQuery=course+development&descriptionQuery=curriculum+development&postedAfter=1789701323&limit=1",
+ "params": [
+  [
+   "q",
+   "zzqxvwj"
+  ],
+  [
+   "descriptionQuery",
+   "course development"
+  ],
+  [
+   "descriptionQuery",
+   "curriculum development"
+  ],
+  [
+   "postedAfter",
+   1789701323
+  ],
+  [
+   "limit",
+   1
+  ]
+ ],
+ "status": 400,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:16:00 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "267",
+  "connection": "close",
+  "server": "cloudflare",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "68c75a69-c891-4e0f-9c5c-58313b1672eb",
+  "etag": "W/\"10b-+SySRpiTVXWGVFTASHtLmqnt0ks\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=MuuDirP1igxIII%2Bs24ULNLjg0tvGLL01EPq5Mx1MicoNF%2Fa0iTVAKHwHMhnRDAGuRpfKrskV3N3c3aGtbw9S2ohyPjJTHqwph6b9HA2chuSVSRTIy1Fo2rVe0qySA2eVINBQIHicgstRY0DnNQ%3D%3D\"}]}",
+  "cf-ray": "a406de217981de9a-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "statusCode": 400,
+  "message": "descriptionQuery must be shorter than or equal to 200 characters, descriptionQuery must be a string",
+  "error": "Bad Request",
+  "requestId": "68c75a69-c891-4e0f-9c5c-58313b1672eb",
+  "timestamp": "2026-09-25T03:16:00.897Z",
+  "path": "/v1/public/jobs"
+ }
+}

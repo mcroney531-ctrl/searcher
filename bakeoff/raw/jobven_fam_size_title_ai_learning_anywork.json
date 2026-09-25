@@ -1,0 +1,150 @@
+{
+ "call_id": "fam_size_title_ai_learning_anywork",
+ "phase": "family",
+ "url": "https://api.jobven.com/v1/public/jobs?q=%22AI+enablement%22+OR+%22AI+adoption%22+OR+%22AI+learning%22+OR+%22AI+education%22+OR+%22AI+trainer%22+OR+%22AI+literacy%22+OR+%22AI+content%22&country=US&postedAfter=1789702200&limit=1&includeTotal=true",
+ "params": [
+  [
+   "q",
+   "\"AI enablement\" OR \"AI adoption\" OR \"AI learning\" OR \"AI education\" OR \"AI trainer\" OR \"AI literacy\" OR \"AI content\""
+  ],
+  [
+   "country",
+   "US"
+  ],
+  [
+   "postedAfter",
+   1789702200
+  ],
+  [
+   "limit",
+   1
+  ],
+  [
+   "includeTotal",
+   "true"
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:30:21 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "transfer-encoding": "chunked",
+  "connection": "close",
+  "server": "cloudflare",
+  "vary": "Accept-Encoding",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "b1c54904-9424-47bb-b205-9179445b5866",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2219",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "43",
+  "etag": "W/\"3453-2YUlXG9jHz8LVoOg+ytd69pCabQ\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=SEE5o4%2FhMicAQLQVlGziA21XK3zfRadO%2Bo2y0dog713LsH20tOFkZJd62%2FX7Q6%2BV3WPc8KrCNeJ4n0Zlpn3P%2FVRC1yXsHq%2BmRZqQ%2BnOwbcVs9gGYY6bipNZ0fYhexG31IgUK3%2F3tA%2B%2B3Jed8Xg%3D%3D\"}]}",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "cf-ray": "a406f3269b050c84-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "id": "6856e2e3-5992-40a4-815e-36f67fbddcdc",
+    "title": "AI Learning Experience Designer",
+    "description": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;&lt;strong&gt;Company Overview:&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;a href=\"https://www.blinkhealth.com/\"&gt;Blink Health &lt;/a&gt;is the fastest growing healthcare technology company that builds products to make prescriptions accessible and affordable to everybody.&amp;nbsp; Our two primary products – BlinkRx and Quick Save – remove traditional roadblocks within the current prescription supply chain, resulting in better access to critical medications and improved health outcomes for patients.&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;a href=\"https://www.blinkhealth.com/blinkrx\"&gt;BlinkRx &lt;/a&gt;is the world’s first pharma-to-patient cloud that offers a digital concierge service for patients who are prescribed branded medications. Patients benefit from transparent low prices, free home delivery, and world-class support on this first-of-its-kind centralized platform. With BlinkRx, never again will a patient show up at the pharmacy only to discover that they can’t afford their medication, their doctor needs to fill out a form for them, or the pharmacy doesn’t have the medication in stock.&amp;nbsp;&lt;br&gt;&lt;br&gt;We are a highly collaborative team of builders and operators who invent new ways of working in an industry that historically has resisted innovation. Join us!&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;The Role: &lt;/strong&gt;As our AI Learning Experience Designer, you'll drive our organization's shift toward AI-powered, simulation-based training. You won't just write training content — you'll design, build, and continuously improve realistic practice environments, from conversational role-play scenarios to procedural and technical simulations, that let employees rehearse high-stakes skills safely, repeatedly, and at scale. This role sits deliberately at the intersection of three disciplines: instructional design, live facilitation, and Product/Engineering. You'll translate learning needs into technical requirements that designers or Product and Engineering can build against, and translate those outputs back into the classroom experience for our learners. Success means simulation-based training that is both instructionally sound and technically scalable — and that demonstrably improves performance.&lt;/p&gt; &lt;p&gt;&lt;em&gt;This is a hybrid role based in either New York or Seattle location&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What you’ll do:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Simulation Design &amp;amp; Strategy&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Design branching scenarios, role-play conversations, and procedural/technical simulations grounded in adult learning principles and real on-the-job situations.&lt;/li&gt; &lt;li&gt;Define what “realistic” and “effective” mean for each simulation — personas, difficulty curves, failure states, and feedback loops — in partnership with SMEs and facilitators.&lt;/li&gt; &lt;li&gt;Build and maintain a simulation roadmap aligned to the organization’s highest-priority skill gaps, rather than defaulting to whichever tool is easiest to deploy.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;AI Tooling, Prompt Engineering &amp;amp; Build&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Own the prompt engineering and configuration behind AI-driven simulations (conversational AI role-play, AI-generated scenario content, adaptive difficulty), working within licensed platforms and/or custom-built tools.&lt;/li&gt; &lt;li&gt;Evaluate and pilot AI simulation vendors and in-house technologies (e.g., conversational role-play platforms, authoring tools with AI generation, avatar/voice tools) against defined learning outcomes and total cost of ownership.&lt;/li&gt; &lt;li&gt;Maintain a working knowledge of the AI/LLM capabilities and constraints relevant to training use cases, translating this into realistic scope and timelines.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Bridging Instructional Design, Facilitation &amp;amp; Product/Engineering&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Act as the primary liaison between the L&amp;amp;D function and P&amp;amp;E teams building or supporting simulation tooling — writing clear requirements, user stories, and acceptance criteria on the learning side. Serve as a product owner for L&amp;amp;D outcomes.&lt;/li&gt; &lt;li&gt;Partner with facilitators and trainers to pressure-test simulations before rollout, incorporating live-delivery feedback into design and technical iteration.&lt;/li&gt; &lt;li&gt;Translate technical/platform constraints (data privacy, integration limits, latency, model behavior) into design trade-offs that instructional design and facilitation stakeholders can understand and plan around.&lt;/li&gt; &lt;li&gt;Represent L&amp;amp;D in Product/Engineering planning processes where simulation tooling, data, or infrastructure decisions affect training outcomes.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Innovation &amp;amp; Process Ownership&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Pioneer AI-driven design and production processes that let the team scale simulation output while maintaining quality — this role owns how simulations get built, not just what gets built.&lt;/li&gt; &lt;li&gt;Stay current on emerging AI tools and techniques relevant to simulation and instructional design, and make the call on when to adopt, pilot, or pass.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Measurement &amp;amp; Continuous Improvement&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Define and track success metrics for each simulation (e.g., time-to-competency, skill transfer, manager/coach ratings, performance-data correlation), not just completion or satisfaction scores.&lt;/li&gt; &lt;li&gt;Use practice and performance analytics to identify where simulations are and aren’t closing real skill gaps, and iterate accordingly.&lt;/li&gt; &lt;li&gt;Report on simulation program impact to L&amp;amp;D leadership, tying results to business outcomes rather than production speed alone.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Governance &amp;amp; Quality&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Ensure simulations meet accessibility standards (e.g., WCAG, Section 508) and organizational data privacy/security requirements for any AI tool used.&lt;/li&gt; &lt;li&gt;Establish and maintain a quality/review process for AI-generated simulation content before it reaches learners.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;A successful applicant will fit the following criteria:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;We want someone who lives at the intersection of learning design and technology. You’ll thrive here if:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;You have 7+ years in instructional design, learning experience design, or a closely related L&amp;amp;D role.&lt;/li&gt; &lt;li&gt;You have demonstrated experience building with AI to design, develop, and scale learning experiences, including AI-assisted content generation, prompt engineering, content transformation, and workflow optimization — not just general AI familiarity.&lt;/li&gt; &lt;li&gt;You have demonstrated experience creating AI-generated learning assets, specifically simulations, chatbots, branching scenarios, role-play conversations, assessments, and coaching/reinforcement activities (a portfolio or work samples demonstrating this is required).&lt;/li&gt; &lt;li&gt;You have experience partnering directly with P&amp;amp;E teams or other technical partners in their planning process, and you communicate effectively with both technical and non-technical audiences.&lt;/li&gt; &lt;li&gt;You have experience designing for and/or delivering live facilitation (virtual or in-person), or working closely with facilitators to pressure-test and shape training content before rollout.&lt;/li&gt; &lt;li&gt;You have experience translating business priorities and performance gaps into scalable learning solutions, ideally in a fast-paced or customer-facing organization.&lt;/li&gt; &lt;li&gt;You have a strong grounding in instructional design methodology (e.g., ADDIE, adult learning theory) and scenario/branching-logic design.&lt;/li&gt; &lt;li&gt;You have working proficiency with at least one AI simulation/role-play platform (e.g., Second Nature, Hyperbound, Mindtickle, Zenarate, SmartWinnr, or comparable) and one standard authoring/content tool stack (e.g., Articulate Storyline/Rise, Vyond, Claude Design) with AI-assisted features.&lt;/li&gt; &lt;li&gt;You’re familiar with the systems a Product/Engineering-adjacent L&amp;amp;D role needs to operate in: an LMS (e.g., Cornerstone, Absorb, Moodle), a CMS (e.g., Showpad), and a project-tracking tool used by Engineering (e.g., Jira) — enough to work inside these systems, not just consume their output.&lt;/li&gt; &lt;li&gt;You have strong project management skills, with the ability to manage multiple concurrent initiatives and competing stakeholder priorities without losing quality.&lt;/li&gt; &lt;li&gt;You’re comfortable reading and acting on learning/performance analytics — engagement, adoption, time-to-competency, and business performance data — to demonstrate program impact, not just completion.&lt;/li&gt; &lt;li&gt;You communicate clearly and technically — able to write requirements Engineering can build from and explain platform constraints to non-technical stakeholders.&lt;/li&gt; &lt;li&gt;You have an innovation-oriented mindset: you’re comfortable proposing and piloting AI-driven processes that compress traditional development timelines, and comfortable being wrong sometimes in service of moving faster.&lt;/li&gt; &lt;li&gt;You have a bachelor’s degree in Instructional Design, Learning Experience Design, Educational Technology, or a related field; equivalent professional experience will be considered in lieu of a degree.&lt;/li&gt; &lt;/ul&gt;&lt;div class=\"content-conclusion\"&gt;&lt;p&gt;&lt;strong&gt;Why Join Us:&lt;br&gt;&lt;br&gt;&lt;/strong&gt;It is rare to have a company that both deeply impacts its customers and is able to provide its services across a massive population.&amp;nbsp; At Blink, we have a huge impact on people when they are most vulnerable: at the intersection of their healthcare and finances. We are also the fastest growing healthcare company in the country and are driving that impact across millions of new patients every year.&amp;nbsp; Our business model not only helps people, but drives economics that allow us to build a generational company. We are a relentlessly learning, constantly curious, and aggressively collaborative cross-functional team dedicated to inventing new ways to improve the lives of our customers.&lt;br&gt;&lt;br&gt;We are an equal opportunity employer and value diversity of all kinds. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.&lt;br&gt;&lt;br&gt;Applicants who provide their phone number and consent to receive text messages may receive SMS or MMS updates from Blink Health regarding their application.&lt;/p&gt;&lt;/div&gt;",
+    "summary": "The AI Learning Experience Designer will design, build, and improve AI-powered, simulation-based training, including role-play scenarios, procedural simulations, and adaptive learning experiences. The role bridges instructional design, facilitation, and Product/Engineering by translating learning needs into technical requirements, managing simulation tooling, measuring learning impact, and ensuring accessibility and data privacy.",
+    "locations": [
+     {
+      "workLocation": "hybrid",
+      "addressRegion": "New York",
+      "addressCountry": "US",
+      "addressLocality": "New York"
+     },
+     {
+      "workLocation": "hybrid",
+      "addressRegion": "Washington",
+      "addressCountry": "US",
+      "addressLocality": "Seattle"
+     }
+    ],
+    "remoteType": "hybrid",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Project Management",
+      "Adaptability",
+      "Collaboration",
+      "Problem-solving"
+     ],
+     "primary_skills": [
+      "Instructional Design",
+      "Learning Experience Design",
+      "Machine Learning",
+      "Prompt Engineering",
+      "Simulation Design",
+      "Scenario-Based Learning",
+      "Branching Logic Design",
+      "AI-Assisted Content Generation",
+      "Learning Analytics",
+      "Product Ownership"
+     ],
+     "secondary_skills": [
+      "Adult Learning Theory",
+      "ADDIE",
+      "Conversational AI",
+      "Articulate Storyline",
+      "Articulate Rise",
+      "Vyond",
+      "Learning Management Systems",
+      "Content Management Systems",
+      "Jira",
+      "WCAG Accessibility"
+     ]
+    },
+    "benefits": [],
+    "salary": null,
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 7,
+    "educationRequirement": {
+     "required": [],
+     "preferred": [
+      "bachelor_degree"
+     ]
+    },
+    "industry": [
+     "healthcare_medical",
+     "technology_software"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790178107,
+    "expiresAt": null,
+    "applyUrl": "https://job-boards.greenhouse.io/blinkhealth/jobs/8837000002",
+    "status": "active",
+    "companies": [
+     {
+      "name": "blinkhealth.com",
+      "website": "blinkhealth.com"
+     }
+    ]
+   }
+  ],
+  "meta": {
+   "total": 7,
+   "count": 1,
+   "nextCursor": "eyJpZCI6IjY4NTZlMmUzLTU5OTItNDBhNC04MTVlLTM2ZjY3ZmJkZGNkYyIsInNvcnRWYWx1ZSI6MTc5MDE3ODEwNywidGllQnJlYWtlciI6IjIwMjYtMDktMjNUMjA6NDQ6MTMuODM1WiJ9",
+   "hasMore": true,
+   "requestTimeMs": 42,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

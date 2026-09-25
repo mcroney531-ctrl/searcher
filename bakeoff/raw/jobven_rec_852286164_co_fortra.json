@@ -1,0 +1,55 @@
+{
+ "call_id": "rec_852286164_co_fortra",
+ "phase": "recall",
+ "url": "https://api.jobven.com/v1/public/companies?search=Fortra&limit=10",
+ "params": [
+  [
+   "search",
+   "Fortra"
+  ],
+  [
+   "limit",
+   10
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:24:22 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "105",
+  "connection": "close",
+  "server": "cloudflare",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "74d4ba47-991b-4edf-8c3a-09c313fb4adb",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2411",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "5",
+  "etag": "W/\"69-EyUF1mDs/YjZHt2ppk1/Pta3qXo\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=9F%2F5ltr9Q%2F9WFrVlyFCWT3nb8HtjGj7WMI6zfVyDFb%2BpgjVVvjsCQcCqAzsF6tpktGJEbnLJDvs289NuBo3uN%2FTwpctn%2F77zQHhinioVkx1MEFAcblstMY15eiia4awz2h7sheln20Ne0cVxfw%3D%3D\"}]}",
+  "cf-ray": "a406ea5fbd25c3f3-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "name": "Fortra",
+    "website": "fortra.com"
+   }
+  ],
+  "meta": {
+   "page": 1,
+   "limit": 10,
+   "total": 1,
+   "totalPages": 1
+  }
+ }
+}

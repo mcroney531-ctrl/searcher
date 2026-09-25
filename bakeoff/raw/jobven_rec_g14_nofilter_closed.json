@@ -1,0 +1,54 @@
+{
+ "call_id": "rec_g14_nofilter_closed",
+ "phase": "recall",
+ "url": "https://api.jobven.com/v1/public/jobs?q=%22CGHS%22&status=closed&limit=5",
+ "params": [
+  [
+   "q",
+   "\"CGHS\""
+  ],
+  [
+   "status",
+   "closed"
+  ],
+  [
+   "limit",
+   5
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:25:25 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "107",
+  "connection": "close",
+  "server": "cloudflare",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "de98bb62-affe-4152-bcd4-918b41fb1203",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2395",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "7",
+  "etag": "W/\"6b-93WKVanc/OowxQpHSV7kClrxsOs\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=nh9tfptSfvXsK0Ok1SoVECPy5evr8zkbxeJfSAyy63O%2F18kJDKTvSqpyh1QQd%2Fc%2BMaKX0EBUwxDljHevZeb0OWavZw9X6lwAFsvCktdabi%2BhPAduO%2B2T0YeeehHFxzu%2BgrmnYTZ5AX3fGdLAgw%3D%3D\"}]}",
+  "cf-ray": "a406ebe99d59de9b-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [],
+  "meta": {
+   "count": 0,
+   "hasMore": false,
+   "requestTimeMs": 5,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

@@ -1,0 +1,163 @@
+{
+ "call_id": "fam_desc_course_development_p0",
+ "phase": "family",
+ "url": "https://api.jobven.com/v1/public/jobs?q=-%22account+executive%22+-%22account+manager%22+-%22sales+representative%22+-%22sales+manager%22+-%22customer+service+representative%22+-%22help+desk%22+-%22customer+success+manager%22+-%22support+specialist%22&descriptionQuery=course+development&country=US&remoteType%5B%5D=remote&postedAfter=1789702200&limit=25",
+ "params": [
+  [
+   "q",
+   "-\"account executive\" -\"account manager\" -\"sales representative\" -\"sales manager\" -\"customer service representative\" -\"help desk\" -\"customer success manager\" -\"support specialist\""
+  ],
+  [
+   "descriptionQuery",
+   "course development"
+  ],
+  [
+   "country",
+   "US"
+  ],
+  [
+   "remoteType[]",
+   "remote"
+  ],
+  [
+   "postedAfter",
+   1789702200
+  ],
+  [
+   "limit",
+   25
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:27:08 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "transfer-encoding": "chunked",
+  "connection": "close",
+  "server": "cloudflare",
+  "vary": "Accept-Encoding",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "27822cff-1d20-49ab-b77e-f465c401eb02",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2378",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "286",
+  "etag": "W/\"26b3-Z1Nyy1CNTcWP1fcj5gPRBHxSEw8\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=QYhlbqQjXJihr67kKUo9AbWvsdA5aO9vKruawX341Uc85mUHIbl5BDmLMMJ9jZH0AQgWnQUqLSFCFDjBz61vzxACTCfN0PZkxWOCiJdMhxeqdfTA3gC0NajOFb%2BOx9GXU02fTrHswyREmm35Eg%3D%3D\"}]}",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "cf-ray": "a406ee6bfcee427c-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "id": "907ab561-84bb-4bee-873d-ad16971108ba",
+    "title": "Enrollment Advisor",
+    "description": "<h2>Company Description</h2><p><strong>Make a world of difference.</strong></p><p>Want to make a difference in the world?&nbsp;<strong>Become a Keypather.</strong></p><p>From guiding the student experience, to delivering programs that meet the needs of the future-of-work and help solve our global social and economic challenges, every one of our people (Keypathers!) create impact, every day.</p><p><em>Roles at Keypath Education are available as remote, hybrid, or in-office.</em></p><h2>Job Description</h2><p>The Enrollment Advisor role will be responsible for facilitating prospective students through the application process for their University of choice. The Advisor will uncover the needs and objectives of a prospective student through a set of interviews and help the student determine if the program or University is a fit for the student. The Advisor will also support the student through the admissions and registration process to ensure the student meets all requirements and deadlines.</p><p><strong>ESSENTIAL DUTIES AND RESPONSIBILITIES</strong></p><ul><li>Communication with&nbsp;prospective students&nbsp;through phone calls, emails,&nbsp;or text messages regarding&nbsp;the University and program​</li><li>Follow the departmental and&nbsp;management guidelines for&nbsp;lead management and&nbsp;moving leads through the&nbsp;different statuses in the CRM&nbsp;system​.</li><li>Responsible for supporting&nbsp;students using a consultative&nbsp;process to ensure the&nbsp;student has all the&nbsp;information to make an&nbsp;informed decision about the&nbsp;University and program from&nbsp;lead to start​.</li><li>Use the database to track&nbsp;student progress and any&nbsp;communication with&nbsp;students​.</li><li>Achieve daily metrics&nbsp;surrounding number of calls&nbsp;per day, speed to lead&nbsp;metrics, talk time per day,&nbsp;number of applications per&nbsp;day as set by their Manager​.</li><li>Provide feedback when&nbsp;needed on lead quality,&nbsp;quantity, and applicable&nbsp;trends.</li></ul><h2>Qualifications</h2><p><strong>Education:</strong> Bachelor’s degree required</p><p><strong>Experience:</strong></p><ul><li>Demonstrated critical thinking, decision-making, and problem-solving skills.</li><li>2-3 years of sales experience (in an outbound call center preferred)</li><li>General knowledge of higher education and/or College admissions and recruitment experience preferred.</li><li>Technically proficient.</li><li>Excellent written and verbal communication skills</li><li>Goal-oriented and demonstrated ability to meet sales targets.</li><li>Excellent written and verbal communication skills, including the ability to successfully work with all levels of management.</li><li>Supervisory management skills and the ability to oversee delegated tasks.&nbsp;</li><li>Proven ability to effectively provide training and explain processes and procedures.</li><li>Knowledge of planning processes and issues.</li></ul><p><strong>Technical</strong>&nbsp;<strong>S</strong><strong>kills</strong>:</p><ul><li>Proficient with Microsoft Office Suite, including Outlook, Word, Excel, and PowerPoint.&nbsp;</li><li>Experience with CRM system(s) preferred.</li></ul><p><strong>Special Requirements Specific to Job</strong>:</p><ul><li>Self-motivated</li><li>Proactive</li><li>Able to multitask</li><li>Excellent written and oral communication skills</li><li>Strong attention to detail</li><li>Customer service skills</li><li>Team player</li><li>An understanding of the Higher Education and Post-Secondary Education sector, including working for a Higher Education Institution, is preferred</li></ul><p><strong>WORK ENVIRONMENT</strong></p><p>It is essential to determine a suitable workspace in your home before starting your remote work. &nbsp;Below is a checklist to help you set up shop:</p><ul><li>Flat surface to set your computer on (desk, kitchen table, counter, etc.)</li><li>Unobstructed Wi-Fi signal (ability to hardwire if needed is also important)</li><li>Internet with at least 25 Mbps download and 3 Mbps upload speed<ul><li>(Unsure of your speed? Check here:<a href=\"https://www.speedtest.net/\">https://www.speedtest.net/</a>) &nbsp;</li></ul></li><li>Power outlet to plug in your laptop and any other equipment</li><li>Quiet space with limited noise interruptions</li><li>Good lighting for a professional appearance when video conferencing.</li></ul><h2>Additional Information</h2><p>At Keypath, our salary structure and compensation philosophy reflect the value we place on our employees.&nbsp;We pride ourselves on offering a competitive and fair total rewards package that considers the market.</p><p>The salary range for this position is between $65,000-$72,000. The starting salary will fall within this range and will be determined by various factors such as experience, location, market conditions, and departmental budgets. You will have the opportunity to discuss your salary expectations during the interview process.</p><ul><li>Embrace the flexibility of remote, hybrid, and flexible work options.&nbsp;</li><li>Access a competitive array of medical, vision, and dental insurance plans.&nbsp;</li><li>Take advantage of our Employee Assistance Program (EAP) and various mental health and well-being support programs.&nbsp;</li><li>As part of our commitment to supporting our employees, Keypath provides a quarterly $75 Remote Work Stipend to help cover internet and remote work-related technology expenses.&nbsp;</li><li>Invest in your future with our tuition reimbursement and professional development programs.&nbsp;</li><li>Secure your retirement with our 401(k) retirement contributions and company matching.&nbsp;</li><li>Enjoy our paid leave policies designed to ensure you have the time to rest and recharge.&nbsp;</li><li>Company-supported life and AD&amp;D insurance, along with short-term and long-term disability coverage.&nbsp;</li><li>Inclusive parental leave programs are designed to support you and your family.&nbsp;</li></ul><p><strong>Want to make a difference?</strong>&nbsp;Become a Keypather.&nbsp;</p><p>Apply today</p><p><strong>A little bit about us&nbsp;</strong></p><p>Keypath Education is a leading edtech company that partners with leading Universities to create innovative and in-demand online education programs and champion the student journey from enrolment to graduation. We are a fast-moving team that values community, collaboration, innovation, and lifelong learning.&nbsp;</p><p>Certified as a <em>Great Place to Work</em>, our corporate office is in Schaumburg, Illinois. We gather teams of experts from digital marketing, course development, web development, finance, and student service backgrounds to support university partners in the US.&nbsp;</p><p><strong>Why Keypath</strong><br>Sure, anyone can tell you how good their company culture is, but we encourage you to read our reviews and form your own opinion. We’ve got a caring and engaged CEO who replies to Glassdoor reviews personally and recognizes that the only way we can achieve our vision is through an inclusive culture that celebrates diversity, works in harmony, and cares for our community.</p><p><em>Keypath Education is an equal opportunity employer that does not discriminate against applicants or employees and ensures equal employment opportunity for all persons regardless of their race, creed, color, religion, sex, sexual orientation, pregnancy, national origin, age, marital status, disability, citizenship, military or veterans’ status, or any other classifications protected by applicable federal, state, or local laws. Keypath’s equal opportunity policy applies to all terms and conditions of employment, including but not limited to recruiting, hiring, training, promotion, job benefits, pay, and dismissal.</em></p>",
+    "summary": "The Enrollment Advisor guides prospective students through university and program selection, application, admissions, and registration processes. The role communicates with students across phone, email, and text, manages leads in a CRM, tracks student progress, meets daily sales and application metrics, and supports informed enrollment decisions.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressRegion": "Illinois",
+      "addressCountry": "US",
+      "addressLocality": "Schaumburg"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Decision-making",
+      "Self-motivation",
+      "Adaptability",
+      "Teamwork"
+     ],
+     "primary_skills": [
+      "Sales",
+      "Consultative Selling",
+      "Customer Service",
+      "Microsoft Office",
+      "CRM Software",
+      "Lead Management",
+      "Student Admissions",
+      "Higher Education",
+      "Critical Thinking",
+      "Problem-solving"
+     ],
+     "secondary_skills": [
+      "College Admissions and Recruitment",
+      "Training Delivery",
+      "Process Documentation",
+      "Planning Processes"
+     ]
+    },
+    "benefits": [
+     "health_insurance",
+     "vision_care",
+     "dental_insurance",
+     "mental_health_support",
+     "remote_work_hybrid_work_options",
+     "professional_development",
+     "tuition_reimbursement",
+     "pensions_401k",
+     "pension_contribution_matching",
+     "paid_time_off_vacation_personal_days",
+     "life_insurance",
+     "disability_insurance",
+     "parental_leave",
+     "company_laptop_equipment",
+     "other_benefits"
+    ],
+    "salary": {
+     "max": 72000,
+     "min": 65000,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "entry",
+    "employmentType": "full_time",
+    "minYearsExperience": 2,
+    "educationRequirement": {
+     "required": [
+      "bachelor_degree"
+     ],
+     "preferred": []
+    },
+    "industry": [
+     "education",
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1789752747,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.smartrecruiters.com/KeypathEducation/744000150430140-enrollment-advisor",
+    "status": "active",
+    "companies": [
+     {
+      "name": "keypathedu.com",
+      "website": "keypathedu.com"
+     }
+    ]
+   }
+  ],
+  "meta": {
+   "count": 1,
+   "hasMore": false,
+   "requestTimeMs": 285,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

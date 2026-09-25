@@ -1,0 +1,1314 @@
+[
+ {
+  "job_id": 852046205,
+  "card": 5,
+  "company": "Blue Cross and Blue Shield of North Carolina",
+  "title": "Senior Digital Product Analyst",
+  "stratum": "wildcard",
+  "ts_date": "2026-09-23",
+  "company_hits": {
+   "Blue Cross": [
+    "Alberta Blue Cross"
+   ],
+   "bcbsnc": []
+  },
+  "title_hits": [],
+  "phrase_hits": {
+   "active": [],
+   "closed": []
+  },
+  "title_more": false,
+  "found": false
+ },
+ {
+  "job_id": 852201874,
+  "card": 7,
+  "company": "Citian",
+  "title": "Customer Education Specialist",
+  "stratum": "title_family",
+  "ts_date": "2026-09-23",
+  "company_hits": {
+   "Citian": []
+  },
+  "title_hits": [
+   {
+    "id": "fe982a40-84f4-45f1-b735-fee76d82de5d",
+    "title": "Customer Education Specialist",
+    "company": "Runway",
+    "remoteType": "remote",
+    "postedAt": 1790226419,
+    "applyUrl": "https://jobs.ashbyhq.com/runway-ml/4f8e18a4-0f26-4b28-a44d-3ba1afaada74",
+    "match": false
+   },
+   {
+    "id": "0f6b2a78-eaba-48a1-974e-beba4a9ce90d",
+    "title": "Senior Scaled Customer Education Specialist",
+    "company": "Samsara",
+    "remoteType": "remote",
+    "postedAt": 1788455535,
+    "applyUrl": "https://www.samsara.com/company/careers/roles/8177646?gh_jid=8177646",
+    "match": false
+   }
+  ],
+  "phrase_hits": {
+   "active": [],
+   "closed": []
+  },
+  "title_more": false,
+  "found": false
+ },
+ {
+  "job_id": 851544831,
+  "card": 10,
+  "company": "Accenture",
+  "title": "Senior Program Manager- AI Learning Operations",
+  "stratum": "title_family",
+  "ts_date": "2026-09-23",
+  "company_hits": {
+   "Accenture": [],
+   "Udacity": []
+  },
+  "title_hits": [],
+  "phrase_hits": {
+   "active": [],
+   "closed": []
+  },
+  "title_more": false,
+  "found": false
+ },
+ {
+  "job_id": 849294484,
+  "card": 12,
+  "company": "Commerce",
+  "title": "Technical Training Content Developer",
+  "stratum": "title_family",
+  "ts_date": "2026-09-19",
+  "company_hits": {
+   "Commerce": [
+    "Inspiration Commerce Group",
+    "Tough Commerce",
+    "commerceiq.ai",
+    "boldcommerce.com",
+    "SPS Commerce",
+    "sana-commerce.com",
+    "Tidal Commerce",
+    "EverCommerce"
+   ],
+   "BigCommerce": []
+  },
+  "title_hits": [],
+  "phrase_hits": {
+   "active": [],
+   "closed": []
+  },
+  "title_more": false,
+  "found": false
+ },
+ {
+  "job_id": 850576240,
+  "card": 14,
+  "company": "A T Still University Of Health Sciences",
+  "title": "CGHS - Instructional Designer (remote)",
+  "stratum": "title_family",
+  "ts_date": "2026-09-22",
+  "company_hits": {
+   "Still University": [],
+   "atsu": []
+  },
+  "title_hits": [
+   {
+    "id": "15508f16-d6b2-469e-9958-d64134db0dd9",
+    "title": "Lead Instructional Designer",
+    "company": "highlightta.com",
+    "remoteType": "remote",
+    "postedAt": 1790269831,
+    "applyUrl": "https://jobs.ashbyhq.com/highlightta/f36a604d-ac92-4b28-8b5f-54a083fc215e",
+    "match": false
+   },
+   {
+    "id": "c6e39b2a-f947-4b53-8d4a-6d412f45d810",
+    "title": "Instructional Designer",
+    "company": "Excelsior",
+    "remoteType": "flexible",
+    "postedAt": 1790208000,
+    "applyUrl": "https://recruiting.ultipro.com/EXC1011/JobBoard/eb378fdd-1d75-0520-8078-55ee35061807/OpportunityDetail?opportunityId=59e7fb10-8b66-442a-a687-bb44f2234529",
+    "match": false
+   },
+   {
+    "id": "f682d6b5-c4c9-444a-895a-3009ea10585d",
+    "title": "Instructional Designer - Full Time - Higher ED",
+    "company": "uniteklearning.com",
+    "remoteType": "hybrid",
+    "postedAt": 1789595934,
+    "applyUrl": "https://jobs.smartrecruiters.com/UnitekLearning/744000149961439-instructional-designer-full-time-higher-ed",
+    "match": false
+   },
+   {
+    "id": "6149d010-93a1-460a-b084-8e5393ef961f",
+    "title": "Instructional Designer",
+    "company": "McKesson",
+    "remoteType": "hybrid",
+    "postedAt": 1788480000,
+    "applyUrl": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TX-Fort-Worth/Instructional-Designer_JR0153181",
+    "match": false
+   },
+   {
+    "id": "f1ea4d4c-9ed6-4e32-9ec0-aa6fb60a18d3",
+    "title": "Full Time Instructional Designer - Higher ED",
+    "company": "uniteklearning.com",
+    "remoteType": "hybrid",
+    "postedAt": 1788367907,
+    "applyUrl": "https://jobs.smartrecruiters.com/UnitekLearning/744000147045639-full-time-instructional-designer-higher-ed",
+    "match": false
+   },
+   {
+    "id": "d437d6ae-a282-4f2c-9f38-af9bac2556bc",
+    "title": "Contract Instructional Designer",
+    "company": "Magna International",
+    "remoteType": "onsite",
+    "postedAt": 1788220800,
+    "applyUrl": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Troy-Michigan-US/Contract-Instructional-Designer_R00258825",
+    "match": false
+   }
+  ],
+  "phrase_hits": {
+   "active": [],
+   "closed": []
+  },
+  "title_more": false,
+  "found": false
+ },
+ {
+  "job_id": 851194095,
+  "card": 15,
+  "company": "Shipley Associates",
+  "title": "Business Development Course Developer",
+  "stratum": "description_family",
+  "ts_date": "2026-09-22",
+  "company_hits": {
+   "Shipley": []
+  },
+  "title_hits": [],
+  "phrase_hits": {
+   "active": [],
+   "closed": []
+  },
+  "title_more": false,
+  "found": false
+ },
+ {
+  "job_id": 850645504,
+  "card": 17,
+  "company": "Ladders",
+  "title": "Sr Manager of Curriculum and Instruction (Remote)",
+  "stratum": "title_family",
+  "ts_date": "2026-09-21",
+  "company_hits": {
+   "Ladders": []
+  },
+  "title_hits": [],
+  "phrase_hits": {
+   "active": [],
+   "closed": []
+  },
+  "title_more": false,
+  "found": false
+ },
+ {
+  "job_id": 852195306,
+  "card": null,
+  "company": "Khan Academy",
+  "title": "Interim Associate Manager, Email Marketing (3-month contract, $42/hour, 20 hours/week)",
+  "stratum": "description_family",
+  "ts_date": "2026-09-23",
+  "company_hits": {
+   "Khan Academy": []
+  },
+  "title_hits": [
+   {
+    "id": "827db82e-d1b8-423d-9993-d20897b55c85",
+    "title": "Social Media And Email Marketing Specialist",
+    "company": "Clera",
+    "remoteType": "onsite",
+    "postedAt": 1790283838,
+    "applyUrl": "https://jobs.ashbyhq.com/clera/2e589b19-7dfa-46de-8dc3-bd8b6bc36bd2",
+    "match": false
+   },
+   {
+    "id": "fa0f9bf0-7044-4722-bd02-5c32a922401f",
+    "title": "Webinar & Email Marketing Associate",
+    "company": "ciena.com",
+    "remoteType": "flexible",
+    "postedAt": 1790035200,
+    "applyUrl": "https://ciena.wd5.myworkdayjobs.com/en-US/careers/job/Baltimore/Webinar---Email-Marketing-Associate_R031670",
+    "match": false
+   },
+   {
+    "id": "c1a550e2-5bff-4c1f-98f8-345950416937",
+    "title": "Senior Lifecycle & Email Marketing Strategist",
+    "company": "ServiceNow",
+    "remoteType": "remote",
+    "postedAt": 1789059412,
+    "applyUrl": "https://jobs.smartrecruiters.com/ServiceNow/744000148832669-senior-lifecycle-email-marketing-strategist-",
+    "match": false
+   },
+   {
+    "id": "83851c7b-d1a1-4ff8-ab67-ed174b57637e",
+    "title": "Senior Lifecycle & Email Marketing Strategist",
+    "company": "ServiceNow",
+    "remoteType": "remote",
+    "postedAt": 1789059315,
+    "applyUrl": "https://jobs.smartrecruiters.com/ServiceNow/744000148832479--senior-lifecycle-email-marketing-strategist-",
+    "match": false
+   },
+   {
+    "id": "1b791cf9-91e0-4e29-bad6-42a18b7d9b17",
+    "title": "Senior Lifecycle & Email Marketing Strategist",
+    "company": "ServiceNow",
+    "remoteType": "remote",
+    "postedAt": 1789059187,
+    "applyUrl": "https://jobs.smartrecruiters.com/ServiceNow/744000148832020-senior-lifecycle-email-marketing-strategist-",
+    "match": false
+   },
+   {
+    "id": "402fb631-cb12-4b50-b6d2-dfdb186c603d",
+    "title": "Senior Lifecycle & Email Marketing Strategist",
+    "company": "ServiceNow",
+    "remoteType": "remote",
+    "postedAt": 1789059019,
+    "applyUrl": "https://jobs.smartrecruiters.com/ServiceNow/744000148831699--senior-lifecycle-email-marketing-strategist-",
+    "match": false
+   },
+   {
+    "id": "cb5c0288-eb01-4f29-a5c3-15e63e141ce1",
+    "title": "Senior Lifecycle & Email Marketing Strategist",
+    "company": "ServiceNow",
+    "remoteType": "remote",
+    "postedAt": 1789058298,
+    "applyUrl": "https://jobs.smartrecruiters.com/ServiceNow/744000148829349-senior-lifecycle-email-marketing-strategist-",
+    "match": false
+   },
+   {
+    "id": "901dc25e-f194-4ae7-97c2-61af076f202d",
+    "title": "Senior Specialist, Email Marketing Operations",
+    "company": "shrm.org",
+    "remoteType": "remote",
+    "postedAt": 1788926400,
+    "applyUrl": "https://jobs.dayforcehcm.com/en-US/shrm/EXTERNAL/jobs/3993",
+    "match": false
+   }
+  ],
+  "phrase_hits": {
+   "active": [],
+   "closed": []
+  },
+  "title_more": false,
+  "found": false
+ },
+ {
+  "job_id": 852185191,
+  "card": null,
+  "company": "Solera Senior Living",
+  "title": "Learning and Development Program Manager",
+  "stratum": "description_family",
+  "ts_date": "2026-09-23",
+  "company_hits": {
+   "Solera": [
+    "soleranetwork.com",
+    "solera.com"
+   ]
+  },
+  "title_hits": [],
+  "phrase_hits": {
+   "active": [],
+   "closed": []
+  },
+  "title_more": false,
+  "found": false
+ },
+ {
+  "job_id": 851383703,
+  "card": null,
+  "company": "NICE",
+  "title": "Senior Education Professional, Development",
+  "stratum": "description_family",
+  "ts_date": "2026-09-23",
+  "company_hits": {
+   "NICE": [
+    "nice.com",
+    "asknicely.com"
+   ]
+  },
+  "title_hits": [
+   {
+    "id": "559c52fa-c48e-4014-ac43-0a155c4c8a21",
+    "title": "Senior Education Professional, Development",
+    "company": "nice.com",
+    "remoteType": "flexible",
+    "postedAt": 1790117715,
+    "applyUrl": "https://boards.eu.greenhouse.io/nice/jobs/4983312101?gh_jid=4983312101",
+    "match": true
+   }
+  ],
+  "phrase_hits": {
+   "active": [
+    {
+     "id": "559c52fa-c48e-4014-ac43-0a155c4c8a21",
+     "title": "Senior Education Professional, Development",
+     "company": "nice.com",
+     "postedAt": 1790117715,
+     "remoteType": "flexible",
+     "applyUrl": "https://boards.eu.greenhouse.io/nice/jobs/4983312101?gh_jid=4983312101",
+     "status": "active"
+    }
+   ],
+   "closed": []
+  },
+  "title_more": false,
+  "found": true
+ },
+ {
+  "job_id": 852303520,
+  "card": null,
+  "company": "Medtronic",
+  "title": "Principal Field Service Technical Training Specialist",
+  "stratum": "description_family",
+  "ts_date": "2026-09-23",
+  "company_hits": {
+   "Medtronic": [
+    "medtronic.com"
+   ]
+  },
+  "title_hits": [
+   {
+    "id": "4f8155d0-2810-4275-8efc-fd02df161be2",
+    "title": "Laboratory Technical Training Specialist / Flexforce Start-up Tech",
+    "company": "Siemens Healthineers",
+    "remoteType": "hybrid",
+    "postedAt": 1789430400,
+    "applyUrl": "https://onehealthineers.wd3.myworkdayjobs.com/en-US/SHSJB/job/TAR-B/Laboratory-Technical-Training-Specialist---FlexForce-Start-Up-Tech_R-30757-1",
+    "match": false
+   }
+  ],
+  "phrase_hits": {
+   "active": [
+    {
+     "id": "aeaeeb5a-b04b-47b6-8346-7a68e7f91d68",
+     "title": "Principal Field Service Technical Training Specialist",
+     "company": "medtronic.com",
+     "postedAt": 1784606400,
+     "remoteType": "hybrid",
+     "applyUrl": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Principal-Field-Service-Technical-Training-Specialist_R72439-2",
+     "status": "active"
+    }
+   ],
+   "closed": []
+  },
+  "title_more": false,
+  "found": true
+ },
+ {
+  "job_id": 852286299,
+  "card": null,
+  "company": "ZipLiens",
+  "title": "Director of Onboarding & Enablement (Remote)",
+  "stratum": "description_family",
+  "ts_date": "2026-09-23",
+  "company_hits": {
+   "ZipLiens": []
+  },
+  "title_hits": [
+   {
+    "id": "121df36c-c773-4833-a101-3cc8eb6dc739",
+    "title": "Sr. Learning Experience Lead, Onboarding & Enablement",
+    "company": "Replit",
+    "remoteType": "hybrid",
+    "postedAt": 1788905308,
+    "applyUrl": "https://jobs.ashbyhq.com/replit/bc400684-41a1-4a16-9e0b-6fb6a11be921",
+    "match": false
+   }
+  ],
+  "phrase_hits": {
+   "active": [],
+   "closed": []
+  },
+  "title_more": false,
+  "found": false
+ },
+ {
+  "job_id": 852099703,
+  "card": null,
+  "company": "440 Strategy Group",
+  "title": "Part-Time Content Manager and Designer",
+  "stratum": "title_family",
+  "ts_date": "2026-09-23",
+  "company_hits": {
+   "440 Strategy": []
+  },
+  "title_hits": [],
+  "phrase_hits": {
+   "active": [],
+   "closed": []
+  },
+  "title_more": false,
+  "found": false
+ },
+ {
+  "job_id": 851275561,
+  "card": null,
+  "company": "CVS Health",
+  "title": "Senior Content Designer",
+  "stratum": "title_family",
+  "ts_date": "2026-09-23",
+  "company_hits": {
+   "CVS": []
+  },
+  "title_hits": [
+   {
+    "id": "f2db6c02-e44b-4a30-8944-39d8f0993a40",
+    "title": "Senior Content Designer",
+    "company": "Robinhood",
+    "remoteType": "hybrid",
+    "postedAt": 1790021964,
+    "applyUrl": "https://boards.greenhouse.io/robinhood/jobs/8220730?t=gh_src=&gh_jid=8220730",
+    "match": false
+   },
+   {
+    "id": "e087e0d2-ef85-4e9b-8370-676e3384cc92",
+    "title": "Senior Content Designer",
+    "company": "Ibotta",
+    "remoteType": "hybrid",
+    "postedAt": 1789148905,
+    "applyUrl": "https://jobs.ashbyhq.com/ibotta/9d3a03b6-0f08-479a-aeab-920060249ad8",
+    "match": false
+   },
+   {
+    "id": "5aee02e0-9027-47c5-bc1a-ae0175912a19",
+    "title": "Senior Content Designer",
+    "company": "brightspeed.com",
+    "remoteType": "remote",
+    "postedAt": 1789000280,
+    "applyUrl": "https://jobs.smartrecruiters.com/Brightspeed/744000148627959-senior-content-designer",
+    "match": false
+   }
+  ],
+  "phrase_hits": {
+   "active": [],
+   "closed": []
+  },
+  "title_more": false,
+  "found": false
+ },
+ {
+  "job_id": 851058374,
+  "card": null,
+  "company": "White Circle",
+  "title": "Content Lead",
+  "stratum": "title_family",
+  "ts_date": "2026-09-22",
+  "company_hits": {
+   "White Circle": [
+    "White Circle"
+   ]
+  },
+  "title_hits": [
+   {
+    "id": "07416770-af10-4537-ab6f-48411c7a9388",
+    "title": "Content Lead",
+    "company": "browserbase.com",
+    "remoteType": "onsite",
+    "postedAt": 1790225787,
+    "applyUrl": "https://jobs.ashbyhq.com/browserbase/bd406bd6-3318-4e16-b5ea-9a2d03368a08",
+    "match": false
+   },
+   {
+    "id": "e67f05e8-5377-48f7-a2a3-c64ce7fb7e17",
+    "title": "Content Lead",
+    "company": "endex.ai",
+    "remoteType": "onsite",
+    "postedAt": 1790197911,
+    "applyUrl": "https://jobs.ashbyhq.com/endex/eb93d343-2516-41aa-9d0d-7347d04b4e1f",
+    "match": false
+   },
+   {
+    "id": "09ad91c4-8bbf-4ef2-9fa4-e7144e4e9005",
+    "title": "Content Lead",
+    "company": "avoca.ai",
+    "remoteType": "onsite",
+    "postedAt": 1789356836,
+    "applyUrl": "https://jobs.ashbyhq.com/avoca/dca35f19-6e96-4fa8-b323-9aba5d7b6492",
+    "match": false
+   },
+   {
+    "id": "24d926cf-f554-42c8-a885-c2aea6f25a4e",
+    "title": "Content Lead",
+    "company": "White Circle",
+    "remoteType": "remote",
+    "postedAt": 1789117008,
+    "applyUrl": "https://jobs.ashbyhq.com/whitecircle/a8efc466-d53a-449a-8701-f756184c5488",
+    "match": true
+   }
+  ],
+  "phrase_hits": {
+   "active": [],
+   "closed": []
+  },
+  "title_more": false,
+  "found": true
+ },
+ {
+  "job_id": 850746530,
+  "card": null,
+  "company": "Calculated Hire",
+  "title": "SEO Content Strategist",
+  "stratum": "title_family",
+  "ts_date": "2026-09-22",
+  "company_hits": {
+   "Calculated Hire": []
+  },
+  "title_hits": [],
+  "phrase_hits": {
+   "active": [],
+   "closed": []
+  },
+  "title_more": false,
+  "found": false
+ },
+ {
+  "job_id": 850792055,
+  "card": null,
+  "company": "Veeva Systems",
+  "title": "Technical Curriculum Developer - AI Agents - Remote",
+  "stratum": "title_family",
+  "ts_date": "2026-09-22",
+  "company_hits": {
+   "Veeva": []
+  },
+  "title_hits": [],
+  "phrase_hits": {
+   "active": [],
+   "closed": []
+  },
+  "title_more": false,
+  "found": false
+ },
+ {
+  "job_id": 850357921,
+  "card": null,
+  "company": "Miaplaza, Inc.",
+  "title": "Music Curriculum Developer",
+  "stratum": "title_family",
+  "ts_date": "2026-09-22",
+  "company_hits": {
+   "Miaplaza": []
+  },
+  "title_hits": [],
+  "phrase_hits": {
+   "active": [],
+   "closed": []
+  },
+  "title_more": false,
+  "found": false
+ },
+ {
+  "job_id": 851123114,
+  "card": null,
+  "company": "Edgewater Technical Associates",
+  "title": "Training Developer",
+  "stratum": "title_family",
+  "ts_date": "2026-09-22",
+  "company_hits": {
+   "Edgewater": []
+  },
+  "title_hits": [],
+  "phrase_hits": {
+   "active": [],
+   "closed": []
+  },
+  "title_more": false,
+  "found": false
+ },
+ {
+  "job_id": 849812736,
+  "card": null,
+  "company": "Quizcademy",
+  "title": "Curriculum Designer",
+  "stratum": "title_family",
+  "ts_date": "2026-09-21",
+  "company_hits": {
+   "Quizcademy": []
+  },
+  "title_hits": [],
+  "phrase_hits": {
+   "active": [],
+   "closed": []
+  },
+  "title_more": false,
+  "found": false
+ },
+ {
+  "job_id": 852327467,
+  "card": null,
+  "company": "Lunit Cancer Screening",
+  "title": "Customer Education & Engagement Team Manager",
+  "stratum": "title_family",
+  "ts_date": "2026-09-23",
+  "company_hits": {
+   "Lunit": []
+  },
+  "title_hits": [
+   {
+    "id": "fe982a40-84f4-45f1-b735-fee76d82de5d",
+    "title": "Customer Education Specialist",
+    "company": "Runway",
+    "remoteType": "remote",
+    "postedAt": 1790226419,
+    "applyUrl": "https://jobs.ashbyhq.com/runway-ml/4f8e18a4-0f26-4b28-a44d-3ba1afaada74",
+    "match": false
+   },
+   {
+    "id": "0a6c4d91-4c72-46a4-8ff1-cae5ab29d9ec",
+    "title": "Customer Education & Learning Experience Designer",
+    "company": "cubx.com",
+    "remoteType": "onsite",
+    "postedAt": 1788480000,
+    "applyUrl": "https://apply.workable.com/j/B00A52B580",
+    "match": false
+   },
+   {
+    "id": "0f6b2a78-eaba-48a1-974e-beba4a9ce90d",
+    "title": "Senior Scaled Customer Education Specialist",
+    "company": "Samsara",
+    "remoteType": "remote",
+    "postedAt": 1788455535,
+    "applyUrl": "https://www.samsara.com/company/careers/roles/8177646?gh_jid=8177646",
+    "match": false
+   },
+   {
+    "id": "787a15bb-c616-490a-9b85-9b2ba67aa36d",
+    "title": "Customer Education Manager",
+    "company": "drata.com",
+    "remoteType": "hybrid",
+    "postedAt": 1788401955,
+    "applyUrl": "https://jobs.ashbyhq.com/drata/b7216aa8-5f0a-4c44-bf3d-e68c59467bdb",
+    "match": false
+   }
+  ],
+  "phrase_hits": {
+   "active": [],
+   "closed": []
+  },
+  "title_more": false,
+  "found": false
+ },
+ {
+  "job_id": 852034349,
+  "card": null,
+  "company": "Arrow Electronics",
+  "title": "Customer Success Content & Enablement Manager",
+  "stratum": "title_family",
+  "ts_date": "2026-09-23",
+  "company_hits": {
+   "Arrow Electronics": [
+    "Arrow Electronics"
+   ]
+  },
+  "title_hits": [],
+  "phrase_hits": {
+   "active": [],
+   "closed": []
+  },
+  "title_more": false,
+  "found": false
+ },
+ {
+  "job_id": 852260927,
+  "card": null,
+  "company": "SPECTRIO LLC",
+  "title": "Director of Customer Education",
+  "stratum": "title_family",
+  "ts_date": "2026-09-23",
+  "company_hits": {
+   "Spectrio": []
+  },
+  "title_hits": [],
+  "phrase_hits": {
+   "active": [],
+   "closed": []
+  },
+  "title_more": false,
+  "found": false
+ },
+ {
+  "job_id": 851631756,
+  "card": null,
+  "company": "TalentHop",
+  "title": "Senior Customer Education Manager, Enterprise",
+  "stratum": "title_family",
+  "ts_date": "2026-09-23",
+  "company_hits": {
+   "TalentHop": []
+  },
+  "title_hits": [],
+  "phrase_hits": {
+   "active": [],
+   "closed": []
+  },
+  "title_more": false,
+  "found": false
+ },
+ {
+  "job_id": 851873213,
+  "card": null,
+  "company": "NYC Health + Hospitals",
+  "title": "Instructional Designer (Training and Development Representative)",
+  "stratum": "title_family",
+  "ts_date": "2026-09-23",
+  "company_hits": {
+   "NYC Health": []
+  },
+  "title_hits": [
+   {
+    "id": "15508f16-d6b2-469e-9958-d64134db0dd9",
+    "title": "Lead Instructional Designer",
+    "company": "highlightta.com",
+    "remoteType": "remote",
+    "postedAt": 1790269831,
+    "applyUrl": "https://jobs.ashbyhq.com/highlightta/f36a604d-ac92-4b28-8b5f-54a083fc215e",
+    "match": false
+   },
+   {
+    "id": "c6e39b2a-f947-4b53-8d4a-6d412f45d810",
+    "title": "Instructional Designer",
+    "company": "Excelsior",
+    "remoteType": "flexible",
+    "postedAt": 1790208000,
+    "applyUrl": "https://recruiting.ultipro.com/EXC1011/JobBoard/eb378fdd-1d75-0520-8078-55ee35061807/OpportunityDetail?opportunityId=59e7fb10-8b66-442a-a687-bb44f2234529",
+    "match": false
+   },
+   {
+    "id": "f682d6b5-c4c9-444a-895a-3009ea10585d",
+    "title": "Instructional Designer - Full Time - Higher ED",
+    "company": "uniteklearning.com",
+    "remoteType": "hybrid",
+    "postedAt": 1789595934,
+    "applyUrl": "https://jobs.smartrecruiters.com/UnitekLearning/744000149961439-instructional-designer-full-time-higher-ed",
+    "match": false
+   },
+   {
+    "id": "6149d010-93a1-460a-b084-8e5393ef961f",
+    "title": "Instructional Designer",
+    "company": "McKesson",
+    "remoteType": "hybrid",
+    "postedAt": 1788480000,
+    "applyUrl": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TX-Fort-Worth/Instructional-Designer_JR0153181",
+    "match": false
+   },
+   {
+    "id": "f1ea4d4c-9ed6-4e32-9ec0-aa6fb60a18d3",
+    "title": "Full Time Instructional Designer - Higher ED",
+    "company": "uniteklearning.com",
+    "remoteType": "hybrid",
+    "postedAt": 1788367907,
+    "applyUrl": "https://jobs.smartrecruiters.com/UnitekLearning/744000147045639-full-time-instructional-designer-higher-ed",
+    "match": false
+   },
+   {
+    "id": "d437d6ae-a282-4f2c-9f38-af9bac2556bc",
+    "title": "Contract Instructional Designer",
+    "company": "Magna International",
+    "remoteType": "onsite",
+    "postedAt": 1788220800,
+    "applyUrl": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Troy-Michigan-US/Contract-Instructional-Designer_R00258825",
+    "match": false
+   }
+  ],
+  "phrase_hits": {
+   "active": [],
+   "closed": []
+  },
+  "title_more": false,
+  "found": false
+ },
+ {
+  "job_id": 851964581,
+  "card": null,
+  "company": "Spring Health",
+  "title": "Clinical Instructional Designer",
+  "stratum": "title_family",
+  "ts_date": "2026-09-23",
+  "company_hits": {
+   "Spring Health": []
+  },
+  "title_hits": [],
+  "phrase_hits": {
+   "active": [],
+   "closed": []
+  },
+  "title_more": false,
+  "found": false
+ },
+ {
+  "job_id": 851969875,
+  "card": null,
+  "company": "Horizontal Talent",
+  "title": "Senior Learning Experience Designer, Live & Blended Learning",
+  "stratum": "title_family",
+  "ts_date": "2026-09-22",
+  "company_hits": {
+   "Horizontal": []
+  },
+  "title_hits": [
+   {
+    "id": "6856e2e3-5992-40a4-815e-36f67fbddcdc",
+    "title": "AI Learning Experience Designer",
+    "company": "blinkhealth.com",
+    "remoteType": "hybrid",
+    "postedAt": 1790178107,
+    "applyUrl": "https://job-boards.greenhouse.io/blinkhealth/jobs/8837000002",
+    "match": false
+   },
+   {
+    "id": "f7e911b6-6477-4c8b-8157-c480994f72fb",
+    "title": "Senior Digital Learning Experience Designer - Learning & Inclusion",
+    "company": "Spotify",
+    "remoteType": "hybrid",
+    "postedAt": 1789646284,
+    "applyUrl": "https://jobs.lever.co/spotify/9d1c90b5-a8a4-4218-b2f3-7bbaefae7fd1",
+    "match": false
+   },
+   {
+    "id": "0ea4647f-3229-4725-9187-d24a6a83563a",
+    "title": "Learning Experience Designer",
+    "company": "Sentry",
+    "remoteType": "hybrid",
+    "postedAt": 1789516800,
+    "applyUrl": "https://sentryinsurance.wd1.myworkdayjobs.com/en-US/SentryCareers/job/Stevens-Point-WI/Learning-Experience-Designer_JR-142816",
+    "match": false
+   },
+   {
+    "id": "0a6c4d91-4c72-46a4-8ff1-cae5ab29d9ec",
+    "title": "Customer Education & Learning Experience Designer",
+    "company": "cubx.com",
+    "remoteType": "onsite",
+    "postedAt": 1788480000,
+    "applyUrl": "https://apply.workable.com/j/B00A52B580",
+    "match": false
+   }
+  ],
+  "phrase_hits": {
+   "active": [],
+   "closed": []
+  },
+  "title_more": false,
+  "found": false
+ },
+ {
+  "job_id": 851079619,
+  "card": null,
+  "company": "BJU Scope",
+  "title": "Instructional Designer",
+  "stratum": "title_family",
+  "ts_date": "2026-09-22",
+  "company_hits": {
+   "BJU": []
+  },
+  "title_hits": [
+   {
+    "id": "15508f16-d6b2-469e-9958-d64134db0dd9",
+    "title": "Lead Instructional Designer",
+    "company": "highlightta.com",
+    "remoteType": "remote",
+    "postedAt": 1790269831,
+    "applyUrl": "https://jobs.ashbyhq.com/highlightta/f36a604d-ac92-4b28-8b5f-54a083fc215e",
+    "match": false
+   },
+   {
+    "id": "c6e39b2a-f947-4b53-8d4a-6d412f45d810",
+    "title": "Instructional Designer",
+    "company": "Excelsior",
+    "remoteType": "flexible",
+    "postedAt": 1790208000,
+    "applyUrl": "https://recruiting.ultipro.com/EXC1011/JobBoard/eb378fdd-1d75-0520-8078-55ee35061807/OpportunityDetail?opportunityId=59e7fb10-8b66-442a-a687-bb44f2234529",
+    "match": false
+   },
+   {
+    "id": "f682d6b5-c4c9-444a-895a-3009ea10585d",
+    "title": "Instructional Designer - Full Time - Higher ED",
+    "company": "uniteklearning.com",
+    "remoteType": "hybrid",
+    "postedAt": 1789595934,
+    "applyUrl": "https://jobs.smartrecruiters.com/UnitekLearning/744000149961439-instructional-designer-full-time-higher-ed",
+    "match": false
+   },
+   {
+    "id": "6149d010-93a1-460a-b084-8e5393ef961f",
+    "title": "Instructional Designer",
+    "company": "McKesson",
+    "remoteType": "hybrid",
+    "postedAt": 1788480000,
+    "applyUrl": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TX-Fort-Worth/Instructional-Designer_JR0153181",
+    "match": false
+   },
+   {
+    "id": "f1ea4d4c-9ed6-4e32-9ec0-aa6fb60a18d3",
+    "title": "Full Time Instructional Designer - Higher ED",
+    "company": "uniteklearning.com",
+    "remoteType": "hybrid",
+    "postedAt": 1788367907,
+    "applyUrl": "https://jobs.smartrecruiters.com/UnitekLearning/744000147045639-full-time-instructional-designer-higher-ed",
+    "match": false
+   },
+   {
+    "id": "d437d6ae-a282-4f2c-9f38-af9bac2556bc",
+    "title": "Contract Instructional Designer",
+    "company": "Magna International",
+    "remoteType": "onsite",
+    "postedAt": 1788220800,
+    "applyUrl": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Troy-Michigan-US/Contract-Instructional-Designer_R00258825",
+    "match": false
+   }
+  ],
+  "phrase_hits": {
+   "active": [],
+   "closed": []
+  },
+  "title_more": false,
+  "found": false
+ },
+ {
+  "job_id": 850873020,
+  "card": null,
+  "company": "University of Wisconsin–Oshkosh",
+  "title": "Instructional Designer & Learning Technology Specialist",
+  "stratum": "title_family",
+  "ts_date": "2026-09-22",
+  "company_hits": {
+   "Wisconsin": [],
+   "Oshkosh": []
+  },
+  "title_hits": [],
+  "phrase_hits": {
+   "active": [],
+   "closed": []
+  },
+  "title_more": false,
+  "found": false
+ },
+ {
+  "job_id": 850033302,
+  "card": null,
+  "company": "AfterQuery",
+  "title": "Technical Content Writer (Contract)",
+  "stratum": "title_family",
+  "ts_date": "2026-09-21",
+  "company_hits": {
+   "AfterQuery": [
+    "AfterQuery"
+   ]
+  },
+  "title_hits": [
+   {
+    "id": "c6643f0a-c2b5-4284-a752-2b0abafbac65",
+    "title": "Technical Content Writer (contract)",
+    "company": "AfterQuery",
+    "remoteType": "remote",
+    "postedAt": 1790027876,
+    "applyUrl": "https://jobs.ashbyhq.com/afterquery/6f90701a-f9b5-4599-a288-470fcd200640",
+    "match": true
+   }
+  ],
+  "phrase_hits": {
+   "active": [
+    {
+     "id": "c6643f0a-c2b5-4284-a752-2b0abafbac65",
+     "title": "Technical Content Writer (contract)",
+     "company": "AfterQuery",
+     "postedAt": 1790027876,
+     "remoteType": "remote",
+     "applyUrl": "https://jobs.ashbyhq.com/afterquery/6f90701a-f9b5-4599-a288-470fcd200640",
+     "status": "active"
+    }
+   ],
+   "closed": []
+  },
+  "title_more": false,
+  "found": true
+ },
+ {
+  "job_id": 850608574,
+  "card": null,
+  "company": "Mometrix Media LLC",
+  "title": "Technical Writer",
+  "stratum": "title_family",
+  "ts_date": "2026-09-21",
+  "company_hits": {
+   "Mometrix": []
+  },
+  "title_hits": [
+   {
+    "id": "e9397852-f9a7-4231-be42-584dfbad650e",
+    "title": "Technical Writer And Deliverables Lead",
+    "company": "redgategrp.com",
+    "remoteType": "onsite",
+    "postedAt": 1790298440,
+    "applyUrl": "https://secure7.saashr.com/ta/6199162.careers?ShowJob=638016656",
+    "match": false
+   },
+   {
+    "id": "2e0c46f8-28c6-4ede-8ec2-8faf87d91da4",
+    "title": "Technical Writer",
+    "company": "Diverse Lynx",
+    "remoteType": "hybrid",
+    "postedAt": 1790284144,
+    "applyUrl": "https://www2.jobdiva.com/portal/?a=9xjdnw687b7a7nvvdyut936kpjlgy0023blrozaecads0pdnwppcswnaaku8ji2g#/jobs/29361080",
+    "match": false
+   },
+   {
+    "id": "17fd5f4e-86a4-4b83-a522-b090a1b42b4a",
+    "title": "Lead Technical Writer",
+    "company": "Diverse Lynx",
+    "remoteType": "onsite",
+    "postedAt": 1790258929,
+    "applyUrl": "https://www2.jobdiva.com/portal/?a=9xjdnw687b7a7nvvdyut936kpjlgy0023blrozaecads0pdnwppcswnaaku8ji2g#/jobs/29356718",
+    "match": false
+   },
+   {
+    "id": "32bba9b9-8aa2-4233-8bfe-07b534779089",
+    "title": "Senior Technical Writer - On-site",
+    "company": "medtronic.com",
+    "remoteType": "onsite",
+    "postedAt": 1790208000,
+    "applyUrl": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Senior-Technical-Writer---On-site_R77602-1",
+    "match": false
+   },
+   {
+    "id": "16828c71-b758-42a3-a930-6a0dd69b2fdb",
+    "title": "Technical Writer - On-site",
+    "company": "medtronic.com",
+    "remoteType": "onsite",
+    "postedAt": 1790208000,
+    "applyUrl": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Technical-Writer---On-site_R77598-1",
+    "match": false
+   },
+   {
+    "id": "acbff928-1957-478a-b9e6-fd18396e7674",
+    "title": "Staff (technical) Writer & Editor",
+    "company": "FAR.AI",
+    "remoteType": "hybrid",
+    "postedAt": 1790168955,
+    "applyUrl": "https://jobs.ashbyhq.com/far.ai/6093c179-fa35-4446-8f15-9d666850ec12",
+    "match": false
+   },
+   {
+    "id": "e2335c0a-672f-44c5-8898-0a61e1d3612d",
+    "title": "Technical Writer",
+    "company": "intuitive.com",
+    "remoteType": "onsite",
+    "postedAt": 1790121923,
+    "applyUrl": "https://jobs.smartrecruiters.com/Intuitive/744000151150359-technical-writer",
+    "match": false
+   },
+   {
+    "id": "91728842-cc62-4676-ba27-2aae2408eb8b",
+    "title": "Junior Technical Writer",
+    "company": "Coast Professional, Inc.",
+    "remoteType": "onsite",
+    "postedAt": 1790035200,
+    "applyUrl": "https://recruiting.ultipro.com/COA1007COAST/JobBoard/c31fa32b-a98c-2595-d6d8-e023299b5b94/OpportunityDetail?opportunityId=0fa441fb-db58-4ba6-82d8-ebf8e8c54a76",
+    "match": false
+   },
+   {
+    "id": "d53b7eee-7298-4746-8ebd-2d43f589186c",
+    "title": "Junior Technical Writer",
+    "company": "Coast Professional, Inc.",
+    "remoteType": "onsite",
+    "postedAt": 1790035200,
+    "applyUrl": "https://recruiting.ultipro.com/COA1007COAST/JobBoard/c31fa32b-a98c-2595-d6d8-e023299b5b94/OpportunityDetail?opportunityId=a46d3987-3a3f-41b5-9baa-661a7d41dbf1",
+    "match": false
+   },
+   {
+    "id": "3b24e661-3eda-4698-8187-7bae1c8aabf2",
+    "title": "Technical Writer & Specifications Analyst",
+    "company": "Diverse Lynx",
+    "remoteType": "remote",
+    "postedAt": 1790025551,
+    "applyUrl": "https://www2.jobdiva.com/portal/?a=9xjdnw687b7a7nvvdyut936kpjlgy0023blrozaecads0pdnwppcswnaaku8ji2g#/jobs/29338968",
+    "match": false
+   }
+  ],
+  "phrase_hits": {
+   "active": [],
+   "closed": []
+  },
+  "title_more": true,
+  "found": false
+ },
+ {
+  "job_id": 852083080,
+  "card": null,
+  "company": "Save the Children",
+  "title": "Senior Lead, AI, Digital and Data Capacity Development",
+  "stratum": "wildcard",
+  "ts_date": "2026-09-23",
+  "company_hits": {
+   "Save the Children": []
+  },
+  "title_hits": [],
+  "phrase_hits": {
+   "active": [],
+   "closed": []
+  },
+  "title_more": false,
+  "found": false
+ },
+ {
+  "job_id": 852248222,
+  "card": null,
+  "company": "University of Pittsburgh",
+  "title": "Faculty.Instructor.Instructor - Part-Time",
+  "stratum": "description_family",
+  "ts_date": "2026-09-23",
+  "company_hits": {
+   "Pittsburgh": []
+  },
+  "title_hits": [
+   {
+    "id": "5d321135-173b-4075-b3eb-32d73a8928fc",
+    "title": "Drivers Education Instructor",
+    "company": "equusworks.com",
+    "remoteType": "onsite",
+    "postedAt": 1790285087,
+    "applyUrl": "https://jobs.smartrecruiters.com/Equus/744000151707689-drivers-education-instructor",
+    "match": false
+   },
+   {
+    "id": "f26efe3f-4814-4fe1-a44a-b5ced9c97bff",
+    "title": "Corrections Officer Instructor",
+    "company": "equusworks.com",
+    "remoteType": "onsite",
+    "postedAt": 1790275370,
+    "applyUrl": "https://jobs.smartrecruiters.com/Equus/744000151686139-corrections-officer-instructor",
+    "match": false
+   },
+   {
+    "id": "ad40050b-9406-4cb7-b8bb-2855042089f5",
+    "title": "Math Instructor (816440)",
+    "company": "equusworks.com",
+    "remoteType": "onsite",
+    "postedAt": 1790272039,
+    "applyUrl": "https://jobs.smartrecruiters.com/Equus/744000151676184-math-instructor-816440-",
+    "match": false
+   },
+   {
+    "id": "294657ea-ddd3-4fc0-b321-4ff74c56950a",
+    "title": "Culinary Arts Instructor",
+    "company": "equusworks.com",
+    "remoteType": "hybrid",
+    "postedAt": 1790206997,
+    "applyUrl": "https://jobs.smartrecruiters.com/Equus/744000151484057-culinary-arts-instructor",
+    "match": false
+   },
+   {
+    "id": "b20c9986-ba7b-4340-bf10-ecb4caeb64e2",
+    "title": "Temporary Associate Instructor",
+    "company": "ILSC",
+    "remoteType": "onsite",
+    "postedAt": 1790121600,
+    "applyUrl": "https://ilsc.bamboohr.com/careers/716",
+    "match": false
+   },
+   {
+    "id": "75508e73-d879-45f3-9355-202462f11d69",
+    "title": "Els Substitute Instructor",
+    "company": "ILSC",
+    "remoteType": "onsite",
+    "postedAt": 1790121600,
+    "applyUrl": "https://ilsc.bamboohr.com/careers/715",
+    "match": false
+   },
+   {
+    "id": "00ff0ccc-2341-43c6-99a8-afaaf172e185",
+    "title": "Fitness Instructor- Mixxed Fit",
+    "company": "chuzefitness.com",
+    "remoteType": "onsite",
+    "postedAt": 1790121600,
+    "applyUrl": "https://chuze.rec.pro.ukg.net/RAC1500RACS/JobBoard/c151dcd7-4a65-4d6a-b6a7-3a259565709d/OpportunityDetail?opportunityId=f0c7420b-0c3c-4bfb-a25f-deb25cc9e293",
+    "match": false
+   },
+   {
+    "id": "cfc4c096-65fc-4605-a8f2-4e310b2460d2",
+    "title": "Reading Instructor (930622)",
+    "company": "equusworks.com",
+    "remoteType": "onsite",
+    "postedAt": 1790108311,
+    "applyUrl": "https://jobs.smartrecruiters.com/Equus/744000151128119-reading-instructor-930622-",
+    "match": false
+   },
+   {
+    "id": "ae1a119d-c19e-4521-b152-c4734b7e4f9e",
+    "title": "RN Pn Instructor",
+    "company": "uniteklearning.com",
+    "remoteType": "onsite",
+    "postedAt": 1790037244,
+    "applyUrl": "https://jobs.smartrecruiters.com/UnitekLearning/744000150803909-rn-pn-instructor",
+    "match": false
+   },
+   {
+    "id": "d2fa72ff-777e-4168-b6c7-6c8f07de18e8",
+    "title": "Craft Electrical Instructor - Part Time (propel Career Academy)",
+    "company": "fsg.com",
+    "remoteType": "onsite",
+    "postedAt": 1790035200,
+    "applyUrl": "https://careers-fsg.icims.com/jobs/2579/craft-electrical-instructor---part-time-%28propel-career-academy%29/job",
+    "match": false
+   }
+  ],
+  "phrase_hits": {
+   "active": [],
+   "closed": []
+  },
+  "title_more": true,
+  "found": false
+ },
+ {
+  "job_id": 851470103,
+  "card": null,
+  "company": "Crew",
+  "title": "AI SDLC Enablement Consultant",
+  "stratum": "title_family",
+  "ts_date": "2026-09-23",
+  "company_hits": {
+   "Crew": [
+    "getonecrew.com"
+   ]
+  },
+  "title_hits": [],
+  "phrase_hits": {
+   "active": [],
+   "closed": []
+  },
+  "title_more": false,
+  "found": false
+ },
+ {
+  "job_id": 852286164,
+  "card": null,
+  "company": "Fortra",
+  "title": "Offensive Security Training Content Developer",
+  "stratum": "title_family",
+  "ts_date": "2026-09-23",
+  "company_hits": {
+   "Fortra": [
+    "Fortra"
+   ]
+  },
+  "title_hits": [],
+  "phrase_hits": {
+   "active": [],
+   "closed": []
+  },
+  "title_more": false,
+  "found": false
+ }
+]

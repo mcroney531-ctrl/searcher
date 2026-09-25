@@ -1,0 +1,55 @@
+{
+ "call_id": "rec_850033302_co_afterquery",
+ "phase": "recall",
+ "url": "https://api.jobven.com/v1/public/companies?search=AfterQuery&limit=10",
+ "params": [
+  [
+   "search",
+   "AfterQuery"
+  ],
+  [
+   "limit",
+   10
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:23:38 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "113",
+  "connection": "close",
+  "server": "cloudflare",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "87b177e4-3323-42ec-9045-c1c83078af19",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2433",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "4",
+  "etag": "W/\"71-/z/VTsauwNNJ5QV8m67XxEt7w6o\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=E7A1ALrH82EU29DuvJftHRkpif4V6szQAVstF%2B5xRs3MM7WqXND8RQiQOOZ2V%2BoQyzsr3hKt7HXMz00UsTsSYsO4Fi3jZYfDKWFkwdAnw5TGbGzl8LLN71c2KbmeKY45HIq%2F0fsd0G378GM8Hg%3D%3D\"}]}",
+  "cf-ray": "a406e9500b5d7a81-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "name": "AfterQuery",
+    "website": "afterquery.com"
+   }
+  ],
+  "meta": {
+   "page": 1,
+   "limit": 10,
+   "total": 1,
+   "totalPages": 1
+  }
+ }
+}

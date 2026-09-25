@@ -1,0 +1,62 @@
+{
+ "call_id": "rec_850357921_phrase_closed",
+ "phase": "recall",
+ "url": "https://api.jobven.com/v1/public/jobs?q=%22Music+Curriculum+Developer%22&descriptionQuery=Differentiate+instruction+to+accommodate+diverse&status=closed&postedAfter=1783036800&limit=1",
+ "params": [
+  [
+   "q",
+   "\"Music Curriculum Developer\""
+  ],
+  [
+   "descriptionQuery",
+   "Differentiate instruction to accommodate diverse"
+  ],
+  [
+   "status",
+   "closed"
+  ],
+  [
+   "postedAfter",
+   1783036800
+  ],
+  [
+   "limit",
+   1
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:22:00 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "108",
+  "connection": "close",
+  "server": "cloudflare",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "d576e19e-97fa-4bbf-aa8e-0e37d1e9e7e7",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2453",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "19",
+  "etag": "W/\"6c-CTOywcAbvRSOy+azBJyQRLh6tik\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=kF5cyYxMLUTyGdyuQgEkYKqf%2FNSEbnIOh2%2BTlUNDPPmbE7ShbkduQsY%2FnQMy%2BsnaLJIACcFUr5aEFS6WZs4YQ8tvLUDnv%2F72Agg256LXispIJlMEweXqFxsyV5IHz30YdOU%2FJhao2PJi41XpIg%3D%3D\"}]}",
+  "cf-ray": "a406e6e5ec1741d3-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [],
+  "meta": {
+   "count": 0,
+   "hasMore": false,
+   "requestTimeMs": 19,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

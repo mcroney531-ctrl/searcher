@@ -1,0 +1,144 @@
+{
+ "call_id": "fam_size_title_technical_content_anywork",
+ "phase": "family",
+ "url": "https://api.jobven.com/v1/public/jobs?q=%22technical+content%22+OR+%22technical+writer%22+OR+%22developer+education%22+OR+%22documentation+lead%22+OR+%22content+engineer%22&country=US&postedAfter=1789702200&limit=1&includeTotal=true",
+ "params": [
+  [
+   "q",
+   "\"technical content\" OR \"technical writer\" OR \"developer education\" OR \"documentation lead\" OR \"content engineer\""
+  ],
+  [
+   "country",
+   "US"
+  ],
+  [
+   "postedAfter",
+   1789702200
+  ],
+  [
+   "limit",
+   1
+  ],
+  [
+   "includeTotal",
+   "true"
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:30:19 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "transfer-encoding": "chunked",
+  "connection": "close",
+  "server": "cloudflare",
+  "vary": "Accept-Encoding",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "6398fa14-8bbb-41a9-8bd9-776c8984568a",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2220",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "54",
+  "etag": "W/\"157f-ncTf+luoPMwjgNe9Jr+/39d2MYY\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=j8mcMgu%2BXTZp%2FOx8zByoFUHGCxvZlVJGn%2BAHQICC7FB6MefD2itQHJAhr3wA8W7dd%2BsYnHpXENFQc%2Bo2moh%2BznLMwWV8W7Z7YMWhRaz0RV85ApszGXOFxI%2BP2ghQHOkRXvmaWNhMItyHEh%2Fr%2BA%3D%3D\"}]}",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "cf-ray": "a406f318d881f02b-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "id": "e9397852-f9a7-4231-be42-584dfbad650e",
+    "title": "Technical Writer And Deliverables Lead",
+    "description": "<div><p>A program office runs on its deliverable cadence, and the documents that carry it have to be accurate, on time, and readable by every audience that touches them. The Red Gate Group is seeking a <strong>Technical Writer and Deliverables Lead</strong> to support a Department of Defense intelligence customer, producing clear documentation that meets both technical accuracy and regulatory compliance standards while owning the recurring contract deliverable cadence for a newly established joint program office. You will produce and maintain recurring program deliverables, including monthly activity reports, quarterly business review briefs, transition plans, and project plans.</p><br><p>You will develop Risk Management Framework documentation in accordance with NIST SP 800-37 and DoD RMF guidance, including system security plans, security assessment reports, and authorization packages that support the Authority to Operate process. You will also translate complex technical concepts into accessible documentation for diverse audiences and support broader status reporting and project management artifact production.</p><br><p><strong>You Have</strong></p><p>• 5+ years of technical writing or IT project support experience, including recent experience within the last 2 years. This experience requirement is firm and cannot be met through education or certifications.</p><p>• Bachelor's degree in a related field, or one of the following in its place: an Associate's degree in a related field and 2 additional years of relevant experience, or 4 additional years of relevant experience. The additional years used in place of the degree are on top of the 5 year experience requirement above, not counted within it.</p><br><p>In plain terms: with a Bachelor's you need 5 years, with an Associate's 7, and with no degree 9.</p><p>• Demonstrated experience producing RMF documentation supporting the Authority to Operate process</p><p>• Active TS/SCI clearance with a current CI polygraph</p><br><p><strong>Nice If You Have</strong></p><p>• Experience with government CDRL formats and templates</p><h2>Company Description</h2></div><div><p>The Red Gate Group, founded in 2006, is a Service-Disabled Veteran-Owned Company based in Chantilly, VA. As an SDVOSB, the Red Gate Group has established a reputation for delivering quality multi-tiered services in intelligence analysis, strategic planning, program management, policy development, operational design, and technology integration. RGG delivers high-quality, customer-centric solutions around the world—from the foxhole to the highest levels of Government. Our motto, \"Making a Difference for Country and Client,\" reflects our deep commitment to national security and service excellence. As an employer of choice, we offer comprehensive benefits including flexible time off, 11 paid holidays, immediate 401(k) eligibility with a generous match, and full medical, dental, and vision coverage. Our employees enjoy 100% company-paid life insurance and disability benefits, along with professional development assistance for degrees and certifications. We foster a culture of growth and work-life balance, backed by our commitment to supporting both our clients' missions and our employees' success. Join our team and be part of an organization that values both service excellence and employee wellbeing.</p></div>",
+    "summary": "The Technical Writer and Deliverables Lead will support a Department of Defense intelligence customer by producing and maintaining recurring program deliverables, including reports, briefs, plans, and project artifacts. The role also develops Risk Management Framework documentation for the Authority to Operate process and translates complex technical concepts into clear documentation that meets technical and regulatory standards.",
+    "locations": [
+     {
+      "workLocation": "onsite",
+      "addressRegion": "Virginia",
+      "addressCountry": "US",
+      "addressLocality": "Reston"
+     }
+    ],
+    "remoteType": "onsite",
+    "skills": {
+     "soft_skills": [
+      "Written Communication"
+     ],
+     "primary_skills": [
+      "Technical Writing",
+      "IT Project Support",
+      "Risk Management Framework",
+      "NIST SP 800-37",
+      "DoD Risk Management Framework Guidance",
+      "Authority to Operate Process",
+      "Program Deliverable Management",
+      "Status Reporting",
+      "Project Management Artifacts"
+     ],
+     "secondary_skills": [
+      "Government CDRL Formats and Templates"
+     ]
+    },
+    "benefits": [
+     "paid_time_off_vacation_personal_days",
+     "pensions_401k",
+     "pension_contribution_matching",
+     "health_insurance",
+     "dental_insurance",
+     "vision_care",
+     "life_insurance",
+     "disability_insurance",
+     "professional_development"
+    ],
+    "salary": null,
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 5,
+    "educationRequirement": {
+     "required": [
+      "bachelor_degree"
+     ],
+     "preferred": [
+      "associate_degree"
+     ]
+    },
+    "industry": [
+     "government_public",
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790298440,
+    "expiresAt": null,
+    "applyUrl": "https://secure7.saashr.com/ta/6199162.careers?ShowJob=638016656",
+    "status": "active",
+    "companies": [
+     {
+      "name": "redgategrp.com",
+      "website": "redgategrp.com"
+     }
+    ]
+   }
+  ],
+  "meta": {
+   "total": 15,
+   "count": 1,
+   "nextCursor": "eyJpZCI6ImU5Mzk3ODUyLWY5YTctNDIzMS1iZTQyLTU4NGRmYmFkNjUwZSIsInNvcnRWYWx1ZSI6MTc5MDI5ODQ0MCwidGllQnJlYWtlciI6IjIwMjYtMDktMjVUMDE6MDc6MjMuOTk2WiJ9",
+   "hasMore": true,
+   "requestTimeMs": 52,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

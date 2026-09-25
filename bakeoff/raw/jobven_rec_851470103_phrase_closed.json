@@ -1,0 +1,62 @@
+{
+ "call_id": "rec_851470103_phrase_closed",
+ "phase": "recall",
+ "url": "https://api.jobven.com/v1/public/jobs?q=%22AI+SDLC+Enablement+Consultant%22&descriptionQuery=Upskill+product+and+engineering+teams&status=closed&postedAfter=1783036800&limit=1",
+ "params": [
+  [
+   "q",
+   "\"AI SDLC Enablement Consultant\""
+  ],
+  [
+   "descriptionQuery",
+   "Upskill product and engineering teams"
+  ],
+  [
+   "status",
+   "closed"
+  ],
+  [
+   "postedAfter",
+   1783036800
+  ],
+  [
+   "limit",
+   1
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:24:20 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "107",
+  "connection": "close",
+  "server": "cloudflare",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "71c3068a-c8ae-43d3-b004-625e89c3f310",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2411",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "6",
+  "etag": "W/\"6b-sjphuIqUCm9o9tNOT6SN4cvxWnc\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=bibW6%2F3FO9bzWokFGDQp2ciRVxhJ4wQ4Mg9VY6qfbu8GgB7X6tS45mlTmKiW0d9JZnE8spS9MS7iLA%2BoHyIYz3quBVxKzVIUzvcmb8iyYFcxfdqv%2FsQlPzcSbAxt4vhT2jyrhefMmOxM0zq2ag%3D%3D\"}]}",
+  "cf-ray": "a406ea524f0b9051-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [],
+  "meta": {
+   "count": 0,
+   "hasMore": false,
+   "requestTimeMs": 6,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

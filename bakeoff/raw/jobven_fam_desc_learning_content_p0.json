@@ -1,0 +1,473 @@
+{
+ "call_id": "fam_desc_learning_content_p0",
+ "phase": "family",
+ "url": "https://api.jobven.com/v1/public/jobs?q=-%22account+executive%22+-%22account+manager%22+-%22sales+representative%22+-%22sales+manager%22+-%22customer+service+representative%22+-%22help+desk%22+-%22customer+success+manager%22+-%22support+specialist%22&descriptionQuery=learning+content&country=US&remoteType%5B%5D=remote&postedAfter=1789702200&limit=25",
+ "params": [
+  [
+   "q",
+   "-\"account executive\" -\"account manager\" -\"sales representative\" -\"sales manager\" -\"customer service representative\" -\"help desk\" -\"customer success manager\" -\"support specialist\""
+  ],
+  [
+   "descriptionQuery",
+   "learning content"
+  ],
+  [
+   "country",
+   "US"
+  ],
+  [
+   "remoteType[]",
+   "remote"
+  ],
+  [
+   "postedAfter",
+   1789702200
+  ],
+  [
+   "limit",
+   25
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:27:14 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "transfer-encoding": "chunked",
+  "connection": "close",
+  "server": "cloudflare",
+  "vary": "Accept-Encoding",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "7b2d2d07-c9ff-4fe0-a76d-fc2c62dc0f91",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2371",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "288",
+  "etag": "W/\"c22c-ANQ7HRg3m+j+HmfwBKb8lIz+jis\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=gUxOWplhNL%2ByVnOHAnEvG3UvxafQKA0s83wG0FJxTeWSXGPkE9JBI4oIdr72XmIhjtG9wxr1p79%2Fz%2B9LQxq3uDhfK2DOVMGsLivE3MPxqqxVXUHfnBCBx350vrtdQHFG1PArmHkTa%2FYOa5T4UQ%3D%3D\"}]}",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "cf-ray": "a406ee936c068ce2-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "id": "15508f16-d6b2-469e-9958-d64134db0dd9",
+    "title": "Lead Instructional Designer",
+    "description": "<h2><strong>About Neon One</strong></h2><p>At Neon One, we believe that technology is the key to building vibrant communities of generosity. As a leader in nonprofit software since 2004, we create intuitive solutions that help small and mid-sized nonprofits connect with people, build trust, and make good happen every day.<br><br>Our culture is powered by empathy, innovation, and a shared mission to empower organizations making a difference. We operate with a customer-first mindset, take pride in extraordinary results, and grow together by supporting each other and embracing bold new ideas. If you’re passionate about using your skills to drive real impact and want to thrive in a collaborative, fully remote environment, Neon One is the place for you.<br></p><h2><strong>About the Role</strong></h2><p>We are seeking a strategic, highly collaborative, and technically proficient Lead Instructional Designer to drive our instructional design strategy. In this pivotal individual contributor role, you will be a technical visionary and the primary engine for moving complex learning initiatives forward. You will partner closely with the Technical Writing function to ensure seamless alignment between our product documentation and learning pathways. Additionally, you will serve as the primary stakeholder in our transition to a newly built, custom Learning Management System (LMS). By partnering directly with external developers, product managers, and subject matter experts, you will define the instructional UX, authoring requirements, and system capabilities needed to deliver a world-class customer education experience.</p><h2><strong>Responsibilities</strong></h2><ul><li><p><strong>Cross-Functional Project Leadership:</strong> Act as the central driver for learning initiatives. Build strong partnerships across departments, proactively manage stakeholder expectations, and keep complex projects moving forward on schedule without relying on direct reporting lines.</p></li><li><p><strong>LMS Migration &amp; Strategic Ownership:</strong> Act as the primary business owner for offboarding our current academy (Skilljar) and transitioning to a custom-built LMS. Define system requirements (e.g., authoring workflows, learner UX) and guide external developers to ensure the platform meets both customer needs and instructional design standards.</p></li><li><p><strong>Team Collaboration &amp; Workflow Design: </strong> Work closely with the Technical Writer, Enablement Manager, and Customer Operations Managers to establish scalable design systems, style guides, and AI-assisted content workflows that make our learning content accessible to our customer base.</p></li><li><p><strong>Technical Curriculum &amp; Certification: </strong> Architect end-to-end learning pathways, role-based certifications, and self-paced academies for admin users and enterprise clients.</p></li><li><p><strong>Hands-On Lab &amp; Interactive Design:</strong> Design scenario-based, interactive learning experiences, including simulated environments, sandbox exercises, and API/code walkthrough tutorials.</p></li><li><p><strong>Product Alignment &amp; Release Management: </strong> Partner closely with Product Managers, Engineers, and Solutions Architects to translate complex feature updates and technical specs into timely, accurate learning content.</p></li><li><p><strong>Telemetry &amp; Business Impact:</strong> Track learner telemetry (e.g., product adoption rates, time-to-value, course completion, certification pass rates) to continuously measure and prove ROI on customer and internal enablement.</p></li></ul><h2><strong>Qualifications &amp; Skills</strong></h2><ul><li><p><strong>Experience:</strong> 5+ years in instructional design within a B2B SaaS, developer tooling, or high-growth tech environment. Proven project management experience with a track record of driving cross-functional initiatives as a highly autonomous individual contributor.</p></li><li><p><strong>Custom LMS / Systems Expertise:</strong> Hands-on experience defining requirements for LMS implementations, migrations, or custom builds. Deep understanding of what an instructional designer needs from a platform to successfully host and track courses (SCORM, xAPI, LTI).</p></li><li><p><strong>Technical Aptitude:</strong> Comfort navigating API documentation, cloud architectures, developer workflows, or SaaS platform configurations to build technical curriculum independently.</p></li><li><p><strong>Tooling &amp; Tech Stack:</strong></p><ul><li><p>Advanced proficiency in modern authoring &amp; media tools (Articulate 360, Camtasia, Loom, Figma).</p></li><li><p>Strong familiarity with transitioning out of standard Customer Education / LXP platforms (e.g., Skilljar) into custom environments.</p></li></ul></li><li><p><strong>Core Competencies:</strong> Agile development methodologies, rapid prototyping (SAM), data-driven decision-making, and exceptional cross-functional stakeholder management. Must possess the consultative skills necessary to influence peers, align differing viewpoints, and maintain project momentum.</p></li></ul><h2><strong>Why Join Neon One?</strong></h2><p>At Neon One, our values are how we show up every day. We make good happen by putting empathy and passion at the center of our work, using technology to uplift mission-driven organizations. We stand for our customers, act with care and intention in every decision, own the solution, and grow together. We innovate fearlessly, always exploring new ways to support our community and each other.</p><h2><strong>How We Hire</strong></h2><p>We use AI tools to support our recruitment process, including helping us organize applications and identify early matches based on role criteria. That said, every rejection decision is made by a human. We encourage candidates to apply authentically and avoid relying solely on AI-generated responses, especially during interviews.<br><br>This posting is for a current, open position within <strong>Neon One</strong>.<br><br>This opportunity is offered through HighlightTA, the on-demand talent team supporting Neon One’s growth.<br></p><p><strong>Connect with us and learn more:<br></strong><a href=\"https://www.linkedin.com/company/neonone/\"><u>Neon One on LinkedIn</u></a></p><p><a href=\"https://www.linkedin.com/company/highlightta/\"><u>HighlightTA on LinkedIn</u></a></p>",
+    "summary": "Neon One is hiring a Lead Instructional Designer to lead instructional design strategy and customer education for its nonprofit software products. The role owns the transition to a custom LMS, builds technical curricula and interactive learning experiences, aligns learning content with product releases, and measures learner outcomes and business impact.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Project Management",
+      "Cross-Functional Collaboration",
+      "Stakeholder Management",
+      "Influence",
+      "Autonomy"
+     ],
+     "primary_skills": [
+      "Instructional Design",
+      "Learning Management System (LMS) Implementation",
+      "Learning Management System (LMS) Migration",
+      "SCORM",
+      "xAPI",
+      "Learning Tools Interoperability (LTI",
+      "Technical Curriculum Development",
+      "Articulate 360",
+      "Camtasia",
+      "Figma"
+     ],
+     "secondary_skills": [
+      "Loom",
+      "Skilljar",
+      "API Documentation",
+      "Cloud Architecture",
+      "SaaS Platform Configuration",
+      "Agile Development",
+      "Rapid Prototyping",
+      "SAM Model",
+      "Data-Driven Decision-Making",
+      "Learner Telemetry"
+     ]
+    },
+    "benefits": [],
+    "salary": null,
+    "experienceLevel": "lead",
+    "employmentType": "full_time",
+    "minYearsExperience": 5,
+    "educationRequirement": null,
+    "industry": [
+     "nonprofit_ngo",
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790269831,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/highlightta/f36a604d-ac92-4b28-8b5f-54a083fc215e",
+    "status": "active",
+    "companies": [
+     {
+      "name": "highlightta.com",
+      "website": "highlightta.com"
+     }
+    ]
+   },
+   {
+    "id": "644e5795-5e23-4fb5-b6d9-21998c97572a",
+    "title": "Senior Director, Client Education - Healthcare SaaS",
+    "description": "<h2>Company Description</h2><p>Experian is a global data and technology company, powering opportunities for people and businesses around the world. We operate across a range of markets, from financial services to healthcare, automotive, agribusiness, insurance, and many more. Experian invests in people and new advanced technologies to unlock the power of data. We have an amazing team of 25,200 people in 32 countries.</p><h2>Job Description</h2><p>The Senior Director, Client Education provides strategic and operational leadership for the Learning &amp; Development function that serves Experian Health's external clients across the product portfolio.</p><p>You will own the vision, roadmap, and execution of a scalable, high-quality client education program spanning instructor-led training, on-demand eLearning, video tutorials, learning labs, and the client Learning Portal.</p><p>You will be accountable for building and leading a team of instructional designers and client educators, operationalizing modern learning practices, and championing innovation including the responsible use of AI to increase the speed, quality, and scale of learning content.</p><p>You will be a senior escalation point and expert, ensuring learning experiences remain current amid frequent product changes while measurably improving client capability, confidence, and satisfaction.</p><ul><li>Improve client adoption, self-service use, product proficiency, and customer satisfaction through measurable education programs and learning experiences.</li><li>Lead the vision, strategy, and multi-year roadmap for our Client Education program across multiple Experian Health products.</li><li>Lead the design/delivery of blended learning solutions including instructor-led, on-demand eLearning, video tutorials, and learning labs in consideration of client implementation and ongoing adoption needs.</li><li>Set standards for instructional quality, accessibility, and consistency across curricula, job aids, assessments, and our client-facing course catalog.</li><li>Provide capacity, prioritization, and risk insights to leadership to guide investment and resourcing decisions.</li><li>Guide development and refresh of eLearning and training materials to keep pace with frequent product and system updates.</li><li>Establish scalable authoring workflows, templates, and governance to reduce manual effort and shorten content update cycles.</li><li>Operationalize and administer the client Learning Portal (LMS), including learning plans, enrollment, and reporting.</li><li>Apply learning-effectiveness measures and client feedback to improve curricula and delivery.</li><li>Guide organizational change management activities related to product releases, workflow changes, and client adoption plans by ensuring education strategies and communication plans are in place.</li><li>Develop product adoption strategies that guide clients from initial implementation through advanced utilization and optimization of Experian Health solutions.</li></ul><h2>Qualifications</h2><ul><li>8+ years' experience in Learning &amp; Development</li><li>8+ years' experience with Client Education</li><li>8+ years' experience training leadership, including building teams, leading teams, within healthcare technology, SaaS, or revenue cycle management environments&nbsp;</li><li>Demonstrated experience developing and scaling blended learning programs (instructor-led, virtual, and on-demand eLearning) for external clients or end-users</li><li>Experience applying AI in L&amp;D to accelerate content development, improve quality, and increase efficiency</li><li>Hands-on experience with eLearning authoring tools and learning management system (LMS) administration</li><li>Healthcare revenue cycle knowledge and familiarity with Experian Health solutions are beneficial</li><li>Experience contributing to process improvement, automation, or operational transformation plans</li><li>Epic experience is beneficial</li><li>5+ years' experience managing people</li><li><strong>10% travel required</strong></li></ul><h2>Additional Information</h2><p>Our uniqueness is that we celebrate yours. Experian's people first, inclusive and purpose driven culture is multi award-winning; World's Best Workplaces™ 2025 (Fortune Global Top 25), Great Place To Work™ in 26 countries to name a few. Check out Experian Life on social or explore our Careers Site to understand why.</p><p>Our compensation reflects the cost of labor across several U.S. geographic markets. The base pay range for this position is listed above. Within this range, individual pay is determined by work location and additional factors such as job-related skills, experience, and education. You will be also eligible for a variable pay opportunity.</p><p>Experian is proud to be an Equal Opportunity Employer for all groups protected under applicable federal, state and local law, including protected veterans and individuals with disabilities. If you have a disability or special need that requires accommodation, please let us know at the earliest opportunity.</p><p><strong>Benefits/Perks:</strong></p><ul><li>Great compensation package and bonus plan</li><li>Core benefits including medical, dental, vision, and matching 401K</li><li>Flexible work environment, ability to work remote, hybrid or in-office</li><li>Flexible time off including volunteer time off, vacation, sick and 12-paid holidays</li><li>Explore all our exciting benefits here: <a href=\"https://myexperianbenefits.com/\">https://myexperianbenefits.com/</a></li></ul><p><strong>Recruitment Fraud Awareness </strong>- Experian's recruitment process is conducted only through authorised channels. Recruitment communications will only be sent from an <strong>@<a href=\"http://experian.com\">experian.com</a></strong> email address.</p><p><strong>Experian will never ask candidates to make any payment</strong> as part of an application, interview, assessment, onboarding, or recruitment process. To apply for roles or verify opportunities, please visit <strong><a href=\"http://experian.com/careers\">experian.com/careers</a></strong></p>",
+    "summary": "The Senior Director, Client Education leads the strategy, roadmap, and operations of Experian Health’s client learning programs across its product portfolio. The role builds and leads an education team, delivers scalable blended learning, administers the client Learning Portal, and uses feedback and learning measures to improve client adoption, product proficiency, and satisfaction.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressRegion": "United States",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Leadership",
+      "Communication"
+     ],
+     "primary_skills": [
+      "Learning and Development",
+      "Client Education",
+      "Blended Learning Program Development",
+      "Instructional Design",
+      "eLearning",
+      "Learning Management System Administration",
+      "Artificial Intelligence",
+      "Team Leadership",
+      "People Management",
+      "Organizational Change Management"
+     ],
+     "secondary_skills": [
+      "Healthcare Revenue Cycle Management",
+      "Healthcare Technology",
+      "SaaS",
+      "Epic",
+      "Process Improvement",
+      "Automation",
+      "Operational Transformation",
+      "Accessibility Standards",
+      "Learning Effectiveness Measurement"
+     ]
+    },
+    "benefits": [
+     "health_insurance",
+     "dental_insurance",
+     "vision_care",
+     "pension_contribution_matching",
+     "pensions_401k",
+     "flexible_work_hours",
+     "remote_work_hybrid_work_options",
+     "paid_time_off_vacation_personal_days",
+     "sick_leave",
+     "company_events_retreats",
+     "other_benefits"
+    ],
+    "salary": null,
+    "experienceLevel": "executive",
+    "employmentType": "full_time",
+    "minYearsExperience": 8,
+    "educationRequirement": null,
+    "industry": [
+     "healthcare_medical",
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": true,
+    "travelPercentage": null,
+    "postedAt": 1790199976,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.smartrecruiters.com/Experian/744000151475869-senior-director-client-education-healthcare-saas",
+    "status": "active",
+    "companies": [
+     {
+      "name": "Experian",
+      "website": "experian.com"
+     }
+    ]
+   },
+   {
+    "id": "fd47785f-ab5e-4559-bcd5-3d83ae067770",
+    "title": "Sr Product Trainer",
+    "description": "<p>The Senior Product Trainer, Internal Support &amp; Implementations, leads internal product training for the teams responsible for implementing, supporting, and operating WestCX solutions. This role ensures that employees have the product knowledge, technical understanding, workflows, and job aids needed to deliver consistent outcomes across onboarding, implementation, go-live, and ongoing support.</p><p>The Senior Product Trainer serves as the primary internal training partner for product readiness and operational enablement. This role translates complex product capabilities, configuration requirements, implementation processes, integrations, and support procedures into practical, role-based learning experiences for Support, Implementations, Customer Success, and other operational teams.</p><p>The Senior Product Trainer partners closely with Product Management, Product Marketing, Engineering, Quality Assurance, Implementations, Support, and Operations to prepare teams for new products, enhancements, releases, and changing customer requirements. The role develops repeatable curricula, facilitates training, supports implementation readiness, and maintains searchable training and knowledge assets that improve time to proficiency and reduce reliance on individual subject-matter experts.</p><h2>Organizational Alignment</h2><ul><li><p><b>Department:</b> Product Marketing and Training</p></li><li><p><b>Reports to:</b> Senior Director, Product Marketing</p></li><li><p><b>Primary partners:</b> Product Management, Product Marketing, Engineering, Quality Assurance, Implementations, Client Support, Customer Success, Sales Engineering, and Operations</p></li><li><p><b>Role focus:</b> Internal product training for Support and Implementations</p></li></ul><h2>Key Responsibilities</h2><h3>Product Readiness and Training Strategy</h3><ul><li><p>Own the internal training strategy for new products, major enhancements, releases, and implementation capabilities.</p></li><li><p>Partner with Product Management and Product Marketing to understand product value, use cases, features, integrations, limitations, readiness status, and intended customer outcomes.</p></li><li><p>Define the training, documentation, and readiness requirements needed before a product or enhancement is released to operational teams.</p></li><li><p>Maintain role-based learning paths for Support, Implementations, Customer Success, and other impacted internal audiences.</p></li><li><p>Identify knowledge gaps and recommend training, documentation, process, or product improvements that improve operational readiness.</p></li></ul><h3>Support and Implementations Enablement</h3><ul><li><p>Develop and deliver training that prepares Support and Implementations teams to configure, deploy, troubleshoot, maintain, and explain WestCX products.</p></li><li><p>Translate product functionality into practical workflows, scenarios, troubleshooting approaches, configuration guidance, and escalation paths.</p></li><li><p>Support implementation readiness activities, including training needs assessments, environment preparation, workflow demonstrations, user acceptance testing support, go-live preparation, and transition to steady-state operations.</p></li><li><p>Create training for both legacy products and evolving platform capabilities, ensuring that content reflects current processes and clearly identifies differences between product lines or operating models.</p></li><li><p>Partner with Support leadership to establish the product knowledge, break/fix procedures, documentation, and escalation guidance required for effective ongoing support.</p></li><li><p>Support train-the-trainer programs and develop internal champions who can reinforce learning within their teams.</p></li></ul><h3>Curriculum and Content Development</h3><ul><li><p>Design and maintain instructor-led, virtual, self-paced, and blended learning programs.</p></li><li><p>Create practical training assets, including presentations, facilitator guides, participant workbooks, demonstrations, videos, simulations, knowledge checks, certification materials, quick-reference guides, and job aids.</p></li><li><p>Use workflow-based practice and representative scenarios to help learners apply product knowledge in realistic operational situations.</p></li><li><p>Convert institutional and technical knowledge into documented, reusable, and searchable learning content.</p></li><li><p>Build modular content that can be reused across onboarding, release enablement, implementation training, support readiness, and continuing education.</p></li><li><p>Apply adult-learning principles, instructional design practices, and accessibility standards to training experiences.</p></li></ul><h3>Delivery and Learner Support</h3><ul><li><p>Facilitate engaging training sessions for technical and operational audiences with varied levels of product experience.</p></li><li><p>Adapt delivery methods and pacing to learner needs, including shorter learning sessions, role-specific tracks, demonstrations, and hands-on practice.</p></li><li><p>Provide office hours, reinforcement sessions, knowledge checks, and follow-up support to improve knowledge retention and practical application.</p></li><li><p>Gather learner feedback and use it to improve curriculum, delivery, documentation, and readiness programs.</p></li><li><p>Track participation, completion, assessment results, certification status, and other indicators of readiness.</p></li></ul><h3>Knowledge Management and Continuous Improvement</h3><ul><li><p>Establish and maintain a reliable internal repository for product training, implementation guidance, support procedures, and operational knowledge.</p></li><li><p>Review training content regularly to ensure it reflects current product behavior, workflows, terminology, and approved processes.</p></li><li><p>Create a sustainable content maintenance process that incorporates product releases, support trends, implementation lessons learned, and <span>subject-matter-expert</span> feedback.</p></li><li><p>Identify opportunities to use AI-assisted content development, search, simulations, and learning personalization while maintaining accuracy, governance, and human review.</p></li><li><p>Measure training effectiveness through learner performance, readiness assessments, support trends, implementation outcomes, time to proficiency, and stakeholder feedback.</p></li><li><p>Build backup coverage and shared ownership for critical training and knowledge areas to improve continuity and scalability.</p></li></ul><p><b><span>What we offer:</span></b></p><ul><li><span>Plenty of opportunities to grow your career</span></li><li><span>Comprehensive medical, dental, and vision benefits</span></li><li><span>3 weeks of vacation plus 5 personal days to recharge</span></li><li><span>Employee stock ownership, RRSP program, 401K + matching</span></li><li><span>A chance to give back through community involvement</span></li><li><span>Flexible work arrangements to suit your lifestyle</span></li></ul><p><b><span>About Harris Computer:</span></b></p><p><span>Harris provides mission critical software solutions for the Public Sector, Healthcare, Utilities and Private Sector verticals throughout North America, Europe, Asia and Australia.</span><br><br><span>Working for Harris is the perfect opportunity to fulfill your professional goals as well as achieve your personal dreams!</span><br><br><span>Our employees enjoy a casual work environment that offers comfort while providing superior service to our customers. We offer a comprehensive benefit package as well as other additional “Perks”!</span></p><ul><li><span>We empower our employees to make a difference</span></li><li><span>We have an award-winning culture</span></li><li><span>We offer opportunity to learn</span></li><li><span>We are financially strong and we are owned by the largest software company in Canada (CSI)</span></li><li><span>We have fun!</span></li></ul>",
+    "summary": "The Senior Product Trainer leads internal product training and operational enablement for teams implementing, supporting, and operating WestCX solutions. Responsibilities include developing role-based curricula and reusable learning assets, facilitating training, supporting product and implementation readiness, maintaining knowledge repositories, and measuring training effectiveness.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "US",
+      "addressLocality": "Alabama"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Adaptability",
+      "Communication",
+      "Collaboration"
+     ],
+     "primary_skills": [
+      "Product Training",
+      "Instructional Design",
+      "Curriculum Development",
+      "Training Delivery",
+      "Product Readiness",
+      "Implementation Enablement",
+      "Technical Documentation",
+      "Knowledge Management",
+      "Adult Learning",
+      "Training Effectiveness Measurement"
+     ],
+     "secondary_skills": [
+      "AI-Assisted Content Development",
+      "Learning Personalization",
+      "Accessibility Standards",
+      "User Acceptance Testing",
+      "Product Integrations",
+      "Troubleshooting",
+      "Configuration Management",
+      "Certification Development"
+     ]
+    },
+    "benefits": [
+     "health_insurance",
+     "dental_insurance",
+     "vision_care",
+     "paid_time_off_vacation_personal_days",
+     "pension_rrsp",
+     "pensions_401k",
+     "pension_contribution_matching",
+     "stock_options_equity",
+     "flexible_work_hours",
+     "company_events_retreats",
+     "professional_development"
+    ],
+    "salary": null,
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": null,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790121600,
+    "expiresAt": null,
+    "applyUrl": "https://harriscomputer.wd3.myworkdayjobs.com/en-US/1/job/Alabama-United-States/Sr-Product-Trainer_R0046681-1",
+    "status": "active",
+    "companies": [
+     {
+      "name": "Harris Computer",
+      "website": "harriscomputer.com"
+     }
+    ]
+   },
+   {
+    "id": "1e41d697-fd9f-4719-b56e-1ba76c8c34ba",
+    "title": "Senior Lead, Procurement Excellence & Market Intelligence",
+    "description": "<h2>Company Description</h2><p>Sandisk understands how people and businesses consume data and we relentlessly innovate to deliver solutions that enable today’s needs and tomorrow’s next big ideas. With a rich history of groundbreaking innovations in Flash and advanced memory technologies, our solutions have become the beating heart of the digital world we’re living in and that we have the power to shape.</p><p>Sandisk meets people and businesses at the intersection of their aspirations and the moment, enabling them to keep moving and pushing possibility forward. We do this through the balance of our powerhouse manufacturing capabilities and our industry-leading portfolio of products that are recognized globally for innovation, performance and quality.</p><p>Sandisk has two facilities recognized by the World Economic Forum as part of the Global Lighthouse Network for advanced 4IR innovations. These facilities were also recognized as Sustainability Lighthouses for breakthroughs in efficient operations. With our global reach, we ensure the global supply chain has access to the Flash memory it needs to keep our world moving forward.</p><h2>Job Description</h2><p>The Senior Lead, Procurement Excellence &amp; Market Intelligence plays a critical role in advancing the effectiveness, capabilities, and strategic impact of the Procurement and Logistics organization. This position is responsible for developing category market intelligence, leading procurement and logistics onboarding and capability development programs, managing procurement learning tools and methodologies, owning organizational communications and recognition programs, and driving high-priority strategic initiatives.</p><p>The role serves as a central resource for category teams, procurement leaders, and logistics stakeholders by delivering actionable market insights, enhancing organizational capabilities, promoting best practices, and supporting continuous improvement. The ideal candidate combines procurement expertise, analytical rigor, project leadership, strong communication skills, and a passion for organizational development.</p><p>ESSENTIAL DUTIES AND RESPONSIBILITIES:</p><p>Category Market Intelligence &amp; Strategic Insights</p><ul><li>Develop and maintain a structured market intelligence program supporting key procurement categories.</li><li>Monitor supplier markets, commodity trends, cost drivers, technology developments, supply-demand dynamics, capacity constraints, and geopolitical risks.</li><li>Produce regular market intelligence reports, category updates, and executive-ready summaries.</li><li>Support category managers and sourcing teams with market research, supplier landscape analysis, benchmarking, and competitive intelligence.</li><li>Identify emerging risks and opportunities that may impact category strategies and sourcing decisions.</li><li>Develop and maintain category intelligence repositories, dashboards, and knowledge resources.</li><li>Partner with category managers and procurement leadership to translate market intelligence into actionable sourcing recommendations.</li><li>Support executive reviews and business planning efforts with market and industry insights.</li></ul><p>Procurement &amp; Logistics Capability Development</p><ul><li>Design, implement, and continuously improve onboarding and capability development programs for Procurement and Logistics team members.</li><li>Develop and maintain training curricula supporting key procurement and logistics competencies, including:<ul><li>Strategic Sourcing</li><li>Negotiation</li><li>Supplier Relationship Management</li><li>Category Management</li><li>Contracting Fundamentals</li><li>Risk Management</li><li>Procurement Analytics</li><li>Supply Chain and Logistics Fundamentals</li><li>Business Acumen and Stakeholder Engagement</li></ul></li><li>Facilitate training sessions, workshops, learning forums, and knowledge-sharing events.</li><li>Establish role-based learning paths and career development frameworks.</li><li>Partner with functional leaders to identify capability gaps and development priorities.</li><li>Measure and report training effectiveness, participation, and capability improvement outcomes.</li><li>Manage procurement and logistics knowledge management resources, templates, playbooks, and best-practice content.</li></ul><p>Procurement Learning Tools &amp; Methods</p><ul><li>Serve as the business owner for procurement and logistics training platforms, learning tools, capability assessments, and development methodologies.</li><li>Maintain and enhance onboarding materials, learning content, training resources, and knowledge repositories.</li><li>Evaluate and implement new learning technologies, digital content solutions, and knowledge-sharing approaches.</li><li>Promote adoption of standardized procurement methodologies, tools, and best practices through training and education.</li><li>Support continuous improvement initiatives by documenting processes, updating playbooks, and incorporating lessons learned into training materials.</li><li>Ensure learning content remains current with evolving business needs, market conditions, and procurement practices.</li></ul><p>Organizational Communications &amp; Recognition</p><ul><li>Own the monthly Procurement and Logistics Key Progress Update (KPU) process.</li><li>Collect, validate, and synthesize updates from category teams, procurement operations, logistics teams, and functional stakeholders.</li><li>Develop executive-ready communications highlighting accomplishments, cost savings, supplier achievements, market developments, risk mitigation activities, capability-building initiatives, and strategic priorities.</li><li>Manage distribution of monthly updates to Procurement and Logistics employees, leadership, and key business stakeholders.</li><li>Continuously improve communication formats, content quality, and reporting mechanisms to increase stakeholder engagement and visibility.</li><li>Develop presentations, newsletters, leadership messages, and communication materials that reinforce organizational priorities and successes.</li><li>Lead the Procurement and Logistics recognition program, including nomination processes, award criteria, selection governance, and recognition communications.</li><li>Partner with Procurement and Logistics leadership to foster a culture of engagement, collaboration, continuous improvement, and recognition.</li><li>Develop programs that celebrate individual, team, and organizational accomplishments while reinforcing desired behaviors and values.</li></ul><p>Strategic Projects &amp; Continuous Improvement</p><ul><li>Lead special projects and strategic initiatives on behalf of Procurement and Logistics leadership.</li><li>Support procurement transformation efforts, organizational effectiveness initiatives, and operating model improvements.</li><li>Conduct research, benchmarking, financial analysis, and business case development related to strategic priorities.</li><li>Coordinate cross-functional initiatives involving Procurement, Logistics, Finance, Engineering, Operations, Supply Chain, and other business partners.</li><li>Develop executive presentations, recommendations, project updates, and leadership communications.</li><li>Track project milestones, risks, dependencies, and stakeholder communications.</li><li>Identify and implement opportunities to improve organizational efficiency, effectiveness, and stakeholder experience.</li><li>Support annual planning, strategic reviews, and other leadership-driven initiatives.</li></ul><p>Stakeholder Engagement</p><ul><li>Build strong relationships across Procurement, Logistics, Supply Chain, Engineering, Operations, Finance, and business functions.</li><li>Facilitate collaboration and knowledge sharing across global teams.</li><li>Serve as a trusted resource for market intelligence, training, communications, and best practices.</li><li>Influence stakeholders through data-driven insights, effective communication, and strong project leadership.</li><li>Promote alignment across teams by ensuring consistent messaging, transparency, and knowledge dissemination.</li></ul><h2>Qualifications</h2><p>REQUIRED:</p><ul><li>Bachelor's degree in Supply Chain Management, Business, Finance, Engineering, Economics, or related field.</li><li>7-10 years of experience in procurement, strategic sourcing, category management, supply chain, consulting, organizational development, or related business functions.</li><li>Experience supporting category strategies through market research and data-driven analysis.</li><li>Demonstrated experience developing training programs, onboarding processes, organizational capability initiatives, or learning content.</li><li>Strong project management and stakeholder management skills.</li><li>Excellent written, verbal, and presentation communication skills.</li><li>Advanced analytical skills and ability to synthesize complex information into actionable recommendations.</li><li>Advanced proficiency with Microsoft 365 applications, reporting tools, and data visualization platforms.</li></ul><p>PREFERRED:</p><ul><li>MBA or advanced degree.</li><li>CPSM, ISM, CIPS, PMP, or related professional certification.</li><li>Experience in technology, electronics, semiconductor, manufacturing, or other complex global supply chain environments.</li><li>Experience supporting procurement transformation, procurement excellence, or change management initiatives.</li><li>Experience with learning management systems, knowledge management tools, and internal communications programs.</li></ul><h2>Additional Information</h2><p>Sandisk is committed to providing equal opportunities to all applicants and employees and will not discriminate against any applicant or employee based on their race, color, ancestry, religion (including religious dress and grooming standards), sex (including pregnancy, childbirth or related medical conditions, breastfeeding or related medical conditions), gender (including a person’s gender identity, gender expression, and gender-related appearance and behavior, whether or not stereotypically associated with the person’s assigned sex at birth), age, national origin, sexual orientation, medical condition, marital status (including domestic partnership status), physical disability, mental disability, medical condition, genetic information, protected medical and family care leave, Civil Air Patrol status, military and veteran status, or other legally protected characteristics. We also prohibit harassment of any individual on any of the characteristics listed above. Our non-discrimination policy applies to all aspects of employment. We comply with the laws and regulations set forth in the \"<a href=\"https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12.pdf\">Know Your Rights: Workplace Discrimination is Illegal</a>” poster. Our pay transparency policy is available <a href=\"https://www.dol.gov/sites/dolgov/files/OFCCP/pdf/pay-transp_%20English_formattedESQA508c.pdf\">here</a>.</p><p>Sandisk thrives on the power and potential of diversity. As a global company, we believe the most effective way to embrace the diversity of our customers and communities is to mirror it from within. We believe the fusion of various perspectives results in the best outcomes for our employees, our company, our customers, and the world around us. We are committed to an inclusive environment where every individual can thrive through a sense of belonging, respect and contribution.</p><p>Sandisk is committed to offering opportunities to applicants with disabilities and ensuring all candidates can successfully navigate our careers website and our hiring process. Please contact us at <a href=\"mailto:jobs.accommodations@sandisk.com\">jobs.accommodations@sandisk.com</a>&nbsp;to advise us of your accommodation request. In your email, please include a description of the specific accommodation you are requesting as well as the job title and requisition number of the position for which you are applying.</p><p>Based on our experience, we anticipate that the application deadline will be <strong>12/21/2026</strong>&nbsp;(3 months from posting), although we reserve the right to close the application process sooner if we hire an applicant for this position before the application deadline. If we are not able to hire someone from this role before the application deadline, we will update this posting with a new anticipated application deadline.</p><p>#LI-RG1</p><p><strong>Compensation &amp; Benefits Details</strong></p><ul><li>An employee’s pay position within the salary range may be based on several factors including but not limited to (1) relevant education; qualifications; certifications; and experience; (2) skills, ability, knowledge of the job; (3) performance, contribution and results; (4) geographic location; (5) shift; (6) internal and external equity; and (7) business and organizational needs.</li><li>The salary range is what we believe to be the range of possible compensation for this role at the time of this posting.&nbsp; We may ultimately pay more or less than the posted range and this range is only applicable for jobs to be performed in California, Colorado, New York or remote jobs that can be performed in California, Colorado and New York.&nbsp; This range may be modified in the future.</li><li>You will be eligible to participate in Sandisk's Short-Term Incentive (STI) Plan, which provides incentive awards based on Company and individual performance.&nbsp; Depending on your role and your performance, you may be eligible to participate in our annual Long-Term Incentive (LTI) program, which consists of restricted stock units (RSUs) or cash equivalents, pursuant to the terms of the LTI plan. Please note that not all roles are eligible to participate in the LTI program, and not all roles are eligible for equity under the LTI plan.&nbsp;RSU awards are also available to eligible new hires, subject to Sandisk's Standard Terms and Conditions for Restricted Stock Unit Awards.</li><li>We offer a comprehensive package of benefits including paid vacation time; paid sick leave; medical/dental/vision insurance; life, accident and disability insurance; tax-advantaged flexible spending and health savings accounts; employee assistance program; other voluntary benefit programs such as supplemental life and AD&amp;D, legal plan, pet insurance, critical illness, accident and hospital indemnity; tuition reimbursement; transit; the Applause Program, employee stock purchase plan, and the Sandisk's Savings 401(k) Plan.</li><li>Note: No amount of pay is considered to be wages or compensation until such amount is earned, vested, and determinable. The amount and availability of any bonus, commission, benefits, or any other form of compensation and benefits that are allocable to a particular employee remains in the Company's sole discretion unless and until paid and may be modified at the Company’s sole discretion, consistent with the law.</li></ul>",
+    "summary": "The Senior Lead, Procurement Excellence & Market Intelligence advances Procurement and Logistics effectiveness through market intelligence, capability development, learning tools, organizational communications, recognition programs, and strategic initiatives. The role develops actionable category insights, training programs, executive communications, and cross-functional improvement projects while supporting sourcing decisions, organizational development, and continuous improvement.",
+    "locations": [
+     {
+      "postalCode": "95035",
+      "workLocation": "remote",
+      "addressRegion": "California",
+      "streetAddress": "951 Sandisk Dr",
+      "addressCountry": "US",
+      "addressLocality": "Milpitas"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Leadership",
+      "Collaboration",
+      "Problem-solving"
+     ],
+     "primary_skills": [
+      "Procurement",
+      "Strategic Sourcing",
+      "Category Management",
+      "Market Intelligence",
+      "Supply Chain Management",
+      "Project Management",
+      "Stakeholder Management",
+      "Data Analysis",
+      "Microsoft 365",
+      "Data Visualization"
+     ],
+     "secondary_skills": [
+      "Negotiation",
+      "Supplier Relationship Management",
+      "Contract Management",
+      "Risk Management",
+      "Procurement Analytics",
+      "Learning Management Systems",
+      "Knowledge Management",
+      "Change Management",
+      "Business Case Development",
+      "Professional Certification"
+     ]
+    },
+    "benefits": [
+     "performance_bonuses",
+     "stock_options_equity",
+     "paid_time_off_vacation_personal_days",
+     "sick_leave",
+     "health_insurance",
+     "dental_insurance",
+     "vision_care",
+     "life_insurance",
+     "disability_insurance",
+     "tuition_reimbursement",
+     "pensions_401k",
+     "employee_discounts",
+     "other_benefits"
+    ],
+    "salary": null,
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 7,
+    "educationRequirement": {
+     "required": [
+      "bachelor_degree"
+     ],
+     "preferred": [
+      "master_degree",
+      "professional_certificate"
+     ]
+    },
+    "industry": [
+     "technology_software",
+     "manufacturing"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790021500,
+    "expiresAt": 1797897599,
+    "applyUrl": "https://jobs.smartrecruiters.com/Sandisk/744000150778569-senior-lead-procurement-excellence-market-intelligence",
+    "status": "active",
+    "companies": [
+     {
+      "name": "sandisk.com",
+      "website": "sandisk.com"
+     }
+    ]
+   },
+   {
+    "id": "edc540da-e8d1-4960-8dcf-cda104bc7f20",
+    "title": "Learning Management Specialist",
+    "description": "<p><strong>Learning Management Specialist</strong></p><p>Mariner is seeking a skilled Learning Management System (LMS) Specialist to oversee the daily operations of Docebo and ensure the efficient, reliable delivery of organization-wide learning initiatives. This role is responsible for user support, administrative management of the LMS, and quality assurance in project execution. The ideal candidate is technically proficient with strong organizational and interpersonal abilities and collaborates closely with HRIS, other LMS specialists, and cross-functional teams.</p><p><strong>Key Responsibilities:</strong></p><ul><li><p><strong>Platform Configuration &amp; Customization:</strong> Handle daily administration and configuration of the LMS. Recommend and implement system enhancements to optimize functionality and user experience.</p></li><li><p><strong>User Support &amp; Troubleshooting:</strong> Serve as the first point of contact for user issues, investigate root causes, and resolve or escalate technical problems to ensure seamless system operation.</p></li><li><p><strong>Project Review &amp; Quality Assurance:</strong> Review system configurations, test learner experiences, and confirm launch readiness for new content and features.</p></li><li><p><strong>Technical Proficiency:</strong> Navigate the LMS and integrated technologies with ease, stay informed about new LMS trends, and communicate upcoming enhancements to stakeholders.</p></li><li><p><strong>Collaboration with Content Creators:</strong> Work with content owners to ensure course and content additions align with business strategies and governance standards, maximizing overall LMS effectiveness.</p></li><li><p><strong>Content Management:</strong> Upload, organize, and configure learning content and paths. Conduct system testing and quality checks to ensure content functionality.</p></li><li><p><strong>User Management:</strong> Administer user accounts, roles, and permissions accurately and securely.</p></li><li><p><strong>Reporting &amp; Analytics:</strong> Monitor user activity, validate data accuracy, and generate reports to inform strategic decisions.</p></li></ul><p><strong>Knowledge, Skills and Abilities:</strong></p><ul><li><p><strong>Technical Expertise:</strong> In-depth knowledge of LMS platforms, with experience in maximizing system capabilities. Familiarity with tools like Smartsheet for request tracking and automation workflows is a plus.</p></li><li><p><strong>Problem-Solving:</strong> Advanced troubleshooting skills; able to analyze and resolve complex system issues, breaking them down into actionable components.</p></li><li><p><strong>Communication:</strong> Outstanding verbal and written communication skills to interact with stakeholders at all levels, ensuring clarity regarding technical aspects and support.</p></li><li><p><strong>Attention to Detail:</strong> Highly organized, precise, and thorough in all aspects of work, with strong planning and task prioritization skills.</p></li><li><p><strong>Adaptability:</strong> Demonstrates a willingness to learn and embrace new tools and technologies, positively responding to change and unexpected challenges.</p></li></ul><p><strong>Requirements:</strong></p><ul><li><p>Bachelor’s degree in organizational development, instructional design, instructional technology, management information systems, or a related field preferred.</p></li><li><p>Minimum of 3 years of experience in LMS administration, learning technology, or technical support.</p></li><li><p>At least 1 year of hands-on experience with Docebo administration; 2 years preferred.</p></li><li><p>Proficient with LMS management tools and technologies, including content authoring, database management, authentication, integrations, analytics, and reporting.</p></li></ul><p>We welcome your interest in being a part of our firm. We believe in giving associates progressive opportunities, actively nurturing professional growth and giving back to the community. We are dedicated to building a diverse culture where everyone has the support they need to achieve their career goals. We offer an innovative workplace and a culture that fosters camaraderie, teamwork and work-life balance.</p><p><br>By submitting your application, you agree to the collection and use of your personal information as described in our <a href=\"https://www.marinerwealthadvisors.com/mariner-employee-applicant-privacy-notice/\">Employee and Applicant Privacy Notice</a>.</p><p>EOE M/F/D/V</p>",
+    "summary": "The Learning Management Specialist oversees the daily administration, configuration, support, and quality assurance of the Docebo LMS. The role manages learning content and users, troubleshoots system issues, supports integrations and reporting, and collaborates with HRIS, content owners, and cross-functional stakeholders to deliver effective organization-wide learning initiatives.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Problem-solving",
+      "Communication",
+      "Attention to Detail",
+      "Adaptability",
+      "Teamwork"
+     ],
+     "primary_skills": [
+      "Learning Management System Administration",
+      "Docebo",
+      "LMS Configuration",
+      "LMS Troubleshooting",
+      "Quality Assurance",
+      "Content Management",
+      "User Management",
+      "Reporting and Analytics",
+      "LMS Integrations",
+      "Database Management"
+     ],
+     "secondary_skills": [
+      "Smartsheet",
+      "Content Authoring",
+      "Authentication"
+     ]
+    },
+    "benefits": [
+     "professional_development",
+     "other_benefits"
+    ],
+    "salary": null,
+    "experienceLevel": "mid",
+    "employmentType": "full_time",
+    "minYearsExperience": 3,
+    "educationRequirement": {
+     "required": [],
+     "preferred": [
+      "bachelor_degree"
+     ]
+    },
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1789827891,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/mariner-careers/c157e8fe-1e73-4b27-bd98-400a9ac42546",
+    "status": "active",
+    "companies": [
+     {
+      "name": "Mariner",
+      "website": "mariner.com"
+     }
+    ]
+   }
+  ],
+  "meta": {
+   "count": 5,
+   "hasMore": false,
+   "requestTimeMs": 287,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

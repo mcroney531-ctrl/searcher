@@ -1,0 +1,143 @@
+{
+ "call_id": "rec_850033302_title",
+ "phase": "recall",
+ "url": "https://api.jobven.com/v1/public/jobs?q=%22Technical+Content+Writer%22&country=US&postedAfter=1788220800&limit=10",
+ "params": [
+  [
+   "q",
+   "\"Technical Content Writer\""
+  ],
+  [
+   "country",
+   "US"
+  ],
+  [
+   "postedAfter",
+   1788220800
+  ],
+  [
+   "limit",
+   10
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:23:41 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "transfer-encoding": "chunked",
+  "connection": "close",
+  "server": "cloudflare",
+  "vary": "Accept-Encoding",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "a483fa0c-534e-43d5-8c40-8bfc08c70d9c",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2432",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "15",
+  "etag": "W/\"1efd-KyBwOjRkJprVQNZtomCOqxMd/Tw\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=OkGA8yScjWP9kXqZWP3h9HzcXWDkAUmRK13VZ1KdPKQuZXtVCJoCdOplwcOk5kTvRnwG8i1w4j62clYLUo2EGvIDI06oD4WQSYyFrCczWE6TFKUxBBKA2w02vJLOyZZ6f8LJz2nRnJQm9JRQ3w%3D%3D\"}]}",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "cf-ray": "a406e95d4fe121eb-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "id": "c6643f0a-c2b5-4284-a752-2b0abafbac65",
+    "title": "Technical Content Writer (contract)",
+    "description": "<h1><strong>About AfterQuery</strong></h1><p><a href=\"https://www.afterquery.com/\"><u>AfterQuery</u></a> is an applied research lab curating data solutions for foundation model development. We serve every frontier AI lab with the mission of delivering the best data to power the best models. In doing so, we can make expertise that once took a lifetime to build available to anyone who needs it.</p><p>Our customers are the ones building the foundation models themselves and our work sits directly in the loop of how those systems improve. This is a rare opportunity to join a company at a defining moment in AI. Forbes reported that we could be YC's fastest unicorn, reportedly raising at a $3.2 billion valuation. We're based in San Francisco and backed by leading investors including Altos Ventures, BoxGroup, and Y Combinator and angels from Google DeepMind, OpenAI, Anthropic, Meta Superintelligence Labs, and Microsoft AI.</p><h1>Why Apply</h1><p><strong>Massive Opportunity:</strong> Forbes reported that we could be YC's fastest unicorn, reportedly raising at a $3.2 billion valuation, and we're not slowing down.</p><p><strong>Founding Impact:</strong> You will own and architect core infrastructure systems that power our platform from the ground up.</p><p><strong>Equity &amp; Growth:</strong> Competitive salary and meaningful equity. As we scale, you’ll have the opportunity to shape the engineering organization and lead major technical initiatives.</p><p><strong>Strong Team:</strong> Our founding team has experience from Citadel Securities, Meta, Google, Silver Lake, and Morgan Stanley — work alongside world-class engineers and researchers.</p><p><strong>Technical Content Writer (Contract)</strong></p><p><strong>Location:</strong> Remote, US-based</p><p><strong>Commitment:</strong> Approximately 10–15 hours per week to start, with potential to expand based on content needs. Weekly deliverables will be prioritized together across social media, blog posts, and other public-facing content.</p><p><strong>Compensation:</strong> $60/hour</p><p><strong>Contract:</strong> Six-month contract</p><h1>Overview</h1><p>We’re looking for a contract Technical Content Writer to help shape AfterQuery’s voice across our public-facing written content. You’ll communicate our work as a research lab curating human data for AI through social media, founder content, blog articles, and other company communications.</p><p>You’ll work closely with our marketing team, founders, and researchers to turn ideas, technical developments, and company updates into clear, compelling writing. This role spans technical and non-technical content, with audiences ranging from AI researchers and top labs to experts and prospective hires.</p><h1>Responsibilities</h1><ul><li><p>Write and adapt content for AfterQuery’s brand and founder social media accounts, including X and LinkedIn, maintaining a distinct and consistent voice for each</p></li><li><p>Develop technical and non-technical blog posts covering research, industry perspectives, company updates, and stories from our team and expert community</p></li><li><p>Turn research papers, technical findings, and conversations with subject-matter experts into accurate, accessible content</p></li><li><p>Draft founder thought leadership, hiring posts, announcements, and other public-facing written materials</p></li><li><p>Collaborate with internal stakeholders to gather input, refine messaging, and incorporate feedback</p></li><li><p>Repurpose ideas across channels, adapting the tone, depth, and format to each audience</p></li><li><p>Verify claims and sources, maintain editorial quality, and manage agreed content priorities and deadlines</p></li></ul><h1>Required Qualifications</h1><ul><li><p>Experience writing content for an AI, software, data infrastructure, or other technical organization</p></li><li><p>Working understanding of AI and machine learning, with the ability to research unfamiliar topics and explain technical concepts accurately</p></li><li><p>Strong writing and editing skills across social media, long-form articles, and company communications</p></li><li><p>Ability to adapt between founder, brand, and contributor voices and write for both technical and non-technical audiences</p></li><li><p>A portfolio demonstrating clear thinking, strong storytelling, and attention to detail</p></li><li><p>Ability to turn briefs, conversations, and source material into polished drafts while managing a part-time workload independently</p></li></ul><h1>Preferred Qualifications</h1><ul><li><p>Experience writing about foundation models, training data, human feedback, or model evaluation</p></li><li><p>Experience ghostwriting for founders, executives, or technical experts</p></li><li><p>Background working with researchers, engineers, or early-stage startup teams</p></li></ul><h2>Company Benefits (For Eligible Employees):</h2><ul><li><p>Health Insurance: Medical, Vision, Dental</p></li><li><p>401(k) with Employer Match</p></li><li><p>Daily Meals: Daily UberEats Stipend</p></li><li><p>Monthly Wellness Stipend</p></li><li><p>Commute Covered</p></li></ul><p>We are an equal opportunity employer committed to providing a workplace free from discrimination and harassment. Employment decisions are made without regard to legally protected characteristics under applicable federal, state, or local law.</p><p>We comply with applicable pay transparency requirements and provide compensation ranges based on the position, qualifications, experience, and other relevant factors. Reasonable accommodations are available to qualified individuals with disabilities and for sincerely held religious beliefs, as required by law. This job description is intended to describe the general nature and level of work performed and is not an exhaustive list of all duties, responsibilities, qualifications, or working conditions associated with the position. We reserve the right to modify this job description as business needs change.</p>",
+    "summary": "AfterQuery is seeking a contract Technical Content Writer to create and adapt public-facing content across social media, blog posts, founder communications, and company materials. The role involves translating research and technical developments into accurate, accessible writing, collaborating with founders, researchers, and marketing stakeholders, and managing editorial priorities independently on a part-time basis.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Adaptability",
+      "Attention to Detail",
+      "Independent Work",
+      "Collaboration"
+     ],
+     "primary_skills": [
+      "Technical Writing",
+      "Content Writing",
+      "Content Editing",
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Social Media Writing",
+      "Blog Writing",
+      "Technical Research",
+      "Source Verification",
+      "Content Repurposing"
+     ],
+     "secondary_skills": [
+      "Foundation Models",
+      "Training Data",
+      "Human Feedback",
+      "Model Evaluation",
+      "Ghostwriting",
+      "Thought Leadership",
+      "Long-Form Writing"
+     ]
+    },
+    "benefits": [
+     "health_insurance",
+     "vision_care",
+     "dental_insurance",
+     "pensions_401k",
+     "pension_contribution_matching",
+     "free_subsidized_meals",
+     "wellness_program",
+     "other_benefits"
+    ],
+    "salary": {
+     "max": 60,
+     "min": 60,
+     "period": "hourly",
+     "currency": "USD"
+    },
+    "experienceLevel": null,
+    "employmentType": "contract",
+    "minYearsExperience": null,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790027876,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/afterquery/6f90701a-f9b5-4599-a288-470fcd200640",
+    "status": "active",
+    "companies": [
+     {
+      "name": "AfterQuery",
+      "website": "afterquery.com"
+     }
+    ]
+   }
+  ],
+  "meta": {
+   "count": 1,
+   "hasMore": false,
+   "requestTimeMs": 14,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

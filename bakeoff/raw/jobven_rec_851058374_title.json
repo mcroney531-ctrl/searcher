@@ -1,0 +1,399 @@
+{
+ "call_id": "rec_851058374_title",
+ "phase": "recall",
+ "url": "https://api.jobven.com/v1/public/jobs?q=%22Content+Lead%22&country=US&postedAfter=1788220800&limit=10",
+ "params": [
+  [
+   "q",
+   "\"Content Lead\""
+  ],
+  [
+   "country",
+   "US"
+  ],
+  [
+   "postedAfter",
+   1788220800
+  ],
+  [
+   "limit",
+   10
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:21:29 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "transfer-encoding": "chunked",
+  "connection": "close",
+  "server": "cloudflare",
+  "vary": "Accept-Encoding",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "7bd42ba9-d3a7-42ee-acdd-0479c9599f1a",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2453",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "55",
+  "etag": "W/\"6c3a-NiyiNGddLFJWNFtIQis5UKj5WgM\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=zuxnEoHLllSoU25VztxLWgCoHCYQMApByNPTCFDACETNYYfMkqaZKu3I6z2788D4FLMcDWzMEuiqe0pbuGVpilh4PPSyGXlCd3X5oQPTuniM2zX0tbszZ24WXZc48PuUc%2BnXbOnPOKq8AJdQEg%3D%3D\"}]}",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "cf-ray": "a406e6283fbd2223-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "id": "07416770-af10-4537-ab6f-48411c7a9388",
+    "title": "Content Lead",
+    "description": "<h2><strong>About Browserbase</strong></h2><p>Browserbase is the complete platform to build and deploy agents that browse and interact with the web like humans. We’re on a mission to make AI work for people by operating the systems built for humans. We provide one API key for agents to search and fetch information, fill out forms, and replicate user actions. We run 50M+ sessions/month for 10,000+ customers including Ramp, Deepmind, Clay, Vercel, and Notion.</p><p>We're a Series B startup that's tripled our headcount in 2 years, and are continuing to grow, fast. Backed by Kleiner Perkins, CRV, and Notable Capital, our team is building on our CEO's <a href=\"https://memos.hawkhill.ventures/p/an-internet-browser-for-ai\"> <u>founding vision</u></a> to power the world's best AI tools and help everyone automate the web.</p><h2>About the Role</h2><p>We're looking for a Content Lead to own our content-led-growth engine. This role would oversee all awareness activities across blogs, docs, socials, SEO, and launches to fuel our top of funnel. You'll craft the point of view that makes developers and technical buyers understand our category and product.</p><p>You’re a great fit for this role if you’ve been in Product Marketing, Content Strategy, Growth Engineering, or Brand Marketing. You love telling stories, writing, and have great taste. And of course, you’ve been an engineer or can market to one.</p><h2>What you'll do</h2><ul><li><p><strong>Drive the content strategy</strong> and bar for Browserbase across organic &amp; paid channels to hit our growth goals and measure success.</p></li><li><p><strong>Define the market</strong> we’re operating in and the thought leadership we need to own it, in partnership with our Product Marketers.</p></li><li><p><strong>Run and grow a team</strong> that spans content, product marketing, and developer experience.</p></li><li><p><strong>Review and create content</strong> that developers actually want to read and share.</p></li><li><p><strong>Work on strategic technical partnerships</strong> for where Browserbase can integrate with other tools. This includes integrations, documentation, and co-marketing.</p></li><li><p><strong>Partner with Sales, Product, and Growth</strong> making sure content performs, converts, and is useful across the funnel.</p></li><li><p><strong>Represent Browserbase</strong> in high-visibility moments like launches, executive writing, PR, and Partnerships.</p></li></ul><h2>What we're looking for</h2><ul><li><p>7+ years in content or brand marketing at a developer-facing company, with execution and strategy.</p></li><li><p>A track record of building content programs that moved pipeline and revenue.</p></li><li><p>Fluency across Twitter, LinkedIn, Reddit, and Hacker News.</p></li><li><p>Strong SEO instincts and comfort with paid content and distribution, not just organic.</p></li><li><p>Excellent writing and editing, with a clear point of view on what makes writing good.</p></li><li><p>Experience managing and growing a team.</p></li><li><p>A real interest in the browser automation and AI agent space, and the judgment to translate that into a market narrative.</p></li><li><p>You've led content at a company through a major market shift or category creation.</p></li><li><p>You've written or ghostwritten for executives.</p></li></ul><h2><strong>Benefits</strong></h2><ul><li><p>Competitive salary + meaningful early-stage equity</p></li><li><p>Comprehensive medical, dental, and vision coverage for you and your dependents</p></li><li><p>401(k)</p></li><li><p>Daily catered lunches with a fully-stocked kitchen</p></li><li><p>Beautiful office in downtown San Francisco</p></li><li><p>All the AI tools + credits you want</p></li><li><p>Regular team offsites and company events</p></li></ul>",
+    "summary": "The Content Lead will own Browserbase’s content-led growth engine, setting strategy across blogs, documentation, social media, SEO, paid distribution, and launches to increase awareness and drive growth. The role includes leading a cross-functional team, developing the company’s market narrative, creating developer-focused content, building technical partnerships, and representing Browserbase in executive communications, PR, and launches.",
+    "locations": [
+     {
+      "workLocation": "onsite",
+      "addressRegion": "California",
+      "addressCountry": "US",
+      "addressLocality": "San Francisco"
+     }
+    ],
+    "remoteType": "onsite",
+    "skills": {
+     "soft_skills": [
+      "Leadership",
+      "Communication",
+      "Creativity"
+     ],
+     "primary_skills": [
+      "Content Strategy",
+      "Content Marketing",
+      "Brand Marketing",
+      "Search Engine Optimization",
+      "Paid Content Distribution",
+      "Social Media Marketing",
+      "Writing",
+      "Editing",
+      "Team Management",
+      "Product Marketing"
+     ],
+     "secondary_skills": [
+      "Growth Engineering",
+      "Developer Experience",
+      "Technical Partnerships",
+      "Public Relations",
+      "Executive Communications",
+      "Content-Led Growth",
+      "Market Positioning",
+      "Thought Leadership",
+      "Pipeline and Revenue Growth"
+     ]
+    },
+    "benefits": [
+     "health_insurance",
+     "dental_insurance",
+     "vision_care",
+     "pensions_401k",
+     "free_subsidized_meals",
+     "company_laptop_equipment",
+     "company_events_retreats",
+     "stock_options_equity"
+    ],
+    "salary": null,
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 7,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software",
+     "marketing_advertising"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790225787,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/browserbase/bd406bd6-3318-4e16-b5ea-9a2d03368a08",
+    "status": "active",
+    "companies": [
+     {
+      "name": "browserbase.com",
+      "website": "browserbase.com"
+     }
+    ]
+   },
+   {
+    "id": "e67f05e8-5377-48f7-a2a3-c64ce7fb7e17",
+    "title": "Content Lead",
+    "description": "<p><strong>Who We Are</strong></p><p>Endex builds AI agents that handle complex, end-to-end work for the world's most demanding teams. Today we're deployed across leading financial institutions and Fortune 500 companies, embedded in the tools and workflows they rely on. We operate at the frontier of agentic knowledge work, partnering closely with top AI research labs and backed by the OpenAI Startup Fund. We're on a mission to build the most capable digital coworker in the world.</p><p><strong>About the Role</strong></p><p><strong>Location:</strong> New York City<br><strong>Commitment:</strong> 5-6 Days In-Person</p><p>We're looking for someone who can make a technical product obvious to demanding buyers. As Content Lead at Endex, you'll own how we tell our story: the website, launches, customer stories, product education and social. You'll work directly with our founders, product and GTM teams to shape how the market understands agentic work and where Endex fits in it.</p><p><strong>Your Key Responsibilities</strong></p><ul><li><p><strong>Own the Narrative:</strong> Define how Endex talks about itself across every surface. Set the voice, sharpen the positioning and keep it consistent as the product and market move.</p></li><li><p><strong>Ship Launches:</strong> Plan and write product announcements, release notes and launch campaigns. Turn new capabilities into stories buyers understand in one read.</p></li><li><p><strong>Build Customer Stories:</strong> Work with customers to capture how their teams actually use Endex. Turn real deployments into case studies and proof points our sales team can use.</p></li><li><p><strong>Explain the Product:</strong> Create demos, walkthroughs, videos and guides that show what agents can do across email, Teams, Excel, Word and PowerPoint. Make the complex feel obvious.</p></li><li><p><strong>Grow Our Channels:</strong> Own the website, blog, LinkedIn and X. Build an audience of the people we sell to and the people we want to hire.</p></li><li><p><strong>Enable GTM:</strong> Partner with sales on decks, one-pagers, email sequences and competitive positioning. You're not just producing content. You're helping close deals.</p></li><li><p><strong>Measure What Works:</strong> Track what drives pipeline, engagement and inbound. Double down on what works and cut what doesn't.</p></li></ul><p><strong>What We're Looking For</strong></p><ul><li><p><strong>Proven content leader:</strong> 3-8 years writing and shipping content for a B2B or technical product. Your portfolio shows range across launches, long-form and social.</p></li><li><p><strong>Exceptional writer:</strong> You write clearly, cut ruthlessly and match voice to audience. Your first draft is better than most people's final.</p></li><li><p><strong>Technically fluent:</strong> You can learn how agentic systems work well enough to explain them accurately. You're comfortable interviewing engineers and turning what they say into something anyone can follow.</p></li><li><p><strong>Credible with experts:</strong> You can write for analysts, operators and executives without talking down or overselling. You earn trust with specifics.</p></li><li><p><strong>Strong opinions on the story:</strong> You have ideas about how Endex should show up in the market. You're not shy about sharing them.</p></li><li><p><strong>Relentlessly resourceful:</strong> You move fast, ship often and figure things out without a playbook.</p></li><li><p><strong>Versatile problem-solver:</strong> You're intellectually curious, quick to learn and eager to take on new challenges across a wide range of responsibilities.</p></li></ul><p><strong>Nice to Have</strong></p><ul><li><p>Early-stage startup experience</p></li><li><p>Experience writing about AI, developer tools or enterprise software</p></li><li><p>Video, design or editing skills</p></li></ul><p><strong>Full-Time Benefits</strong></p><ul><li><p>Health &amp; Dental Insurance</p></li><li><p>Monthly Wellness Stipend</p></li><li><p>401K Matching</p></li><li><p>Competitive Salary + Equity</p></li></ul>",
+    "summary": "The Content Lead will own Endex's brand narrative and content across its website, launches, customer stories, product education, social channels, and sales enablement. The role partners with founders, product, GTM, and sales teams to explain a technical AI product to buyers, build audience and pipeline, and measure content performance.",
+    "locations": [
+     {
+      "workLocation": "onsite",
+      "addressCountry": "US",
+      "addressLocality": "New York City"
+     }
+    ],
+    "remoteType": "onsite",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Problem-Solving",
+      "Intellectual Curiosity",
+      "Adaptability",
+      "Resourcefulness"
+     ],
+     "primary_skills": [
+      "Content Strategy",
+      "Content Writing",
+      "Product Marketing",
+      "Product Launch",
+      "Customer Case Studies",
+      "Product Education",
+      "Social Media Marketing",
+      "Sales Enablement",
+      "Competitive Positioning",
+      "Marketing Analytics"
+     ],
+     "secondary_skills": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Enterprise Software",
+      "Video Production",
+      "Design",
+      "Video Editing",
+      "Startup Experience"
+     ]
+    },
+    "benefits": [
+     "health_insurance",
+     "dental_insurance",
+     "wellness_program",
+     "pensions_401k",
+     "pension_contribution_matching",
+     "stock_options_equity"
+    ],
+    "salary": null,
+    "experienceLevel": "mid",
+    "employmentType": "full_time",
+    "minYearsExperience": 3,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software",
+     "finance_banking"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790197911,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/endex/eb93d343-2516-41aa-9d0d-7347d04b4e1f",
+    "status": "active",
+    "companies": [
+     {
+      "name": "endex.ai",
+      "website": "endex.ai"
+     }
+    ]
+   },
+   {
+    "id": "09ad91c4-8bbf-4ef2-9fa4-e7144e4e9005",
+    "title": "Content Lead",
+    "description": "<h1><strong>About Avoca</strong></h1><p>Avoca is transforming how home service companies engage with their customers. Our AI-powered conversational agents handle every high-value inbound call, from booking jobs, qualifying leads, and driving higher revenue, all at a speed and consistency unmatched by human call centers.</p><p>We're a Series B startup backed by Kleiner Perkins, Meritech Capital, General Catalyst, and other top-tier investors, with $125M raised and a $1B valuation. We grew 10x in 2025 and have scaled to 130+ employees in under two years across our NYC headquarters and Santa Barbara office.</p><p>In a $1T+ market where 85% of missed calls go to competitors, we're building the category-defining platform for AI-driven customer engagement, serving the largest brands in home services. With high-energy, in-office teams in both locations, every hire here has an immediate and visible impact.</p><h2><strong>About the Role</strong></h2><p>We’re hiring Avoca’s first dedicated Content Lead to build our content function from the ground up and make Avoca the trusted source for how home services businesses grow and use AI.</p><p>You’ll own how Avoca earns attention and gets discovered — from how we show up across Google and AI search to the customer stories, original research, and points of view that shape how the home services market thinks. Your work will help Avoca show up when buyers are actively looking for answers while giving home services leaders a reason to follow, trust, and engage with us before they enter a sales process.</p><p>This is a highly hands-on role. You’ll set the strategy and drive content from idea through research, creation, distribution, and measurement. You’ll interview customers and subject-matter experts and turn Avoca’s expertise, data, and customer results into content that’s useful, compelling, and worth people’s attention.</p><p>You’ll use AI to increase the speed and scale of the content operation while maintaining a high bar for originality, accuracy, and quality. Above all, you’ll approach content as a growth engine — thinking beyond traffic and engagement to how it creates and captures demand, supports campaigns, and drives qualified pipeline.</p><p>You’ll report directly to the Head of Growth and work closely with Product Marketing, Brand, and Sales.</p><h2><strong>What You’ll Do</strong></h2><ul><li><p>Build and own Avoca’s content strategy, identifying the questions, topics, stories, and points of view we should own based on customer needs, competitive whitespace, and revenue potential</p></li><li><p>Grow Avoca’s visibility across Google and AI search by mapping how buyers look for answers, creating authoritative content, and strengthening our presence across the sources AI answer engines trust and cite</p></li><li><p>Own and execute the content program end to end—researching, interviewing, writing, and editing high-intent pages, guides, customer stories, original research, lead generation assets, and social content</p></li><li><p>Turn content assets into demand generation campaigns across multiple channels (e.g., search, paid email, outbound)</p></li><li><p>Define and track performance across search and AI visibility, qualified traffic, conversions, opportunities, and influenced pipeline</p></li><li><p>Build AI-first workflows that accelerate research, creation, optimization, repurposing, and distribution without compromising originality, accuracy, or editorial quality</p></li></ul><h2><strong>What You’ll Bring</strong></h2><ul><li><p>5+ years of experience in content marketing, organic growth, or a related role, ideally at a fast-growing B2B technology company</p></li><li><p>A portfolio of excellent work and a track record of building content programs that generate qualified traffic, conversions, and pipeline</p></li><li><p>Strong, current knowledge of SEO and AEO/GEO, including how companies earn visibility and citations across AI search</p></li><li><p>Exceptional writing, interviewing, and narrative skills, with the ability to find a compelling angle and make complex ideas clear and engaging</p></li><li><p>Strong editorial judgment: you can distinguish genuine insight from generic content and turn rough ideas into work that is credible, useful, and distinctively Avoca</p></li><li><p>Experience creating content across the buyer journey, from high-intent organic pages to customer stories, original research, and other authority-building content</p></li><li><p>Strong commercial and analytical instincts, including an understanding of demand generation and the ability to use performance data to improve results</p></li><li><p>Deep fluency with AI tools and a track record of using them to materially increase the quality, speed, and volume of content</p></li></ul><h2><strong>Who You Are</strong></h2><ul><li><p>You have a strong instinct for what makes a story worth telling and know how to draw differentiated insights and proof points out of customers and subject-matter experts</p></li><li><p>You’re a zero-to-one builder who is energized by creating the strategy, standards, workflows, and measurement for a new content function</p></li><li><p>You’re commercially curious. You want to understand why customers buy, what prevents them from buying, and how content can create momentum throughout the buyer journey</p></li><li><p>You think about distribution and conversion from the beginning, not after something is published</p></li><li><p>You’re AI-native and constantly redesigning how you work to produce better content faster without accepting generic output, weak reasoning, or unsupported claims</p></li><li><p>You stay ahead of how AI answer engines are changing buyer behavior, content discovery, and distribution—and translate those shifts into Avoca’s approach</p></li><li><p>You combine high standards with speed, knowing when to refine, when to ship and learn, and where your effort will have the greatest impact</p></li><li><p>You’re high-agency, resourceful, collaborative, and excited to work in person in NYC with an ambitious team</p></li></ul><h2><strong>Bonus Points</strong></h2><ul><li><p>Experience marketing to SMB or mid-market buyers in a high-velocity sales motion</p></li><li><p>Experience in vertical SaaS, home services, or another industry-specific market</p></li><li><p>Hands-on experience with AI-search, SEO, and content tools such as Profound, Semrush, Google Search Console, or GA4</p></li><li><p>Experience turning proprietary data or original research into content that earns attention, links, and citations</p></li><li><p>Experience creating video-first customer stories or translating written ideas into compelling video content</p></li></ul><h2><strong>Benefits</strong></h2><ul><li><p>Comprehensive medical, dental, and vision insurance</p></li><li><p>Company-sponsored 401(k) through Vestwell</p></li><li><p>Flexible PTO plus U.S. federal holidays</p></li><li><p>Company-wide off-sites</p></li><li><p>Daily in-office lunch through Parkday</p></li><li><p>Monthly wellness stipend</p></li><li><p>Dinner covered when working late</p></li><li><p>Commuter benefits and late-night rideshare</p></li><li><p>Standing desks and workspace accommodations available on request</p></li><li><p>All core tools and software provided</p></li></ul><p><br><strong>Compensation:</strong> The expected base salary for this role is $160,000-$210,000 with final compensation based on experience, skills, and qualifications determined during the interview process. Avoca’s total compensation package includes base salary, bonus, equity, and a comprehensive suite of benefits and perks. Our Recruiting team will share the full details as you progress through our hiring process.</p><h1><strong>Why Avoca</strong></h1><p>At Avoca, you’ll be part of a team that’s building a category-defining company at the center of a massive market opportunity. We’re a fast-moving, collaborative team with a culture designed for builders who thrive on speed, iteration, and impact.</p><p><em>Avoca provides equal employment opportunities to applicants and employees without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, or disability.</em></p>",
+    "summary": "Avoca is hiring its first Content Lead to build and own the company’s content function, strategy, and end-to-end content programs. The role focuses on SEO and AI-search visibility, customer and original research content, demand generation, and measuring impact on qualified pipeline while collaborating with Product Marketing, Brand, and Sales.",
+    "locations": [
+     {
+      "workLocation": "onsite",
+      "addressRegion": "New York",
+      "addressCountry": "US",
+      "addressLocality": "New York City"
+     }
+    ],
+    "remoteType": "onsite",
+    "skills": {
+     "soft_skills": [
+      "Writing",
+      "Interviewing",
+      "Narrative Skills",
+      "Collaboration",
+      "Adaptability"
+     ],
+     "primary_skills": [
+      "Content Marketing",
+      "Content Strategy",
+      "Search Engine Optimization",
+      "Answer Engine Optimization",
+      "Generative Engine Optimization",
+      "Content Creation",
+      "Content Editing",
+      "Demand Generation",
+      "Performance Measurement",
+      "Artificial Intelligence"
+     ],
+     "secondary_skills": [
+      "B2B Marketing",
+      "Organic Growth",
+      "Customer Research",
+      "Original Research",
+      "Video Content Creation",
+      "Google Search Console",
+      "Semrush",
+      "Google Analytics 4",
+      "Profound",
+      "Social Media Marketing"
+     ]
+    },
+    "benefits": [
+     "health_insurance",
+     "dental_insurance",
+     "vision_care",
+     "pensions_401k",
+     "paid_time_off_vacation_personal_days",
+     "company_events_retreats",
+     "free_subsidized_meals",
+     "wellness_program",
+     "other_benefits",
+     "company_laptop_equipment",
+     "flexible_work_hours",
+     "performance_bonuses",
+     "stock_options_equity"
+    ],
+    "salary": {
+     "max": 210000,
+     "min": 160000,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "lead",
+    "employmentType": "full_time",
+    "minYearsExperience": 5,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1789356836,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/avoca/dca35f19-6e96-4fa8-b323-9aba5d7b6492",
+    "status": "active",
+    "companies": [
+     {
+      "name": "avoca.ai",
+      "website": "avoca.ai"
+     }
+    ]
+   },
+   {
+    "id": "24d926cf-f554-42c8-a885-c2aea6f25a4e",
+    "title": "Content Lead",
+    "description": "<h1>About White Circle</h1><p><a href=\"https://whitecircle.ai/\">White Circle</a> is an AI Safety company building the safety, reliability, and optimization layer for AI systems. At the core of our platform are policies – simple natural-language rules that define what an AI model should and shouldn’t do. We automatically test, enforce, and continuously improve these policies at scale.</p><ul><li><p>We’ve raised $11M from top funds, founders, and senior leaders at OpenAI, Anthropic, HuggingFace, Mistral, DeepMind, Datadog, Sentry, and others</p></li><li><p>We process over one hundred million API calls every month</p></li><li><p>We fine-tune and train our own LLMs so they run faster and cheaper than any open or proprietary model</p></li></ul><p>We’re a small, highly focused team. If you want to work deeply on hard problems, see your work ship to production quickly, and influence how AI safety is actually built – you’re the one we need.</p><h1>What you'll do</h1><ul><li><p>Own White Circle's content strategy and editorial direction</p></li><li><p>Turn customer conversations into case studies, customer stories, and reference materials</p></li><li><p>Interview customers, partners, founders, and engineers to uncover insights worth sharing</p></li><li><p>Write and publish long-form content across Medium, Substack, LinkedIn, X, and our website</p></li><li><p>Develop technical and non-technical content explaining AI safety, evaluation, governance, and reliability</p></li><li><p>Create launch narratives for new products, features, and research initiatives</p></li><li><p>Work closely with GTM team to support sales conversations and market positioning</p></li><li><p>Help founders maintain a consistent public voice across LinkedIn, X, conferences, and other channels</p></li><li><p>Build repeatable processes for content creation, publication, and distribution</p></li><li><p>Experiment with new formats, channels, and ways of reaching technical audience</p></li></ul><h1>We're looking for someone who</h1><ul><li><p>Is an exceptional writer</p></li><li><p>Can take a complex technical topic and explain it clearly without oversimplifying it</p></li><li><p>Knows how to find interesting stories inside products, customers, and technology</p></li><li><p>Has strong editorial judgment</p></li><li><p>Can independently identify what is worth publishing and what isn't</p></li><li><p>Is comfortable interviewing executives, engineers, researchers, and customers</p></li><li><p>Has experience creating content for technical audiences</p></li><li><p>Can move comfortably between strategic thinking and hands-on writing</p></li><li><p>Is fluent in English</p></li></ul><p><strong>A big plus</strong></p><ul><li><p>You have an engineering, computer science, or technical background</p></li><li><p>You have built an audience through writing</p></li><li><p>You've worked at a developer tools, AI, cloud infrastructure, cybersecurity, or enterprise software company</p></li><li><p>You've written content that materially influenced product adoption, company positioning, or revenue generation</p></li></ul><h1>Why White Circle</h1><ul><li><p>Meaningful equity package</p></li></ul><ul><li><p>Paid time off in line with your local regulations, no matter where you work from</p></li><li><p>Best medical insurance in France</p></li><li><p>All the hardware, tools, and services you need</p></li><li><p>Covered subscriptions for AI agents and IDEs</p></li><li><p>Team off-sites twice a year: we’ve recently been to the Alps and to Saint-Tropez</p></li></ul><h1>How we hire</h1><ol><li><p>Intro call with HR (25 min)</p></li><li><p>Take-home assignment</p></li><li><p>Final conversation with our CEO and Head of Design (45 min)<br><em>* an additional interview with one or more team members may be added depending on the interview process</em><br></p></li></ol><p><em>Along with your application, please send us 3 pieces of writing you're most proud of and tell us why you chose them.</em></p>",
+    "summary": "White Circle is seeking a Content Lead to own content strategy and editorial direction for its AI safety platform. The role involves interviewing customers and technical stakeholders, creating and publishing technical and non-technical content, developing product launch narratives, supporting go-to-market efforts, and building repeatable content processes.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressRegion": "California",
+      "addressCountry": "US",
+      "addressLocality": "San Francisco"
+     },
+     {
+      "workLocation": "remote",
+      "addressRegion": "New York",
+      "addressCountry": "US",
+      "addressLocality": "New York City"
+     },
+     {
+      "workLocation": "remote",
+      "addressCountry": "XX"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Independent Work",
+      "Strategic Thinking",
+      "Adaptability"
+     ],
+     "primary_skills": [
+      "Content Strategy",
+      "Editorial Direction",
+      "Technical Writing",
+      "Content Writing",
+      "Content Publishing",
+      "Customer Interviewing",
+      "Product Launch",
+      "Content Distribution",
+      "Market Positioning",
+      "AI Safety"
+     ],
+     "secondary_skills": [
+      "Audience Building",
+      "Engineering",
+      "Computer Science",
+      "Developer Tools",
+      "Cloud Infrastructure",
+      "Cybersecurity",
+      "Enterprise Software"
+     ]
+    },
+    "benefits": [
+     "stock_options_equity",
+     "paid_time_off_vacation_personal_days",
+     "health_insurance",
+     "company_laptop_equipment",
+     "other_benefits",
+     "company_events_retreats"
+    ],
+    "salary": null,
+    "experienceLevel": null,
+    "employmentType": "full_time",
+    "minYearsExperience": null,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1789117008,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/whitecircle/a8efc466-d53a-449a-8701-f756184c5488",
+    "status": "active",
+    "companies": [
+     {
+      "name": "White Circle",
+      "website": "whitecircle.ai"
+     }
+    ]
+   }
+  ],
+  "meta": {
+   "count": 4,
+   "hasMore": false,
+   "requestTimeMs": 54,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

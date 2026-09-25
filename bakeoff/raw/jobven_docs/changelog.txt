@@ -1,0 +1,812 @@
+
+Changelog - Jobven API Updates - Jobven
+Jobven
+Docs
+Pricing
+Blog
+Changelog
+Sign in
+Sign up
+Changelog
+Stay up to date with the latest Jobven API updates, new features, and improvements.
+Sep 24, 2026
+Sep 24, 2026
+Title Search Understands Phrases, OR and Exclusions
+q searches job titles by whole word and accepts "exact phrases", OR and -exclusions. Description search has its own parameter, descriptionQuery.
+q
+ searches job titles by whole word, and understands 
+"exact phrases"
+, 
+OR
+ and 
+-word
+ exclusions. Searching inside job descriptions has its own parameter, 
+descriptionQuery
+. 
+Searching
+Changed
+q
+ matches whole words in the job title.
+q=ai
+ finds "AI Engineer" and "Head of AI/ML". It no longer searches the summary or description.
+"marketing coordinator"
+, 
+gtm OR enablement
+ and 
+engineer -intern
+ work as written.
+A search that runs too long returns 
+422
+ with a message asking you to narrow it. Add 
+postedAfter
+, or use a more specific term.
+Added
+descriptionQuery
+ finds a whole-word phrase in the job description, ignoring case. Pair it with 
+postedAfter
+ for fast responses.
+Improved
+country
+ is case-insensitive.
+country=in
+ returns jobs in India.
+Country, state and city filters are faster
+, most of all for places with few jobs.
+Action needed
+If you use 
+q
+ to find words that appear only in job descriptions, move those terms to 
+descriptionQuery
+. If your code retries failed requests, don't retry a 
+422
+ unchanged: narrow the search first.
+Sep 21, 2026
+Sep 21, 2026
+Plans Are Measured in Jobs Delivered
+Your monthly allowance counts the jobs delivered to you, by API or by webhook, instead of API calls. Every plan's volume went up or stayed the same and no price changed.
+Your monthly allowance counts jobs delivered to you. Every job in a search response counts one, a single job lookup counts one, and every new or updated job delivered by webhook counts one. Empty results, company lookups, failed requests, and webhook closures and deletions are free. 
+What counts as a job
+Changed
+Growth includes 50,000 jobs a month, Professional 150,000, Custom from 1,000,000.
+ Starter stays at 10,000 and Free at 300. No price changed. The 7-day trial is 2,500 jobs. 
+See pricing
+job.closed
+ carries 
+id
+, 
+applyUrl
+ and 
+closedAt
+, the same shape as 
+job.deleted
+. 
+Event reference
+Closures and deletions keep arriving when you are over your limit.
+ New and updated jobs are dropped, as before. 
+Running out of quota
+jobsPerMonth
+, 
+jobsThisPeriod
+ and 
+effectiveJobsPerMonth
+ replace 
+apiCallsPerMonth
+, 
+apiCallsThisPeriod
+ and 
+effectiveApiCallsPerMonth
+ on the subscription and plan endpoints. 
+apiCallsPerDay
+ is removed.
+Unchanged
+Jobs cannot be filtered by company.
+ A 
+companyIds
+ parameter on 
+GET /v1/public/jobs
+ is rejected as unknown; it was never documented.
+X-RateLimit-Limit
+, 
+X-RateLimit-Remaining
+ and 
+X-RateLimit-Reset
+ keep their names
+; the values are now jobs, and 
+Remaining
+ accounts for the response it arrives with. 
+Handle rate limits
+Your counter carries over.
+ The usage shown on your billing page today now counts as jobs; it was not reset.
+Action needed
+If your 
+job.closed
+ handler reads fields beyond 
+id
+ and 
+applyUrl
+, fetch 
+GET /v1/public/jobs/{id}
+ for them. If you read 
+apiCallsPerMonth
+ or 
+apiCallsThisPeriod
+ from the subscription endpoints, switch to the new names. Nothing else needs to change; a smaller page no longer saves quota, so use the largest page your plan allows.
+Sep 18, 2026
+Sep 18, 2026
+Cleaner Description HTML
+Job description HTML keeps only href and title on links, drops every empty element, and no longer carries fragments of the source site's markup.
+The 
+description
+ field is structural HTML: paragraphs, headings, lists, tables, emphasis and links. Everything the source site added for its own rendering is now removed rather than filtered against a list, so a new employer site cannot reintroduce it.
+Improved
+Attributes are an allowlist.
+ Links keep 
+href
+ and 
+title
+, tables keep 
+colspan
+ and 
+rowspan
+, lists keep 
+start
+; nothing else survives on any element. Attributes left behind by the source site's front-end framework are gone, and so are the fragments of pasted-from-Word markup that appeared in a small share of descriptions as broken attributes.
+Empty elements are removed by content, not by tag.
+ An empty heading, an empty 
+<strong>
+, or a paragraph whose only child is empty is dropped, so 
+descriptionMarkdown
+ no longer contains stray 
+#
+ lines and 
+descriptionPlain
+ no longer contains blank runs.
+Existing descriptions are being corrected in place.
+ Bodies are re-processed over the coming days. This does not send 
+job.updated
+: your next fetch of a job returns the cleaned text. 
+See what the HTML contains
+Changed
+Links no longer carry 
+target
+ or 
+rel
+.
+ How a link opens is your choice; to open every link in a new tab, add the attributes when you render. The reference shows the one-liner. 
+descriptionMarkdown
+ and 
+descriptionPlain
+ never carried them.
+Unchanged
+The 
+descriptionFormat
+ options, and the field names
+, are as before.
+Entities stay encoded
+ (
+&amp;
+, 
+&nbsp;
+), as they always were.
+Sep 18, 2026
+Sep 18, 2026
+Page Size Defaults to Your Tier Maximum
+Omitting limit on the jobs listing returns your tier's maximum per page, and a limit of zero or below is rejected.
+Omitting 
+limit
+ on 
+GET /v1/public/jobs
+ returns your tier's maximum per page: 25 on Free, 50 on Starter, 100 on Growth and above. Metering is per request, so a default-shaped call now brings back the full page your plan includes.
+Changed
+limit
+ defaults to your tier's maximum.
+See page size limits
+A 
+limit
+ of 
+0
+ or below, or a non-integer, returns 
+400
+.
+Unchanged
+A 
+limit
+ above your tier's maximum is clamped to it
+, as before.
+Any valid 
+limit
+ you pass explicitly is honoured exactly as before.
+Action needed
+If your integration omits 
+limit
+ and expects exactly 10 results per call, pass 
+limit=10
+. If it sends 
+limit=0
+, drop the parameter or send a positive integer.
+Sep 6, 2026
+Sep 6, 2026
+resetAt Is Now Unix Seconds
+The resetAt field in a quota 429 response is now Unix seconds, matching the documentation and every other timestamp the API returns.
+The 
+resetAt
+ field in a quota 
+429
+ response is now a Unix timestamp in seconds. It was returning milliseconds, which disagreed with the documentation and with every other timestamp the API returns.
+Changed
+resetAt
+ in a quota 
+429
+ body is Unix seconds
+, for example 
+1735257660
+ rather than 
+1735257660000
+. This is what the 
+rate limits guide
+ has always shown.
+The 
+Retry-After
+ and 
+X-RateLimit-Reset
+ headers are unchanged.
+ Both were already seconds and both still are.
+Nothing else you integrate against moved.
+postedAt
+, 
+expiresAt
+, 
+postedAfter
+ and 
+postedBefore
+ were already Unix seconds and are unaffected, and every webhook payload field is unchanged.
+Action needed
+If you build a JavaScript 
+Date
+ from 
+resetAt
+, it now needs the same conversion as every other Jobven timestamp: 
+new Date(resetAt * 1000)
+. Without it the date reads as January 1970 rather than failing, so this will not raise an error on its own.
+Python's 
+datetime.fromtimestamp
+ takes seconds, so code using it needs no change.
+If you read 
+Retry-After
+ or 
+X-RateLimit-Reset
+ instead of the response body, nothing changes for you.
+Aug 28, 2026
+Aug 28, 2026
+meta.total Is Now Opt-In
+Job listings no longer return meta.total unless the request asks for it with includeTotal=true, and listings return faster as a result.
+Job listings no longer include 
+meta.total
+ by default. Counting every matching job is the slowest part of a request, and most integrations page with 
+hasMore
+ and 
+nextCursor
+ without reading the total at all. Ask for it with 
+includeTotal=true
+ when you need it.
+Changed
+meta.total
+ is returned only when you pass 
+includeTotal=true
+.
+See the parameter reference
+When you request it, 
+total
+ is an exact count of your matches.
+ Requests carrying 
+q
+, 
+skills
+, 
+industry
+ or 
+location
+ previously received an estimate covering the whole dataset, which could be far larger than the result set.
+Improved
+Job listings return faster
+, filtered ones included.
+Every job now carries a 
+postedAt
+ date.
+ A small number had none. Those now use the date we first saw the posting, so they sort into a sensible position rather than last.
+Action needed
+If your integration reads 
+meta.total
+, add 
+includeTotal=true
+ and the value comes back as before. That request will be slower than one without it, and the count may be up to five minutes old.
+You do not need it to page through results: 
+hasMore
+ tells you whether another page exists and 
+nextCursor
+ fetches it. To show progress, count the records you have already received.
+Aug 19, 2026
+Aug 19, 2026
+Jobs Now Close When the Role Comes Down
+A job whose board stops listing it now moves to closed and sends a job.closed webhook, and a relisted role returns under its original id.
+Jobven now closes a job when the employer's board stops listing it. The job's 
+status
+ becomes 
+closed
+, a 
+job.closed
+ webhook goes out, and the listing drops out of the default job feed, so a role that has come down stops being served on your side too. Until now the closing half of that lifecycle did not complete, which is why 
+job.closed
+ was subscribable but never arrived.
+Improved
+job.closed
+ fires when a role comes down.
+ We re-check every employer's board on a schedule; a job that stops appearing across repeated checks is closed and the event sent. 
+See the event reference
+A relisted role comes back under its original 
+id
+.
+ If an employer puts a job back up, it reopens rather than arriving as a new listing, so the identifier you already stored stays valid.
+status=closed
+ returns results
+, and closed jobs remain fetchable by id after they drop out of the default feed.
+Changed
+A reopened job arrives as 
+job.created
+, not 
+job.updated
+.
+ You were told it closed, so there is nothing to apply an update to, and relisting at the same URL usually moves no tracked field — an update would often be suppressed and the job would stay closed on your side permanently.
+job.updated
+ does not fire on a status change.
+ This was always the case but was documented ambiguously. The tracked fields are 
+title
+, 
+salary
+, 
+employmentType
+, 
+remoteType
+, 
+applyUrl
+ and 
+expiresAt
+; status movements have their own events.
+status
+ documents two values, 
+active
+ and 
+closed
+.
+expired
+ appeared in the reference and was never returned by the API.
+Action needed
+None, if you already treat 
+job.created
+ as an upsert keyed on 
+id
+ — most consumers do. If yours inserts unconditionally, make that path an upsert before this reaches you, or a reopened role will arrive as a duplicate.
+Expect elevated 
+job.closed
+ volume for a while. Roles that came down before this shipped are still marked active, and they close as we work through the backlog rather than all at once.
+Aug 17, 2026
+Aug 17, 2026
+16,000 Job Locations Gained a Country
+Existing jobs that had a city but no addressCountry have been backfilled, so they now match country filters. For Morocco, Ukraine, Qatar, Bulgaria and Lithuania, this accounts for around 90% of the job locations now carrying those countries.
+When country coverage widened on 31 July, jobs already in the database kept the gap: we knew a job was in Doha or Vilnius, but the country code had been lost before we could store it, so those jobs matched no 
+country
+ filter at all. That has now been repaired for about 16,000 job locations.
+Improved
+Roughly 16,000 existing job locations now carry a country code
+ and are filterable like any other. The largest gains are the United States (4,074 locations), Lithuania (1,667), Morocco (1,432), Egypt (1,332), Qatar (932), Ukraine (872) and Bulgaria (841), with Luxembourg, Mauritius, Nigeria, Serbia, Kenya, Pakistan and the Maldives close behind. For several of the smaller ones the effect is most of the coverage: around 90% of the job locations now filterable as Morocco, Ukraine, Qatar, Bulgaria or Lithuania were repaired here.
+New jobs no longer arrive with the gap.
+ The same repair runs at processing time, so a job whose country we can determine from its city, region or source now gets it immediately.
+Unchanged
+About 3,700 locations still have a city and no 
+addressCountry
+, and that is deliberate.
+ These are places we cannot confidently resolve, and a wrong country is worse than an absent one. They continue to match no 
+country
+ filter, including 
+XX
+. To include them, omit the 
+country
+ filter and read 
+addressLocality
+. 
+See Data Types
+country=XX
+ still means what it meant:
+ no location information at all. Nothing about that filter changed here.
+Action needed
+If you subscribe to webhooks, 
+no 
+job.updated
+ event was sent for these corrections
+. Location changes are outside the field set that triggers 
+job.updated
+, so a repair of this kind is invisible to webhook subscribers by design. If you keep a local copy of job data, re-pull the jobs you care about rather than waiting for an event. Nothing changed for anyone reading the API directly.
+Aug 17, 2026
+Aug 17, 2026
+One Monthly Limit, and Usage That Resets Each Period
+Monthly usage now resets at the start of each billing period, after a fault left some counters carrying over indefinitely. Credits and API calls have also collapsed into a single limit, and the rate-limit headers now report the ceiling actually enforced on your account.
+Accounts not billed through Stripe were not having their usage counters reset when a billing period rolled over. Usage carried from one period into the next indefinitely, so an account that once reached its monthly limit stayed there, returning 
+429
+ responses even with no requests made in the current period. Affected counters have been corrected and the renewal path is fixed.
+Fixed
+Monthly usage resets at the start of each billing period.
+ Any account whose counter had carried over has been reset; no action is needed to clear it.
+X-RateLimit-Limit
+ and 
+X-RateLimit-Remaining
+ report the limit actually enforced on your account.
+ Where a limit different from the plan's published allowance had been agreed, the headers previously showed the plan's number and the remaining count tracked a figure that no longer governed anything. 
+See Handle Rate Limits
+Subscription endpoints verify ownership
+ and reject fields intended for internal use. We found no evidence of either being exploited.
+Changed
+Credits and API calls are now a single monthly limit.
+ Every plan set the two to the same number, so for almost everyone the point at which you are limited is unchanged. Your monthly API call allowance is the limit. 
+creditsRemaining
+, 
+creditsUsedThisPeriod
+, 
+monthlyCredits
+, 
+creditOveragePrice
+ and 
+apiCallsPerDay
+ are deprecated and scheduled for removal after 17 November 2026.
+New accounts receive the full 700 calls advertised for the 7-day trial.
+ The allowance was tracked in a counter that no longer decided whether a request was accepted, so a trial was in practice capped at the free plan's 300. It drops to 300 a month when the trial converts, as documented.
+Action needed
+If you alert on 
+X-RateLimit-Limit
+ or 
+X-RateLimit-Remaining
+, the values are now correct where they were previously wrong for accounts on an agreed limit. If you read 
+creditsRemaining
+ to track your quota, move to the two headers before the removal date above.
+Aug 8, 2026
+Aug 8, 2026
+Try the API Without a Key, and Larger Free Pages
+A new public sample endpoint returns one real job record with no authentication, free plans now return up to 25 jobs per request, and timestamps are returned as JSON numbers.
+Added
+GET /v1/public/jobs/sample
+ returns the newest job with no API key required. It includes all three description formats so you can see the full response shape before signing up. Descriptions are trimmed to a 300 character preview; add 
+?full=true
+ for the complete text. Cached for 5 minutes, limited to 10 requests per minute per IP.
+A live sample on the landing page and in the 
+quick start guide
+, so the response you see is the response you get.
+Changed
+Free plans can now request up to 25 jobs per request
+, up from 10. Starter remains 50 and Growth and above remain 100. A call costs one credit regardless of how many jobs come back, so raising your 
+limit
+ stretches your monthly quota further.
+postedAt
+ and 
+expiresAt
+ are returned as JSON numbers
+, for example 
+1786198447
+ rather than 
+"1786198447"
+. The unit is unchanged: still Unix seconds.
+A malformed job ID returns 400 instead of 500.
+GET /v1/public/jobs/not-a-uuid
+ is now a validation error. A well-formed ID that does not exist still returns 404.
+The 
+data types reference
+ now documents timestamp units and the benefit token vocabulary
+, and the response examples throughout the docs have been brought in line with what the API returns.
+Action needed
+If your code treats 
+postedAt
+ or 
+expiresAt
+ as a string, by calling string methods on it or comparing it to a quoted value, update it to handle a number. Arithmetic such as 
+postedAt * 1000
+ needs no change.
+Aug 2, 2026
+Aug 2, 2026
+job.deleted Now Reaches Filtered Subscriptions
+Deletion events were only reaching subscriptions with no filter set. They now go to every subscriber, so nothing is left serving a job that no longer exists.
+If your webhook subscription had a filter on it, you were not receiving 
+job.deleted
+. Removals happened, your endpoint heard nothing, and your store kept serving jobs that were gone from Jobven. Only subscriptions with an empty filter were unaffected.
+Fixed
+job.deleted
+ now reaches every subscriber.
+ The event carries a deliberately small payload — by the time it fires, the record is on its way out — and it was being tested against subscription filters that name fields the payload doesn't include. Nothing matched, so nothing was sent.
+Changed
+job.deleted
+ no longer respects your filter.
+ You receive it for every removal, including jobs that never matched your criteria. We can't determine who was holding a job from its final state — a job can reach you under one set of attributes and be deleted under another — so the only way to guarantee nobody is left with a stale record is to tell everyone. If you don't recognise the 
+id
+ or 
+applyUrl
+, ignore the event. 
+job.created
+, 
+job.updated
+ and 
+job.closed
+ are filtered exactly as before. See 
+Filter scope
+.
+Deleted jobs are now retained briefly before permanent removal
+, so a job removed in error can be restored with its original 
+id
+ rather than reappearing under a new one.
+Action needed
+None, if your consumer already ignores unrecognised jobs — most do. If it errors on an unknown 
+id
+, make that path a no-op before this reaches you. Expect a modest increase in delivery volume against your quota, proportional to how narrow your filter is.
+Jul 31, 2026
+Jul 31, 2026
+More Accurate Country Filtering
+country=XX now returns only jobs with no location at all, and every ISO country code is supported.
+If you filtered for remote work with 
+country=XX
+, you were also getting onsite roles in cities we couldn't place — a job in Doha or Karachi could arrive alongside genuinely location-independent ones. That's fixed, and country coverage is much wider.
+Improved
+country=XX
+ means what it says
+ — jobs with no location information at all, typically "work from anywhere" postings. It no longer collects jobs we simply couldn't identify a country for.
+Every ISO 3166-1 alpha-2 country is supported
+, up from around 50. Jobs in Qatar, Pakistan, Egypt, Barbados and many others now carry their real country code and are filterable like anywhere else.
+Country names and older codes resolve properly
+ — a posting listing "Qatar" or "UK" lands under 
+QA
+ and 
+GB
+ rather than being dropped.
+Changed
+A location can now have a city but 
+no 
+addressCountry
+, meaning we know where the job is but couldn't confidently identify the country. These match no 
+country
+ filter, including 
+XX
+. To include them, omit the 
+country
+ filter and read 
+addressLocality
+. 
+See Data Types
+If you were treating 
+XX
+ as "remote", filter on 
+remoteType
+ or the per-location 
+workLocation
+ instead — 
+XX
+ describes missing location data, not work arrangement.
+Jun 6, 2026
+Jun 6, 2026
+New API Guides and Code Examples
+Three new integration guides, per-language code examples, and clearer timestamp and rate-limit docs.
+We've expanded the docs to cover the integrations developers ask about most, with copy-paste examples in your language of choice.
+Added
+Sync only new jobs
+ — fetch just what's changed since your last run with 
+postedAfter
+. 
+Read the guide
+Handle rate limits
+ — read the rate limit headers, tell burst limits from your monthly quota, and retry safely. 
+Read the guide
+Build a job board
+ — an end-to-end tutorial: sync, store, search, and add SEO-ready job pages. 
+Read the guide
+Per-language code examples
+ — JavaScript, Python, and cURL pages for fetching, filtering, pagination, and error handling. 
+Browse them
+Improved
+Clarified that 
+postedAfter
+, 
+postedAt
+, and 
+expiresAt
+ are Unix timestamps in 
+seconds
+.
+Corrected the rate-limit reference: the 
+X-RateLimit-*
+ headers report your monthly quota, and a throttled request returns 
+retryAfter
+ (seconds) in the response body. 
+See Authentication
+May 16, 2026
+May 16, 2026
+Webhooks: Real-Time Job Lifecycle Events
+Subscribe to job.created, job.updated, job.closed, and job.deleted events. HMAC-signed, retried on failure, with a verification gate that prevents flood-on-create.
+Webhooks are live. Instead of polling for new listings, subscribe to job lifecycle events and receive them at your HTTPS endpoint in near-real-time. Available on 
+Starter, Growth, Professional, and Scale
+ plans.
+Added
+Four event types
+: 
+job.created
+, 
+job.updated
+, 
+job.closed
+, 
+job.deleted
+. See 
+event reference
+ for payload shapes.
+HMAC-SHA256 signature verification
+ with a 5-minute replay window. Verifier recipes for TypeScript, Python, and Go in 
+the docs
+.
+At-least-once delivery
+ with retries and auto-disable after a sustained failure streak. Re-enable returns the 
+postedAfter
+ / 
+postedBefore
+ bounds for the disable window so you can replay missed events through your existing Pull integration.
+Dashboard UI
+ at 
+/dashboard/webhooks
+ — create, manage, view deliveries, rotate the signing secret, send test events.
+Filter support
+ — subscriptions accept a subset of the 
+Pull API filter shape
+ so you only receive the events you care about.
+Changed — Verification gate
+New subscriptions start in 
+pending_verification
+ and don't receive events until you successfully send a test from the dashboard. Prevents an unfinished endpoint from being flooded the moment you save the subscription.
+Re-enable routes through the same gate.
+ Auto-disabled subscriptions still get the backfill window for Pull-replay, but live delivery doesn't resume until a fresh test succeeds.
+The gate is a deliberate divergence from Stripe / GitHub / Shopify, which all default to active. Our event rate makes a flood-on-broken-endpoint expensive enough to justify one extra click.
+See the 
+Webhooks documentation
+ for the full lifecycle table and integration guide.
+Apr 18, 2026
+Apr 18, 2026
+Plain Text and Markdown Job Descriptions
+Request job descriptions as plain text or markdown alongside the default sanitized HTML.
+Job descriptions can now be returned as plain text or markdown, not just HTML. Pick the format that fits your pipeline — search indexing, email digests, LLM prompts, or markdown-native UIs — without client-side conversion.
+Added
+descriptionFormat
+ query parameter
+ on 
+GET /v1/public/jobs
+ and 
+GET /v1/public/jobs/:id
+. Values: 
+html
+ (default, unchanged behavior), 
+plain
+, 
+markdown
+, or 
+all
+. 
+View docs
+descriptionPlain
+ — plaintext rendering with paragraphs, lists, and headings preserved. Returned when 
+descriptionFormat=plain
+ or 
+descriptionFormat=all
+.
+descriptionMarkdown
+ — CommonMark markdown with ATX headings, 
+-
+ bullets, fenced code blocks, and standard emphasis. Returned when 
+descriptionFormat=markdown
+ or 
+descriptionFormat=all
+.
+Changed
+When 
+descriptionFormat=plain
+ or 
+descriptionFormat=markdown
+, the HTML 
+description
+ field is suppressed in favor of the requested format. Default behavior (
+html
+) is unchanged — existing integrations see no difference.
+All three formats are precomputed at sync time, so responses stay fast even with 
+descriptionFormat=all
+.
+Dec 27, 2025
+Dec 27, 2025
+December 2025 Updates
+New sorting options, comprehensive API documentation, and important fixes.
+A month of improvements since launch, focused on documentation and API usability.
+Added
+Sorting options
+ - Sort jobs by 
+postedAt
+, 
+salary
+, or 
+title
+ using the new 
+sortBy
+ parameter
+Jobs API reference
+ - Complete endpoint documentation with request/response examples. 
+View docs
+Companies API reference
+ - Complete endpoint documentation for company data. 
+View docs
+Filtering guide
+ - How to filter jobs by skills, location, and salary. 
+View guide
+Code examples
+ - JavaScript, Python, and cURL examples for the Jobs API
+Blog
+ - Product updates and tutorials at 
+/blog
+Mobile docs navigation
+ - Easier documentation access on mobile devices
+Health check endpoint
+ - 
+GET /api/info
+ for monitoring API status
+Company fields
+ - Basic company data (name, logo, website) now available in API responses
+Improved
+Free tier limits
+ - Updated documentation to reflect current limits
+Platform stats
+ - Faster loading on dashboard and landing pages
+Fixed
+Salary filter
+ - Now correctly handles decimal values
+Timestamp documentation
+ - Clarified that timestamps are Unix seconds
+Dec 1, 2025
+Dec 1, 2025
+Public API Launch 🚀
+Jobven's public job data API is now available. Access fresh job listings sourced directly from employer career pages.
+I’m excited to share that the 
+Jobven public API is now live
+.
+Jobven currently indexes a little over 
+10,000 job postings
+ from about 
+150 employer websites
+. It is still early, but everything in the system is real, working, and improving day by day.
+What is Jobven?
+Jobven collects fresh job postings directly from employer career pages, not from job boards or repost networks.
+Each posting is cleaned, structured, and enriched with metadata such as skills, salary ranges when provided, and experience levels.
+Current Highlights
+🔍 Full text search across job titles, descriptions, and skills
+🌍 Early global coverage with remote, hybrid, and on site filtering
+💰 Normalized salary fields when salary data is available
+🏢 Company profiles with logos and basic metadata
+⚡ Fast responses with cursor based pagination
+📊 Continuous indexing with daily freshness updates
+Getting Started
+Create an account
+ to get your API key
+Follow the 
+Quick Start Guide
+This release is a big milestone for Jobven and marks the start of what I hope will become a useful data service.
+If you have questions, feedback, or ideas, you can reach me at 
+[email protected]
+.
+Product
+Pricing
+Documentation
+Changelog
+Company
+Contact
+Legal
+Privacy
+Terms
+Cookie preferences
+Contact Us
+ Fresh, structured job data via API 
+ © 2026 Jobven 

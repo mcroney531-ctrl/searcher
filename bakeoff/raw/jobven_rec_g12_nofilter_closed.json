@@ -1,0 +1,54 @@
+{
+ "call_id": "rec_g12_nofilter_closed",
+ "phase": "recall",
+ "url": "https://api.jobven.com/v1/public/jobs?q=%22Technical+Training+Content+Developer%22&status=closed&limit=5",
+ "params": [
+  [
+   "q",
+   "\"Technical Training Content Developer\""
+  ],
+  [
+   "status",
+   "closed"
+  ],
+  [
+   "limit",
+   5
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:25:21 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "108",
+  "connection": "close",
+  "server": "cloudflare",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "9925f4f5-8a4b-49da-a057-cf7651c7297f",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2395",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "11",
+  "etag": "W/\"6c-I2Z/chV4d0q4Z2aNI+IFqWE0J8U\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=vOrks3DhuFWJxFGE%2FD39hA37uJ0Eb86p2tW4V6tov7Sj2s350utxUO%2F0ewREnaGTF34YYYqjCoUYiE%2F8Jaevkg631WEnDJLkfFrr9KB3%2FR1S74bfFzr5D6Mtb3T%2F28zPRfcbmqBfVTs3YpckMA%3D%3D\"}]}",
+  "cf-ray": "a406ebceed01c420-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [],
+  "meta": {
+   "count": 0,
+   "hasMore": false,
+   "requestTimeMs": 11,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

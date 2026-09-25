@@ -1,0 +1,167 @@
+{
+ "call_id": "fam_size_desc_training_curriculum_noexcl",
+ "phase": "family",
+ "url": "https://api.jobven.com/v1/public/jobs?descriptionQuery=training+curriculum&country=US&remoteType%5B%5D=remote&postedAfter=1789702200&limit=1&includeTotal=true",
+ "params": [
+  [
+   "descriptionQuery",
+   "training curriculum"
+  ],
+  [
+   "country",
+   "US"
+  ],
+  [
+   "remoteType[]",
+   "remote"
+  ],
+  [
+   "postedAfter",
+   1789702200
+  ],
+  [
+   "limit",
+   1
+  ],
+  [
+   "includeTotal",
+   "true"
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:28:00 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "transfer-encoding": "chunked",
+  "connection": "close",
+  "server": "cloudflare",
+  "vary": "Accept-Encoding",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "728e787b-d43f-42f8-b6c5-a038489114ff",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2362",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "575",
+  "etag": "W/\"419d-4XwuqGdlTqQgaeMrSD3J4qFVxQc\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=klSyCTAaV0fWHUxh8MujYI%2FeRtJkafEdWO5%2Fco81kxcbXERQ%2BsholBtAWCAy7%2FxNqatm1YwNAtSmpCzq5KIKYY7RKPDrUjFNxqlsEBVKLi3bMMGREdI%2BO5gPgmZH6G6oB%2F4nN7JbePSug6viPA%3D%3D\"}]}",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "cf-ray": "a406efb07e2541bb-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "id": "6207245c-2c8b-42a0-853e-88b33e7db3db",
+    "title": "Sales Representative I, Spine - Washington Dc",
+    "description": "We anticipate the application window for this opening will close on - 30 Sep 2026<p><br>&nbsp;</p><p>Careers that change lives start here. Medtronic is a global leader in healthcare technology with a Mission to alleviate pain, restore health, and extend life. Our 95,000 employees work across more than 150 countries to put patients first — developing innovative medical technologies that improve the lives of 72+ million patients each year. Your unique talents will help shape the future of healthcare while building a career grounded in purpose, growth, and impact.</p><h1><b>A Day in the Life</b></h1>We are seeking a committed professional to join our team. While this is a remote position not located at a physical Medtronic site, the candidate hired will be required to reside within the territory and drive to multiple accounts throughout the region. A valid driver's license is essential for this role.<p>As one of three comprehensive portfolios at Medtronic, Neuroscience is dedicated to improving the lives of people living with neurological disorders, spine conditions, and chronic pain. Guided by our Mission—to alleviate pain, restore health, and extend life—we develop technologies and therapies that help people regain function, reduce pain, and return to the activities that matter most.</p><br><p>Our Cranial &amp; Spinal Technologies (CST) Operating Unit develops and delivers an integrated ecosystem of spinal implants, navigation and robotic guidance systems, advanced imaging, and data-driven planning tools for complex spine and cranial procedures. Platforms such as AiBLE™ connect these technologies to enhance surgical precision, streamline workflows, and support improved patient outcomes across the globe.</p><br><p>Check us out on LinkedIn: <a href=\"https://www.linkedin.com/company/medtronic-brain-and-spine-therapies/posts/?feedView=all\">Medtronic CST</a></p><br><p>At Medtronic, the Sales Representative I, Spine is responsible for soliciting orders, selling Medtronic Spinal products assigned and representing the company in accordance with its policies and in the area assigned; for maintaining an awareness of local competitive conditions.&nbsp; This position will work in tandem with Spine Sales Representatives II and will have territory coverage responsibility and limited sales <span>responsibility.&nbsp;</span> Allocation guideline for core responsibilities include: Inventory Management, Case Coverage, and Selling (outside the operating room).</p><br><p>This is a&nbsp;<b>field-based</b>&nbsp;role.</p><br><p>We are seeking a committed professional, required to reside within the territory and drive to multiple accounts throughout the region, to join our winning team. A valid driver's license is essential for this role, which also includes travel outside the territory, presenting opportunities for broader engagement.</p><br><p>Responsibilities may include the following and other duties may be assigned:</p><ul><li>Maintain, manage and track Consignments and Loaner inventory.</li><li>Keep non usage and flight usage to a minimum level.</li><li>Territory case coverage.</li><li>Manage accounts in assigned territory.</li><li>Prepare and submit call reports as required by the District Sales Manager.</li><li>Maintain up-to-date customer record books and other records in accordance with District Sales Manager’s instructions.</li><li>Aggressively solicit orders from present and prospective customers for the products assigned.</li><li>Aggressively seek new customers and formulate and follow plans for such action as directed by the District Sales Manager.</li><li>Resolve customer complaints in accordance with Medtronic Spinal policies and advise District Sales Manager and Medtronic Spinal promptly of any situation beyond scope of authority.</li><li>Recommend the additions of new products and the modification or deletion of present products to the line as appropriate.</li><li>Successful completion of all required product and sales related training curriculum.</li><li>Meet or exceed sales quota and total company market share in assigned territory.</li><li>Attend and participate in sales meetings, training programs and conventions as directed.</li><li>Identify selling opportunities and work closely with the sales representative to increase sales in their respective accounts.</li><li>Comply with all Medtronic Spinal policies.</li><li>Work weekends, evenings, and Holidays as required on an emergency basis.</li></ul><br><p>We seek&nbsp;out and hire a diverse workforce at every level: We need fresh ideas and inclusive insights to&nbsp;continue to be an innovative industry leader&nbsp;—that’s why we make it a point to seek out, attract and <span>develop&nbsp;employees</span> who are patient-centric, passionate, and who represent the same wide variety of life experiences as&nbsp;our patients.</p><br><p>To learn&nbsp;more about Inclusion &amp; Diversity at Medtronic&nbsp;<a href=\"https://www.medtronic.com/us-en/about/careers/diversity-inclusion.html\">Click Here</a></p><br><p><b>Qualifications: </b></p><br><p><b>Must Have: Minimum Requirements:&nbsp;</b></p><p><i>To be considered for this role, please ensure the minimum requirements are evident in your applicant profile.</i></p><br><ul><li>High School Diploma (or equivalent) AND 4+ years of experience*</li><li>OR Associate’s Degree AND 2+ years of experience*</li><li>OR Bachelor’s Degree</li></ul><br><p>*Relevant sales, clinical, or related experience in medical devices, medtech, healthcare, or life sciences</p><br><br><p><b>Nice to Have:&nbsp;</b></p><br><p>•&nbsp; Ability to interact effectively with a wide range of people and personalities</p><p>•&nbsp; Excellent written and verbal communication skills</p><p>•&nbsp; Ability to work in an operating room setting</p><p>•&nbsp; Ability to accommodate a flexible work schedule</p><p>•&nbsp; Ortho, Spine or O.R. experience strongly preferred</p><br><p><b>Additional Job Requirements:</b></p><br><p>•&nbsp; While performing the duties of this job, the employee is regularly required to be independently mobile</p><p>•&nbsp; Required to interact with a computer for extended periods of time, and communicate with peers and co-workers</p><p>•&nbsp; Regularly required to talk or hear</p><p>•&nbsp; Occasionally required to sit and reach with hands and arms&nbsp;</p><p>•&nbsp; Regularly required to stand; walk and use hands to finger, handle, or feel objects, tools , or controls</p><p>•&nbsp; Must frequently lift and/or move up to 50 pounds</p><p>•&nbsp; Specific vision abilities required by this job involve normal vision</p><p>•&nbsp; Ability to travel</p><ul><li>Must have a valid driver's license and active vehicle insurance policy.&nbsp; In addition, your driving record will be reviewed and will be considered as part of your application.&nbsp;</li></ul><br><br><p>For Baccalaureate degrees earned outside of the United States, a degree that satisfies the requirements of 8 C.F.R. § 214.2(h)(4)(iii)(A) is required.</p><p><b>Physical Job Requirements</b></p><p>The above statements are intended to describe the general nature and level of work being performed by employees assigned to this position, but they are not an exhaustive list of all the required responsibilities and skills of this position. </p><p>The physical demands described within the Responsibilities section of this job description are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. For Office Roles: While performing the duties of this job, the employee is regularly required to be independently mobile. The employee is also required to interact with a computer, and communicate with peers and co-workers. Contact your manager or local HR to understand the Work Conditions and Physical requirements that may be specific to each role.</p><p><b>U.S. Work Authorization &amp; Sponsorship </b></p><p>At Medtronic, we are committed to fostering an environment where employees can thrive and make a meaningful impact. In alignment with our enterprise-wide workforce planning approach, U.S. work authorization sponsorship (H-1B, TN, J, etc.) is offered exclusively for Principal-level roles and above, where specialized expertise aligns with long-term business needs. Roles below the Principal level require candidates to possess unrestricted U.S. work authorization at the time of hire and for the duration of employment.</p><p>‌</p><p><b>Recruitment Fraud Alert</b></p><p><span>We are aware of phishing scams targeting job seekers. Please keep the following in mind:&nbsp;</span></p><br><p><span>Apply only through official Medtronic channels. All legitimate Medtronic recruiting communications come from approved Medtronic platforms and official @medtronic.com email addresses.&nbsp;</span></p><br><p><span>Medtronic will never ask for payment or sensitive personal information (such as bank account or Social Security details) during early stages of the hiring process. Any such requests are not legitimate.&nbsp;</span></p><br><p><span>If you receive a suspicious message claiming to be from Medtronic, do not respond, click links, or open attachments.&nbsp;</span></p><br><p><span>If you have any questions, concerns regarding the authenticity of a communication alleged to have been made by or on behalf of Medtronic, please contact us immediately at </span><a href=\"mailto:AskHR@medtronic.com\"><span><u>AskHR@medtronic.com</u></span></a>.&nbsp;</p><p>‌</p><h1><b>Benefits &amp; Compensation</b><br>&nbsp;</h1><p><b>Medtronic offers a competitive Salary and flexible Benefits Package</b><br>A commitment to our employees lives at the core of our values. We recognize their contributions. They share in the success they help to create. We offer a wide range of benefits, resources, and competitive compensation plans designed to support you at every career and life stage.<br>&nbsp;</p>Salary ranges for U.S (excl. PR) locations (USD):$60,000.00 - $60,000.00<br>The base salary range is applicable across the United States, excluding Puerto Rico and specific locations in California. The offered rate complies with federal and local regulations and may vary based on factors such as experience, <span>certification/education,</span> market conditions, and location. Compensation and benefits information pertains solely to candidates hired within the United States (local market compensation and benefits will apply for others).<br><br>In addition to Base Salary, this position is eligible for a Sales Incentive Plan (SIP), <span>which&nbsp;provides&nbsp;the</span> opportunity to earn significant incentive compensation for achieving or exceeding your goals.<p><span>The following benefits and additional compensation are available to those regular employees who work 20+ hours per week: Health, Dental and vision insurance</span><span>,</span><span>Health Savings Account</span><span>,</span><span>Healthcare Flexible Spending Account</span><span>,</span><span>Life insurance, Long-term disability leave</span><span>,</span><span>Dependent daycare spending account</span><span>,</span><span>Tuition <span><span><span><span><span>assistance/reimbursement</span></span></span></span></span></span><span>, and</span><span>Simple Steps (global well-being program).</span></p><p><span>The following benefits and additional compensation are available to all regular employees:</span><span>Incentive plans, 401(k) plan plus employer contribution and match</span><span>,</span><span>Short-term disability</span><span>,</span><span>Paid time off</span><span>,</span><span>Paid holidays</span><span>,</span><span>Employee Stock Purchase Plan</span><span>,</span><span>Employee Assistance Program</span><span>,</span><span>Non-qualified Retirement Plan Supplement (subject to IRS earning minimums)</span><span>, and</span><span>Capital Accumulation Plan (available to Vice Presidents and above, or subject to IRS earning minimums).</span></p><p><span>Regular employees are those who are not temporary, such as interns.&nbsp; Temporary employees are eligible for paid sick time, as required under applicable state law, and the Employee Stock Purchase Plan. </span><span>Please note some of the above benefits may not apply to workers in Puerto Rico.</span></p><p><span>Further details are available at the link below:</span></p><p><a href=\"https://www3.benefitsolver.com/benefits/BenefitSolverView?page_name=signon&amp;co_num=30601&amp;co_affid=medtronic\">Medtronic benefits and compensation plans</a></p><p>It is the policy of Medtronic to provide equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state or local law. In addition, Medtronic will provide reasonable accommodations for qualified individuals with disabilities.</p><br><p>If you are applying to perform work for Medtronic, Inc. (“Medtronic”) in any position which will involve performing at least two (2) hours of work on average each week within the unincorporated areas of Los Angeles County, you can find&nbsp;<a href=\"https://www.medtronic.com/content/dam/medtronic-wide/public/united-states/employee-support-services/careers/la-county-legal-notice.pdf\">here</a> a list of all material job duties of the specific job position which Medtronic reasonably believes that criminal history may have a direct, adverse and negative relationship potentially resulting in the withdrawal of a conditional offer of employment. Medtronic will consider for employment qualified job applicants with arrest or conviction records in accordance with the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act.</p>",
+    "summary": "The Sales Representative I, Spine sells and supports Medtronic spinal products across an assigned territory, working with Spine Sales Representatives II and covering customer accounts. Responsibilities include inventory and consignment management, operating room case coverage, account management, order solicitation, customer support, sales reporting, training, and meeting sales goals. The role is remote but territory-based, requires driving to multiple accounts, and may include travel outside the territory and emergency weekend, evening, or holiday work.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressRegion": "District Of Columbia",
+      "addressCountry": "US",
+      "addressLocality": "Washington"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Interpersonal Skills",
+      "Adaptability"
+     ],
+     "primary_skills": [
+      "Medical Device Sales",
+      "Spine Product Sales",
+      "Inventory Management",
+      "Territory Management",
+      "Account Management",
+      "Sales Quota Management",
+      "Operating Room Case Coverage",
+      "Sales Reporting",
+      "Product and Sales Training",
+      "Valid Driver's License"
+     ],
+     "secondary_skills": [
+      "Orthopedics",
+      "Spine Surgery",
+      "Operating Room Experience",
+      "Medical Technology",
+      "Healthcare",
+      "Life Sciences",
+      "Vehicle Insurance"
+     ]
+    },
+    "benefits": [
+     "health_insurance",
+     "dental_insurance",
+     "vision_care",
+     "wellness_program",
+     "life_insurance",
+     "disability_insurance",
+     "tuition_reimbursement",
+     "pensions_401k",
+     "pension_contribution_matching",
+     "paid_time_off_vacation_personal_days",
+     "performance_bonuses",
+     "stock_options_equity",
+     "mental_health_support",
+     "sick_leave",
+     "other_benefits"
+    ],
+    "salary": {
+     "max": 60000,
+     "min": 60000,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "mid",
+    "employmentType": "full_time",
+    "minYearsExperience": 2,
+    "educationRequirement": {
+     "required": [
+      "high_school",
+      "associate_degree",
+      "bachelor_degree"
+     ],
+     "preferred": [
+      "master_degree"
+     ]
+    },
+    "industry": [
+     "healthcare_medical"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": true,
+    "travelPercentage": null,
+    "postedAt": 1790121600,
+    "expiresAt": 1790812799,
+    "applyUrl": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Washington-District-of-Columbia-United-States-of-America/Sales-Representative-I--Spine---Washington-DC_R78232-1",
+    "status": "active",
+    "companies": [
+     {
+      "name": "medtronic.com",
+      "website": "medtronic.com"
+     }
+    ]
+   }
+  ],
+  "meta": {
+   "total": 2,
+   "count": 1,
+   "nextCursor": "eyJpZCI6IjYyMDcyNDVjLTJjOGItNDJhMC04NTNlLTg4YjMzZTdkYjNkYiIsInNvcnRWYWx1ZSI6MTc5MDEyMTYwMCwidGllQnJlYWtlciI6IjIwMjYtMDktMjNUMjA6NDg6MzguODkyWiJ9",
+   "hasMore": true,
+   "requestTimeMs": 574,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

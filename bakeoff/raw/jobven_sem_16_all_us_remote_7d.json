@@ -1,0 +1,129 @@
+{
+ "call_id": "sem_16_all_us_remote_7d",
+ "phase": "semantics",
+ "url": "https://api.jobven.com/v1/public/jobs?country=US&remoteType%5B%5D=remote&postedAfter=1789701404&limit=1&includeTotal=true",
+ "params": [
+  [
+   "country",
+   "US"
+  ],
+  [
+   "remoteType[]",
+   "remote"
+  ],
+  [
+   "postedAfter",
+   1789701404
+  ],
+  [
+   "limit",
+   1
+  ],
+  [
+   "includeTotal",
+   "true"
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:17:09 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "transfer-encoding": "chunked",
+  "connection": "close",
+  "server": "cloudflare",
+  "vary": "Accept-Encoding",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "4bed54b4-a934-44cf-b214-41ef4e6960db",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2490",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "45",
+  "etag": "W/\"24d5-TPr4bx7ND9XUuecHom19RY7LY/w\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=6EYTJpUM9A0LLys8vk%2B75%2BgDndeU5brw5AFOv%2B1nLCJx7d2UxYrTe1OSer1tkOm6a8wSu1Ef3H8LzZGJRydXrIEgoJDkFPRR7FhB2pNfoMJMEgQ2ORdJ86M%2F0p1eBB8xq8d7ccc%2BXe1HB5bELQ%3D%3D\"}]}",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "cf-ray": "a406dfcf2ccad73b-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "id": "a3363a9d-5c4f-46bb-9b57-c5b1f15fbede",
+    "title": "Corporate Program Manager, Firmwide",
+    "description": "<h2><strong>The Mission</strong></h2><p>Drug discovery has a translation problem: more than 95% of drugs that succeed in animal models fail in humans. We're building the alternative: human-first drug discovery, powered by organoids and AI, running on real human biology from the very first experiment.</p><p>Our platform is 87% concordant with clinical patient data - a vast improvement over the 3% translational success rate of animals. We’ve demonstrated the ability to model immunotoxicology, immunogen stimulation, and two autoimmune diseases with more on the way. Numerous pharma partners including 3 Fortune 500 companies are already using the platform. We've raised ~$30M from AIX Ventures, Marc Benioff, Jeff Dean, and Y Combinator. With the FDA Modernization Act 3.0 and the FDA's March 2026 validation framework, the regulatory tailwinds only continue to get stronger.</p><p>The opportunity ahead of the company is generational: build the first scaled engine for generating real human biological data, and use it to fundamentally change how medicines are discovered.</p><p><strong>The Role</strong></p><p>We are looking for a Corporate Program Manager to steward the company's most important programs and initiatives and see them through.</p><p>The leverage here is high. You sit close to the executive team and the functions at once, translating between strategy and execution and bringing inputs from across the company into a cohesive, measurable plan.</p><p>The work covers the initiatives that matter most at any given time, along with the planning artifacts that represent them: company and function roadmaps, OKRs, and the materials that go to investors and to the team. That means holding a single source of truth, keeping terminology and timelines consistent across every artifact, working with function owners for the pieces only they can deliver, and getting the whole thing finished against a date that does not move.</p><p>The role sets the operating rhythm of the organization: sprint cadence, clear ownership on every initiative, and measurable outcomes. It runs across functions and across time zones, coordinating dependencies and surfacing blockers early. It also owns the consolidation of our project management tooling onto a single designated system, and getting the company working in it.</p><p><strong>What You'll Own</strong></p><p><em>Program Leadership</em></p><ul><li><p>Steward the company's highest-priority initiatives, holding scope, owners and timelines from first definition through to delivery.</p></li><li><p>Support the Executive Team on critical initiatives and strategic opportunities, with real-time visibility into where everything stands.</p></li><li><p>Coordinate cross-functional initiatives spanning Science, Platform, Technology and the Executive Team, with priorities and dependencies visible to everyone who needs them.</p></li><li><p>Work in lockstep with Finance and Operations, ensuring resourcing and timelines reflect what the budget and the operating constraints actually support.</p></li><li><p>Surface risks, remove obstacles, and resolve dependencies.</p></li></ul><p><em>Roadmaps and Planning Artifacts</em></p><ul><li><p>Steward the company and function roadmaps from first draft through to the version the organization runs on.</p></li><li><p>Maintain one canonical version of each artifact, in a known location, and keep terminology, timelines and numbers consistent across every roadmap, deck and planning document.</p></li><li><p>Work with functional owners to bring in their contributions on schedule.</p></li><li><p>Make sure each artifact reads as a single argument, with the functional detail tracing back to the company priorities it serves.</p></li></ul><p><em>Communications and Stakeholder Engagement</em></p><ul><li><p>Develop and calibrate content for executive communications, presentations, and strategic narratives for leadership, internal functions, and external audiences.</p></li><li><p>Centralize decisions, documentation, and updates in Notion and the project management tool, and streamline communication in Slack.</p></li></ul><p><em>Team Effectiveness and Governance</em></p><ul><li><p>Drive the effectiveness of the Leadership Team through operating rhythms, decision frameworks, and accountability processes.</p></li><li><p>Facilitate business reviews, planning sessions, and leadership meetings across time zones, structured to produce decisions rather than a list of follow-ups.</p></li><li><p>Align leaders around priorities, decisions, and execution.</p></li><li><p>Improve the speed and quality of decision-making across the organization.</p></li></ul><p><em>Operating Model</em></p><ul><li><p>Own and continuously improve how the company plans, governs, and communicates.</p></li><li><p>Integrate priorities into quarterly, annual, and long-range planning.</p></li><li><p>Drive OKR governance, measurement, and accountability.</p></li><li><p>Protect the top priorities from everything competing for the same attention and resources.</p></li><li><p>Improve cross-functional coordination and organizational execution.</p></li></ul><p><em>Systems Consolidation</em></p><ul><li><p>Own the migration of projects, issues and history onto a single designated project management system, and get the whole company working in it.</p></li><li><p>Define how that system is structured: project hierarchy, issue types, statuses, ownership fields, and how roadmaps map onto the work underneath them.</p></li><li><p>Drive adoption across functions, and retire legacy tools once migrations are complete.</p></li></ul><p><strong>Qualifications</strong></p><ul><li><p><strong>Experience:</strong> 5+ years supporting senior leadership or operations, including at least two startups or high-growth teams in biotech, deep tech, or science-driven environments.</p></li><li><p><strong>Program Ownership:</strong> You have stewarded high-stakes programs and the materials that represent them as the single accountable person for the process.</p></li><li><p><strong>Distributed Teams:</strong> You have run programs across time zones and know how to keep momentum across them.</p></li><li><p><strong>Narrative Sense:</strong> You can tell when a document does not hang together and fix it.</p></li><li><p><strong>Consolidation Experience:</strong> You have consolidated teams onto a single project management system before, and you know that the hard part is adoption rather than data transfer.</p></li><li><p><strong>Stack Fluency:</strong> Deep working knowledge of modern issue tracking and project management systems, plus Notion for documentation and dashboards and Slack for automation and integrations.</p></li><li><p><strong>Leverage:</strong> You use automation and language models as a matter of course, and expect the mechanical parts of coordination to be handled that way rather than by hand.</p></li><li><p><strong>Structured Thinking:</strong> You bring clarity and order, breaking large goals into trackable milestones.</p></li><li><p><strong>Execution Mindset:</strong> Planning is the starting point. The measure is whether deliverables land.</p></li><li><p><strong>Clear Communication:</strong> You write and speak with influence, creating alignment without micromanagement.</p></li><li><p><strong>Start-up Agility:</strong> Comfortable with ambiguity, making fast, pragmatic decisions and keeping others moving.</p></li></ul><p><strong>Parallel Bio is an equal opportunity employer committed to fostering an inclusive and respectful workplace. We encourage applications from individuals of all backgrounds, regardless of age, gender, ethnicity, religion, disability, or sexual orientation.</strong></p>",
+    "summary": "The Corporate Program Manager will steward the company's highest-priority initiatives and planning artifacts, coordinating executive and cross-functional teams from strategy through delivery. The role owns operating rhythms, OKR governance, organizational communications, and consolidation and adoption of a single project management system.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressRegion": "New York",
+      "addressCountry": "US",
+      "addressLocality": "New York City"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Adaptability",
+      "Problem-Solving",
+      "Decision-Making"
+     ],
+     "primary_skills": [
+      "Program Management",
+      "Strategic Planning",
+      "Roadmap Management",
+      "OKR Management",
+      "Project Management Systems",
+      "Notion",
+      "Slack",
+      "Project Management System Migration",
+      "Automation",
+      "Language Models"
+     ],
+     "secondary_skills": []
+    },
+    "benefits": [],
+    "salary": null,
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 5,
+    "educationRequirement": null,
+    "industry": [
+     "healthcare_medical",
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790304607,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/parallel-bio/9c42c0d3-a719-4c51-bdbf-d0236e8d9768",
+    "status": "active",
+    "companies": [
+     {
+      "name": "Parallel Bio",
+      "website": "parallel.bio"
+     }
+    ]
+   }
+  ],
+  "meta": {
+   "total": 2043,
+   "count": 1,
+   "nextCursor": "eyJpZCI6ImEzMzYzYTlkLTVjNGYtNDZiYi05YjU3LWM1YjFmMTVmYmVkZSIsInNvcnRWYWx1ZSI6MTc5MDMwNDYwNywidGllQnJlYWtlciI6IjIwMjYtMDktMjVUMDM6MDQ6MjQuMTA3WiJ9",
+   "hasMore": true,
+   "requestTimeMs": 43,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

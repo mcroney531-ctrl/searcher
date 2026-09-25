@@ -1,0 +1,1342 @@
+{
+ "call_id": "fam_desc_enablement_content_p0",
+ "phase": "family",
+ "url": "https://api.jobven.com/v1/public/jobs?q=-%22account+executive%22+-%22account+manager%22+-%22sales+representative%22+-%22sales+manager%22+-%22customer+service+representative%22+-%22help+desk%22+-%22customer+success+manager%22+-%22support+specialist%22&descriptionQuery=enablement+content&country=US&remoteType%5B%5D=remote&postedAfter=1789702200&limit=25",
+ "params": [
+  [
+   "q",
+   "-\"account executive\" -\"account manager\" -\"sales representative\" -\"sales manager\" -\"customer service representative\" -\"help desk\" -\"customer success manager\" -\"support specialist\""
+  ],
+  [
+   "descriptionQuery",
+   "enablement content"
+  ],
+  [
+   "country",
+   "US"
+  ],
+  [
+   "remoteType[]",
+   "remote"
+  ],
+  [
+   "postedAfter",
+   1789702200
+  ],
+  [
+   "limit",
+   25
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:28:10 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "transfer-encoding": "chunked",
+  "connection": "close",
+  "server": "cloudflare",
+  "vary": "Accept-Encoding",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "2671d672-4407-4f0f-b30f-36068923eca6",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2333",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "291",
+  "etag": "W/\"29e20-7cmQz7BnOfmqlrvaUUfKYl9xDIg\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=MUFz91LHtb6J66SvENkeHaj0comxkUeP22ZZlFcQdJfGYNb5Dk3y5JwMru1o5sz%2Fs8qSqdL4SSVTJdvloKfH3%2FIIxY9QFLkywfCvRH1GuGUvd4VPaOtRJWcaZMRbHOS7Tmu3gqThJoVTwKpT4g%3D%3D\"}]}",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "cf-ray": "a406efee0e9df78f-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "id": "a494641c-b4a3-4b36-a2c4-6f1e8bdafb88",
+    "title": "Salesforce Manager, AI & Agentforce Delivery",
+    "description": "&lt;div class=\"content-intro\"&gt;&lt;h3&gt;Why NeuraFlash, Part of Accenture:&lt;/h3&gt; &lt;p&gt;At NeuraFlash, Part of Accenture, we are redefining the future of business through the power of AI and groundbreaking technologies like Agentforce. As a trusted leader in AI, AWS, and Salesforce innovation, we craft intelligent solutions—integrating Salesforce Einstein, Service Cloud Voice, Amazon Connect, Agentforce and more—to revolutionize workflows, elevate customer experiences, and deliver tangible results. From conversational AI to predictive analytics, we empower organizations to stay ahead in an ever-evolving digital landscape with cutting-edge, tailored strategies.&lt;/p&gt; &lt;p&gt;We are proud to be creating the future of generative AI and AI agents. Salesforce has launched Agentforce, and NeuraFlash, Part of Accenture, was selected as the only partner for the private beta prior to launch. Post-launch, we’ve earned the distinction of being Salesforce’s #1 partner for Agentforce, reinforcing our role as pioneers in this transformative space.&lt;/p&gt; &lt;p&gt;Be part of the NeuraFlash, Part of Accenture journey and help shape the next wave of AI-powered transformation. Here, you’ll collaborate with trailblazing experts who are passionate about pushing boundaries and leveraging technologies like Agentforce to create impactful customer outcomes. Whether you're developing advanced AI-powered bots, streamlining business operations, or building solutions using the latest generative AI technologies, your work will drive innovation at scale. If you’re ready to make your mark in the AI space, NeuraFlash, Part of Accenture is the place for you.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;As a &lt;strong&gt;Manager, AI &amp;amp; Agentforce Delivery&lt;/strong&gt;, you will lead a team of delivery professionals who design and build Agentforce and AI-powered solutions for our clients. You'll balance hands-on project delivery with people leadership: staying close to client work as an individual contributor while managing, mentoring, and growing the teammates who report to you.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;You will have the opportunity to:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Deliver hands-on client project work as an individual contributor, staying current with Agentforce and Salesforce delivery practices&lt;/li&gt; &lt;li&gt;Lead and own complete project technical solution design, including designing and understanding agentic topics, instructions, actions with corresponding automation/code, agent deployment methods, and supporting data structures&lt;/li&gt; &lt;li&gt;Explore the limits and push the boundaries of automated agents, finding novel solutions to drive business outcomes&lt;/li&gt; &lt;li&gt;Manage a team of Experience Architects, Technical Architects, Consultants, Developers, and/or similar technical delivery roles&lt;/li&gt; &lt;li&gt;Provide mentorship, career guidance, and regular performance feedback, including corrective action when necessary&lt;/li&gt; &lt;li&gt;Own forecasting and staffing input for your team, in partnership with delivery and operations leadership&lt;/li&gt; &lt;li&gt;Coordinate and lead solution design reviews to maintain quality and consistency across client engagements&lt;/li&gt; &lt;li&gt;Author content for, and help facilitate, enablement workshops and office hours&lt;/li&gt; &lt;li&gt;Participate in and help lead skill-based guilds that foster knowledge sharing&lt;/li&gt; &lt;li&gt;Support hiring by conducting interviews and helping update interview materials&lt;/li&gt; &lt;li&gt;Champion NeuraFlash delivery standards and best practices across your team and accounts&lt;/li&gt; &lt;li&gt;Travel up to 25% for customer projects and company events&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;&lt;strong&gt;Required Qualifications:&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;5+ years of hands-on experience delivering technology solutions, including experience with Agentforce or other generative AI-driven platforms&lt;/li&gt; &lt;li&gt;2+ years of experience managing or mentoring delivery team members such as architects, developers, and consultants&lt;/li&gt; &lt;li&gt;Demonstrated ability to balance billable client delivery work with team leadership responsibilities&lt;/li&gt; &lt;li&gt;Experience giving performance feedback, holding career development conversations, and managing corrective action processes&lt;/li&gt; &lt;li&gt;Experience participating in hiring for technical roles, including conducting interviews&lt;/li&gt; &lt;li&gt;Strong communication skills, comfortable moving between technical delivery conversations and people-management conversations&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;&lt;strong&gt;Preferred Skills:&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Experience designing or facilitating enablement content (workshops, office hours, guilds)&lt;/li&gt; &lt;li&gt;Certifications relevant to architect-level roles&lt;/li&gt; &lt;li&gt;Experience forecasting and managing staffing/resourcing for a technical team&lt;/li&gt; &lt;li&gt;Prior experience specifically delivering Agentforce projects&lt;/li&gt; &lt;li&gt;Familiarity with multiple foundational LLMs, prompt engineering frameworks, and AI orchestration tools&lt;/li&gt; &lt;li&gt;Understanding of enterprise AI integrations, RAG architecture, and fine-tuning strategies&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;&lt;strong&gt;What can you expect in the interview process?&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Recruiter screen (phone) - 30 minutes&lt;/li&gt; &lt;li&gt;Peer interview (Video) - 45 minutes&lt;/li&gt; &lt;li&gt;Panel interview with real-time exercise (Video) - 60 minutes, covering both a hands-on architecture exercise and management scenario discussion&lt;/li&gt; &lt;li&gt;Leadership interview (Video) - 45 minutes&lt;/li&gt; &lt;/ul&gt; &lt;p class=\"p1\"&gt;&amp;nbsp;&lt;/p&gt; &lt;hr&gt; &lt;p class=\"p1\"&gt;&amp;nbsp;&lt;/p&gt; &lt;p class=\"p1\"&gt;&lt;strong&gt;Equal Employment Opportunity Statement&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;We believe that no one should be discriminated against because of their differences. All employment&amp;nbsp;decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry,&amp;nbsp;disability status, veteran status, sexual orientation, gender identity or expression, genetic information, marital&amp;nbsp;status, citizenship status or any other basis as protected by federal, state, or local law. Our rich diversity&amp;nbsp;makes us more innovative, more competitive, and more creative, which helps us better serve our clients and&amp;nbsp;our communities.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;For details, view a copy of the &lt;a class=\"cmp-text__link cmp-text__link--default\" href=\"https://www.accenture.com/content/dam/accenture/final/accenture-com/document-3/Accenture-Equal-Employment-Opportunity-Statement.pdf#zoom=50\" target=\"_blank\" data-tooltip=\"Opens the PDF full report, Annual policy statement regarding equal employment opportunity and affirmative action statement , in a new tab.\" data-cmp-clickable=\"\" data-cmp-data-layer=\"{&amp;quot;jobdetail-1e0b7e5710-Additional Information-item1&amp;quot;:{&amp;quot;analytics-link-name&amp;quot;:&amp;quot;accenture equal opportunity statement&amp;quot;,&amp;quot;analytics-link-type&amp;quot;:&amp;quot;engagement&amp;quot;,&amp;quot;xdm:linkURL&amp;quot;:&amp;quot;/content/dam/accenture/final/accenture-com/document-3/Accenture-Equal-Employment-Opportunity-Statement.pdf#zoom=50&amp;quot;,&amp;quot;analytics-engagement&amp;quot;:&amp;quot;true&amp;quot;}}\"&gt;Accenture Equal Opportunity Statement&lt;/a&gt;&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Accenture is an EEO and Affirmative Action Employer of Veterans/Individuals with Disabilities.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Accenture is committed to providing veteran employment opportunities to our service men and women.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;hr&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=\"content-conclusion\"&gt;&lt;h3&gt;What’s it like to be a part of NeuraFlash, Part of Accenture?&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Remote &amp;amp; In-Person: Whether you work out of our HQ in Massachusetts, one of our regional hubs, or you're one of over half of our NeuraFlash, Part of Accenture Family who work remotely, we’re focused on keeping everyone connected and unified as one team.&lt;/li&gt; &lt;li&gt;Travel: Get ready to pack your bags and hit the road! For certain roles, travel is an exciting part of the job, with an anticipated travel commitment of up to 25%. So, if you have a passion for adventure and don't mind a little jet-setting, this opportunity could be your ticket to exploring new places while making a positive impact on clients.&lt;/li&gt; &lt;li&gt;Flexibility: Do you have to take the dog to the vet, pick up the kids from school, or the in-laws from the airport? We know that a perfect 9-5 isn’t possible. So you have to jump out to do any of those, no problem! We build a culture of trust and understanding. We value good work not the hours in which you get it done&lt;/li&gt; &lt;li&gt;Collaboration: You have a voice here!&amp;nbsp; If you work with a team of smart people like we do, it’s a no-brainer to take suggestions and feedback on how to keep NeuraFlash, Part of Accenture thriving.&amp;nbsp; Our executive team holds town halls &amp;amp; company meetings where they address any suggestions or questions asked, no matter how big or small.&lt;/li&gt; &lt;li&gt;Celebrate Often: We take our work seriously, but we don’t take ourselves too seriously. Whether it is an arm wrestling contest, costume party, or ugly holiday sweaters our teams love to have fun. And while we work hard, we don’t forget to slow down and celebrate the big things and the small things together.&lt;/li&gt; &lt;/ul&gt;&lt;/div&gt;",
+    "summary": "The Salesforce Manager, AI & Agentforce Delivery leads a technical delivery team while contributing directly to client projects involving Agentforce and AI-powered solutions. Responsibilities include solution design, mentoring and performance management, staffing input, quality standards, hiring support, and enablement across client engagements.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Mentorship",
+      "Career Guidance",
+      "Leadership",
+      "Knowledge Sharing"
+     ],
+     "primary_skills": [
+      "Agentforce",
+      "Generative AI",
+      "Salesforce",
+      "Technical Solution Design",
+      "Agentic AI",
+      "Project Delivery",
+      "People Management",
+      "Performance Management",
+      "Technical Hiring",
+      "Staffing and Resource Forecasting"
+     ],
+     "secondary_skills": [
+      "Enablement Workshop Design",
+      "Salesforce Architect Certifications",
+      "Large Language Models",
+      "Prompt Engineering",
+      "AI Orchestration",
+      "Enterprise AI Integration",
+      "Retrieval-Augmented Generation",
+      "Model Fine-Tuning"
+     ]
+    },
+    "benefits": [
+     "flexible_work_hours",
+     "remote_work_hybrid_work_options",
+     "company_events_retreats"
+    ],
+    "salary": null,
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 5,
+    "educationRequirement": {
+     "required": [],
+     "preferred": [
+      "professional_certificate"
+     ]
+    },
+    "industry": [
+     "technology_software",
+     "consulting_professional"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": true,
+    "travelPercentage": null,
+    "postedAt": 1790271366,
+    "expiresAt": null,
+    "applyUrl": "https://job-boards.greenhouse.io/neuraflash/jobs/6206503004",
+    "status": "active",
+    "companies": [
+     {
+      "name": "neuraflash.com",
+      "website": "neuraflash.com"
+     }
+    ]
+   },
+   {
+    "id": "1c4f636b-0107-48db-b1fd-44e298a97323",
+    "title": "Senior Revenue Enablement Manager",
+    "description": "<h2><strong>About Payscale </strong></h2><p>Payscale is the pioneer of compensation intelligence, helping organizations make smarter pay decisions that drive business performance. For more than 20 years, Payscale has combined trusted market data with AI-powered technology to deliver actionable insights that turn pay from a cost into a catalyst for growth. The Payscale Intelligence Cloud portfolio of solutions — Ascent, JobNav, and Paycycle — empower top companies and businesses like Cintas, Leidos, Chipotle, Ohio State University, and TJX Companies.</p><p>Create confidence in your compensation. Payscale.</p><p>To learn more, visit <a href=\"http://www.payscale.com\"><u>www.payscale.com</u></a>.</p><p><strong>Job Summary</strong></p><p>We are seeking an experienced Revenue Enablement Manager to design, implement, and optimize scalable learning programs that drive revenue impact and organizational effectiveness. This role sits at the intersection of execution and strategy—you will own enablement initiatives end-to-end while beginning to shape broader enablement frameworks and business strategy. Reporting to Director, Solutions Consulting &amp; Enablement, you will partner with Revenue organization, Product, Marketing, and Customer Success to diagnose performance gaps, deliver targeted solutions, and measure impact.</p><p><strong>What You'll Do</strong></p><h3>Enablement Strategy &amp; Program Design</h3><ul><li><p>Design and launch scalable enablement programs and learning initiatives that directly impact sales productivity, product adoption, and customer retention</p></li><li><p>Develop specialized expertise in learning methodologies and engagement techniques; apply these to assess organizational performance gaps and recommend targeted solutions</p></li><li><p>Design and contribute to onboarding programs for new Revenue team members, including curriculum development, content creation, facilitation, practice activities, and ongoing reinforcement</p></li><li><p>Establish or refine enablement frameworks that align with quarterly business goals and annual company strategy</p></li><li><p>Conduct formal training needs assessments using surveys, data analysis, and stakeholder interviews to identify root causes of performance shortfalls</p></li><li><p>Create comprehensive enablement roadmaps with clear timelines, success metrics, and resource requirements</p></li></ul><h3>Revenue &amp; Business Impact</h3><ul><li><p>Measure and communicate the revenue impact of enablement programs; link training initiatives directly to key sales outcomes (pipeline, win rates, quota attainment)</p></li><li><p>Analyze enablement effectiveness through data; design and implement KPIs to track adoption, completion, and performance outcomes</p></li><li><p>Proactively review company goals and revenue metrics to identify enablement gaps and improvement opportunities</p></li><li><p>Collaborate with leadership to define enablement priorities and ROI; recommend program adjustments based on business results</p></li><li><p>Connect enablement efforts to competitive positioning and market dynamics</p></li></ul><h3>Cross-Functional Leadership &amp; Execution</h3><ul><li><p>Lead cross-functional teams to develop content, run workshops, and deliver training at scale</p></li><li><p>Navigate competing enablement priorities between Sales, Product, Marketing, and Customer Success; build influence to resolve adoption friction</p></li><li><p>Manage stakeholder expectations and feedback loops; synthesize input from end-users and partners to continuously improve programs</p></li><li><p>Partner with L&amp;D, HR, and People teams on organizational change management for major enablement launches</p></li><li><p>Coordinate with Product and Marketing on go-to-market enablement for new features and product launches</p></li></ul><h3>Change Management &amp; Adoption</h3><ul><li><p>Design and execute change management strategies for major enablement initiatives</p></li><li><p>Measure adoption and engagement; identify and address barriers to adoption through dialogue and data-driven problem-solving</p></li><li><p>Coach team members and stakeholders on program changes; deliver constructive feedback on enablement effectiveness</p></li><li><p>Demonstrate strong organizational change management capabilities to drive adoption and organizational alignment</p></li></ul><h3>Content &amp; Technical Excellence</h3><ul><li><p>Create and oversee development of enablement content across formats: e-learning, presentations, guides, video, and knowledge management systems</p></li><li><p>Use advanced analytics and reporting to assess training impact and identify trends</p></li><li><p>Integrate and optimize the enablement technology stack (LMS, CRM, knowledge bases), leveraging automation and AI-powered solutions to increase personalization and efficiency</p></li><li><p>Maintain documentation standards and processes that scale as the enablement function grows</p></li></ul><h2>We'd love to talk with you if you have:</h2><ul><li><p>5-7 years of experience in enablement, training, learning &amp; development, revenue operations, or related field</p></li><li><p>Demonstrated expertise in designing and launching training programs that have improved sales or business outcomes</p></li><li><p>Strong analytical skills; comfort with data reporting, performance metrics, and using insights to drive decisions</p></li><li><p>Excellent collaboration and influence skills; ability to navigate cross-functional environments and competing priorities</p></li><li><p>Proficiency with enablement tools (LMS, CRM, knowledge management platforms) and data analytics; experience with Gong, Claude, Seismic a plus</p></li><li><p>Experience conducting needs assessments and diagnosing root causes of performance gaps</p></li><li><p>Ability to manage multiple initiatives simultaneously while maintaining quality and attention to detail</p></li><li><p>Strong presentation and facilitation skills, with demonstrated experience delivering engaging training, workshops, and practice-based sessions to both small and large audiences</p></li><li><p>Strong written and verbal communication skills; ability to present</p></li></ul><p><strong>Nice to Have</strong></p><ul><li><p>Experience with change management frameworks and stakeholder engagement strategies</p></li><li><p>Background in sales, product, or customer-facing functions (to deepen product/market understanding)</p></li><li><p>Familiarity with Revenue tools such as Salesforce, ZoomInfo, Outreach, Nooks, and related best practices to drive tool adoption and performance</p></li><li><p>Track record of implementing new tools, platforms, or processes</p></li><li><p>Knowledge of sales methodologies, buyer journeys, or go-to-market strategy</p></li><li><p>Project management certification or experience leading large-scale organizational initiatives</p></li></ul><p><strong>Location</strong></p><p>Payscale has an employee centric remote-first model that provides you the flexibility to do your best work in a space that supports you, while also finding time to collaborate in person for the moments that matter.<br><br>In our remote-first model, employees can work from the location that works best for them. We do not have centralized corporate offices. Employees can choose to work from home, in company-paid co-working spaces, or any combination of the two that best suits their unique needs.</p><p>If you work from home, we recommend ensuring that you can meet the following technology, equipment and workspace requirements:</p><ul><li><p>High-Speed Internet - A stable broadband or fiber connection (satellite is highly discouraged) with a minimum speed of 100 Mbps in a dedicated workspace that has a reliable Wi-Fi signal.</p></li><li><p>Device for Multifactor Authentication (MFA/2FA) - smartphone, tablet, etc.</p></li></ul><p>When it matters (usually no more than a few times a year) we take the time to gather for in-person events.</p><p>Payscale has employees across the US, Canada, UK, The Philippines and Romania however we are currently unable to hire in the Quebec Province, Northern Ireland, and Hawaii.</p><p><strong>Benefits and Perks</strong></p><p>All around awesome culture where together we strive to live our 5 values:</p><ul><li><p>Data informed decision making.</p></li><li><p>Customer first. Always.</p></li><li><p>Succeed together.</p></li><li><p>Relentless about results. Obsessed with excellence.</p></li><li><p>Lead the change. Shape the standard.</p></li></ul><p>An open and inclusive environment where you’ll learn and grow through programs and resources like:</p><ul><li><p>Monthly company All Hands meetings</p></li><li><p>Regular opportunities for executive leadership exposure through things like AMAs</p></li><li><p>Access to continued learning &amp; development opportunities</p></li><li><p>Our commitment to a continuous feedback culture which allows us to drive performance and career growth</p></li><li><p>A growing network of Employee Resource Groups</p></li><li><p>Company sponsored volunteer hours</p></li><li><p>And more!</p></li></ul><p><strong>Our more standard benefits</strong></p><ul><li><p>Flexible paid time off, giving you the opportunity to rest, relax and recharge away from work</p></li><li><p>14 Paid Company Holidays, includes 2 floating holidays (you choose!)</p></li><li><p>A comprehensive benefits plan including medical, dental, life, vision, disability, and life insurance covered up to 100% by Payscale</p></li><li><p>Unlimited infertility coverage benefits through our medical plans</p></li><li><p>Additional supplemental health benefits offered to you and your family</p></li><li><p>401(k) retirement program with a fully vested immediate company match</p></li><li><p>16 weeks of paid parental leave for birthing and non-birthing parents</p></li><li><p>Health Savings Account (HSA) options and company contributions each pay period</p></li><li><p>Flexible Spending Account (FSA) options for pre-tax employee allocations</p></li><li><p>Annual remote work stipend to be used on wellness or home office equipment</p></li></ul><p><strong>Equal Opportunity Employer:</strong></p><p>We embrace equal employment opportunity. Payscale is committed to a policy of equal employment opportunity for all applicants and employees. It is our policy that employees will not be subjected to unlawful discrimination on the basis of race, color, religion, sex, age, national origin, or ancestry, physical or mental disability, veteran or military status, marital status, sexual orientation, political ideology, and any other basis protected by federal, state, or local laws. This policy applies to all terms and conditions of employment, including but not limited to: recruitment, hiring, transfers, promotions, training, discipline, termination, compensation and benefits, performance appraisals, education, and social and recreational programs.</p><p>We know the <a href=\"https://www.theatlantic.com/magazine/archive/2014/05/the-confidence-gap/359815/\"><strong><u>confidence gap</u></strong></a> and <a href=\"https://fortune.com/2024/06/21/high-functioning-achievers-imposter-syndrome-career-ladder/\"><strong><u>imposter syndrome</u></strong></a> can get in the way of meeting spectacular candidates, so please don’t hesitate to apply — we’d love to hear from you.</p><p>If you have a disability or impairment and need assistance with the application process, please email <a href=\"mailto:recruiting@payscale.com\"><strong><u>recruiting@payscale.com</u></strong></a> for support.</p><p><strong>Fraud Alert:</strong></p><p>Payscale values security and privacy. During your job application and interview process, we will never ask for your personal banking or financial information, social security number, or other sensitive information, if you are unsure if a message is from Payscale, please email <a href=\"mailto:recruiting@payscale.com\"><strong><u>recruiting@payscale.com</u></strong></a></p>",
+    "summary": "The Senior Revenue Enablement Manager designs, launches, and improves scalable learning and enablement programs to boost sales productivity, product adoption, and customer retention. The role measures program impact, develops enablement content and frameworks, and partners across Revenue, Product, Marketing, Customer Success, and other teams to drive adoption and organizational effectiveness.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressRegion": "United States",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Collaboration",
+      "Influence",
+      "Communication",
+      "Organization",
+      "Attention to Detail"
+     ],
+     "primary_skills": [
+      "Enablement Program Design",
+      "Learning and Development",
+      "Training Needs Assessment",
+      "Sales Enablement",
+      "Revenue Operations",
+      "Data Analysis",
+      "Key Performance Indicator Development",
+      "Learning Management Systems",
+      "Customer Relationship Management",
+      "Knowledge Management"
+     ],
+     "secondary_skills": [
+      "Gong",
+      "Claude",
+      "Seismic",
+      "Salesforce",
+      "ZoomInfo",
+      "Outreach",
+      "Nooks",
+      "Change Management",
+      "Go-to-Market Strategy",
+      "Project Management"
+     ]
+    },
+    "benefits": [
+     "professional_development",
+     "paid_time_off_vacation_personal_days",
+     "health_insurance",
+     "dental_insurance",
+     "life_insurance",
+     "vision_care",
+     "disability_insurance",
+     "pensions_401k",
+     "parental_leave",
+     "wellness_program",
+     "remote_work_hybrid_work_options",
+     "other_benefits"
+    ],
+    "salary": null,
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 5,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790270427,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/payscale/8300af8d-afb3-422d-a02c-1fec625dfe4d",
+    "status": "active",
+    "companies": [
+     {
+      "name": "payscale.com",
+      "website": "payscale.com"
+     }
+    ]
+   },
+   {
+    "id": "bb8b1f47-a77b-465d-ad98-1edfd5450181",
+    "title": "Senior Manager, Product Enablement",
+    "description": "<h2>Who We Are</h2><p>Vultr is on a mission to make high-performance cloud infrastructure easy to use, affordable, and locally accessible for enterprises and AI innovators around the world. With 33 global cloud data center locations, Vultr is trusted by hundreds of thousands of active customers across 185 countries for its flexible, scalable, global Cloud Compute, Cloud GPU, Bare Metal, and Cloud Storage solutions. In December 2024 Vultr announced an equity financing at a $3.5 billion valuation. Founded by David Aninowsky and self-funded for over a decade, Vultr has grown to become the world’s largest privately-held cloud infrastructure company.</p><p><strong>Vultr Cares</strong></p><ul><li><p>100% company-paid insurance premiums for employee medical, dental and vision plans</p></li><li><p>401(k) plan that matches 100% up to 4%, with immediate vesting</p></li><li><p>Professional Development Reimbursement of $2,500 each year</p></li><li><p>11 Holidays + Paid Time Off Accrual + Rollover Plan</p></li><li><p>Commitment matters to Vultr! Increased PTO at 3 year and 10 year anniversary + 1 month paid sabbatical every 5 years + Anniversary Bonus each year</p></li><li><p>$500 stipend for remote office setup in first year + $400 each following year</p></li><li><p>Internet reimbursement up to $75 per month</p></li><li><p>Gym membership reimbursement up to $50 per month</p></li><li><p>Company paid Wellable subscription</p></li></ul><p><strong>Join Vultr</strong></p><p>Vultr is seeking a highly skilled and experienced Senior Manager, Product Enablement to build the enablement engine behind our fastest-growing product lines: Cloud Compute and Cloud GPU. The ideal candidate is a technical enablement expert with 5+ years of experience turning complex infrastructure products into content, training, and tools that sales and customer-facing teams actually use — someone who thrives in a category that reinvents itself every few months. This is a highly visible role in a high-growth technology company, which will require the ability to build recurring enablement cadences from scratch, partner directly with Product and Engineering, and keep pace with a GPU and AI infrastructure market that never sits still. This is your opportunity to join our fast growing team and leave your mark on Vultr and the future of Cloud Infrastructure.</p><p><strong>Key Responsibilities</strong></p><ul><li><p>Build and own a recurring product enablement program for Vultr's Cloud Compute and Cloud GPU portfolios, from new feature launches to monthly deep-dives</p></li><li><p>Translate complex, fast-changing technical capabilities (GPU architectures, compute instance types, infrastructure roadmaps) into sales-ready messaging, training, and collateral</p></li><li><p>Partner with Product Management and Engineering to get early visibility into roadmaps and turn upcoming releases into enablement content before GA</p></li><li><p>Design and deliver certification paths, playbooks, and live/on-demand training that scale enablement across a growing go-to-market org</p></li><li><p>Develop competitive positioning and battle cards for the Cloud Compute and GPU markets, keeping pace with a rapidly evolving AI infrastructure landscape</p></li><li><p>Measure and report on enablement program effectiveness (adoption, certification completion, win rates) and iterate based on data</p></li><li><p>Act as the connective tissue between Product, Sales, Solutions Engineering, and Customer Success on all things product knowledge</p></li><li><p>Continuously evolve enablement formats and cadence to match the speed of Vultr's product velocity</p></li></ul><p><strong>Qualifications</strong></p><ul><li><p>5+ years of experience in product enablement, technical enablement, or product marketing, ideally supporting a technical or infrastructure-based product line</p></li><li><p>Proven track record building and scaling recurring enablement programs from the ground up</p></li><li><p>Deep comfort with technical products. Able to learn GPU/compute infrastructure concepts quickly and translate them for non-technical audiences</p></li><li><p>Experience in cloud infrastructure, AI/ML infrastructure, or adjacent technical industries strongly preferred</p></li><li><p>Excellent written and verbal communication skills; experience creating sales collateral, training curricula, and certification programs</p></li><li><p>Comfortable operating independently in a fast-paced, high-growth environment with evolving priorities</p></li><li><p>Experience with enablement platforms/LMS tools and sales tech stacks (e.g., Gong, Seismic, Salesforce) a plus</p></li></ul><p><strong>Compensation</strong></p><p>$115,000 – $130,000</p><p><em>Final compensation will vary depending on years of experience, background/skill set, location, and applicable laws.</em></p><h2><strong>Inclusion &amp; Privacy</strong></h2><p>We are an equal opportunity employer and are committed to creating an inclusive environment for all employees. We welcome applications from individuals of all backgrounds and experiences, and we prohibit discrimination based on race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, veteran status, or any other protected status under applicable laws. Vultr will consider qualified applicants with arrest or conviction records in accordance with applicable laws and will not conduct a background check until after an offer of employment has been extended and accepted.</p><p>We also take your privacy seriously. We handle personal information responsibly and follow applicable laws, including U.S. privacy rules and India’s Digital Personal Data Protection Act, 2023. Your data is used only for legitimate business purposes and is protected with proper security measures.</p><p>Where allowed by law, applicants may request details about the data we collect, access or delete their information, withdraw consent for its use, and opt out of nonessential communications. For more details, please see our <a href=\"https://www.vultr.com/legal/privacy/\"><u>Privacy Policy</u></a>.</p>",
+    "summary": "The Senior Manager, Product Enablement will build and manage recurring enablement programs for Vultr’s Cloud Compute and Cloud GPU products. Responsibilities include translating technical capabilities into sales training and collateral, partnering with Product and Engineering on upcoming releases, developing competitive positioning, and measuring program effectiveness.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Written Communication",
+      "Verbal Communication",
+      "Independence",
+      "Adaptability"
+     ],
+     "primary_skills": [
+      "Product Enablement",
+      "Technical Enablement",
+      "Product Marketing",
+      "Enablement Program Development",
+      "Technical Content Development",
+      "Sales Training",
+      "Competitive Positioning",
+      "Product Launch",
+      "Enablement Program Measurement",
+      "Cloud Infrastructure"
+     ],
+     "secondary_skills": [
+      "AI Infrastructure",
+      "Learning Management Systems",
+      "Gong",
+      "Seismic",
+      "Salesforce"
+     ]
+    },
+    "benefits": [
+     "health_insurance",
+     "dental_insurance",
+     "vision_care",
+     "pensions_401k",
+     "pension_contribution_matching",
+     "professional_development",
+     "paid_time_off_vacation_personal_days",
+     "remote_work_hybrid_work_options",
+     "wellness_program",
+     "other_benefits"
+    ],
+    "salary": {
+     "max": 130000,
+     "min": 115000,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 5,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790264107,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/vultr/e03f8f23-d1e7-4788-a9c8-e6a0e47bbad3",
+    "status": "active",
+    "companies": [
+     {
+      "name": "Vultr",
+      "website": "vultr.com"
+     }
+    ]
+   },
+   {
+    "id": "a4cc9bd3-da92-4dac-a360-520a160e3d04",
+    "title": "Product & Customer Marketing Manager",
+    "description": "<h2>About the role<br></h2><p>Our customers have the best stories in accounting, and we need someone to tell them. We're looking for a <strong>Product and Customer Marketing Manager</strong> who owns our story end to end: how we launch, how we sell, and how our customers talk about us; from launch messaging to the customer proof that wins deals. Aiwyn is the platform accounting firms run on for payments, practice management, client experience, and tax, and we work with the majority of the Top 500 firms in the country. You'll turn what our customers and product teams know into messaging, launches, and proof that helps sales win and helps firms get more from Aiwyn.<br></p><p>You'll partner daily with the growth marketing manager, sales, and product: you find the story and sharpen the message, and they take it to market at scale.<br><br></p><h2>What you'll do:</h2><p>You'll own product launches, messaging, enablement, and customer marketing across our four products. A week in the life might include:<br></p><ul><li><p>Tiering an upcoming release and writing the launch brief that Product, Sales, CS, and Marketing all work from</p></li><li><p>Interviewing a firm's leadership team about what changed after going live, and pulling out the proof points for a case study</p></li><li><p>Building a message map for a new feature and testing it with the sales team</p></li><li><p>Running an enablement session on a launch, then updating the pitch deck and one-pagers</p></li><li><p>Refreshing competitive battlecards after a deal review</p></li><li><p>Managing our customer reference program so sales always has the right firm to call</p></li><li><p>Drafting a launch press release or an award submission</p></li><li><p>Ghostwriting a LinkedIn post or byline for one of our executives</p></li><li><p>Bringing what you hear from customers back to Product so it shows up on the roadmap</p></li><li><p>Writing the internal launch announcement so every team knows what shipped and why it matters<br></p></li></ul><p><strong>How you'll make an impact:</strong> You'll own outcomes that show up in the business: win rate, product adoption, and how consistently our message lands in the field. We'll be clear about the goals and just as invested in helping you reach them.</p><p><br></p><h2>What we're looking for:</h2><p>You have 4 plus years of product and customer marketing experience in B2B SaaS, and you've owned launches from brief to enablement to results. You're as comfortable interviewing a managing partner as you are sitting in a product review, and you can take a complex feature and explain, in one sentence, why a busy firm leader should care.<br></p><p>Customer marketing is part of who you are. You know how to find a great story, earn a customer's trust to tell it, and turn it into proof sales uses every week.<br></p><p>Strong writing is essential. You'll write message maps, launch briefs, enablement content, press releases, and executive posts, and each one needs its own voice.<br><br></p><h2>Requirements:</h2><ul><li><p>4 plus years of product and/or customer marketing experience in B2B SaaS</p></li><li><p>A track record of owning product launches end-to-end, including tiering, messaging, and sales enablement</p></li><li><p>Customer marketing experience with case studies, references, advocacy, or customer advisory programs</p></li><li><p>Experience marketing to back-office buyers such as finance, operations, or accounting (accounting or professional services experience is a strong plus)</p></li><li><p>Writing and storytelling samples you're proud to share</p></li><li><p>Experience building competitive intelligence and battlecards</p></li><li><p>Comfort presenting to sales teams and customers</p></li><li><p>AI tools are part of how you work every day, and you can walk us through your workflow</p></li><li><p>Experience with HubSpot, Salesforce, and Canva</p></li><li><p>Startup experience preferred, but not required</p></li></ul><h2>What to expect</h2><p>You'll report to our director of marketing and work with Product, Sales, and Customer Success every week. We're a small, high-performing team, and it shows in how we work: the pace is quick, priorities shift as we learn what's working, and everyone contributes beyond their lane.</p><p>You'll fit right in if you love a good launch day, get a kick out of hearing a customer describe a win in their own words, and want your work to show up in closed deals. We're building something meaningful alongside our customers, and we'd love for you to help shape how the world hears about it.<br><br><strong>Benefits and Perks:</strong></p><ul><li><p>The big-picture value proposition of this role is simple: join us, and you'll be paid competitively to have freedom in solving worthwhile, challenging problems alongside other A-players at a fast growing SaaS startup led by an experienced and successful co-founding team with industry experience.</p></li></ul><p>Other benefits include:</p><ol><li><p><strong>Adventure travel stipend</strong> - you receive a $1,000 travel reimbursement on your work anniversary each year. We encourage our team to recharge and explore the world beyond their home office walls.</p></li><li><p><strong>Remote, work-from-anywhere culture</strong></p></li><li><p><strong>Flexible PTO</strong></p></li><li><p><strong>World Class health benefits</strong> - we believe in fostering flourishing teams by providing benefits that go beyond the usual standards - Health, vision, dental, HSA/FSA, and mental health support.</p></li><li><p><strong>Stock options</strong> - every Full Time Employee has ownership in Aiwyn's future and success.</p></li><li><p><strong>401(k) matching</strong></p></li></ol><p><strong>Our Values:</strong></p><ul><li><p><strong>Relentless by Design</strong></p></li><li><p><strong>Owners not Renters</strong></p></li><li><p><strong>Trust at the Core</strong></p></li></ul><p>Aiwyn is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances.</p><p>Candidate information will be treated in accordance with our CCPA privacy notice which can be found here: <a href=\"https://www.aiwyn.ai/ccpa\">https://www.aiwyn.ai/ccpa</a></p>",
+    "summary": "The Product & Customer Marketing Manager owns product launches, messaging, sales enablement, and customer marketing across Aiwyn’s products. The role turns customer and product insights into launch materials, case studies, competitive tools, and customer proof to support sales wins and product adoption.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Adaptability",
+      "Trust Building",
+      "Storytelling"
+     ],
+     "primary_skills": [
+      "Product Marketing",
+      "Customer Marketing",
+      "B2B SaaS",
+      "Product Launch",
+      "Product Messaging",
+      "Sales Enablement",
+      "Case Study Development",
+      "Customer Advocacy",
+      "Competitive Intelligence",
+      "Writing"
+     ],
+     "secondary_skills": [
+      "Accounting",
+      "Professional Services Marketing",
+      "HubSpot",
+      "Salesforce",
+      "Canva",
+      "Artificial Intelligence",
+      "Startup Experience",
+      "Press Release Writing",
+      "Executive Communications",
+      "Customer Reference Programs"
+     ]
+    },
+    "benefits": [
+     "travel_insurance",
+     "remote_work_hybrid_work_options",
+     "paid_time_off_vacation_personal_days",
+     "health_insurance",
+     "vision_care",
+     "dental_insurance",
+     "mental_health_support",
+     "stock_options_equity",
+     "pensions_401k",
+     "pension_contribution_matching"
+    ],
+    "salary": null,
+    "experienceLevel": "mid",
+    "employmentType": "full_time",
+    "minYearsExperience": 4,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software",
+     "consulting_professional"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790260866,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/aiwyn/70cd9db5-b6dd-4ff4-8f91-fee21d708da7",
+    "status": "active",
+    "companies": [
+     {
+      "name": "Aiwyn",
+      "website": "aiwyn.ai"
+     }
+    ]
+   },
+   {
+    "id": "e5d558b9-22a4-47b1-8d57-cd9c1549fa75",
+    "title": "Director of Alliances",
+    "description": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;DataHub is an AI &amp;amp; Data Context Platform adopted by over 3,000 enterprises, including Apple, CVS Health, Netflix, and Visa. Innovated jointly with a thriving open-source community of 13,000+ members, DataHub's metadata graph provides in-depth context of AI and data assets with best-in-class scalability and extensibility.&lt;/p&gt; &lt;p&gt;The company's enterprise SaaS offering, DataHub Cloud, delivers a fully managed solution with AI-powered discovery, observability, and governance capabilities. Organizations rely on DataHub solutions to accelerate time-to-value from their data investments, ensure AI system reliability, and implement unified governance, enabling AI &amp;amp; data to work together and bring order to data chaos.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;About DataHub&lt;/h2&gt; &lt;p&gt;DataHub transforms enterprise data into trusted context, enabling intelligent decision-making by humans and AI agents. The company was founded by the creators of the popular DataHub open source product that has more than 16,000 contributors and is used by thousands of organizations. The company’s flagship product, DataHub Cloud, is the leading context management platform trusted by the Global 2000 to ensure that context is always relevant, reliable, and continuously refreshed across the entire data estate.&lt;/p&gt; &lt;h2&gt;The Role&lt;/h2&gt; &lt;p&gt;DataHub | Reports to Chief Marketing Officer&lt;/p&gt; &lt;p&gt;Partnerships are a core lever in DataHub's growth. We're hiring a Director of Alliances to own our partnership strategy end to end: building the systems that let partners help us close deals faster, deliver complete solutions, and generate new pipeline.&lt;/p&gt; &lt;p&gt;You'll build and run three interlocking motions: co-selling with hyperscalers and technology partners, certifying systems integrators to implement DataHub, and co-marketing with partners to source net new opportunities. This is a builder role. You'll design the playbooks, negotiate the agreements, and run the day to day partner relationships that turn strategy into revenue.&lt;/p&gt; &lt;h2&gt;What You'll Own&lt;/h2&gt; &lt;p&gt;Partner-Influenced (Co-Sell)&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Build and run a structured, repeatable co-sell playbook with hyperscalers and other strategic technology partners&lt;/li&gt; &lt;li&gt;Register deals, introduce account executives to partner counterparts, and drive joint pursuit of opportunities&lt;/li&gt; &lt;li&gt;Own hyperscaler alliance relationships, including specialization and co-sell scoring programs&lt;/li&gt; &lt;li&gt;Grow the share of deals that are meaningfully influenced by a partner&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Partner-Fulfilled (Certification)&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Stand up a certification program for systems integrators, covering technical enablement, implementation, and specialized delivery tracks (such as compliance or migration work)&lt;/li&gt; &lt;li&gt;Build enablement content, technical training, and a tiered partner scoring model&lt;/li&gt; &lt;li&gt;Manage relationships with a portfolio of SI and GSI partners&lt;/li&gt; &lt;li&gt;Grow the number of certified partners who can independently deliver DataHub implementations&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Partner-Sourced (Co-Marketing)&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Identify and prioritize target accounts using partner pipeline, look-alike data, and joint account mapping&lt;/li&gt; &lt;li&gt;Plan and execute joint marketing programs, from webinars to executive events, tailored to technical, business, and economic buyer personas&lt;/li&gt; &lt;li&gt;Build joint partner pages, co-branded content, and the tracking infrastructure needed to attribute partner-sourced pipeline&lt;/li&gt; &lt;li&gt;Grow the volume of net new opportunities sourced through partners&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Program and Relationship Management&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Own the partnership roadmap and planning cadence, coordinating across sales, marketing, and product&lt;/li&gt; &lt;li&gt;Negotiate and manage partnership agreements&lt;/li&gt; &lt;li&gt;Represent DataHub at partner and industry events, including partner participation in DataHub's own conference and field events&lt;/li&gt; &lt;li&gt;Partner closely with the technical enablement and events functions to deliver a complete partner experience&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;What You'll Bring&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;7+ years in partnerships, alliances, or channel roles at an enterprise software or data infrastructure company&lt;/li&gt; &lt;li&gt;Direct experience building or scaling co-sell programs with hyperscalers (AWS, Google Cloud, Azure)&lt;/li&gt; &lt;li&gt;Experience standing up SI/GSI partner programs, including certification and enablement&lt;/li&gt; &lt;li&gt;A track record of turning partnerships into measurable pipeline and revenue, not just signed agreements&lt;/li&gt; &lt;li&gt;Comfort operating at both strategic and hands on levels: you can build a three year alliance strategy and also personally register a deal in APN&lt;/li&gt; &lt;li&gt;Strong cross functional collaborator, able to align sales, marketing, and product around shared partner goals&lt;/li&gt; &lt;li&gt;Excellent written and verbal communication skills for partner negotiations and executive reporting&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;Nice to Have&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Familiarity with the data catalog, data governance, or metadata management space&lt;/li&gt; &lt;li&gt;Experience with compliance or regulatory frameworks relevant to regulated industries&lt;/li&gt; &lt;li&gt;Existing relationships within the AWS, Google Cloud, or major SI partner ecosystems&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;Reporting and Location&lt;/h2&gt; &lt;p&gt;This role reports to the Chief Marketing Officer and works closely with sales leadership, product marketing, and the technical enablement team.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=\"content-conclusion\"&gt;&lt;h2&gt;&lt;strong&gt;Benefits and Perks&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;We invest in people so they can do their best work and enjoy doing it. Our benefits reflect the way we build: practical, thoughtful, and designed to support long-term growth.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Competitive compensation&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;We offer salaries that reflect your skills, experience, and the impact you make. You bring value—we make sure you're recognized for it.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Equity for everyone&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Every team member receives an ownership stake in the company. When we grow, you grow with us.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Remote Work&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;All roles are remote unless otherwise specified in the job description. Review the job description to confirm if the role you are interested in is remote or hybrid.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Location flexibility&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Home office, coworking space, or something in between? We support your ideal setup. You’ll receive a monthly coworking stipend to use whenever you need a change of pace or in-person collaboration time.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Comprehensive health coverage&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Your well-being matters. We cover 99% of medical, dental, and vision premiums employees, and 65% for dependents.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Flexible savings accounts&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;We offer FSAs to help cover planned or unexpected healthcare costs. You can also opt into a Dependent Care FSA to support family needs.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Support for every path to parenthood&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Through Carrot Fertility, we provide inclusive fertility benefits and family-forming support. All U.S. employees have access, regardless of age, gender identity, or family structure.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Time off that works for you&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;We trust you to take the time you need. Our unlimited PTO and sick leave policy is designed for flexibility, rest, and real life.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Why Join Us&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;DataHub is at a rare inflection point: we’ve achieved product-market fit, earned the trust of leading enterprises, and secured backing from top-tier investors like Bessemer Venture Partners and 8VC. The context platform market is expected to grow from $1B to $9B in the next five years—and we’re leading the way.&lt;/p&gt; &lt;p&gt;By joining our team, you’ll:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Tackle high-impact challenges at the heart of enterprise AI infrastructure&lt;/li&gt; &lt;li&gt;Ship production systems that power real-world use cases at global scale&lt;/li&gt; &lt;li&gt;Collaborate with a high-caliber team of builders who’ve scaled some of the most influential data tools in the world&lt;/li&gt; &lt;li&gt;Build the next generation of AI-native data systems, including conversational agents, intelligent classification, automated governance, and more&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;If you're passionate about technology, enjoy working with customers, and want to be part of a fast-growing company changing the industry, we want to hear from you!&lt;/p&gt;&lt;/div&gt;",
+    "summary": "DataHub is hiring a Director of Alliances to lead its partnership strategy across co-selling, systems integrator certification, and co-marketing. The role owns partner programs, agreements, enablement, pipeline generation, and cross-functional coordination to turn partnerships into measurable revenue.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Cross-functional Collaboration",
+      "Communication",
+      "Relationship Management"
+     ],
+     "primary_skills": [
+      "Partnership Strategy",
+      "Alliance Management",
+      "Channel Partnerships",
+      "Co-Selling",
+      "Hyperscaler Alliances",
+      "Systems Integrator Partner Programs",
+      "Partner Certification",
+      "Technical Enablement",
+      "Partner Marketing",
+      "Partnership Agreement Negotiation"
+     ],
+     "secondary_skills": [
+      "Data Catalogs",
+      "Data Governance",
+      "Metadata Management",
+      "Compliance Frameworks",
+      "Regulatory Frameworks",
+      "Joint Account Mapping",
+      "Pipeline Attribution"
+     ]
+    },
+    "benefits": [
+     "stock_options_equity",
+     "remote_work_hybrid_work_options",
+     "flexible_work_hours",
+     "health_insurance",
+     "dental_insurance",
+     "vision_care",
+     "other_benefits",
+     "paid_time_off_vacation_personal_days",
+     "sick_leave"
+    ],
+    "salary": null,
+    "experienceLevel": "executive",
+    "employmentType": "full_time",
+    "minYearsExperience": 7,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790123796,
+    "expiresAt": null,
+    "applyUrl": "https://job-boards.greenhouse.io/acryldata/jobs/5246757007",
+    "status": "active",
+    "companies": [
+     {
+      "name": "datahub.com",
+      "website": "datahub.com"
+     }
+    ]
+   },
+   {
+    "id": "5af73c33-97ce-4f57-815d-e59e0b012f1d",
+    "title": "Sales Enablement Specialist",
+    "description": "<h2>About 7AI</h2><p>7AI is the foundational AI security company. Founded in 2024 by Cybereason co-founders Lior Div and Yonatan Striem-Amit, we came out of stealth in February 2025 to take on the non-human work of the SOC. Our platform pairs a federated SIEM with AI agents that detect, investigate, respond, and hunt, plus dedicated threat hunting and threat intelligence, with humans on the loop.</p><p>Backed by $166 million in total funding from investors including Index Ventures and Blackstone, we're building the AI foundation for security operations in the agentic era, and we're still early. That's the appeal: you'll join at a pivotal stage where your work shapes what 7AI becomes, alongside security veterans who've built this before. Our culture runs on respect, collaboration, and a shared bar for excellence, all pointed at one goal, delivering real outcomes for the customers who trust us to defend them.</p><h2>Overview</h2><p>7AI is building the onboarding program for a sales team that's still writing its own playbook. As our Sales Enablement Specialist, you'll own onboarding for every new Account Executive and Sales Engineer, turning what our sales leaders, SEs, and product team know into curriculum, learning paths, and certifications people can actually use. You'll build the reporting that shows whether it worked, not just whether reps sat through it. This is a build role: expect to ship a first version fast, watch what happens in Gong and Salesforce, and improve it in the field rather than waiting for a finished program.</p><h2>What You'll Do</h2><ul><li><p>Build and run the onboarding program for new AEs and SEs, working from the structure and priorities you set with the Head of Strategy &amp; Enablement.</p></li><li><p>Turn subject matter expertise from sales leadership, SEs, and product into structured curriculum, role-based learning paths, and certifications.</p></li><li><p>Instrument ramp metrics in Salesforce and build the reporting that shows whether onboarding is working.</p></li><li><p>Use Gong and Salesforce to surface coaching gaps and skill patterns, and bring recommendations for what to build next.</p></li><li><p>Maintain the enablement content library and keep it current as the product and market move.</p></li><li><p>Support launch readiness and ongoing enablement programming for the existing team.</p></li><li><p>Partner with SE leadership so AE and SE onboarding stay one coordinated program.</p></li></ul><h2>What We're Looking For</h2><ul><li><p>2+ years in sales enablement, revenue enablement, or sales/revenue operations.</p></li><li><p>You've built a program, process, or curriculum from a blank page, on your own or as the primary builder under a more senior owner, and can walk through it end to end.</p></li><li><p>You're comfortable turning other people's expertise into something teachable. Most of the security and product content here will come from our sales leaders, SEs, and product team.</p></li><li><p>You can build the reporting behind a metric and explain what it tells you. You can answer \"did this change rep behavior\" with evidence, not just a completion rate.</p></li><li><p>You're fluent with AI tooling in a build context: building repeatable workflows, not just occasional prompting.</p></li><li><p>You'd rather ship a v1 into the field and iterate than wait for a finished program.</p></li><li><p>You're curious about security. No prior cybersecurity experience required, but you're ready to go deep on our product and buyer in the first 90 days.</p></li><li><p>You thrive at a company still writing its own playbook.</p></li></ul>",
+    "summary": "The Sales Enablement Specialist will build and run onboarding for new Account Executives and Sales Engineers, creating curricula, role-based learning paths, certifications, and ramp reporting. The role uses Salesforce and Gong to measure onboarding effectiveness, identify coaching gaps, maintain enablement content, and support launch readiness and ongoing enablement programs.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressRegion": "Massachusetts",
+      "addressCountry": "US",
+      "addressLocality": "Boston"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Collaboration",
+      "Communication",
+      "Adaptability",
+      "Curiosity",
+      "Problem-solving"
+     ],
+     "primary_skills": [
+      "Sales Enablement",
+      "Revenue Enablement",
+      "Sales Operations",
+      "Curriculum Development",
+      "Learning Path Development",
+      "Salesforce",
+      "Gong",
+      "Reporting",
+      "AI Tooling",
+      "Program Development"
+     ],
+     "secondary_skills": [
+      "Cybersecurity",
+      "Product Enablement",
+      "Launch Readiness",
+      "Threat Intelligence"
+     ]
+    },
+    "benefits": [],
+    "salary": null,
+    "experienceLevel": "mid",
+    "employmentType": "full_time",
+    "minYearsExperience": 2,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790112301,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/sevenai/e06133a6-cc41-4755-a9e1-4b6dd2cdd911",
+    "status": "active",
+    "companies": [
+     {
+      "name": "Seven AI",
+      "website": "7ai.com"
+     }
+    ]
+   },
+   {
+    "id": "7675d521-041d-4b90-8381-dfd718b72a60",
+    "title": "North America Market Solutions Director",
+    "description": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;At Skillsoft, we believe skills fuel growth.&amp;nbsp;Our mission is to empower every organization and every learner to turn constant change into continuous growth. As part of the team, your skills will help organizations understand what skills they have, what they need next, and how to apply them in ways that drive real performance and progress.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;North America Market Solutions Director&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Skillsoft is hiring an experienced North America&amp;nbsp; Market Solutions Director to make an impact and drive ARR growth, improve retention, drive a great customer experience, and guide teams through change with clarity and pace. We are seeking a strong operator, coach, and change agent who can turn strategy into repeatable execution across five North America markets.&lt;/p&gt; &lt;p&gt;The NA Market Solutions Director will have the opportunity to be a player / coach and deliver regional results and own the Customer Experience and growth engine for North America. Overseeing the regional Market Solutions Leaders and ensuring consistent, disciplined execution across the customer lifecycle to include presales, adoption, expansion and renewal. This role operates as an executive people leader, global practice owner, and partners closely with the North America VP of Sales as the region's primary Go To Market change leaders for the region sustaining team confidence, clarity, and pace through continued change.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Key Responsibilities:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Lead the Geographical Market Solutions Teams&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Manage, coach, and develop the MSLs across the geography; set clear performance standards and accountability.&lt;/li&gt; &lt;li&gt;Ensure Market Solutions Leaders (MSLs) execute the end-to-end customer solution lifecycle (Sale → Value → Expand → Renew) with MEDDPICC rigor and value-realization discipline.&lt;/li&gt; &lt;li&gt;Build a high-performance, coaching-first culture aligned to Skillsoft's Enterprise Leadership Skills; build team capabilities systematically.&lt;/li&gt; &lt;li&gt;Guarantee the MSL’s align Solutions Partners across markets to match opportunity size, complexity, and urgency.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Coach Solutioning Capability and Lead Through Transformation &lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Coach MSLs and their teams on advanced solutioning - executive discovery and problem framing, solution architecture and design, value narrative and business case development, and platform and ecosystem expertise&lt;/li&gt; &lt;li&gt;Steer the team through an organization in transformation: guide teams through evolving roles, new operating models, and shifting customer expectations with clarity, confidence, and pace&lt;/li&gt; &lt;li&gt;Support MSLs in developing the CSM function as a strategic advisor capability - fluent in skills intelligence, data-led insight, executive engagement, and outcome-based partnership rather than reactive account management&lt;/li&gt; &lt;li&gt;Collaborate with and support the MSLs in developing Solution Partners as expert customer-facing advisors - deep in product and platform, disciplined in solution design methodology, and credible with C-suite buying committees&lt;/li&gt; &lt;li&gt;Drive adoption of AI-enabled workflows and tooling to expand strategic capacity and reduce administrative load&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Deliver Regional Revenue and Customer Outcomes&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Co-own regional targets with the North America Geo Sales Leader (AVP): ARR growth, retention, expansion, NPS, and platform conversion.&lt;/li&gt; &lt;li&gt;Oversee regional performance management cadences to drive continuous improvement and results; escalate and resolve at-risk accounts; enable growth across accounts.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Own the Global Component – Shared / Channel Teams (example only of Global Component)&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Define the charter and target operating model for global shared/channel solution teams.&lt;/li&gt; &lt;li&gt;Establish rules of engagement between shared CSM pools, MSLs, direct sales, and channel partners.&lt;/li&gt; &lt;li&gt;Build channel enablement content and playbooks for solution positioning through partners.&lt;/li&gt; &lt;li&gt;Design coverage tiers so tier-2/tier-3 customers receive scalable, high-quality solution support.&lt;/li&gt; &lt;li&gt;Report on channel-sourced ARR and shared-team utilization to the Global Solutions Leader.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Drive Cross-Regional Consistency&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Serve as a member of the Global Solutions Management team alongside peer GMSLs, the Solutions IP Team lead, and the Program Manager.&lt;/li&gt; &lt;li&gt;Responsible for ensuring global standards are applied in-region while allowing appropriate local tailoring for market realities.&lt;/li&gt; &lt;li&gt;Share regional insights back into the global system — customer patterns, competitive intel, and solution feedback — to inform IP and roadmap.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Cross-Functional Leadership&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Partner with the Solutions IP Team to translate defined solutions and POVs into repeatable, market-ready plays.&lt;/li&gt; &lt;li&gt;Interlock with Professional Services regional leadership on clean presales-to-delivery handoffs.&lt;/li&gt; &lt;li&gt;Partner with Product, Marketing, and Enablement to close feedback loops from field to global functions.&lt;/li&gt; &lt;li&gt;Support the Program Manager in keeping data clean, systems used, and operating rhythm consistent.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Required Skills &amp;amp; Qualifications&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;12+ years of progressive management experience in enterprise PaaS spanning some combination of Sales, Customer Success, Solutions Consulting/Pre-Sales, and/or Professional Services.&lt;/li&gt; &lt;li&gt;Overseeing Professional / Managed Services and Solutioning (or consulting) experience with demonstrated results driving long-term customer growth with services engagements based on business cases.&lt;/li&gt; &lt;li&gt;Proven track record of delivering ARR growth, retention, and expansion in a platform and solutions-based selling motion.&lt;/li&gt; &lt;li&gt;Proficient in Salesforce and Business Intelligence (BI) tools.&lt;/li&gt; &lt;li&gt;Deep fluency in MEDDPICC (or equivalent), value-based selling, and end-to-end customer lifecycle management.&lt;/li&gt; &lt;li&gt;Experience as a practice or system builder — designing repeatable processes, tools, or capability models adopted at scale.&lt;/li&gt; &lt;li&gt;Possess a strong operational rigor with proficiency in forecasting, pipeline inspection, and data-driven outcomes&lt;/li&gt; &lt;li&gt;Have a deep familiarity with North America market dynamics.&lt;/li&gt; &lt;li&gt;Executive presence with proven ability to engage C-suite customers and internal senior leadership.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Preferred Skills &amp;amp; Experience&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Experience operating in a matrixed global organization and collaborating with strong partnership across Product, Professional Services, Revenue Operations, and Marketing.&lt;/li&gt; &lt;li&gt;Familiarity with the Learning technologies and L&amp;amp;D functions, learning/talent ecosystems, and AI-enabled workforce transformation.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Target base salary range for this job requisition is anticipated to be approximately $215,000 - $239,000 annualized.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;We also offer Enterprise benefits including but not limited to: medical, dental, vision, and paid time off.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;The company may modify salaries, salary ranges and/or Pay Plans from time to time as it deems necessary.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Skillsoft uses AI-enabled tools to screen applications. Recruitment and hiring decisions are made by Skillsoft personnel and are not based solely on automated processing.&lt;/strong&gt;&lt;/p&gt;&lt;div class=\"content-conclusion\"&gt;&lt;h3&gt;MORE ABOUT SKILLSOFT:&lt;/h3&gt; &lt;p&gt;Skillsoft (NYSE: SKIL) is a global leader in AI-native skills management for the human + AI era. By unifying learning, real-time skills intelligence, and workforce insights, Skillsoft helps enterprises build their Skillforce™ — humans and AI working together to drive measurable business outcomes. Through personalized, interactive learning across leadership, technology, and compliance, Skillsoft enables organizations to close critical skill gaps and accelerate transformation. Skillsoft is trusted by thousands of organizations worldwide, including 60% of the Fortune 1000, and supports a global community of more than 105 million learners. Learn more at &lt;a href=\"https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.skillsoft.com%2F&amp;amp;data=05%7C02%7CAlicia.Webb%40skillsoft.com%7C36d2da8de0194a56800708de643c71a1%7C50361608aa23494da2332fd14d6a03f4%7C0%7C0%7C639058407944984460%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;amp;sdata=vKXEeOW14HJrrID0XOoQJVjVbwOsMZAEXYws7OBBySU%3D&amp;amp;reserved=0\"&gt;skillsoft.com&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Thank you for taking the time to learn more about us.&amp;nbsp;&lt;br&gt;If this opportunity intrigues you, we would love for you to apply!&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;NOTE TO EMPLOYMENT AGENCIES: We value the partnerships we have built with our preferred vendors. Skillsoft does not accept unsolicited resumes from employment agencies.&amp;nbsp; All resumes submitted by employment agencies directly to any Skillsoft employee or hiring manager in any form without a signed Skillsoft Employment Agency Agreement on file and search engagement for that position will be deemed unsolicited in nature.&amp;nbsp; No fee will be paid in the event the candidate is subsequently hired as a result of the referral or through other means.&lt;/p&gt; &lt;p&gt;&lt;span data-olk-copy-source=\"MessageBody\"&gt;Skillsoft is an equal opportunity employer. We evaluate qualified applicants without regard to race, color, religion, sex, age, national origin, disability, veteran status, genetic information, and other legally protected categories.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;",
+    "summary": "Skillsoft is seeking an experienced North America Market Solutions Director to lead regional Market Solutions teams, drive ARR growth, retention, expansion, customer experience, and consistent execution across the customer lifecycle. The role manages and coaches market leaders, oversees solutioning and customer outcomes, leads transformation and shared-channel teams, and partners with global and cross-functional leadership to establish scalable operating practices.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Leadership",
+      "Coaching",
+      "Communication",
+      "Problem-solving",
+      "Adaptability"
+     ],
+     "primary_skills": [
+      "Enterprise Platform-as-a-Service",
+      "Sales Leadership",
+      "Customer Success Management",
+      "Solutions Consulting",
+      "Professional Services Management",
+      "ARR Growth",
+      "Customer Retention",
+      "Customer Expansion",
+      "Salesforce",
+      "Business Intelligence"
+     ],
+     "secondary_skills": [
+      "Learning Technology",
+      "Learning and Development",
+      "Talent Ecosystems",
+      "AI-Enabled Workforce Transformation",
+      "Matrix Organization Management",
+      "Channel Partner Enablement"
+     ]
+    },
+    "benefits": [
+     "health_insurance",
+     "dental_insurance",
+     "vision_care",
+     "paid_time_off_vacation_personal_days"
+    ],
+    "salary": {
+     "max": 239000,
+     "min": 215000,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "executive",
+    "employmentType": "full_time",
+    "minYearsExperience": 12,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software",
+     "education"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790103951,
+    "expiresAt": null,
+    "applyUrl": "https://www.skillsoft.com/about/job/apply?id=4736295005&gh_jid=4736295005",
+    "status": "active",
+    "companies": [
+     {
+      "name": "skillsoft.com",
+      "website": "skillsoft.com"
+     }
+    ]
+   },
+   {
+    "id": "5bf94a4a-3277-4a50-ba78-8a2e42f371a6",
+    "title": "Vp, Product Marketing",
+    "description": "<p>EvenUp is on a mission to close the justice gap using technology and AI. We empower personal injury lawyers and victims to get the justice they deserve. Our products enable law firms to secure faster settlements, higher payouts, and better outcomes for victims injured through no fault of their own in vehicle collisions, accidents, natural disasters, and more.</p><p>We are one of the fastest-growing vertical SaaS companies in history, and we are just getting started. EvenUp is backed by top VCs, including Bessemer Venture Partners, Bain Capital Ventures, SignalFire, and Lightspeed. We are looking to expand our team with talented, driven, and collaborative individuals who seek to have a lasting impact. Learn more at <a href=\"http://www.evenuplaw.com\"><u>www.evenuplaw.com</u></a>.</p><p>The <strong>VP of Product Marketing</strong> will report to the CMO and define the strategic narrative and GTM engine for our expanding portfolio of AI-powered legal solutions, acting as a force multiplier for our revenue engine while scaling the marketing organization for sustained, long-term growth. Reporting to the CMO, this seasoned leader will build and lead the product marketing organization to translate complex technical breakthroughs in AI into compelling, high-conversion value propositions that resonate deeply with law firm leaders and legal professionals across the SMB, Mid-Market, Enterprise, and Strategic segments.</p><p>This leader must craft a multi-year marketing strategy that compounds our brand and category position, effectively balancing urgent quarterly goals with the foundational work required to scale EvenUp into a full-scale system-of-record. They will paint a compelling, unified vision for the marketing team, ensuring that every launch cycle, sales enablement asset, and customer evidence program directly supports our mission to close the justice gap.</p><p>Success requires precise communication, as this person will influence cross-functional leaders in Product and Sales to align on roadmap priorities and market signals. They must possess the expertise to differentiate our AI in a crowded legal-tech landscape, grounding our narrative in tangible customer value. Ultimately, this individual will build and mentor a cohesive team, fostering the talent density necessary to sustain our rapid trajectory.<br></p><p><strong>What You’ll Do:</strong></p><ul><li><p>Own and execute EvenUp’s product marketing strategy, ensuring our positioning, GTM plan, and activation evolves as we scale our product</p></li><li><p>Partner with EPD leadership to drive launch cycles for new features and platform products, focusing on adoption metrics and revenue impact.</p></li><li><p>Partner with sales on the development of sales enablement content, competitive positioning, and customer evidence programs that accelerate deal velocity across all market segments.</p></li><li><p>Analyze market and user signal to inform the product roadmap, ensuring that customer pain points are at the center of our development prioritization.</p></li><li><p>Scale and mentor a high-performing product marketing team, fostering deep cross-functional partnership between Marketing, Product, and Sales.</p></li></ul><p><strong>What We Look For:</strong></p><ul><li><p>12+ years of experience in product marketing, with a proven track record of scaling high-growth B2B SaaS organizations.</p></li><li><p>Experience leading product marketing for AI-native or technical products where complex workflows were a core component of the value proposition.</p></li><li><p>Strong track record of partnering with Sales leadership to drive GTM alignment and achieve measurable revenue growth.</p></li><li><p>Deep understanding of how to translate technical capabilities into clear, concise, and persuasive messaging that resonates with non-technical end users.</p></li><li><p>Proven ability to influence executive leadership and navigate complex, cross-functional organizational environments.</p></li></ul><p><strong>Benefits &amp; Perks:</strong></p><p>As part of our total rewards package, we offer attractive benefits and perks to our employees, including:</p><ul><li><p>Choice of medical, dental, and vision insurance plans for you and your family.</p></li><li><p>Additional insurance coverage options for life, accident, or critical illness.</p></li><li><p>Flexible paid time off, sick leave, short-term and long-term disability.</p></li><li><p>10 US observed holidays, and Canadian statutory holidays by province.</p></li><li><p>A home office stipend.</p></li><li><p>401(k) for US-based employees and RRSP for Canada-based employees.</p></li><li><p>Paid parental leave.</p></li><li><p>A local in-person meet-up program.</p></li><li><p>Hubs in San Francisco and Toronto.</p></li></ul><p><em>(Please note the above benefits &amp; perks are for full-time employees)</em></p><p><em><strong>Notice to Candidates:</strong></em></p><p><em>To ensure fairness and proper consideration, we do not accept resumes or expressions of interest via email or social media messages. If you’re interested in a role, please submit your application directly through our </em><a href=\"https://www.evenuplaw.com/careers\"><em>careers page</em></a><em>.</em></p><p><em>Please note that EvenUp may use AI notetakers and other recording devices in the recruiting process. If you interview with us, with your consent, we may record your conversations and summarize them into notes for internal use. Recording is optional, and declining will not affect your candidacy. </em></p><p><em>EvenUp is an equal opportunity employer. We are committed to diversity and inclusion in our company. We do not discriminate based on race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</em></p>",
+    "summary": "The VP of Product Marketing will define EvenUp’s product marketing strategy and go-to-market engine for its AI-powered legal solutions. The role leads product launches, sales enablement, competitive positioning, market analysis, and customer evidence programs while building and mentoring a high-performing product marketing organization.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Cross-functional Collaboration",
+      "Teamwork",
+      "Mentoring"
+     ],
+     "primary_skills": [
+      "Product Marketing",
+      "Go-to-Market Strategy",
+      "B2B SaaS",
+      "Artificial Intelligence",
+      "Product Launch",
+      "Sales Enablement",
+      "Competitive Positioning",
+      "Market Analysis",
+      "Product Roadmap Management",
+      "Executive Leadership"
+     ],
+     "secondary_skills": [
+      "Customer Evidence Programs",
+      "Legal Technology",
+      "Revenue Growth",
+      "User Research"
+     ]
+    },
+    "benefits": [
+     "health_insurance",
+     "dental_insurance",
+     "vision_care",
+     "life_insurance",
+     "disability_insurance",
+     "paid_time_off_vacation_personal_days",
+     "sick_leave",
+     "company_laptop_equipment",
+     "pensions_401k",
+     "pension_rrsp",
+     "parental_leave",
+     "company_events_retreats",
+     "other_benefits"
+    ],
+    "salary": null,
+    "experienceLevel": "executive",
+    "employmentType": "full_time",
+    "minYearsExperience": 12,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790035200,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/evenup/c13bce2d-6cf1-405b-982a-08bf80e8a014",
+    "status": "active",
+    "companies": [
+     {
+      "name": "evenuplaw.com",
+      "website": "evenuplaw.com"
+     }
+    ]
+   },
+   {
+    "id": "2f62a94e-f13e-4661-ab89-40a7bf2af026",
+    "title": "Solutions Architect",
+    "description": "<h2><strong>About OpenRouter</strong></h2><p>OpenRouter is the open AI routing and infrastructure layer that enterprises use to access, manage, and optimize the best large language models across providers—without lock-in, capacity constraints, or unnecessary cost. We power some of the most advanced AI teams in the world by giving them the flexibility to move fast, scale confidently, and stay future-proof as models evolve.</p><p>As enterprise adoption of AI accelerates, OpenRouter sits at the center of how organizations operationalize LLMs across research, product, and production workloads.</p><p><br></p><h2><strong>About the Role</strong></h2><p>As a Solutions Architect, you'll be the technical backbone of our sales organization — partnering with Business Development Managers and Product Managers to translate complex customer requirements into winning technical strategy. You'll work directly with engineering, infrastructure, and platform teams at our largest prospects and customers, helping them understand how to architect, integrate, and scale their LLM usage on OpenRouter.</p><p>This is a hands-on, customer-facing technical role. You'll run technical discovery, lead architecture conversations, build and support proofs of concept, and be the trusted technical voice in complex, multi-stakeholder deals — while also feeding what you learn back into Product and Engineering to make OpenRouter better.</p><p><br></p><h2><strong>What You'll Do</strong></h2><ul><li><p><strong>Own the technical side of the sales cycle.</strong> Partner with Business Development Managers and Product Managers on strategic and enterprise opportunities, leading technical discovery, solution design, and architecture discussions with customer engineering and infrastructure teams.</p></li><li><p><strong>Run and support proofs of concept.</strong> Scope POCs with customers, help them stand up integrations, troubleshoot issues in real time, and drive POCs to a clear technical win.</p></li><li><p><strong>Translate business needs into technical solutions.</strong> Understand a customer's infrastructure, model usage, and constraints, and map them to the right OpenRouter architecture, routing strategy, and deployment approach.</p></li><li><p><strong>Be the credible technical voice in the room.</strong> Build trust with engineers, architects, and technical decision-makers by speaking their language — on compute, networking, security, and infrastructure as well as on LLMs.</p></li><li><p><strong>Support deal strategy.</strong> Help Business Development Managers and Product Managersand account teams navigate technical objections, security reviews, and procurement requirements that come up in enterprise and infrastructure deals.</p></li><li><p><strong>Build reusable technical assets.</strong> Create demos, reference architectures, POC frameworks, and technical enablement content the broader sales team can use.</p></li><li><p><strong>Partner cross-functionally.</strong> Work closely with Product, Engineering, and Customer Engineering to bring customer and market signal back into the roadmap, and to make sure customer feedback shapes what we build next.</p></li><li><p><strong>Stay technically sharp.</strong> Keep pace with the fast-evolving LLM landscape — new models, providers, infrastructure patterns, and the tools your customers are already using.</p></li></ul><h2><br><strong>What We're Looking For</strong></h2><ul><li><p>7+ years in a technical, customer-facing role in B2B SaaS — as a Solutions Architect, Sales Engineer, or senior technical Account Executive — with a strong track record supporting complex enterprise deals.</p></li><li><p>Deep experience with developer-centric infrastructure: cloud, Kubernetes, virtualization, networking, storage, or open-source infrastructure platforms.</p></li><li><p>Comfort going deep with technical stakeholders (engineers, architects, infrastructure teams) as well as business stakeholders, and the ability to move fluidly between the two.</p></li><li><p>A track record of driving technical wins in the sales cycle — POCs, architecture reviews, security reviews — that translate into closed business.</p></li><li><p>Strong hands-on technical curiosity: you build things, break things, and stay current because you want to, not just because the job requires it.</p></li><li><p>Excellent communication skills, with the ability to explain complex technical concepts clearly to both technical and non-technical audiences.</p></li><li><p>Experience operating in a fast-growing, evolving environment where product, process, and priorities shift as the company scales.</p></li></ul><h2><br><strong>Nice to Haves</strong></h2><ul><li><p>Hands-on experience with Kubernetes, hardened/secure images, or private cloud infrastructure.</p></li><li><p>Personal projects involving AI agents, self-hosted models, or infrastructure tinkering (e.g., running models or VMs on home lab hardware like a Raspberry Pi).</p></li><li><p>Experience selling or supporting sales into healthcare, financial services, or other regulated industries.</p></li><li><p>Experience building technical enablement or POC programs from scratch at an early-stage or high-growth company.</p></li><li><p>Familiarity with the LLM ecosystem (OpenAI, Anthropic, Google, open-source models) and multi-provider routing concepts.</p></li></ul><p><em>If you don't think you meet all of the criteria below but still are interested in the job, please apply. Nobody checks every box, and we're looking for someone who is excited to join the team.</em></p>",
+    "summary": "OpenRouter is seeking a Solutions Architect to serve as the technical backbone of its sales organization for enterprise AI infrastructure solutions. The role involves leading technical discovery, solution design, architecture discussions, proofs of concept, deal support, and cross-functional collaboration with Product, Engineering, and Customer Engineering.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Problem-solving",
+      "Adaptability"
+     ],
+     "primary_skills": [
+      "Solutions Architecture",
+      "B2B SaaS",
+      "Enterprise Sales",
+      "Technical Discovery",
+      "Solution Design",
+      "Proof of Concept Development",
+      "Cloud Computing",
+      "Kubernetes",
+      "Networking",
+      "Infrastructure Architecture"
+     ],
+     "secondary_skills": [
+      "Virtualization",
+      "Storage",
+      "Open-Source Infrastructure",
+      "Secure Image Management",
+      "Private Cloud",
+      "Artificial Intelligence",
+      "Self-Hosted Models",
+      "LLM Ecosystem",
+      "Multi-Provider Routing",
+      "Technical Enablement"
+     ]
+    },
+    "benefits": [],
+    "salary": null,
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 7,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790020448,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/openrouter/7d366fe6-d7e6-4bbf-8ac8-7a5fb49de5b3",
+    "status": "active",
+    "companies": [
+     {
+      "name": "openrouter.ai",
+      "website": "openrouter.ai"
+     }
+    ]
+   },
+   {
+    "id": "794f3588-f8bc-425d-8b74-8c3ba0c3d711",
+    "title": "Senior Director, Product & Customer Marketing",
+    "description": "<h1>Senior Director, Product &amp; Customer Marketing</h1><p><strong>Level:</strong> M5<br><strong>Location:</strong> CAD or US | Eastern or Pacific Timezone<br><strong>Reports To:</strong> <a href=\"https://www.linkedin.com/in/michael-s-a9938860/\"><strong>Michael Scott | Chief Marketing Officer</strong></a><br><strong>Department: </strong> Marketing<br><strong>Type:</strong> Permanent | Full-Time<br><strong>Vacancy Status: </strong> This is an active, approved role and we are currently hiring for this position.</p><h2><strong>About Solink</strong></h2><p>At Solink, our mission is to <strong>safeguard what matters most</strong>. We provide businesses with the tools to <strong>know sooner and act faster</strong> by transforming video security into real-time operational insights.</p><p>Our cloud-based platform integrates seamlessly with your existing cameras and systems, turning them into intelligent sensors that detect and interpret key moments. This empowers teams to make data-driven decisions, enhance security, and improve operational efficiency.</p><p>Trusted by over 35,000 locations across 60+ countries - including brands like McDonald’s and JYSK - Solink delivers clarity when it counts. Our solutions help businesses reduce shrink, optimize performance, and respond proactively to potential threats.</p><p>We're growing rapidly, earning industry recognition, and scaling with purpose. We’ve been recognized by Deloitte’s Fast 50™ and Fast 500™, Business Intelligence Group, and as one of Ottawa’s Best Places to Work. And we’re just getting started!</p><h2><strong>About The Role</strong></h2><p>Solink is looking for a (head of) Senior Director, Product Marketing and Customer Marketing to create category leadership and sharpen our positioning - accelerating adoption, differentiation, and revenue across our key products. This is a newly unified leadership role, bringing Product Marketing and Customer Marketing together so the story we tell to prospects and the story we tell to existing customers reinforce each other.</p><p>You'll own positioning and messaging, lead go-to-market strategy for major launches, run competitive intelligence and win/loss, scale sales enablement, and stand up an Analyst Relations (AR) program - while also owning how we market to and grow our existing customer base through advocacy, references, and expansion programs.</p><p>This is a senior, executive-facing role for someone who can define a category, arm a sales team to win, and build a team and function from a strong existing base of product marketers.</p><h2><strong>What You’ll Be Doing</strong></h2><p><strong>Positioning &amp; Messaging</strong></p><ul><li><p>Own product positioning, messaging, and narrative across Solink’s platform and key products and industries we serve.</p></li><li><p>Develop and defend a category point of view that differentiates Solink from adjacent and competing solutions.</p></li><li><p>Test and refine messaging with customers, prospects, and sales to ensure it resonates and converts.</p></li></ul><p><strong>GTM Strategy</strong></p><ul><li><p>Lead go-to-market strategy and execution for major feature and product launches, partnering with Product, Demand Gen, Sales, and Customer Success.</p></li><li><p>Build launch playbooks and processes that scale across a growing product portfolio.</p></li><li><p>Identify opportunities to grow adoption and ARPU through positioning, packaging, and GTM for new features and add-ons.</p></li></ul><p><strong>Competitive Intelligence</strong></p><ul><li><p>Own Solink’s competitive intelligence program, keeping a current, accurate view of the competitive landscape.</p></li><li><p>Run a win/loss program that turns deal outcomes into sharper positioning and enablement.</p></li><li><p>Educate internal teams - Sales, Marketing, Product - on competitive threats and how to respond to them.</p></li></ul><p><strong>Sales Enablement</strong></p><ul><li><p>Build and scale sales enablement content — battlecards, pitch decks, objection handling, and training — that drives rep proficiency and win rate.</p></li><li><p>Partner with Sales, Customer Success, and RevOps to ensure enablement keeps pace with the roadmap and competitive landscape.</p></li><li><p>Measure and improve enablement adoption and its impact on ramp time and win rate.</p></li></ul><p><strong>Analyst Relations (AR)</strong></p><ul><li><p>Build Solink’s Analyst Relations program from the ground up, establishing relationships with relevant industry analysts.</p></li><li><p>Prepare briefings, RFI/RFP responses, and positioning materials for analyst evaluations and reports.</p></li><li><p>Translate analyst feedback into product, positioning, and GTM recommendations for leadership.</p></li></ul><p><strong>Customer Marketing &amp; Advocacy</strong></p><ul><li><p>Own customer marketing strategy - references, case studies, testimonials, and advocacy programs that support both sales, demand gen, channel and brand.</p></li><li><p>Partner with Demand Gen and Customer Success on programs that drive adoption, expansion, and retention among existing customers.</p></li><li><p>Build a scalable customer reference and advisory program to support field marketing pg growth, competitive deals and category-building efforts.</p></li></ul><h2><strong>A Little Bit About You</strong></h2><ul><li><p>10+ years of experience in product marketing, with meaningful experience in customer marketing, competitive intelligence, or analyst relations.</p></li><li><p>A proven track record building category positioning that differentiates a product in a competitive market.</p></li><li><p>Experience leading go-to-market strategy and execution for major product launches end-to-end.</p></li><li><p>Experience building or scaling a sales enablement function, with measurable impact on win rate or ramp time.</p></li><li><p>Comfort building new functions from scratch, including Analyst Relations or customer advocacy programs.</p></li><li><p>Strong executive communication skills, with experience presenting positioning and strategy to CMO, executive, and board-level audiences.</p></li><li><p>Experience building and coaching a team of product and/or customer marketers.</p></li></ul><h2><strong>What Success Looks Like</strong></h2><ul><li><p>Solink has a clear, differentiated category position that Sales, Marketing, Channel, and Product all use consistently.</p></li><li><p>Major launches land on time with strong adoption and a measurable revenue contribution.</p></li><li><p>Sales wins more competitive deals, supported by sharp, current competitive intelligence and enablement.</p></li><li><p>Solink has an active, credible presence with relevant industry analysts.</p></li><li><p>Existing customers become a growing source of references, advocacy, and expansion revenue.</p></li></ul><h2><strong>Nice to Haves</strong></h2><ul><li><p>Experience in physical security, video surveillance, IoT, or a related B2B technology industry.</p></li><li><p>Experience building an Analyst Relations function in a company that didn’t previously have one.</p></li><li><p>Experience scaling a product or customer marketing function as a company grows past $100M+ ARR.</p></li><li><p>Familiarity with sales enablement and customer marketing platforms (e.g., HubSpot, SalesForce, Highspot, Seismic, Gainsight).</p></li></ul><p><strong>Role Expectations</strong></p><p>This is an M5 level role. At Solink, individuals at this level set the strategic direction for a major function, translating executive priorities into scalable execution, building organizational capability through the leaders and teams they develop, and are accountable for delivering sustained business outcomes.</p><p><strong>In This Role, You'll Be Expected To:</strong></p><ul><li><p>Own the long-term strategy, operating model, and performance of Product &amp; Customer Marketing, translating CMO and executive priorities into clear roadmaps and measurable outcomes.</p></li><li><p>Build and grow a high-performing team, developing future leaders and building strong marketing capability across the function.</p></li><li><p>Partner with the CMO and cross-functional executives (Sales, Product, Customer Success) to influence company-wide GTM priorities and strategic initiatives.</p></li><li><p>Establish scalable systems, playbooks, and operating rhythms — launch process, sales enablement, win/loss, AR, customer advocacy — that improve effectiveness beyond any single program.</p></li><li><p>Represent Product &amp; Customer Marketing internally as the senior authority on positioning and category strategy, building trusted relationships across the organization.</p></li></ul><p><strong>What Success Looks Like:</strong></p><ul><li><p>Product &amp; Customer Marketing is recognized as a strategic, executive-level function with a clear seat at the GTM table, not a service arm to Sales or Demand Gen.</p></li><li><p>The team and leaders you build operate with growing autonomy and are developing toward their own next level.</p></li><li><p>The systems and playbooks you establish scale beyond you and are adopted company-wide, outlasting any single launch or campaign.</p></li></ul><h2><strong>Security Requirements</strong></h2><ul><li><p>Candidates must undergo a criminal records check upon hire;</p></li><li><p>Be a Canadian Citizen (dual citizens included), or eligible to work in Canada;</p></li><li><p>Be willing to comply with Solink’s own security policies and standards.</p></li></ul><h2><strong>Our Values</strong></h2><p>We do things the Solink way:</p><ul><li><p><strong>Act with URGENCY</strong> – Our customers move fast, so we do too.</p></li><li><p><strong>Deliver with QUALITY</strong> – We sweat the details and hold a high bar.</p></li><li><p><strong>Win with TEAM</strong> – No egos. Just outcomes, built together.</p></li><li><p><strong>Lead with TRUST</strong> – We earn it through clarity, consistency, and care.<br></p></li></ul><p>These aren’t just words—they shape how we hire, lead, and grow.</p><h2><strong>Why Solink?</strong></h2><p>We’re not just building tech - we’re building a place where great people do great work.</p><ul><li><p><strong>Clarity and trust</strong>: Where the role allows, we support flexibility in how and where work gets done - and we’re upfront about what’s required.</p></li><li><p><strong>Meaningful equity</strong>: Every full-time, permanent employee has a stake in our growth.</p></li><li><p><strong>Comprehensive benefits</strong>: Fully paid health &amp; dental (no waiting period) + $500 health spending account.</p></li><li><p><strong>Wellness support</strong>: Monthly reimbursement for fitness, wellness, or mental health programs.</p></li><li><p><strong>Growth through merit</strong>: Advancement is based on contribution, initiative, and the ability to raise the bar - together.</p></li><li><p><strong>Candid culture</strong>: Clear expectations, honest feedback, and no politics.</p></li><li><p><strong>Social connection</strong>: From So-learns to Solink-o and So-lunches, we stay connected in ways that actually feel fun.</p></li></ul><h2><strong>What to Expect from the Hiring Process</strong></h2><p>We respect your time and value transparency. Here’s a general idea of what to expect:</p><ol><li><p>Intro call with our Talent Team</p></li><li><p>Interview with the Hiring Manager</p></li><li><p>Role-relevant task or case (if applicable)</p></li><li><p>Final interviews with cross-functional team members</p></li><li><p>Reference Checks</p></li><li><p>Offer &amp; onboarding 🎉</p></li></ol><h3><em>Please note: this is subject to change at any point in the recruitment process based on the needs of the business.</em></h3><h2><strong>How to Apply</strong></h2><p>Submit your resume and a short cover letter via our [<a href=\"https://solink.com/careers/\"><u>Careers Page</u></a>]. Let us know what excites you about this role, and how you’d help move Solink forward.</p><h3><em><strong>NOTICE: Solink </strong></em><strong>uses artificial intelligence (AI) to screen, assess, and/or select candidates for this position.</strong></h3><h3><em><strong>Solink is an Equal Opportunity Employer. We’re committed to building a diverse and inclusive workplace. If you require accommodation during the selection process, please let us know.</strong></em></h3>",
+    "summary": "Solink is hiring a Senior Director of Product and Customer Marketing to define category positioning, lead go-to-market strategy for major launches, and build competitive intelligence, sales enablement, and Analyst Relations programs. The role also owns customer marketing, advocacy, references, adoption, expansion, and retention initiatives while building and coaching a high-performing team and influencing executive-level strategy.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "CA"
+     },
+     {
+      "workLocation": "remote",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Executive Communication",
+      "Leadership",
+      "Coaching",
+      "Cross-functional Collaboration",
+      "Strategic Thinking"
+     ],
+     "primary_skills": [
+      "Product Marketing",
+      "Customer Marketing",
+      "Positioning and Messaging",
+      "Go-to-Market Strategy",
+      "Product Launch",
+      "Competitive Intelligence",
+      "Sales Enablement",
+      "Analyst Relations",
+      "Customer Advocacy",
+      "Team Building"
+     ],
+     "secondary_skills": [
+      "Physical Security",
+      "Video Surveillance",
+      "Internet of Things",
+      "HubSpot",
+      "Salesforce",
+      "Highspot",
+      "Seismic",
+      "Gainsight"
+     ]
+    },
+    "benefits": [
+     "health_insurance",
+     "dental_insurance",
+     "stock_options_equity",
+     "wellness_program",
+     "mental_health_support",
+     "flexible_work_hours",
+     "remote_work_hybrid_work_options",
+     "professional_development",
+     "company_events_retreats",
+     "other_benefits"
+    ],
+    "salary": null,
+    "experienceLevel": "executive",
+    "employmentType": "full_time",
+    "minYearsExperience": 10,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software",
+     "other"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790018122,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/solink/de5241d1-5af0-491f-b4df-2f9357359cde",
+    "status": "active",
+    "companies": [
+     {
+      "name": "Solink",
+      "website": "solink.com"
+     }
+    ]
+   },
+   {
+    "id": "13f3fc11-83a1-414d-93b6-732836a2c9d2",
+    "title": "Director - Financial Services Marketing",
+    "description": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;Are you looking for a role that motivates and challenges you? Are you ready for an opportunity for growth? Do you want to work on teams where people roll up their sleeves to take on tough problems together, and regularly blow the doors off our clients with their outstanding teamwork? If you answered yes to those questions, 3Cloud might just be for you!&lt;/p&gt; &lt;p&gt;At 3Cloud, we hire people who aren’t afraid to experiment or fail. We hire people who are willing to give direct and candid feedback to their managers, leaders, and team members. We hire people who jump at those opportunities because they care about our collective growth and success. We hire people who challenge and hold each other accountable for living 3Cloud’s core values because they know that it will result in amazing experiences and solutions for our clients and each other.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;span style=\"font-size: 12pt;\"&gt;&lt;strong&gt;Director – Financial Services Marketing&amp;nbsp;&lt;/strong&gt;&lt;br&gt;This role is responsible for developing – and telling – a story about an organization’s capabilities with regard to a financial services market focusing on insurance and banking. In this role you will work closely with Delivery and Alliances teams to create the financial services Azure GTM marketing strategy and coordination of execution with various resources within the organization.&lt;br&gt;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span style=\"font-size: 12pt;\"&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;br&gt;You’ll plan, orchestrate, and execute solution launches that accelerate sales, increase awareness of the 3Cloud brand, and drive demand. You will have a keen understanding of each solution portfolio, buying offices/ buyer journeys, as well as flagship clients. Leverage this knowledge to identify new market opportunities (white space, cross sells, etc.) and work with broader marketing team to drive growth.&lt;br&gt;• Strategic Narrative, Messaging and Positioning: craft and optimize positioning and messaging (including market, company, platform, and competitive positioning) to equip sales teams to close deals, support successful solution launches, and deploy through all market-facing communication touch points (website, sales messages, SDR, content, etc.)&lt;br&gt;• Deep Solution Expertise: foster a meaningful relationship with delivery leadership, maintain a deep understanding of our current services and solution offerings and plans, lead the creation, design, and enablement of our demos, and ensure that all PMM work is guided with intimate knowledge of our solutions.&lt;br&gt;• Marketplace: publish all solution offerings on channel marketplace such as Azure marketplace and Databricks brick builder.&lt;br&gt;• Act as liaison with demand teams to ensure campaigns are running successfully and generating top of funnel volume for the healthcare sales team.&lt;br&gt;• Equip our sales team with enablement content such as solution playbooks with the aim of increasing win rate and decreasing sales cycle length.&lt;br&gt;• Align materials to Microsoft solution plays to enable Microsoft sellers.&amp;nbsp;&lt;br&gt;• Leverage company thought leadership content, adding Microsoft lens to bring back to the Microsoft channel to position 3Cloud the top partner for Azure healthcare focus.&lt;br&gt;• Develop client success stories and client win wires for Microsoft.&lt;br&gt;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span style=\"font-size: 12pt;\"&gt;&lt;strong&gt;Requirement&lt;/strong&gt;&lt;br&gt;• 12+ years B2B product/solution marketing experience with a strong focus on compelling, differentiated, and provocative messaging and positioning&amp;nbsp;&lt;br&gt;• Have basic understanding of financial services (sub-verticals of banking, insurance, industry imperatives, personas, pain points, etc.)&lt;br&gt;• Preferred experience at a company with ARR &amp;gt; $300M, SaaS or IT consulting, cloud platform, healthcare SaaS&lt;br&gt;• Experience developing positioning and messaging for offering packages that serve multiple usecases, verticals, and enterprise markets&lt;br&gt;• Ability to master a sophisticated offering with multiple dimensions (including platform, services, and partnerships) and simplify into easily digestible yet uniquely differentiated value propositions&lt;br&gt;• A strong team player but still a self-starter who thrives in a fast-paced, high-growth start-up environment&amp;nbsp;&lt;br&gt;• Ability to inspire cross-functional teams, tell compelling stories and present with confidence to a broad range of audiences&lt;br&gt;• A consistent record influencing a cross-functional and highly diverse distributed team to outcomes&lt;br&gt;• Experience working closely with delivery management, engineering, analytics, design, and other marketing capabilities (regional marketing, growth marketing, brand and content marketing) to develop, launch, and scale solutions&lt;br&gt;• Creative, resourceful, detail-oriented, and well-organized&amp;nbsp;&lt;br&gt;• Track record of effectively advising senior stakeholders on product/solution positioning and priorities&amp;nbsp;&lt;br&gt;• Outstanding verbal and written communication skills; very comfortable communicating to senior executives&lt;br&gt;• Highly effective analytics, listening, and critical thinking skills with deep commitment to understanding customer needs&lt;br&gt;• Strong project management and collaboration skills with the ability to balance shifting priorities and handle ongoing projects&lt;br&gt;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span style=\"font-size: 12pt;\"&gt;Don’t meet every single requirement? At 3Cloud we are dedicated to building a diverse, inclusive and authentic workplace, so if you’re excited about this role but your past experience doesn’t align perfectly with every qualification in the job description, we encourage you to apply anyway.&amp;nbsp;At this time, we cannot sponsor applicants for work visas&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;This Job Posting will expire on&amp;nbsp;&lt;span class=\"TextRun SCXO74738315 BCX0\" lang=\"EN-US\" data-contrast=\"auto\"&gt;&lt;span class=\"NormalTextRun SCXO74738315 BCX0\"&gt;&lt;span class=\"EOP SCXO74738315 BCX0\"&gt;Monday, October 12th&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;strong&gt;&lt;span class=\"TextRun SCXO74738315 BCX0\" lang=\"EN-US\" data-contrast=\"auto\"&gt;&lt;span class=\"NormalTextRun SCXO74738315 BCX0\"&gt;&lt;span class=\"EOP SCXO74738315 BCX0\"&gt;, 2026.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&lt;div class=\"content-pay-transparency\"&gt;&lt;div class=\"pay-input\"&gt;&lt;div class=\"description\"&gt;&lt;hr&gt; &lt;p&gt;&lt;strong&gt;3Cloud Total Rewards Highlights Include:&lt;/strong&gt; &amp;nbsp;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Flexible work location with a virtual first approach to work! &lt;/li&gt; &lt;li&gt;401(K) with match up to 50% of your 6% contributions of eligible pay &lt;/li&gt; &lt;li&gt;Generous PTO providing a minimum of 15 days in addition to 9 paid company holidays and 2 floating personal days &amp;nbsp;&lt;/li&gt; &lt;li&gt;Two medical plan options to allow you the choice to elect what works best for you!&lt;/li&gt; &lt;li&gt;Option for vision and dental coverage &lt;/li&gt; &lt;li&gt;100% employer paid coverage for life and disability insurance&lt;/li&gt; &lt;li&gt;Paid leave for birth parents and non-birth parents &lt;/li&gt; &lt;li&gt;Option for Healthcare FSA, HSA, and Dependent Care FSA&lt;/li&gt; &lt;li&gt;$67.00 monthly tech and home office allowance&lt;/li&gt; &lt;li&gt;Utilization and/or discretionary bonus eligibility based on role &lt;/li&gt; &lt;li&gt;Employee Assistance Program to help with everyday challenges&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;3Cloud offers competitive compensation. In addition to base pay employees are eligible to receive an annual discretionary/utilization bonus. If you are hired at 3Cloud your final base salary is based on factors such as skills, education, experience and/or geographic location. Please keep in mind that the range mentioned above includes the full base salary range for the role. It is not typical for offers to be made at or near the top of the range.&lt;/p&gt;&lt;/div&gt;&lt;div class=\"title\"&gt;Base Salary Range&lt;/div&gt;&lt;div class=\"pay-range\"&gt;&lt;span&gt;$119,700&lt;/span&gt;&lt;span class=\"divider\"&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$179,600 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\"content-conclusion\"&gt;&lt;p&gt;Don’t meet every single requirement?&amp;nbsp;At 3Cloud we are dedicated to building a diverse, inclusive and authentic workplace, so if you’re excited about this role but your past experience doesn’t align perfectly with every qualification in the job description, we encourage you to apply anyway.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;At this time, we cannot sponsor applicants for work visas.&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;",
+    "summary": "The Director of Financial Services Marketing develops messaging, positioning, go-to-market strategy, and solution launches for banking and insurance offerings, working closely with delivery, alliances, demand, and sales teams. The role includes marketplace publishing, sales enablement, Microsoft-focused marketing, client success stories, and influencing cross-functional teams to drive demand and growth.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Teamwork",
+      "Leadership",
+      "Problem-solving",
+      "Adaptability"
+     ],
+     "primary_skills": [
+      "B2B Product Marketing",
+      "Solution Marketing",
+      "Messaging and Positioning",
+      "Go-to-Market Strategy",
+      "Solution Launch",
+      "Sales Enablement",
+      "Azure",
+      "Marketplace Management",
+      "Cross-Functional Collaboration",
+      "Project Management"
+     ],
+     "secondary_skills": [
+      "Financial Services",
+      "Banking",
+      "Insurance",
+      "SaaS",
+      "IT Consulting",
+      "Cloud Platforms",
+      "Databricks",
+      "Analytics"
+     ]
+    },
+    "benefits": [
+     "pensions_401k",
+     "pension_contribution_matching",
+     "paid_time_off_vacation_personal_days",
+     "health_insurance",
+     "vision_care",
+     "dental_insurance",
+     "life_insurance",
+     "disability_insurance",
+     "parental_leave",
+     "flexible_work_hours",
+     "remote_work_hybrid_work_options",
+     "other_benefits",
+     "performance_bonuses"
+    ],
+    "salary": {
+     "max": 179600,
+     "min": 119700,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "executive",
+    "employmentType": "full_time",
+    "minYearsExperience": 12,
+    "educationRequirement": null,
+    "industry": [
+     "marketing_advertising",
+     "finance_banking",
+     "technology_software"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790010997,
+    "expiresAt": 1791849599,
+    "applyUrl": "https://job-boards.greenhouse.io/3cloud/jobs/8731067002?gh_jid=8731067002",
+    "status": "active",
+    "companies": [
+     {
+      "name": "3cloudsolutions.com",
+      "website": "3cloudsolutions.com"
+     }
+    ]
+   },
+   {
+    "id": "c4ae6aec-7e3c-4b2e-8b77-6ee64e3474a8",
+    "title": "Director, Sled Solutions Engineering",
+    "description": "<p>Skydio is the leading US drone company and the world leader in autonomous flight, the key technology for the future of drones and aerial mobility. The Skydio team combines deep expertise in artificial intelligence, best-in-class hardware and software product development, operational excellence, and customer obsession to empower a broader, more diverse audience of drone users, from <a href=\"https://www.skydio.com/solutions/energy-and-utilities\">utility inspectors</a> to <a href=\"https://www.skydio.com/solutions/public-safety\">first responders</a>, <a href=\"https://www.skydio.com/solutions/national-security/tactical-isr\">soldiers in battlefield scenarios</a>, and <a href=\"https://www.skydio.com/solutions\">beyond</a>.</p><p><strong>About the Role:</strong></p><p>Skydio is seeking an experienced Solutions Engineering leader to join our team as Director, Solutions Engineering for SLED. This role owns the technical outcome for state and local government, education, and corrections across the United States and Canada. It is a leader of leaders role: you will build and run a multi-team organization through a year of significant growth, and the bar you set for hiring and technical quality is the one the whole vertical inherits.</p><p>This is a remote role. Travel of approximately 30% is required to support customer engagements, field activities, deployments, team onsites, and company events.</p><p>This role reports to the VP, Solutions Engineering.</p><p><strong>About the Team</strong></p><p>The SLED Solutions Engineering team is the technical arm of Skydio's state and local go-to-market motion. We sit between the agency and the product: turning operational problems into program designs, proving capability in the field, and making sure Skydio's products are used, integrated, and flown at scale.</p><p>The team is measured on technical win rate, trial and proof of concept outcomes, program expansion, site assessment quality, and the requirements we push back into the product organization.</p><p>Solutions Engineers are critical members of the Skydio organization and work closely with Key Account Leaders, Engineering, and Product to support deal progression, customer confidence, successful deployments, and the long-term success of Public Safety sUAS programs. As Director you are the technical counterpart to the VP of SLED Sales, and you own the coverage model that pairs the two organizations together.</p><p><strong>How You’ll Make an Impact:</strong></p><h3><strong>Lead the leaders</strong></h3><ul><li><p>Recruit, hire, and develop Senior Managers, and create the path that takes strong Solutions Engineers into their first management role.</p></li><li><p>Hold each manager to a segment outcome rather than an activity count, and coach them on coaching.</p></li><li><p>Scale the organization without losing the bar. Hiring velocity in the first half of the year is the single largest execution risk in the plan.</p></li><li><p>Own the operating rhythm of the vertical: forecast reviews, capacity decisions, and the escalation path when demand for technical resources exceeds supply.</p></li></ul><h3><strong>Drive technical wins</strong></h3><ul><li><p>Own the technical win across all of SLED, and own the coverage model that pairs Solutions Engineering to the sales organization seat for seat. Defend it, or revise it with evidence, each planning cycle.</p></li><li><p>Partner with the VP of SLED Sales as the technical counterpart on segmentation, territory design, and headcount, and bring a defensible position rather than a request.</p></li><li><p>Represent SLED in forecast, planning, and executive reviews, and bring technical risk forward early rather than at the end of the quarter.</p></li></ul><h3><strong>Own the SLED problem set</strong></h3><ul><li><p>Own site assessment quality as a performance measure. Solutions Engineers are the DRI for verifying a dock location before deployment, and the quality of the resulting installation reflects on the team.</p></li><li><p>Hold the bar on proofs of concept: structured deployments tied to an active opportunity with measurable operational value, not casual evaluations.</p></li><li><p>Guide integration and airspace strategy — CAD and dispatch, video and evidence management, streaming platforms, BVLOS approvals, waivers, COAs, and docked operations.</p></li><li><p>Maintain command of the public sector procurement path, including cooperative contracts, grant funded programs, and public sector buying cycles.</p></li></ul><h3><strong>Represent the customer inside Skydio</strong></h3><ul><li><p>Be the aggregated voice of the customer to Product and Engineering. Turn field observations into prioritized, defensible requirements rather than a list of one-off asks.</p></li><li><p>Build the enablement content, reference architectures, and reusable technical assets that let the team scale, and maintain first-hand product knowledge through frequent hands-on use.</p></li></ul><p><strong>What Makes You a Good Fit:</strong></p><ul><li><p>8+ years of relevant technical experience, including time in a customer-facing technical role.</p></li><li><p>2+ years leading leaders. A track record of managing managers, or of managing a team large enough to have required a second layer.</p></li><li><p>A record of building organizations through fast growth — hiring, onboarding, and retaining technical people at volume.</p></li><li><p>Strong understanding of drone technology, Public Safety sUAS operations, and regulatory compliance, including Drone as First Responder concepts of operation and dock based remote operations.</p></li><li><p>Working knowledge of Public Safety technologies, including CAD, VMS, and related software platforms, and the ability to lead integration discussions.</p></li><li><p>Fluency in the commercial side of the business: coverage models, forecast discipline, deal strategy, and the judgment to know when to commit technical resources and when to decline.</p></li><li><p>Experience with state and local government procurement, including cooperative contracts, grant funded programs, and public sector buying cycles.</p></li><li><p>Excellent written and verbal communication. You can brief an operator, a program manager, and a senior executive without changing the facts.</p></li><li><p>Lead by example. Willing to do whatever is needed to get a customer situation resolved.</p></li></ul><p><strong>Nice to Have</strong></p><ul><li><p>Prior public safety service as a sworn officer, firefighter, or agency UAS program lead.</p></li><li><p>Experience standing up a Drone as First Responder program from waiver through go-live, and with dock-based, remote, and BVLOS operations at scale.</p></li><li><p>Familiarity with grant funding pathways and cooperative purchasing vehicles used by state and local agencies.</p></li><li><p>Working knowledge of Salesforce, Palantir, Databricks, or equivalents.</p></li><li><p>Track record of building and scaling a technical team through a period of rapid growth.</p></li></ul><p><strong>What Is Required</strong></p><ul><li><p>Ability to travel approximately 30% of the time.</p></li><li><p>Ability to lift up to 60 lbs unaided.</p></li><li><p>Obtaining FAA Part 107 certification within the first 60 days of employment is strongly encouraged for all Skydio employees and required for certain positions.</p></li></ul><p><strong>Compensation:</strong> At Skydio, our compensation packages for regular, full-time employees include competitive base salaries, equity in the form of stock options, and comprehensive benefits packages. Compensation will vary based on factors, including skill level, proficiencies, transferable knowledge, and experience. Relocation assistance may also be provided for eligible roles. The annual base salary range for this position is $196,000 - $245,000*. Fundamentally, we believe that equity is the key to long-term financial growth, and we ensure all regular, full-time employees have the opportunity to significantly benefit from the company's success. Regular, full-time employees are eligible to enroll in the Company’s group health insurance plans. Regular, full-time employees are eligible to receive the following benefits: Paid vacation time, sick leave, holiday pay and 401K savings plan. This position and all associated benefits are subject to applicable federal, state, and local laws, as well as the Company’s policies and eligibility criteria.</p><p>*Compensation for certain positions may vary based on the position’s location.</p><p>At Skydio we believe that diversity drives innovation. We have created a multidisciplinary environment that embraces the power of diverse perspectives to create elegant solutions for complex problems. We are committed to growing our network of people, programs, and resources to nurture an inclusive culture.</p><p>Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or other characteristics protected by federal, state or local anti-discrimination laws.</p><p>For positions located in the United States of America, Skydio, Inc. uses E-Verify to confirm employment eligibility. To learn more about E-Verify, including your rights and responsibilities, please visit <a href=\"https://www.e-verify.gov/\">https://www.e-verify.gov/</a></p>",
+    "summary": "Skydio is seeking a Director of Solutions Engineering for state and local government, education, and corrections across the United States and Canada. The role leads a multi-team organization, owns technical outcomes and coverage models, supports customer deployments and integrations, and represents customer requirements to Product and Engineering. It is remote, requires approximately 30% travel, and includes responsibility for public sector procurement, technical wins, proofs of concept, and team growth.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Leadership",
+      "Communication",
+      "Problem-solving",
+      "Adaptability"
+     ],
+     "primary_skills": [
+      "Solutions Engineering Leadership",
+      "Organization Building",
+      "People Management",
+      "Drone Technology",
+      "Public Safety sUAS Operations",
+      "Regulatory Compliance",
+      "Drone as First Responder Operations",
+      "Public Safety Technology Integration",
+      "State and Local Government Procurement",
+      "Forecast Management"
+     ],
+     "secondary_skills": [
+      "CAD",
+      "Video Management Systems",
+      "Cooperative Contracts",
+      "Grant-Funded Programs",
+      "BVLOS Operations",
+      "FAA Part 107 Certification",
+      "Salesforce",
+      "Palantir",
+      "Databricks",
+      "Airspace Strategy"
+     ]
+    },
+    "benefits": [
+     "stock_options_equity",
+     "health_insurance",
+     "paid_time_off_vacation_personal_days",
+     "sick_leave",
+     "pensions_401k",
+     "relocation_assistance"
+    ],
+    "salary": {
+     "max": 245000,
+     "min": 196000,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "executive",
+    "employmentType": "full_time",
+    "minYearsExperience": 8,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software",
+     "government_public"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": true,
+    "requiresTravel": true,
+    "travelPercentage": null,
+    "postedAt": 1789763121,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/skydio/817f974c-0eb7-46d7-91db-4239b1a8b572",
+    "status": "active",
+    "companies": [
+     {
+      "name": "skydio.com",
+      "website": "skydio.com"
+     }
+    ]
+   },
+   {
+    "id": "7255a2b8-5099-4fab-94bd-b50f9f786193",
+    "title": "Senior Sales Enablement Manager, Smb & Mid-market",
+    "description": "<div><strong>What we’re building and why we’re building it.&nbsp;</strong></div><div><br></div><div>Fetch helps people live rewarded every day, with a vision to become the rewards destination for everyone. We turn everyday activities into meaningful rewards, whether it’s grocery shopping, grabbing a quick meal, or playing a favorite mobile game. To date, we’ve awarded more than $1 billion in Fetch Points to our users.</div><div><br></div><div>Each day, more than 13 million receipts are submitted on Fetch, providing visibility into over $212 billion in gross merchandise value. This creates the largest retail-agnostic, SKU-level view of household spending, powering Fetch as an outcomes-based advertising platform that helps brands acquire and retain lifelong consumers.</div><div><br></div><div>The Fetch app is available on the App Store and Google Play, with more than 6 million five-star reviews from a highly engaged and loyal user base.</div><div><br></div><div><span>It’s not just our users who believe in Fetch: with investments from Softbank, ICONIQ, DST, Greycroft, and partnerships ranging from challenger brands to Fortune 500 companies, Fetch is reshaping how brands and consumers connect in the marketplace. When you work at Fetch, you play a vital role in a platform that drives brand loyalty and creates lifelong consumers with the power of Fetch points. User and partner success are at the heart of everything we do, and we extend that same commitment to our employees.</span></div><div><br></div><div><span>At Fetch, we value curiosity, adaptability, and the confidence to explore new tools, especially AI, to drive smarter, faster work. You don’t need to be an expert, but you should be ready to learn quickly and think critically. We welcome learners who move fast, challenge the status quo, and shape what’s next, with us.&nbsp; Ranked as one of America’s Best Startup Employers by Forbes for two years in a row, Fetch fosters a people-first culture rooted in trust, accountability, and innovation. We encourage our employees to challenge ideas, think bigger, and always bring the fun to Fetch.</span></div><div><strong>About the Role:</strong></div><div><br></div><div><span>Fetch is investing in dedicated enablement support for two important growth segments: Mid-Market, an established and rapidly expanding business, and SMB, a new business that is being built from the ground up.</span></div><div><br></div><div><span>We are seeking a Sales Enablement Manager to serve as the embedded enablement partner for both teams. This role will simplify how sellers understand and sell Fetch's packages, build and maintain segment-specific onboarding and playbooks, and create a repeatable go-to-market motion that helps new and existing sellers become productive faster.</span></div><div><span>This is a builder role for someone who can move between strategy and execution diagnosing what is getting in the way of performance, translating complex offerings into practical sales guidance, and partnering closely with leaders and managers to reinforce the right behaviors in the flow of work.</span></div><div><br></div><div><span>Reporting to the Director of Sales Enablement, this role will partner closely with the Director to translate the overall Sales Enablement strategy into an SMB and Mid-Market-specific roadmap. They will also work closely with a Sales Enablement Manager peer who leads broader programs and supports Fetch’s other verticals. Together, the team will preserve a consistent company-wide approach while ensuring MM and SMB needs are considered early and reflected wherever the sales motion requires a different approach.</span></div><div><br></div><div>This is a full-time role that can be held from one of our US offices or remotely in the United States.</div><div><br></div><div><strong>Responsibilities</strong>:</div><div><br></div><div><span>Segment Enablement Strategy &amp; GTM Motion</span></div><div><br></div><ul><li><span>&nbsp;Serve as the primary enablement partner to SMB and Mid-Market Sales leaders, aligning priorities and enablement roadmaps to each segment's goals, seller needs, and stage of maturity.</span></li><li><span>Build and operationalize a clear, repeatable SMB sales motion while continuously evolving the Mid-Market motion as the team and opportunity set grow.</span></li><li><span>Translate business priorities into the processes, skills, messaging, tools, and reinforcement sellers need to execute consistently.</span></li><li><span>Use seller feedback, call insights, pipeline data, and performance trends to identify the highest-impact skill, process, and content gaps.</span></li></ul><div><br></div><div><span>Onboarding, Ramp &amp; Readiness</span></div><div><br></div><ul><li><span>Take ownership of the customized Mid-Market onboarding already in development and continuously improve the end-to-end ramp experience for MM and future SMB sellers.</span></li><li><span>Build and maintain distinct learning paths for Mid-Market Growth, Mid-Market New Business, and future SMB roles, incorporating segment- and role-specific training, practice, certifications, and manager-led reinforcement.</span></li><li><span>Adapt shared onboarding content where the MM/SMB motion differs—for example, cold outreach and discovery for new business, segment-specific package details, and more accessible entry points.</span></li><li><span>Partner with frontline managers to define readiness expectations and ensure a consistent handoff from formal onboarding into in-role coaching.</span></li><li><span>Track time-to-readiness and time-to-productivity, using results to improve the ramp experience and remove friction for new hires.</span></li></ul><div><br></div><div><span>Sales Packages, Playbooks &amp; Training</span></div><div><br></div><ul><li><span>Partner with GTM, Product Marketing, Sales, and Revenue Operations to simplify Fetch's products and packages into clear, sellable solutions for SMB and Mid-Market customers.</span></li><li><span>Own the creation and ongoing maintenance of every required MM/SMB version of broader training, package guidance, pitch decks, playbooks, talk tracks, and seller tools.</span></li><li><span>Translate shared offerings into the right MM/SMB execution—including package variances and more accessible entry levels, cold-outreach and new-business discovery motions, segment-relevant positioning, and role-specific pitch guidance.</span></li><li><span>Build practical segment playbooks that include buyer needs, outreach and discovery guidance, positioning, talk tracks, package selection, objection handling, proof points, measurement guidance, and execution steps.</span></li><li><span>Develop and facilitate targeted live and on-demand training for ramped and unramped sellers, grounded in real opportunities and the skills most likely to improve performance.</span></li><li><span>Convert launches and one-time trainings into reusable learning, coaching tools, and reinforcement that drive sustained adoption and behavior change.</span></li><li><span>Maintain accurate, easy-to-use segment content in Letter AI in partnership with the broader enablement content owner and established governance standards.</span></li></ul><div><br></div><div><span>Enablement Peer &amp; Cross-Functional Partnership</span></div><div><br></div><ul><li><span>Work closely with the Sales Enablement Manager serving other verticals to co-plan the roadmap, preserve consistent core messaging and methods, and identify MM/SMB versioning needs before broader programs are finalized.</span></li><li><span>Operate from shared standards and sources of truth rather than building a parallel enablement system; clearly divide ownership of core assets and MM/SMB adaptations.</span></li><li><span>Equip frontline managers with coaching guides, call-review frameworks, readiness checkpoints, and team exercises that reinforce the segment motion.</span></li><li><span>Develop deep working relationships with GTM partners responsible for product launches, media units, and Moments, representing MM/SMB requirements while plans, packages, and activation details are still being shaped.</span></li><li><span>Influence cross-functional plans so new products and activations have a compelling, executable fit for MM/SMB customers rather than requiring late-stage retrofitting.</span></li><li><span>Partner closely with Sales, Product Marketing, Revenue Operations, AIM, and other subject-matter experts to turn complex inputs into clear seller actions.</span></li><li><span>Create a reliable feedback loop between the field and cross-functional partners so messaging, packages, processes, and training improve as the businesses evolve.</span></li><li><span>Represent SMB and Mid-Market enablement needs in broader Sales Enablement planning while reusing shared programs and standards wherever they create scale.</span></li></ul><div><br></div><div><span>Measurement &amp; Continuous Improvement</span></div><div><br></div><ul><li><span>Define and track success measures for onboarding, training, package adoption, and seller proficiency, including leading and lagging indicators.</span></li><li><span>Track MM and SMB participation and completion across required trainings, following up with sellers and managers to close gaps and maintain clear visibility into readiness.</span></li><li><span>Monitor Gong adoption and use call reviews, manager observation, assessments, content usage, seller feedback, and commercial performance data to determine whether training is being applied in the field.</span></li><li><span>Use observed field behaviors to target reinforcement, coaching, content updates, and future training rather than treating completion as the finish line.</span></li><li><span>Use Letter AI, Gong, Salesforce, and AI-enabled workflows to improve learning, surface performance insights, and make enablement easier to access in the flow of work.</span></li></ul><div><br></div><div><strong>Qualifications</strong></div><div><br></div><ul><li><span>8+ years of experience in Sales Enablement, Revenue Enablement, Sales Training, or a comparable commercial role; experience supporting SMB and/or Mid-Market sales teams is strongly preferred.</span></li><li><span>Demonstrated success building or improving onboarding, playbooks, training, coaching, or sales motions that produced measurable changes in seller performance.</span></li><li><span>Strong understanding of high-velocity SMB selling and consultative Mid-Market selling, with the judgment to tailor enablement to different cycle lengths, buyers, and levels of deal complexity.</span></li><li><span>Ability to simplify complex products, pricing, packaging, and processes into clear guidance sellers can confidently use with customers.</span></li><li><span>Experience using data and qualitative insights to diagnose performance gaps, prioritize programs, and measure impact.</span></li><li><span>Strong facilitation, coaching, program management, and stakeholder-management skills.</span></li><li><span>Ability to operate independently and build structure in a fast-paced, evolving environment.</span></li><li><span>Experience with LMS/CMS platforms, CRM, conversation intelligence, and AI-enabled sales or learning tools.</span></li><li><span>Prior quota-carrying sales experience or meaningful experience coaching sellers in-role is strongly preferred.</span></li></ul><div><br></div><div><strong>What Success Looks Like</strong></div><div><br></div><ul><li><span>A clear, repeatable SMB sales motion is documented, taught, reinforced, and improved as the new team scales.</span></li><li><span>Customized onboarding and ramp paths for Mid-Market Growth, Mid-Market New Business, and future SMB roles remain current and help sellers reach meaningful readiness milestones faster.</span></li><li><span>Every broader enablement initiative that requires MM/SMB nuance has a clear, current segment version without creating conflicting narratives or disconnected systems.</span></li><li><span>Fetch's packages are easier for MM/SMB sellers to understand, select, position, and execute, with appropriate entry points and guidance for their buyers and sales motions.</span></li><li><span>MM/SMB requirements influence product launches, media units, and Moments early enough that the resulting plans are compelling and executable for the segments.</span></li><li><span>Training completion and Gong-based field application are visible, with managers receiving timely follow-up and reinforcement support.</span></li><li><span>Segment playbooks and training are trusted, current, and consistently used in live selling situations.</span></li><li><span>Enablement priorities are driven by measurable performance needs, with visible improvement in proficiency, adoption, conversion, deal velocity, or other agreed commercial outcomes.</span></li></ul><div><strong>Compensation:</strong></div><div>At Fetch, we offer competitive compensation packages including base, equity, and benefits to the exceptional folks we hire. The base salary range for this position is <span>$141,131-$166,036</span>. Discover our benefits and how our employees live rewarded at <a href=\"https://fetch.com/careers\">https://fetch.com/careers</a><strong>.</strong></div><div><strong>At Fetch, we'll give you the tools to feel healthy, happy and secure through:</strong></div><div><br></div><ul><li>Equity:&nbsp;We offer full-time employees equity in Fetch, so that everyone can benefit from Fetch’s growth.</li><li>401k Match:&nbsp;Dollar-for-dollar match up to 4%.</li><li>Benefits for humans and pets: We offer comprehensive medical, dental and vision plans for everyone including your pets.</li><li>Continuing Education: Fetch provides ten thousand per year in education reimbursement.</li><li>Employee Resource Groups: Take part in employee-led groups that are centered around fostering a diverse and inclusive workplace through events, dialogue and advocacy. The ERGs participate in our Inclusion Council with members of executive leadership.</li><li>Paid Time Off:&nbsp;On top of our flexible PTO, Fetch observes 9 paid holidays, as well as our year-end week-long break.&nbsp;</li><li>Robust Leave Policies:&nbsp;20 weeks of paid parental leave for primary caregivers, 14 weeks for secondary caregivers, and a flexible return to work schedule.&nbsp;</li><li>Calvin Care Cash: Employees who are welcoming new family members will also receive a one time $2,000 incentive to assist employees with covering the cost of childcare, clothing, diapers and much more!</li><li>Flexible Work Environment: Collaborate with your team in one of our stunning offices, or you can work fully remotely from anywhere in the US. We’ll ensure you are equally equipped with the hardware and software you need to get your job done in the comfort of your home. (applicable for most roles)</li></ul><div><br></div><div>Fetch is an equal opportunity employer that embraces diversity, inclusion, and respect for all individuals. We do not discriminate on the basis of race, color, religion, gender, gender identity or expression, sexual orientation, age, national origin, marital status, veteran status, disability, or any other characteristic protected by applicable law. Our commitment to inclusivity ensures that everyone is treated with dignity and has the opportunity to succeed based on their talent, skills, and potential.</div><div><br></div><div>Fetch also provides reasonable accommodations to qualified individuals with disabilities or those with sincerely held religious beliefs, as required by law. If you need assistance with the application process or require an accommodation, please contact us at accommodations@fetch.com.</div>",
+    "summary": "Fetch is seeking a Senior Sales Enablement Manager to support its SMB and Mid-Market sales teams. The role will build segment-specific sales motions, onboarding paths, playbooks, training, coaching, and measurement programs while partnering cross-functionally to improve seller productivity and commercial performance.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Facilitation",
+      "Leadership",
+      "Adaptability",
+      "Problem-solving"
+     ],
+     "primary_skills": [
+      "Sales Enablement",
+      "Revenue Enablement",
+      "Sales Training",
+      "Sales Motion Development",
+      "Sales Onboarding",
+      "Sales Playbook Development",
+      "Sales Coaching",
+      "Program Management",
+      "Stakeholder Management",
+      "Salesforce"
+     ],
+     "secondary_skills": [
+      "Letter AI",
+      "Gong",
+      "Learning Management Systems",
+      "Content Management Systems",
+      "Conversation Intelligence",
+      "Artificial Intelligence",
+      "Revenue Operations",
+      "Quota-Carrying Sales"
+     ]
+    },
+    "benefits": [
+     "stock_options_equity",
+     "pension_contribution_matching",
+     "pensions_401k",
+     "health_insurance",
+     "dental_insurance",
+     "vision_care",
+     "tuition_reimbursement",
+     "employee_discounts",
+     "paid_time_off_vacation_personal_days",
+     "parental_leave",
+     "flexible_work_hours",
+     "remote_work_hybrid_work_options",
+     "company_laptop_equipment",
+     "other_benefits"
+    ],
+    "salary": {
+     "max": 166036,
+     "min": 141131,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 8,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1789759919,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.gem.com/fetch/am9icG9zdDr29lsEVoI2j4k95bL86s-M",
+    "status": "active",
+    "companies": [
+     {
+      "name": "fetch.com",
+      "website": "fetch.com"
+     }
+    ]
+   },
+   {
+    "id": "eeee6db3-ab21-4db4-a51a-55e2f9f10265",
+    "title": "Senior Manager, Solutions Engineering  State, Local, Educational (sled) Small Cities",
+    "description": "<p>Skydio is the leading US drone company and the world leader in autonomous flight, the key technology for the future of drones and aerial mobility. The Skydio team combines deep expertise in artificial intelligence, best-in-class hardware and software product development, operational excellence, and customer obsession to empower a broader, more diverse audience of drone users, from <a href=\"https://www.skydio.com/solutions/energy-and-utilities\">utility inspectors</a> to <a href=\"https://www.skydio.com/solutions/public-safety\">first responders</a>,<a href=\"https://www.skydio.com/solutions/national-security/tactical-isr\">soldiers in battlefield scenarios</a>, and <a href=\"https://www.skydio.com/solutions\">beyond</a>.</p><p><strong>About the Role:</strong></p><p>Skydio is seeking an experienced Solutions Engineering leader to join our team as Senior Manager, Solutions Engineering for SLED Small Cities. The motion is transactional and high volume, coverage runs at one Solutions Engineer to two Key Account Leaders, and the agencies are small enough that a single well-run demonstration often decides the outcome.</p><p>This is a remote role. Travel of approximately 30% is required to support customer engagements, field activities, deployments, team onsites, and company events.</p><p>This role reports to the Director, Solutions Engineering – SLED.</p><p><strong>About the Team:</strong></p><p>The SLED Solutions Engineering team is the technical arm of Skydio's state and local go-to-market motion. We sit between the agency and the product: turning operational problems into program designs, proving capability in the field, and making sure Skydio's products are used, integrated, and flown at scale.</p><p>The team is measured on technical win rate, trial and proof of concept outcomes, program expansion, site assessment quality, and the requirements we push back into the product organization.</p><p>Solutions Engineers are critical members of the Skydio organization and work closely with Key Account Leaders, Engineering, and Product to support deal progression, customer confidence, successful deployments, and the long-term success of Public Safety sUAS programs.</p><p><strong>How You’ll Make an Impact:</strong></p><h3><strong>Lead the team</strong></h3><ul><li><p>Hire, onboard, coach, and retain your team, with clear ownership and coverage across the territories in your segment, and develop people beyond the seat they are in.</p></li><li><p>Set the bar for technical quality — demos, trial plans, site assessments, and customer-facing documentation that hold up in front of a chief, a sheriff, or a city council.</p></li><li><p>Own capacity across your segment. Decide where Solutions Engineering time goes, say no when it needs to be said, and make the tradeoffs visible to leadership.</p></li></ul><h3><strong>Drive technical wins</strong></h3><ul><li><p>Own the technical win across a two to one coverage model. Leverage is the job, and what cannot be templated, recorded, or reused will not scale here.</p></li><li><p>Serve as the senior technical escalation point on critical pursuits, deployments, and customer issues. Jump in and work the problem yourself, and be in the field when it matters.</p></li><li><p>Partner with Sales leadership on pipeline, forecast, and account planning, and on the land-and-expand motion that turns a first dock into a citywide program.</p></li></ul><h3><strong>Own the Small Cities problem set</strong></h3><ul><li><p>Stand the team up. Most of the seats are open, the operating model does not exist yet, and much of the segment is carried by Inside Sales working remote first.</p></li><li><p>Own site assessment quality as a performance measure. Solutions Engineers are the DRI for verifying a dock location before deployment, and the quality of the resulting installation reflects on the team.</p></li><li><p>Hold the bar on proofs of concept: structured deployments tied to an active opportunity with measurable operational value, not casual evaluations.</p></li><li><p>Guide integration and airspace strategy — CAD and dispatch, video and evidence management, streaming platforms, BVLOS approvals, waivers, COAs, and docked operations.</p></li><li><p>Maintain command of the public sector procurement path, including cooperative contracts, grant funded programs, and public sector buying cycles.</p></li></ul><h3><strong>Represent the customer inside Skydio</strong></h3><ul><li><p>Be the aggregated voice of the customer to Product and Engineering. Turn field observations into prioritized, defensible requirements rather than a list of one-off asks.</p></li><li><p>Build the enablement content, reference architectures, and reusable technical assets that let the team scale, and maintain first-hand product knowledge through frequent hands-on use.</p></li></ul><p><strong>What Makes You a Good Fit:</strong></p><ul><li><p>5+ years of relevant technical experience, including time in a customer-facing technical role (solutions engineering, field engineering, or applications engineering).</p></li><li><p>1+ years leading a technical team, formally or as a technical lead with hiring and mentorship responsibility. First-time managers with a demonstrated record of leading and developing people will be considered.</p></li><li><p>Strong understanding of drone technology, Public Safety sUAS operations, and regulatory compliance, including Drone as First Responder concepts of operation and dock based remote operations.</p></li><li><p>Working knowledge of Public Safety technologies, including CAD, VMS, and related software platforms, and the ability to lead integration discussions.</p></li><li><p>A track record of hiring, onboarding, and developing technical people, and of keeping them.</p></li><li><p>Comfort operating inside a Sales organization, including owning a quota, deal strategy, and the judgment to know when to commit technical resources and when to decline.</p></li><li><p>Excellent written and verbal communication. You can brief an operator, a program manager, and a senior executive without changing the facts.</p></li><li><p>Lead by example. Willing to do whatever is needed to get a customer situation resolved.</p></li></ul><p><strong>Nice to Have:</strong></p><ul><li><p>Prior public safety service as a sworn officer, firefighter, or agency UAS program lead.</p></li><li><p>Experience standing up a Drone as First Responder program from waiver through go-live, and with dock-based, remote, and BVLOS operations at scale.</p></li><li><p>Familiarity with grant funding pathways and cooperative purchasing vehicles used by state and local agencies.</p></li><li><p>Working knowledge of Salesforce, Palantir, Databricks, or equivalents.</p></li><li><p>Track record of building and scaling a technical team through a period of rapid growth.</p></li></ul><p><strong>What Is Required:</strong></p><ul><li><p>Obtaining FAA Part 107 certification within the first 60 days of employment is strongly encouraged for all Skydio employees and required for certain positions</p></li><li><p>Ability to travel approximately 30% of the time.</p></li><li><p>Ability to lift up to 60 lbs unaided.</p></li></ul><p><strong>Compensation:</strong> At Skydio, our compensation packages for regular, full-time employees include competitive base salaries, equity in the form of stock options, and comprehensive benefits packages. Compensation will vary based on factors, including skill level, proficiencies, transferable knowledge, and experience. Relocation assistance may also be provided for eligible roles. The annual base salary range for this position is $172,000 - 215,000* plus commission. Fundamentally, we believe that equity is the key to long-term financial growth, and we ensure all regular, full-time employees have the opportunity to significantly benefit from the company's success. Regular, full-time employees are eligible to enroll in the Company’s group health insurance plans. Regular, full-time employees are eligible to receive the following benefits: Paid vacation time, sick leave, holiday pay and 401K savings plan. This position and all associated benefits are subject to applicable federal, state, and local laws, as well as the Company’s policies and eligibility criteria.</p><p>*Compensation for certain positions may vary based on the position’s location.</p><p>#LI-AY1</p><p>At Skydio we believe that diversity drives innovation. We have created a multidisciplinary environment that embraces the power of diverse perspectives to create elegant solutions for complex problems. We are committed to growing our network of people, programs, and resources to nurture an inclusive culture.</p><p>Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or other characteristics protected by federal, state or local anti-discrimination laws.</p><p>For positions located in the United States of America, Skydio, Inc. uses E-Verify to confirm employment eligibility. To learn more about E-Verify, including your rights and responsibilities, please visit <a href=\"https://www.e-verify.gov/\">https://www.e-verify.gov/</a></p>",
+    "summary": "Skydio is seeking a Senior Manager, Solutions Engineering leader to build and lead its SLED Small Cities technical team. The role owns technical wins, team hiring and development, customer demonstrations, site assessments, integrations, public-sector procurement support, and customer representation, with approximately 30% travel required.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Leadership",
+      "Mentorship",
+      "Problem-solving",
+      "Adaptability"
+     ],
+     "primary_skills": [
+      "Solutions Engineering",
+      "Team Leadership",
+      "Drone Technology",
+      "Public Safety sUAS Operations",
+      "Regulatory Compliance",
+      "Drone as First Responder",
+      "CAD",
+      "Video Management Systems",
+      "Technical Integrations",
+      "Salesforce"
+     ],
+     "secondary_skills": [
+      "FAA Part 107 Certification",
+      "BVLOS Operations",
+      "Grant Funding",
+      "Cooperative Purchasing",
+      "Palantir",
+      "Databricks",
+      "Site Assessments",
+      "Airspace Strategy",
+      "Public Sector Procurement",
+      "Drone Dock Operations"
+     ]
+    },
+    "benefits": [
+     "stock_options_equity",
+     "health_insurance",
+     "paid_time_off_vacation_personal_days",
+     "sick_leave",
+     "pensions_401k",
+     "commission_based_earnings",
+     "relocation_assistance"
+    ],
+    "salary": {
+     "max": 215000,
+     "min": 172000,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 5,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software",
+     "government_public"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": true,
+    "requiresTravel": true,
+    "travelPercentage": null,
+    "postedAt": 1789757743,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/skydio/c4719297-1db8-4dad-b063-20adc446c08d",
+    "status": "active",
+    "companies": [
+     {
+      "name": "skydio.com",
+      "website": "skydio.com"
+     }
+    ]
+   },
+   {
+    "id": "3d45d9dc-6e56-4e74-b074-4da156714e9f",
+    "title": "Senior Manager, Solutions Engineering  State, Local, Educational (sled) Majors East",
+    "description": "<p>Skydio is the leading US drone company and the world leader in autonomous flight, the key technology for the future of drones and aerial mobility. The Skydio team combines deep expertise in artificial intelligence, best-in-class hardware and software product development, operational excellence, and customer obsession to empower a broader, more diverse audience of drone users, from <a href=\"https://www.skydio.com/solutions/energy-and-utilities\">utility inspectors</a> to <a href=\"https://www.skydio.com/solutions/public-safety\">first responders</a>,<a href=\"https://www.skydio.com/solutions/national-security/tactical-isr\">soldiers in battlefield scenarios</a>, and <a href=\"https://www.skydio.com/solutions\">beyond</a>.</p><p><strong>About the Role:</strong></p><p>Skydio is seeking an experienced Solutions Engineering leader to join our team as Senior Manager, Solutions Engineering for SLED Majors East. This role carries some of the most complex programs in our portfolio: multi-site, citywide Drone as First Responder deployments, statewide highway and transit programs, and federal work through DOJ, alongside the Canadian public safety business.</p><p>This is a remote role. Travel of approximately 30% is required to support customer engagements, field activities, deployments, team onsites, and company events.</p><p>This role reports to the Director, Solutions Engineering – SLED.</p><p><strong>About the Team</strong></p><p>The SLED Solutions Engineering team is the technical arm of Skydio's state and local go-to-market motion. We sit between the agency and the product: turning operational problems into program designs, proving capability in the field, and making sure Skydio's products are used, integrated, and flown at scale.</p><p>The team is measured on technical win rate, trial and proof of concept outcomes, program expansion, site assessment quality, and the requirements we push back into the product organization.</p><p>Solutions Engineers are critical members of the Skydio organization and work closely with Key Account Leaders, Engineering, and Product to support deal progression, customer confidence, successful deployments, and the long-term success of Public Safety sUAS programs.</p><p><strong>How You’ll Make an Impact:</strong></p><h3><strong>Lead the team</strong></h3><ul><li><p>Hire, onboard, coach, and retain your team, with clear ownership and coverage across the territories in your segment, and develop people beyond the seat they are in.</p></li><li><p>Set the bar for technical quality — demos, trial plans, site assessments, and customer-facing documentation that hold up in front of a chief, a sheriff, or a city council.</p></li><li><p>Own capacity across your segment. Decide where Solutions Engineering time goes, say no when it needs to be said, and make the tradeoffs visible to leadership.</p></li></ul><h3><strong>Drive technical wins</strong></h3><ul><li><p>Own the technical win across the East majors portfolio, including citywide programs that run multiple docks and span several agencies inside a single customer.</p></li><li><p>Serve as the senior technical escalation point on critical pursuits, deployments, and customer issues. Jump in and work the problem yourself, and be in the field when it matters.</p></li><li><p>Partner with Sales leadership on pipeline, forecast, and account planning, and on the land-and-expand motion that turns a first dock into a citywide program.</p></li></ul><h3><strong>Own the Majors East problem set</strong></h3><ul><li><p>Own site assessment quality as a performance measure. Solutions Engineers are the DRI for verifying a dock location before deployment, and the quality of the resulting installation reflects on the team.</p></li><li><p>Hold the bar on proofs of concept: structured deployments tied to an active opportunity with measurable operational value, not casual evaluations.</p></li><li><p>Guide integration and airspace strategy — CAD and dispatch, video and evidence management, streaming platforms, BVLOS approvals, waivers, COAs, and docked operations.</p></li><li><p>Maintain command of the public sector procurement path, including cooperative contracts, grant funded programs, and public sector buying cycles.</p></li></ul><h3><strong>Represent the customer inside Skydio</strong></h3><ul><li><p>Be the aggregated voice of the customer to Product and Engineering. Turn field observations into prioritized, defensible requirements rather than a list of one-off asks.</p></li><li><p>Build the enablement content, reference architectures, and reusable technical assets that let the team scale, and maintain first-hand product knowledge through frequent hands-on use.</p></li></ul><p><strong>What Makes You a Good Fit:</strong></p><ul><li><p>5+ years of relevant technical experience, including time in a customer-facing technical role (solutions engineering, field engineering, or applications engineering).</p></li><li><p>1+ years leading a technical team, formally or as a technical lead with hiring and mentorship responsibility. First-time managers with a demonstrated record of leading and developing people will be considered.</p></li><li><p>Strong understanding of drone technology, Public Safety sUAS operations, and regulatory compliance, including Drone as First Responder concepts of operation and dock based remote operations.</p></li><li><p>Working knowledge of Public Safety technologies, including CAD, VMS, and related software platforms, and the ability to lead integration discussions.</p></li><li><p>A track record of hiring, onboarding, and developing technical people, and of keeping them.</p></li><li><p>Comfort operating inside a Sales organization, including owning a quota, deal strategy, and the judgment to know when to commit technical resources and when to decline.</p></li><li><p>Excellent written and verbal communication. You can brief an operator, a program manager, and a senior executive without changing the facts.</p></li><li><p>Lead by example. Willing to do whatever is needed to get a customer situation resolved.</p></li></ul><h2><strong>Nice to Have</strong></h2><ul><li><p>Prior public safety service as a sworn officer, firefighter, or agency UAS program lead.</p></li><li><p>Experience standing up a Drone as First Responder program from waiver through go-live, and with dock-based, remote, and BVLOS operations at scale.</p></li><li><p>Familiarity with grant funding pathways and cooperative purchasing vehicles used by state and local agencies.</p></li><li><p>Working knowledge of Salesforce, Palantir, Databricks, or equivalents.</p></li><li><p>Track record of building and scaling a technical team through a period of rapid growth.</p></li></ul><h2><strong>What Is Required</strong></h2><ul><li><p>Ability to travel approximately 30% of the time.</p></li><li><p>Ability to lift up to 60 lbs unaided</p></li><li><p>Obtaining FAA Part 107 certification within the first 60 days of employment is strongly encouraged for all Skydio employees and required for certain positions.</p></li></ul><p><strong>Compensation:</strong> At Skydio, our compensation packages for regular, full-time employees include competitive base salaries, equity in the form of stock options, and comprehensive benefits packages. Compensation will vary based on factors, including skill level, proficiencies, transferable knowledge, and experience. Relocation assistance may also be provided for eligible roles. The annual base salary range for this position is $172,000-$215,000 plus comission*. Fundamentally, we believe that equity is the key to long-term financial growth, and we ensure all regular, full-time employees have the opportunity to significantly benefit from the company's success. Regular, full-time employees are eligible to enroll in the Company’s group health insurance plans. Regular, full-time employees are eligible to receive the following benefits: Paid vacation time, sick leave, holiday pay and 401K savings plan. This position and all associated benefits are subject to applicable federal, state, and local laws, as well as the Company’s policies and eligibility criteria.</p><p>*Compensation for certain positions may vary based on the position’s location.</p><p>#LI-AY1</p><p>At Skydio we believe that diversity drives innovation. We have created a multidisciplinary environment that embraces the power of diverse perspectives to create elegant solutions for complex problems. We are committed to growing our network of people, programs, and resources to nurture an inclusive culture.</p><p>Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or other characteristics protected by federal, state or local anti-discrimination laws.</p><p>For positions located in the United States of America, Skydio, Inc. uses E-Verify to confirm employment eligibility. To learn more about E-Verify, including your rights and responsibilities, please visit <a href=\"https://www.e-verify.gov/\">https://www.e-verify.gov/</a></p>",
+    "summary": "Skydio is seeking a Senior Manager, Solutions Engineering to lead the SLED Majors East technical team supporting complex public-sector drone programs, including citywide Drone as First Responder deployments, statewide infrastructure programs, and federal work. Responsibilities include hiring and developing Solutions Engineers, owning technical wins and escalations, managing capacity and site assessment quality, guiding integrations and airspace strategy, supporting public-sector procurement, and representing customer needs to Product and Engineering. The role is remote with approximately 30% travel required.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Leadership",
+      "Mentorship",
+      "Problem-solving",
+      "Customer Obsession"
+     ],
+     "primary_skills": [
+      "Solutions Engineering",
+      "Technical Team Leadership",
+      "Drone Technology",
+      "Public Safety sUAS Operations",
+      "Regulatory Compliance",
+      "Drone as First Responder Operations",
+      "CAD Integration",
+      "Computer-Aided Dispatch Integration",
+      "Video Management Systems",
+      "BVLOS Operations"
+     ],
+     "secondary_skills": [
+      "FAA Part 107 Certification",
+      "Grant Funding",
+      "Cooperative Purchasing",
+      "Salesforce",
+      "Palantir",
+      "Databricks",
+      "Airspace Strategy",
+      "Public Sector Procurement",
+      "Site Assessment",
+      "Proof of Concept Development"
+     ]
+    },
+    "benefits": [
+     "stock_options_equity",
+     "health_insurance",
+     "paid_time_off_vacation_personal_days",
+     "sick_leave",
+     "pensions_401k",
+     "relocation_assistance",
+     "performance_bonuses"
+    ],
+    "salary": {
+     "max": 215000,
+     "min": 172000,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 5,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software",
+     "government_public"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": true,
+    "requiresTravel": true,
+    "travelPercentage": null,
+    "postedAt": 1789757667,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/skydio/d1dfe202-3e31-463f-b179-73980c30ace4",
+    "status": "active",
+    "companies": [
+     {
+      "name": "skydio.com",
+      "website": "skydio.com"
+     }
+    ]
+   },
+   {
+    "id": "89eefeb6-c658-426b-8f65-5f63bd279355",
+    "title": "Senior Partner Success Implementation Engineer",
+    "description": "<div><p>At NiCE, we don’t limit our challenges. We challenge our limits. Always. We’re ambitious. We’re game changers. And we play to win. We set the highest standards and execute beyond them. And if you’re like us, we can offer you the ultimate career opportunity that will light a fire within you.</p></div><p><strong>So, what’s the role all about?</strong></p><p>The Senior Partner Success Implementation Engineer is a senior-level technical expert who plays a critical role in driving partner success across implementation, readiness, and ongoing product adoption. This role provides advanced technical expertise, leads escalated troubleshooting, influences product direction through enhancement advocacy, and ensures partners are fully enabled to deploy, configure, and optimize the platform at scale.</p><p>As a senior resource, this role also mentors junior engineers, provides strategic technical guidance to Partner Success Managers and TAMs, and contributes to technical leadership across the partner ecosystem.</p><p><strong>How will you make an impact</strong></p><p><strong>Technical Advocacy &amp; Product Support</strong></p><p>· Deliver expert-level technical guidance, troubleshooting, and platform knowledge to partner customers following readiness.</p><p>· Champion product enhancements, representing complex partner needs and collaborating with internal engineering and product teams.</p><p>· Lead high-visibility or escalated support engagements to ensure timely resolution and optimal platform performance.</p><p><strong>Implementation Leadership</strong></p><p>· Oversee complex technical implementation projects for partner customers, including advanced configuration, integrations, deployment architecture, and onboarding strategies.</p><p>· Ensure partners understand scalable deployment models, technical best practices, and long-term operational success strategies.</p><p>· Guide handoff from implementation to steady-state support while ensuring smooth transition for partners and internal teams.</p><p><strong>Cross-Functional Collaboration</strong></p><p>· Serve as a senior liaison to TAM and Partner Success organizations, ensuring deep technical alignment across partner and customer support motions.</p><p>· Collaborate with Partner Success Managers to assess partner maturity, identify technical gaps, and drive adoption strategies.</p><p>· Communicate product updates, platform changes, and technical insights across partner-facing teams, influencing broader operational excellence.</p><p><strong>Knowledge Sharing &amp; Best Practices</strong></p><p>· Create and share advanced best practices, technical playbooks, and lessons learned across partner accounts.</p><p>· Lead internal knowledge-sharing sessions, mentor Implementation Engineers, and elevate the technical capabilities of the Partner Success organization.</p><p>· Contribute to scalable enablement content, documentation, and training material to enhance partner readiness and technical proficiency.</p><p>· Lead executive business reviews and represent partner technical needs in strategic planning forums.</p><p><strong>Have you got what it takes?</strong></p><p>· 5-7 years of experience in implementation engineering, solutions engineering, technical support, or a related technical customer facing role.</p><p>· Strong expertise in diagnosing and resolving complex technical issues across integrations, APIs, configuration, and deployment environments.</p><p>· Exceptional communication skills with the ability to translate highly technical concepts for diverse audiences.</p><p>· Proven ability to lead technical projects, influence stakeholders, and collaborate effectively across cross-functional teams.</p><p>· Ability to travel up to 20% regional travel; some international travel may be necessary to meet with partners, attend business reviews, and support regional initiatives.</p><p><strong>You will have an advantage if you also have:</strong></p><p>· Experience partnering with channel or reseller organizations</p><p>· Experience in a global technology or SaaS organization. Professional services, or Solution Delivery</p><p>· Deep knowledge of global partner ecosystems or channel/alliances strategy.</p><p>· Familiarity with cloud architectures, API ecosystems, or enterprise deployment patterns.</p><p><strong>What’s in it for you?</strong></p><p>Learn more about the Benefits at NICE (Link which we will land up on benefits section</p><p>Join an ever-growing, market disrupting, global company where the teams – comprised of the best of the best – work in a fast-paced, collaborative, and creative environment! As the market leader, every day at NICE is a chance to learn and grow, and there are endless internal career opportunities across multiple roles, disciplines, domains, and locations. If you are passionate, innovative, and excited to constantly raise the bar, you may just be our next NICEr!</p><p><strong>About NICE</strong></p><p>NICE Ltd. (NASDAQ: NICE) software products are used by 25,000+ global businesses, including 85 of the Fortune 100 corporations, to deliver extraordinary customer experiences, fight financial crime and ensure public safety. Every day, NICE software manages more than 120 million customer interactions and monitors 3+ billion financial transactions.</p><p>Known as an innovation powerhouse that excels in AI, cloud and digital, NICE is consistently recognized as the market leader in its domains, with over 8,500 employees across 30+ countries.</p><p>NICE is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, age, sex, marital status, ancestry, neurotype, physical or mental disability, veteran status, gender identity, sexual orientation or any other category protected by law.</p><div><p><em><strong>About NiCE</strong></em></p><p><em>NICE Ltd. (NASDAQ: NICE) software products are used by 25,000+ global businesses, including 85 of the Fortune 100 corporations, to deliver extraordinary customer experiences, fight financial crime and ensure public safety. Every day, NiCE software manages more than 120 million customer interactions and monitors 3+ billion financial transactions.</em></p><p><em>Known as an innovation powerhouse that excels in AI, cloud and digital, NiCE is consistently recognized as the market leader in its domains, with over 8,500 employees across 30+ countries.</em></p><p><em>NiCE is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, age, sex, marital status, ancestry, neurotype, physical or mental disability, veteran status, gender identity, sexual orientation or any other category protected by law.</em></p></div>",
+    "summary": "The Senior Partner Success Implementation Engineer provides advanced technical expertise for partner implementations, readiness, troubleshooting, deployment, configuration, and ongoing product adoption. The role leads complex implementation projects and escalated support engagements, advocates for product enhancements, collaborates cross-functionally, mentors junior engineers, and develops technical enablement materials and best practices. Travel of up to 20% regionally is required, with some international travel possible.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Leadership",
+      "Mentoring",
+      "Collaboration",
+      "Stakeholder Influence"
+     ],
+     "primary_skills": [
+      "Implementation Engineering",
+      "Technical Support",
+      "Solutions Engineering",
+      "API Integration",
+      "Technical Troubleshooting",
+      "Platform Configuration",
+      "Deployment Architecture",
+      "Technical Project Leadership",
+      "Cloud Architecture",
+      "Partner Enablement"
+     ],
+     "secondary_skills": [
+      "Channel Partner Management",
+      "SaaS",
+      "Professional Services",
+      "Solution Delivery",
+      "Partner Ecosystem Management",
+      "Channel Strategy",
+      "Enterprise Deployment Patterns"
+     ]
+    },
+    "benefits": [],
+    "salary": null,
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 5,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": true,
+    "travelPercentage": null,
+    "postedAt": 1789746980,
+    "expiresAt": null,
+    "applyUrl": "https://boards.eu.greenhouse.io/nice/jobs/4979749101?gh_jid=4979749101",
+    "status": "active",
+    "companies": [
+     {
+      "name": "nice.com",
+      "website": "nice.com"
+     }
+    ]
+   }
+  ],
+  "meta": {
+   "count": 16,
+   "hasMore": false,
+   "requestTimeMs": 290,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

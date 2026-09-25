@@ -1,0 +1,135 @@
+{
+ "call_id": "sem_04_q_id_anywhere",
+ "phase": "semantics",
+ "url": "https://api.jobven.com/v1/public/jobs?q=%22instructional+designer%22&postedAfter=1789701404&limit=1&includeTotal=true",
+ "params": [
+  [
+   "q",
+   "\"instructional designer\""
+  ],
+  [
+   "postedAfter",
+   1789701404
+  ],
+  [
+   "limit",
+   1
+  ],
+  [
+   "includeTotal",
+   "true"
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:16:47 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "transfer-encoding": "chunked",
+  "connection": "close",
+  "server": "cloudflare",
+  "vary": "Accept-Encoding",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "7aeecfd2-296d-482e-9e6d-dccc793cd4df",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2497",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "25",
+  "etag": "W/\"208d-trAbnyBT3ZY3lPa9fojRew75Qik\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=0GNM1MSelL1KUKfu6xJfkpUWP7rvh5xaMby66kYq%2Fe06xS98ixSydGrkUHMmU8WK0L1OBLK2XzO7M9CcurjVBavEQAExzMci5BENmET0hC%2BeHdVcLxb4SBK9gysotFw03xrj5oKhhdTOrq9OWQ%3D%3D\"}]}",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "cf-ray": "a406df45adb1c451-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "id": "15508f16-d6b2-469e-9958-d64134db0dd9",
+    "title": "Lead Instructional Designer",
+    "description": "<h2><strong>About Neon One</strong></h2><p>At Neon One, we believe that technology is the key to building vibrant communities of generosity. As a leader in nonprofit software since 2004, we create intuitive solutions that help small and mid-sized nonprofits connect with people, build trust, and make good happen every day.<br><br>Our culture is powered by empathy, innovation, and a shared mission to empower organizations making a difference. We operate with a customer-first mindset, take pride in extraordinary results, and grow together by supporting each other and embracing bold new ideas. If you’re passionate about using your skills to drive real impact and want to thrive in a collaborative, fully remote environment, Neon One is the place for you.<br></p><h2><strong>About the Role</strong></h2><p>We are seeking a strategic, highly collaborative, and technically proficient Lead Instructional Designer to drive our instructional design strategy. In this pivotal individual contributor role, you will be a technical visionary and the primary engine for moving complex learning initiatives forward. You will partner closely with the Technical Writing function to ensure seamless alignment between our product documentation and learning pathways. Additionally, you will serve as the primary stakeholder in our transition to a newly built, custom Learning Management System (LMS). By partnering directly with external developers, product managers, and subject matter experts, you will define the instructional UX, authoring requirements, and system capabilities needed to deliver a world-class customer education experience.</p><h2><strong>Responsibilities</strong></h2><ul><li><p><strong>Cross-Functional Project Leadership:</strong> Act as the central driver for learning initiatives. Build strong partnerships across departments, proactively manage stakeholder expectations, and keep complex projects moving forward on schedule without relying on direct reporting lines.</p></li><li><p><strong>LMS Migration &amp; Strategic Ownership:</strong> Act as the primary business owner for offboarding our current academy (Skilljar) and transitioning to a custom-built LMS. Define system requirements (e.g., authoring workflows, learner UX) and guide external developers to ensure the platform meets both customer needs and instructional design standards.</p></li><li><p><strong>Team Collaboration &amp; Workflow Design: </strong> Work closely with the Technical Writer, Enablement Manager, and Customer Operations Managers to establish scalable design systems, style guides, and AI-assisted content workflows that make our learning content accessible to our customer base.</p></li><li><p><strong>Technical Curriculum &amp; Certification: </strong> Architect end-to-end learning pathways, role-based certifications, and self-paced academies for admin users and enterprise clients.</p></li><li><p><strong>Hands-On Lab &amp; Interactive Design:</strong> Design scenario-based, interactive learning experiences, including simulated environments, sandbox exercises, and API/code walkthrough tutorials.</p></li><li><p><strong>Product Alignment &amp; Release Management: </strong> Partner closely with Product Managers, Engineers, and Solutions Architects to translate complex feature updates and technical specs into timely, accurate learning content.</p></li><li><p><strong>Telemetry &amp; Business Impact:</strong> Track learner telemetry (e.g., product adoption rates, time-to-value, course completion, certification pass rates) to continuously measure and prove ROI on customer and internal enablement.</p></li></ul><h2><strong>Qualifications &amp; Skills</strong></h2><ul><li><p><strong>Experience:</strong> 5+ years in instructional design within a B2B SaaS, developer tooling, or high-growth tech environment. Proven project management experience with a track record of driving cross-functional initiatives as a highly autonomous individual contributor.</p></li><li><p><strong>Custom LMS / Systems Expertise:</strong> Hands-on experience defining requirements for LMS implementations, migrations, or custom builds. Deep understanding of what an instructional designer needs from a platform to successfully host and track courses (SCORM, xAPI, LTI).</p></li><li><p><strong>Technical Aptitude:</strong> Comfort navigating API documentation, cloud architectures, developer workflows, or SaaS platform configurations to build technical curriculum independently.</p></li><li><p><strong>Tooling &amp; Tech Stack:</strong></p><ul><li><p>Advanced proficiency in modern authoring &amp; media tools (Articulate 360, Camtasia, Loom, Figma).</p></li><li><p>Strong familiarity with transitioning out of standard Customer Education / LXP platforms (e.g., Skilljar) into custom environments.</p></li></ul></li><li><p><strong>Core Competencies:</strong> Agile development methodologies, rapid prototyping (SAM), data-driven decision-making, and exceptional cross-functional stakeholder management. Must possess the consultative skills necessary to influence peers, align differing viewpoints, and maintain project momentum.</p></li></ul><h2><strong>Why Join Neon One?</strong></h2><p>At Neon One, our values are how we show up every day. We make good happen by putting empathy and passion at the center of our work, using technology to uplift mission-driven organizations. We stand for our customers, act with care and intention in every decision, own the solution, and grow together. We innovate fearlessly, always exploring new ways to support our community and each other.</p><h2><strong>How We Hire</strong></h2><p>We use AI tools to support our recruitment process, including helping us organize applications and identify early matches based on role criteria. That said, every rejection decision is made by a human. We encourage candidates to apply authentically and avoid relying solely on AI-generated responses, especially during interviews.<br><br>This posting is for a current, open position within <strong>Neon One</strong>.<br><br>This opportunity is offered through HighlightTA, the on-demand talent team supporting Neon One’s growth.<br></p><p><strong>Connect with us and learn more:<br></strong><a href=\"https://www.linkedin.com/company/neonone/\"><u>Neon One on LinkedIn</u></a></p><p><a href=\"https://www.linkedin.com/company/highlightta/\"><u>HighlightTA on LinkedIn</u></a></p>",
+    "summary": "Neon One is hiring a Lead Instructional Designer to lead instructional design strategy and customer education for its nonprofit software products. The role owns the transition to a custom LMS, builds technical curricula and interactive learning experiences, aligns learning content with product releases, and measures learner outcomes and business impact.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Project Management",
+      "Cross-Functional Collaboration",
+      "Stakeholder Management",
+      "Influence",
+      "Autonomy"
+     ],
+     "primary_skills": [
+      "Instructional Design",
+      "Learning Management System (LMS) Implementation",
+      "Learning Management System (LMS) Migration",
+      "SCORM",
+      "xAPI",
+      "Learning Tools Interoperability (LTI",
+      "Technical Curriculum Development",
+      "Articulate 360",
+      "Camtasia",
+      "Figma"
+     ],
+     "secondary_skills": [
+      "Loom",
+      "Skilljar",
+      "API Documentation",
+      "Cloud Architecture",
+      "SaaS Platform Configuration",
+      "Agile Development",
+      "Rapid Prototyping",
+      "SAM Model",
+      "Data-Driven Decision-Making",
+      "Learner Telemetry"
+     ]
+    },
+    "benefits": [],
+    "salary": null,
+    "experienceLevel": "lead",
+    "employmentType": "full_time",
+    "minYearsExperience": 5,
+    "educationRequirement": null,
+    "industry": [
+     "nonprofit_ngo",
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790269831,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/highlightta/f36a604d-ac92-4b28-8b5f-54a083fc215e",
+    "status": "active",
+    "companies": [
+     {
+      "name": "highlightta.com",
+      "website": "highlightta.com"
+     }
+    ]
+   }
+  ],
+  "meta": {
+   "total": 3,
+   "count": 1,
+   "nextCursor": "eyJpZCI6IjE1NTA4ZjE2LWQ2YjItNDY5ZS05OTU4LWQ2NDEzNGRiMGRkOSIsInNvcnRWYWx1ZSI6MTc5MDI2OTgzMSwidGllQnJlYWtlciI6IjIwMjYtMDktMjRUMjE6NDk6NTguNzYxWiJ9",
+   "hasMore": true,
+   "requestTimeMs": 25,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

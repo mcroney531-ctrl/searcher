@@ -1,0 +1,50 @@
+{
+ "call_id": "rec_850645504_co_ladders",
+ "phase": "recall",
+ "url": "https://api.jobven.com/v1/public/companies?search=Ladders&limit=10",
+ "params": [
+  [
+   "search",
+   "Ladders"
+  ],
+  [
+   "limit",
+   10
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:20:18 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "65",
+  "connection": "close",
+  "server": "cloudflare",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "fbc83f87-08be-4ad1-a8a2-7b68a47a636d",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2473",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "3",
+  "etag": "W/\"41-c0On01lj8RZhy+1JbnXQRdKB5vI\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=ZHw8WqWlD9NK4cw5i9qxTU88rglzUD2EFcLGyc6TqN%2B7yA6REEe0vEns3PFhGfv8iscWNYHZA%2FsLQtNU%2F7lbADcG5ucUU%2FZTzxsvxWMDscafaoM4dizOUdIn2nQWd7jkQUOeQAPz73D76CXxTg%3D%3D\"}]}",
+  "cf-ray": "a406e4687e7a0f45-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [],
+  "meta": {
+   "page": 1,
+   "limit": 10,
+   "total": 0,
+   "totalPages": 0
+  }
+ }
+}

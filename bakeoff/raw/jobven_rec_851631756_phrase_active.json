@@ -1,0 +1,62 @@
+{
+ "call_id": "rec_851631756_phrase_active",
+ "phase": "recall",
+ "url": "https://api.jobven.com/v1/public/jobs?q=%22Senior+Customer+Education+Manager%22&descriptionQuery=a+foundational+role+in+expanding&status=active&postedAfter=1783036800&limit=1",
+ "params": [
+  [
+   "q",
+   "\"Senior Customer Education Manager\""
+  ],
+  [
+   "descriptionQuery",
+   "a foundational role in expanding"
+  ],
+  [
+   "status",
+   "active"
+  ],
+  [
+   "postedAfter",
+   1783036800
+  ],
+  [
+   "limit",
+   1
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:22:49 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "108",
+  "connection": "close",
+  "server": "cloudflare",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "20efd715-b596-419b-900d-5fb6069fda97",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2449",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "17",
+  "etag": "W/\"6c-mru9H/zK2ccVg1I5eFbfqF2hVJs\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=KDHeG6OW7Xt6qPp2z5q1GgmgN3rSyQvAYxIfFKIud%2FhcR40UNLxEMGXB%2BwQRgxODwXnvfkVYBgT5WdSiaOq3bDsEmVkTJO1XJcT0WkBVA%2BQljvU%2Bsxuui73fQOxx7oOnZPM7iA6j8B3H3xsB1w%3D%3D\"}]}",
+  "cf-ray": "a406e81d59dcc33b-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [],
+  "meta": {
+   "count": 0,
+   "hasMore": false,
+   "requestTimeMs": 15,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

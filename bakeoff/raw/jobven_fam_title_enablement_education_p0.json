@@ -1,0 +1,344 @@
+{
+ "call_id": "fam_title_enablement_education_p0",
+ "phase": "family",
+ "url": "https://api.jobven.com/v1/public/jobs?q=%22enablement+content%22+OR+%22sales+enablement+content%22+OR+%22customer+education%22+OR+%22customer+education+content%22+OR+%22academy%22&country=US&remoteType%5B%5D=remote&postedAfter=1789702200&limit=25",
+ "params": [
+  [
+   "q",
+   "\"enablement content\" OR \"sales enablement content\" OR \"customer education\" OR \"customer education content\" OR \"academy\""
+  ],
+  [
+   "country",
+   "US"
+  ],
+  [
+   "remoteType[]",
+   "remote"
+  ],
+  [
+   "postedAfter",
+   1789702200
+  ],
+  [
+   "limit",
+   25
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:26:45 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "transfer-encoding": "chunked",
+  "connection": "close",
+  "server": "cloudflare",
+  "vary": "Accept-Encoding",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "c2c0761d-de6b-4a90-9f79-d42837e78875",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2385",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "28",
+  "etag": "W/\"6fdb-c2l6ITxEqtdBR67xqS5NjgT+uBI\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=xk7ZMqfhk4qZb6X9%2FZHsVB2raBvmQggqLXwt6Hz4RF%2BVIxvPRd36ycqSQGtZ%2FbCKMo7RdML3EXuH%2F0XrZYL6NRdGBsaiuDvfhrSHKQxuCNdbcBEhrP2KI2e3ra3LM6p8iKFLX%2BJj%2FdcGPhox8A%3D%3D\"}]}",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "cf-ray": "a406eddbe9f5aee8-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "id": "fe982a40-84f4-45f1-b735-fee76d82de5d",
+    "title": "Customer Education Specialist",
+    "description": "<p>We are building AI to simulate the world through merging art and science.<br><br>We believe that world models are at the frontier of progress in artificial intelligence. Language models alone won’t solve the world’s hardest problems – robotics, disease, scientific discovery. Real progress requires models that experience the world and learn from their mistakes, the same way that humans do. And this kind of trial and error can be massively accelerated when done in simulation, rather than in the real world.<br><br>World models offer the most clear path to general-purpose simulation, changing how stories are told, how scientific progress is made and how the next frontiers of humanity are reached.</p><p>Our team consists of creative, open minded, caring and ambitious people who are determined to change the world. We aspire to continuously build impossible things and our ability to do so relies on building an incredible team. If you are driven to do the same, we'd love to hear from you.</p><h2>About the role</h2><p>*<em>Open to hiring remote across the US — we also have offices in NYC, San Francisco, and Seattle</em></p><p>Runway is growing fast, and so is the surface area of what users need to learn. We're looking for an Education Content Specialist to keep our Help Center accurate, our Academy content well-produced, and our users set up for success from day one.</p><p>You'll sit within the Experience &amp; Enterprise Enablement team, working closely with the Education &amp; Enablement lead to execute against a content roadmap that spans written documentation, video scripts, and self-service resources. Every feature launch will have your fingerprints on it. You're the person who makes sure users don't have to guess.</p><h2>What you’ll do</h2><ul><li><p>Write, update, and maintain Help Center articles across product features, billing, policies, and troubleshooting — keeping documentation accurate as the product moves fast</p></li><li><p>Coordinate with engineering and product at launch time to ensure articles are live before features ship</p></li><li><p>Audit existing Help Center content for accuracy and discoverability; surface recommendations based on support ticket trends and user feedback</p></li><li><p>Create and maintain self-service content — FAQs, quick-start guides, troubleshooting flows — that reduces ticket volume and helps users help themselves</p></li><li><p>Draft scripts for Runway Academy video tutorials, walkthroughs, and course modules</p></li><li><p>Support production of Academy content: create supporting assets, prepare materials for recording, and help get finished content published and organized</p></li><li><p>Build and maintain a library of templates, prompt guides, and project starters across Runway's tools</p></li><li><p>Support production and publishing of office hours, webinars, and live Q&amp;A sessions</p></li><li><p>Keep Help Center documentation and Academy content consistent and cross-referenced</p></li><li><p>Track the performance of content you've produced — article engagement, search deflection, CSAT — and flag gaps to the Education &amp; Enablement lead</p></li><li><p>Work with legal to ensure usage policies and terms are accurately reflected in customer-facing content</p></li></ul><h2>What you’ll need</h2><ul><li><p>2-3 years of experience in technical writing, documentation, education content, or a similar role at a software or SaaS company</p></li><li><p>Ability to translate complex product features into clear, user-friendly language — across articles, scripts, and guides</p></li><li><p>Experience shipping documentation on tight timelines with cross-functional dependencies</p></li><li><p>Comfort with help center platforms (Zendesk, Intercom, or similar) and content management systems</p></li><li><p>Familiarity with video content production and an instinct for how to structure and pace educational content</p></li><li><p>Strong editorial judgment — you catch inconsistencies before they go live</p></li><li><p>Organized and autonomous working style; you can manage a documentation backlog while staying responsive to urgent launch needs</p></li><li><p>A bias toward action and a belief that no task is too small</p></li><li><p>Familiarity building with LLMs to streamline and automate processes</p></li></ul><h2><strong>Nice to have</strong></h2><ul><li><p>Experience with AI or creative tools — with genuine curiosity about how they work</p></li><li><p>Background in or passion for the creative space — video, design, animation, or related fields</p></li><li><p>Experience using support data (ticket volume, search queries, CSAT, completion rates) to prioritize content work</p></li></ul><p>Runway strives to recruit and retain exceptional talent from diverse backgrounds while ensuring pay equity for our team. Our salary ranges are based on competitive market rates for our size, stage and industry, and salary is just one part of the overall compensation package we provide.</p><p>There are many factors that go into salary determinations, including relevant experience, skill level and qualifications assessed during the interview process, and maintaining internal equity with peers on the team. The range shared below is a general expectation for the function as posted, but we are also open to considering candidates who may be more or less experienced than outlined in the job description. In this case, we will communicate any updates in the expected salary range.</p><p>Lastly, the provided range is the expected salary for candidates in the U.S. Outside of those regions, there may be a change in the range, which again, will be communicated to candidates.</p><h3><strong>Working at Runway</strong></h3><p><a href=\"https://www.youtube.com/watch?v=kwmj4ato2kw&amp;ab_channel=Runway\"><strong>Great things come from great teams.</strong></a><strong> We’d love to hear from you.</strong></p><p>We’re committed to creating a space where our employees can bring their full selves to work and have equal opportunity to succeed. So regardless of race, gender identity or expression, sexual orientation, religion, origin, ability, age, veteran status, if joining this mission speaks to you, we encourage you to apply.</p><p><u>More about Runway</u></p><ul><li><p><a href=\"https://runwayml.com/world-simulator.html\">Universal World Simulator</a></p></li><li><p><a href=\"https://runwayml.com/research/introducing-runway-gwm-1\">GWM-1</a></p></li><li><p><a href=\"https://runwayml.com/research/introducing-runway-gen-4.5\">Gen-4.5</a></p></li><li><p><a href=\"https://runwayml.com/research/introducing-general-world-models\">General World Models</a></p></li><li><p><a href=\"https://runwayml.com/research/introducing-runway-gwm-1#robotics-section\">Robotics SDK</a></p></li><li><p><a href=\"https://runwayml.com/research/introducing-runway-gwm-1#avatars-section\">Conversational Real-time Agents</a></p></li><li><p><a href=\"https://runwayml.com/studios\">Runway Studios</a></p></li></ul><p>We're excited to be recognized as a best place to work:</p><p><a href=\"https://www.crainsnewyork.com/awards/best-places-work-2023\">Crain's</a> | <a href=\"https://www.inhersight.com/companies/best/city/new-york-city-ny\">InHerSight</a> | <a href=\"https://builtin.com/awards/new-york-city/2024/best-places-to-work\">BuiltIn NYC</a> | <a href=\"https://www.inc.com/best-workplaces/2024\">INC</a></p>",
+    "summary": "The Customer Education Specialist creates and maintains Help Center documentation, self-service resources, and Runway Academy materials, including video scripts and tutorials. The role coordinates content launches with product and engineering teams, tracks content performance, and ensures customer-facing usage policies and terms are accurate.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Organization",
+      "Autonomy",
+      "Attention to Detail",
+      "Initiative"
+     ],
+     "primary_skills": [
+      "Technical Writing",
+      "Content Development",
+      "Help Center Platforms",
+      "Content Management Systems",
+      "Video Content Production",
+      "Cross-Functional Collaboration",
+      "Content Performance Analysis",
+      "Legal Content Review",
+      "Large Language Models"
+     ],
+     "secondary_skills": [
+      "Artificial Intelligence",
+      "Creative Tools",
+      "Support Data Analysis"
+     ]
+    },
+    "benefits": [],
+    "salary": null,
+    "experienceLevel": "entry",
+    "employmentType": "full_time",
+    "minYearsExperience": 2,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790226419,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/runway-ml/4f8e18a4-0f26-4b28-a44d-3ba1afaada74",
+    "status": "active",
+    "companies": [
+     {
+      "name": "Runway",
+      "website": "runwayml.com"
+     }
+    ]
+   },
+   {
+    "id": "49f2e95a-5df5-4fc2-8d82-9d24a1fd2652",
+    "title": "Special Education Teacher - Virginia Connections Academy",
+    "description": "<p><strong>School Summary</strong></p><p>Virginia Connections Academy is a tuition-free online public school available to students throughout the state. Authorized by the Scott County School Division,<br>Virginia Connections Academy is state certified and open to students from all over Virginia.</p><p>Virginia Connections Academy strives to create an inclusive environment that welcomes and values the diversity of the people we serve. We foster fairness,<br>equity, and inclusion to create a workplace environment where everyone is treated with respect and dignity.</p><p><strong>Position Summary and Responsibilities</strong>&nbsp;</p><p>Working from your home in Virginia, the Special Education Teacher will manage instructional programs for students with special needs. Through use of the telephone, Internet and various curriculum tools they will consult regularly with learning coaches and students to ensure that each child successfully completes their instructional program. The Special Education Teacher will participate in all steps of the IEP process. They will work closely with other teachers and district professionals to ensure that the school’s special education program is successful and operating in compliance with federal and state regulations. The Special Education Teacher will utilize technology to deliver virtual instruction.&nbsp;</p><p>The Special Education Teacher will be responsible for the successful completion of the following tasks:&nbsp;</p><ul><li>Manage and provide instructional guidance, virtual teaching and general strategies for a caseload of students;&nbsp;</li><li>Develop, write and help implement IEPs and 504 plans;&nbsp;</li><li>Evaluate tests and assessments, complete report cards and conduct parent conferences;&nbsp;</li><li>Communicate regularly with parents/learning coaches of students with special needs to insure that their IEP goals are being met, and that their needs are addressed in a timely and appropriate fashion;&nbsp;</li><li>Consult with teachers and coordinate the implementation of specially designed instruction as defined in the IEP regarding students with specific needs and potential learning issues;&nbsp;</li><li>Provide direct services to students, including services delivered through web-conferencing software, as needed;</li><li>Schedule, organize and conduct IEP related meetings in a virtual environment, as needed;&nbsp;</li><li>Participate in the school’s Student Support Team; help teachers and learning coaches develop and implement program modifications and strategies for all students;&nbsp;</li><li>Assist, as needed, with the organization and proper implementation of all paperwork, documentation and procedures for the IEP process;&nbsp;</li><li>Assist with locating service providers for students needing related services as mandated by their IEPs;&nbsp;</li><li>Assist with negotiating and executing contracts with service providers for students requiring such services;&nbsp;</li><li>Maintain accurate and up-to-date data in the school’s Learning Management System and special education software;&nbsp;</li><li>Assist with administering state testing and coordinate the special adaptations that are required based on the IEP;&nbsp;</li><li>Other duties as assigned.</li></ul><p><strong>Requirements</strong>&nbsp;</p><ul><li>Degree in Special Education or related Education Field&nbsp;</li><li>Valid Special Education credential in Virginia&nbsp;</li><li>Experience in policy (IDEA) and/or administration with Special Education&nbsp;</li><li>Strong technology skills (especially with Microsoft Office products and Google Suite)&nbsp;</li><li>Excellent communication skills, both oral and written&nbsp;</li><li>Highly organized and punctual&nbsp;</li><li>Customer focused approach&nbsp;</li><li>High degree of flexibility&nbsp;</li><li>Demonstrated ability to work well in fast paced environment&nbsp;</li><li>Team player track record&nbsp;</li><li>Willingness to travel on occasion for marketing and state testing events (may require occasional overnight travel)&nbsp;</li><li>Ability to work remotely, if necessary&nbsp;</li><li><span>Must be able to use a personal electronic device and email address for 2-step authentication</span></li></ul>",
+    "summary": "The Special Education Teacher manages instructional programs and provides virtual teaching and guidance for students with special needs from a home-based location in Virginia. Responsibilities include developing and implementing IEPs and 504 plans, coordinating with families and education professionals, maintaining special education documentation, providing direct services, and supporting compliance with applicable regulations.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressRegion": "Virginia",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Organization",
+      "Punctuality",
+      "Flexibility",
+      "Teamwork"
+     ],
+     "primary_skills": [
+      "Special Education",
+      "Individualized Education Program (IEP) Development",
+      "504 Plan Development",
+      "Virtual Instruction",
+      "Student Assessment",
+      "Special Education Policy Administration",
+      "Microsoft Office",
+      "Google Workspace",
+      "Learning Management Systems",
+      "Special Education Software"
+     ],
+     "secondary_skills": [
+      "State Testing Administration",
+      "Web Conferencing",
+      "Service Provider Coordination",
+      "Contract Negotiation"
+     ]
+    },
+    "benefits": [],
+    "salary": null,
+    "experienceLevel": null,
+    "employmentType": "full_time",
+    "minYearsExperience": null,
+    "educationRequirement": {
+     "required": [
+      "bachelor_degree"
+     ],
+     "preferred": []
+    },
+    "industry": [
+     "education"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": true,
+    "travelPercentage": null,
+    "postedAt": 1790035200,
+    "expiresAt": null,
+    "applyUrl": "https://recruiting.ultipro.com/CON1019ACADE/JobBoard/c2b42121-092c-4125-8209-60593d2c63e0/OpportunityDetail?opportunityId=a8438bae-0446-4e23-81be-9833f907e9c5",
+    "status": "active",
+    "companies": [
+     {
+      "name": "Connections Academy",
+      "website": "connectionsacademy.com"
+     }
+    ]
+   },
+   {
+    "id": "a2741c2e-1c87-4b98-ad10-bd3d8d37b937",
+    "title": "Secondary English Teacher - Maine Connections Academy",
+    "description": "<p><strong>School Summary</strong></p><p>Maine Connections Academy (MCA) is a tuition-free, virtual public charter school for students in grades 7–12 statewide. MCA is authorized by the Maine Charter School Commission and is governed by an independent Board of Directors. MCA is accredited by Cognia.&nbsp;</p><br><p><strong>Position Summary and Responsibilities</strong>: Working from your home and at monthly in-person sites across Maine, certified teachers will utilize the Pearson Online Classroom to support and motivate students in working through their curriculum, deliver synchronous instruction, provide intervention and enrichment, and use data to diagnose student learning needs. The Secondary English Teacher will be responsible for the successful completion of the following tasks:</p><br><p><strong>Instruction &amp; Curriculum</strong></p><ul><li>Deliver engaging English/Language Arts instruction via asynchronous recordings, synchronous LiveLessons, and individualized support sessions.</li><li>Write and maintain lesson plans that align with curriculum standards and ensure content is rigorous, accessible, and relevant.</li><li>Provide differentiated instruction and resources to meet diverse learner needs, including those outlined in IEPs and 504 Plans.</li><li>Grade assignments and provide timely, constructive, and personalized feedback.</li><li>Monitor student performance and develop targeted plans for struggling students.</li></ul><br><p><strong>Student Support &amp; Intervention</strong></p><ul><li>Build strong relationships with students and families to foster a supportive learning environment.</li><li>Provide individualized support and intervention for students not making adequate academic progress.</li><li>Participate in and contribute to Multi-tiered Systems of Support (MTSS) processes using student data to inform decisions.</li><li>Attend and contribute to meetings for students receiving additional services (IEP, 504, attendance, truancy, etc.).</li><li>Maintain accurate records of interventions, student communication, and support strategies.</li></ul><br><p><strong>Advisory &amp; Outreach</strong></p><ul><li>Serve as an advisor to a caseload of students, providing regular outreach to both students and families.</li><li>Collaborate with families to update Personal Learning Plans, monitor academic progress, and support goal setting.</li><li>Communicate regularly with students and guardians via phone, email, and video conferencing.</li><li>Refer, provide insight, and attend student support meetings as needed.</li></ul><br><p><strong>Professional Collaboration &amp; School Community</strong></p><ul><li>Participate in Professional Learning Communities (PLCs) to review data, plan instruction, and collaborate on student needs.</li><li>Attend and contribute to staff meetings, professional development sessions, and curriculum discussions.</li><li>Collaborate with colleagues, learning specialists, and counselors to support students holistically.</li><li>Contribute to the planning and supervision of school events, including graduation and virtual or in-person field trips.</li><li>Actively participate in building school community through school events, communication, and outreach.</li><li>Implement and support schoolwide Positive Behavioral Interventions and Supports (PBIS) by modeling expectations, reinforcing positive behavior, and using data to guide behavioral interventions and strategies.</li></ul><br><p><strong>Compliance &amp; Administration</strong></p><ul><li>Ensure accurate recordkeeping of attendance, communication logs, student progress, and compliance with IEP/504 accommodations.</li><li>Participate in the training, organization, and administration of state and other required assessments.</li><li>Support school-wide recruiting and marketing efforts by representing the school as needed.</li><li>Uphold a commitment to equitable and inclusive practices in all aspects of the role.</li><li>Other duties as assigned.</li></ul><br><p><strong>Requirements:</strong></p><ul><li>Certified to teach Secondary English in Maine</li><li>Strong technology skills (especially with Microsoft Office products and Google Suite)</li><li>Excellent communication skills, both oral and written</li><li>Highly organized and punctual</li><li>Student and family-focused approach</li><li>High degree of flexibility</li><li>Demonstrated ability to work well in a fast-paced environment</li><li>Team player track record</li><li>Strong interpersonal skills which include the ability to work effectively with students, parents, staff, and community members from diverse backgrounds.</li><li>Willingness to travel for marketing and state testing events (may require occasional overnight travel)</li><li>Ability to work some occasional evening hours, as needed to support some families</li><li>Ability to work remote</li></ul><p>Salary range: $42,500 - $60,500</p>",
+    "summary": "Maine Connections Academy is seeking a certified Secondary English Teacher to work remotely from home and at monthly in-person sites across Maine. The role includes delivering synchronous and asynchronous English instruction, developing lesson plans, differentiating support, monitoring student progress, providing interventions, communicating with families, and participating in school collaboration, compliance, assessment, and community activities.",
+    "locations": [
+     {
+      "postalCode": "04106",
+      "workLocation": "remote",
+      "addressRegion": "Maine",
+      "addressCountry": "US",
+      "addressLocality": "South Portland"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Organization",
+      "Punctuality",
+      "Flexibility",
+      "Teamwork"
+     ],
+     "primary_skills": [
+      "Secondary English Teaching Certification",
+      "English Language Arts Instruction",
+      "Lesson Planning",
+      "Differentiated Instruction",
+      "Student Assessment",
+      "Student Intervention",
+      "Multi-Tiered Systems of Support",
+      "Individualized Education Programs",
+      "504 Plans",
+      "Positive Behavioral Interventions and Supports"
+     ],
+     "secondary_skills": [
+      "Microsoft Office",
+      "Google Workspace",
+      "Pearson Online Classroom",
+      "Professional Learning Communities",
+      "State Assessment Administration",
+      "Student Recruiting"
+     ]
+    },
+    "benefits": [
+     "remote_work_hybrid_work_options"
+    ],
+    "salary": {
+     "max": 60500,
+     "min": 42500,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": null,
+    "employmentType": "full_time",
+    "minYearsExperience": null,
+    "educationRequirement": null,
+    "industry": [
+     "education"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": true,
+    "travelPercentage": null,
+    "postedAt": 1789948800,
+    "expiresAt": null,
+    "applyUrl": "https://recruiting.ultipro.com/CON1019ACADE/JobBoard/c2b42121-092c-4125-8209-60593d2c63e0/OpportunityDetail?opportunityId=3cbc752e-3d44-48b0-add3-e5dc95158487",
+    "status": "active",
+    "companies": [
+     {
+      "name": "Connections Academy",
+      "website": "connectionsacademy.com"
+     }
+    ]
+   },
+   {
+    "id": "5333e0d2-4731-4e2f-9e07-83149f21135c",
+    "title": "High School Algebra 1 Teacher  Great River Connections Academy",
+    "description": "<p><strong>School Summary</strong></p><p>Great River Connections Academy (GRCA) is a tuition-free public online eSchool serving students in grades K-12 throughout Ohio beginning of the school year. GRCA is authorized by the Ohio Council of Community Schools and governed by an independent Board of Directors. The school is operated through a contract with Connections Academy of Ohio, LLC, to provide its educational program and other services. Connections Academy, a division of Connections Education, is accredited by AdvancED.</p><p><strong>Position Summary and Responsibilities</strong></p><p>Working from your home office in Ohio, the High School Algebra 1 Teacher will manage instructional programs. Through use of the telephone, Internet and various curriculum tools they will consult regularly with learning coaches and students to ensure that each child successfully completes his/her instructional program.</p><p>The High School Algebra 1 Teacher will be responsible for the successful completion of the following tasks:</p><ul><li>Complete all grading, create progress reports and conduct parent conferences in a timely manner;</li><li>Support the instructional program with asynchronous web conferencing sessions and synchronous instruction;</li><li>Review curriculum and devise alternate approaches to presenting lessons to increase student understanding (working directly with students and parents);</li><li>Communicate with parents, students and other teachers on a regular basis to develop and update Personal Learning Plans and schedules, score assessments, provide feedback on student work, suggest instructional approaches and strategies, monitor completion of assignments and coach special projects;</li><li>Work collaboratively with other teachers to ensure that all students are successfully progressing through the program, that parents have a central point of contact, and that tasks are distributed among the teachers;</li><li>Develop a general knowledge of the entire program’s K-12 curriculum and a very detailed knowledge of the courses for which responsible;&nbsp;</li><li>Support students and parents with alternate strategies and provide additional assistance with daily assignments and projects;</li><li>Communicate regularly with parents, students, and curriculum specialists through use of computer and telephone;</li><li>Keep student records and data up to date, including cumulative files, online student and family information, attendance accounting, and logging all student and parent contacts;</li><li>Consult with other teachers and staff learning specialists to develop alternate enrichment activities and modifications to students’ programs to increase student understanding;</li><li>Work with other teachers to coordinate social activities and relevant field trips for students;</li><li>Manage regional field trips and make efforts to integrate trips into the curriculum;&nbsp;</li><li>Devise and implement virtual methods of creating and maintaining a “school community”;</li><li>Participate in the organization and administration of the State Testing, as directed;</li><li>Participate in student recruiting sessions and other marketing efforts that require teacher representation;</li><li>Work with Advisory Teachers and School counselor to ensure students and families are receiving appropriate communications, students are making adequate progress and established goals are being met;</li><li>Attend field trips and other community activities implemented for families; and</li><li>Other duties as assigned.</li></ul><br><p><strong>Requirements</strong></p><ul><li>Highly qualified and certified to teach High School Algebra in Ohio (appropriate to grade level and content area responsibilities).</li><li>Strong technology skills (especially with Microsoft OS and MS Office programs).</li><li>Excellent communication skills, both oral and written.</li><li>Customer focused approach.</li><li>High degree of flexibility.</li><li>Demonstrated ability to work well in fast paced environment.</li><li>Team player track record.</li><li>Willingness to travel on occasion for marketing and state testing events (may require occasional overnight travel).</li><li>Ability to work remotely, if necessary.</li><li>Ability to work some occasional evening hours, as needed to support some families.</li><li>Must be able to use a personal electronic device and an email address for two-step authentication.</li></ul><p><em>Great River Connections Academy&nbsp;is accredited by the North Central Association Commission on Accreditation and School Improvement (NCA CASI), the Northwest Accreditation Commission (NWAC), and the Southern Association of Colleges &amp; Schools Council on Accreditation and School Improvement (SACS CASI), which are accrediting divisions of Cognia.</em></p>",
+    "summary": "The High School Algebra 1 Teacher manages instructional programs for students in an online Ohio public school while working from a home office. Responsibilities include delivering synchronous and asynchronous instruction, grading and assessment, maintaining student records, communicating with students and families, supporting learning plans, and collaborating with teachers and staff.",
+    "locations": [
+     {
+      "postalCode": "43214",
+      "workLocation": "remote",
+      "addressRegion": "Ohio",
+      "addressCountry": "US",
+      "addressLocality": "Columbus"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Customer Service",
+      "Flexibility",
+      "Teamwork",
+      "Adaptability"
+     ],
+     "primary_skills": [
+      "High School Algebra Instruction",
+      "Teaching Certification",
+      "Microsoft Office",
+      "Microsoft Windows",
+      "Online Instruction",
+      "Curriculum Development",
+      "Student Assessment",
+      "Student Records Management",
+      "Virtual Classroom Management",
+      "State Testing Administration"
+     ],
+     "secondary_skills": [
+      "Learning Plan Development",
+      "Parent Conferences",
+      "Educational Technology",
+      "Marketing Activities",
+      "Field Trip Coordination"
+     ]
+    },
+    "benefits": [],
+    "salary": null,
+    "experienceLevel": null,
+    "employmentType": "full_time",
+    "minYearsExperience": null,
+    "educationRequirement": null,
+    "industry": [
+     "education"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": true,
+    "travelPercentage": null,
+    "postedAt": 1789948800,
+    "expiresAt": null,
+    "applyUrl": "https://recruiting.ultipro.com/CON1019ACADE/JobBoard/c2b42121-092c-4125-8209-60593d2c63e0/OpportunityDetail?opportunityId=4b425617-79f2-435c-8d57-a27b48d1d9f4",
+    "status": "active",
+    "companies": [
+     {
+      "name": "Connections Academy",
+      "website": "connectionsacademy.com"
+     }
+    ]
+   }
+  ],
+  "meta": {
+   "count": 4,
+   "hasMore": false,
+   "requestTimeMs": 28,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

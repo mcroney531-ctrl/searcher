@@ -1,0 +1,890 @@
+{
+ "call_id": "fam_desc_enablement_materials_p0",
+ "phase": "family",
+ "url": "https://api.jobven.com/v1/public/jobs?q=-%22account+executive%22+-%22account+manager%22+-%22sales+representative%22+-%22sales+manager%22+-%22customer+service+representative%22+-%22help+desk%22+-%22customer+success+manager%22+-%22support+specialist%22&descriptionQuery=enablement+materials&country=US&remoteType%5B%5D=remote&postedAfter=1789702200&limit=25",
+ "params": [
+  [
+   "q",
+   "-\"account executive\" -\"account manager\" -\"sales representative\" -\"sales manager\" -\"customer service representative\" -\"help desk\" -\"customer success manager\" -\"support specialist\""
+  ],
+  [
+   "descriptionQuery",
+   "enablement materials"
+  ],
+  [
+   "country",
+   "US"
+  ],
+  [
+   "remoteType[]",
+   "remote"
+  ],
+  [
+   "postedAfter",
+   1789702200
+  ],
+  [
+   "limit",
+   25
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:28:02 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "transfer-encoding": "chunked",
+  "connection": "close",
+  "server": "cloudflare",
+  "vary": "Accept-Encoding",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "79965520-a788-4233-acaa-303dca027b7a",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2351",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "267",
+  "etag": "W/\"164f1-H0p6H1L3xyp5tPanY1qP3FSx8SA\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=Rw5wO%2BTr%2FpbtR3iDYZF%2FxSYh%2BOoWLmrudGEJeNXLr2gdoC2wDtW4usXhC7aCZ8kzy%2FEA5gGS%2F53XCsKRkPryN0u6X4rjBXmJHAzjYIkot9TlSsj5%2F%2B0v5uv1qAxsAiSQUTs6HNR5PRbQOVY%2BzA%3D%3D\"}]}",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "cf-ray": "a406efbed925b29e-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "id": "607a0a78-ff34-402a-813f-cfd8032e2274",
+    "title": "Field Marketing Manager",
+    "description": "<h1><strong>Field Marketing Manager, US</strong></h1><p><strong>Location:</strong> Remote (US), Eastern time zone preferred<br><strong>Travel:</strong> ~30% for conferences, dinners, and regional events<br></p><h2><strong>About Haast</strong></h2><p>We're building one of the first agentic systems for enterprise legal and compliance teams that actually automates their manual work. End-to-end. Delivering 80% faster compliance reviews and 4x productivity gains.</p><p>We recently closed a $12M USD Series A (Peak XV Partners, DST Global, Airtree) and are ramping hard; building the infrastructure that will completely re-define how enterprises think about compliance.</p><p>Think Canva for design. Atlassian for projects. Haast for compliance.</p><h2><strong>Why This Role Exists</strong></h2><p>As Haast enters the US market after building traction in Australia, we know buyers don't find us by accident. They see us at the right conference. They get pulled into the right campaign. They hear from a rep with the right message at the right moment. All of that has to come together for a fast moving financial services buyer to actually pick Haast.</p><p>This role owns that work end to end: events, campaigns, ABM, digital activation, email, and the enablement that gets sales the tools and timing they need.</p><h2><strong>What You'll Own</strong></h2><ul><li><p>Run the US field marketing calendar end to end: conference sponsorships, executive dinners, roundtables, and webinars – from concept through budget, logistics, promotion, and follow-up</p></li><li><p>Build and execute account-based programs against Haast's priority accounts, working closely with sales to identify targets and tailor engagement</p></li><li><p>Run integrated, pain-based campaigns that pair field activity with outbound, content, and paid support</p></li><li><p>Manage HubSpot as our marketing system of record – campaign builds, workflows, list management, and reporting – keeping data clean and attribution accurate</p></li><li><p>Run email marketing that supports campaigns and nurtures accounts through the pipeline</p></li><li><p>Develop co-marketing relationships with partners as they're established, from joint events to shared campaigns</p></li><li><p>Support website work: content updates, landing pages, and ongoing optimization</p></li><li><p>Manage US paid media activation in support of campaigns and events</p></li><li><p>Build sales enablement materials and give the US sales team what they need, when they need it, to work field and campaign leads</p></li><li><p>Support execution of global (EU) campaigns, coordinating with the broader team</p></li></ul><h2><strong>What We're Looking For</strong></h2><ul><li><p>5+ years of B2B marketing experience spanning field marketing and hands-on digital execution, ideally in SaaS or a similarly complex sale</p></li><li><p>A track record of running events – conferences, dinners, webinars – that generate real pipeline, not just attendance</p></li><li><p>Experience running or supporting ABM programs alongside a sales team</p></li><li><p>Strong, hands-on HubSpot experience</p></li><li><p>Comfort owning a budget and reporting on ROI – you know the difference between activity and impact</p></li><li><p>Experience supporting or coordinating global/multi-region marketing programs</p></li><li><p>Experience supporting website work (CMS, landing pages)</p></li><li><p>A self-starter who's equally comfortable setting strategy and executing the details</p></li><li><p>Based in the US, Eastern time zone preferred, with willingness to travel ~30% for events</p></li></ul><p><strong>Nice to have:</strong> experience marketing into financial services or another regulated industry; experience with paid media platforms (LinkedIn Ads, Google Ads); basic design skills (Canva) for quick landing page or asset turnaround.</p><h2><strong>Why Haast</strong></h2><ul><li><p>Own a function early: you'll shape how Haast shows up in market</p></li><li><p>Report directly to our newly hired VP of Marketing based in the US, building this function together from the ground up</p></li><li><p>Work on something real and trusted by major global enterprises</p></li><li><p>Grow fast: learn more in 12 months than most roles offer in three years</p></li><li><p>Equity and upside: we share success with the people building it</p></li><li><p>Culture: ambitious, engineering-led, no red tape</p></li><li><p>Benefits: Health Insurance, 401k, Generous PTO</p></li></ul><p><strong>How to Apply</strong></p><p>Apply with:</p><ol><li><p>Your resume/CV</p></li><li><p>A brief note on this question: <strong>Tell us about an event or campaign you've executed that you're genuinely proud of. What was the outcome?</strong></p></li></ol><p><br>No closing date. We review applications on a rolling basis.</p><p>At Haast, we believe bold ideas come from diverse perspectives. We're committed to building a team that reflects the world we work in. Even if you don't tick every box, we'd love to hear from you.</p><p><br></p>",
+    "summary": "The Field Marketing Manager will lead Haast’s US field marketing end to end, including events, account-based programs, integrated campaigns, email, paid media, and sales enablement. The role also manages HubSpot, marketing budgets and ROI reporting, supports website and global campaign work, and requires approximately 30% travel.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressRegion": "New York",
+      "addressCountry": "US",
+      "addressLocality": "New York City"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Self-Starter",
+      "Strategic Thinking",
+      "Attention to Detail"
+     ],
+     "primary_skills": [
+      "B2B Marketing",
+      "Field Marketing",
+      "Digital Marketing",
+      "Event Marketing",
+      "Account-Based Marketing",
+      "HubSpot",
+      "Email Marketing",
+      "Marketing Budget Management",
+      "Marketing ROI Reporting",
+      "Website Content Management"
+     ],
+     "secondary_skills": [
+      "Paid Media",
+      "Partner Marketing",
+      "Sales Enablement",
+      "Campaign Management",
+      "Canva"
+     ]
+    },
+    "benefits": [
+     "health_insurance",
+     "pensions_401k",
+     "paid_time_off_vacation_personal_days",
+     "stock_options_equity"
+    ],
+    "salary": null,
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 5,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software",
+     "finance_banking"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": true,
+    "travelPercentage": null,
+    "postedAt": 1790199047,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/haast/8920e44b-af1b-4b78-9270-d66cc4eef0ca",
+    "status": "active",
+    "companies": [
+     {
+      "name": "haast.io",
+      "website": "haast.io"
+     }
+    ]
+   },
+   {
+    "id": "54dc5dee-35e9-4449-b381-5d591b87d5d0",
+    "title": "Product Marketing Manager, Advertising",
+    "description": "<h2><strong>About the team</strong></h2><p>OpenAI’s mission is to ensure the responsible and widespread adoption of artificial intelligence. In support of that mission, the Marketing team helps deeply understand customer audiences and market dynamics, influence the development of the right products, build sustainable and customer-aligned monetization models, and drive awareness, adoption, and usage across OpenAI’s products and platform.</p><p>We take a data-driven approach to understand markets, develop monetization strategies, and uncover customer needs that shape product strategy and messaging. We partner closely with Sales, Partnerships, Product, Engineering, Research, Comms, and Design to deliver a cohesive end-to-end customer experience and lead go-to-market efforts for new product launches across channels.</p><h2>About the role</h2><p>We’re looking for a Product Marketing Manager, Advertising to help bring together advertiser insights, market understanding, and product knowledge to inform positioning, support product priorities, and execute go-to-market initiatives that drive adoption and measurable business impact.</p><p>You’ll work closely with Product, Engineering, Sales, and Partnerships to understand advertiser needs, translate complex AI capabilities into clear customer value, and bring new products and features to market. This role is ideal for someone who combines strong analytical thinking with hands-on execution, can independently drive clearly scoped workstreams, and is eager to grow their strategic ownership in a fast-moving environment.</p><h2>In this role, you will:</h2><ul><li><p>Contribute to the product and marketing strategy for a defined area of OpenAI’s advertising business in partnership with senior product marketers and cross-functional partners.</p></li><li><p>Build an understanding of advertisers through customer research, market analysis, and competitive insights, identifying opportunities to improve positioning, adoption, and the customer experience.</p></li><li><p>Develop and maintain positioning and messaging for assigned products or features, translating complex capabilities into clear narratives for different advertiser audiences and use cases.</p></li><li><p>Partner with Product and Engineering to synthesize advertiser feedback and market insights that inform roadmap discussions and product decisions.</p></li><li><p>Execute go-to-market plans for new products and features, independently owning defined workstreams from planning through launch and post-launch adoption.</p></li><li><p>Create advertiser-facing content and sales enablement materials, including product narratives, sales decks, one-pagers, FAQs, case studies, and launch communications.</p></li><li><p>Partner with Sales, Partnerships, Data Science, and Analytics to track success metrics, assess launch and adoption performance, and recommend improvements.</p></li><li><p>Identify advertiser concerns and launch risks related to performance, safety, policy, and trust, escalating them appropriately and incorporating guidance into customer communications.</p></li><li><p>Coordinate cross-functional partners around deliverables, responsibilities, and timelines, proactively surfacing dependencies and resolving blockers within the scope of your initiatives.</p></li><li><p>Contribute to repeatable approaches for launches, messaging, and enablement by documenting learnings, developing templates, and sharing effective practices with the broader team.</p></li></ul><h2>You might be a great fit if you…</h2><ul><li><p>Have experience contributing to product marketing strategies and bringing products, features, or programs to market, ideally in advertising, marketing technology, platforms, data, or AI.</p></li><li><p>Have experience applying structured problem-solving approaches in product marketing, strategy or management consulting, investment banking, corporate strategy, venture capital, or a similarly analytical environment.</p></li><li><p>Have familiarity with advertiser goals and the advertising ecosystem, including areas such as measurement, targeting and relevance, creative, auctions, and performance.</p></li><li><p>Can synthesize customer research and market insights into clear positioning, actionable recommendations, and well-executed go-to-market programs.</p></li><li><p>Communicate clearly and persuasively, translating technical concepts into accessible customer value for different audiences.</p></li><li><p>Are comfortable using qualitative and quantitative evidence—including customer interviews, surveys, adoption data, and experiments—to support decisions and improve results.</p></li><li><p>Bring structure and sound judgment to ambiguous problems, independently managing scoped initiatives while seeking input when priorities or tradeoffs are unclear.</p></li><li><p>Build productive working relationships across Product, Engineering, Sales, Partnerships, and other teams, contributing to alignment without relying on formal authority.</p></li><li><p>Are highly organized, attentive to detail, and comfortable managing multiple workstreams in a fast-moving environment.</p></li><li><p>Enjoy learning from others, sharing insights, and helping improve how the team approaches launches, storytelling, and execution.</p></li></ul><p><strong>About OpenAI</strong></p><p>OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity.&nbsp;</p><p>We are an equal opportunity employer, and we do not discriminate on the basis of race, religion, color, national origin, sex, sexual orientation, age, veteran status, disability, genetic information, or other applicable legally protected characteristic.</p><p>For additional information, please see <a href=\"https://cdn.openai.com/policies/eeo-policy-statement.pdf\"><u>OpenAI’s Affirmative Action and Equal Employment Opportunity Policy Statement</u></a>.</p><p>Background checks for applicants will be administered in accordance with applicable law, and qualified applicants with arrest or conviction records will be considered for employment consistent with those laws, including the San Francisco Fair Chance Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act, for US-based candidates. For unincorporated Los Angeles County workers: we reasonably believe that criminal history may have a direct, adverse and negative relationship with the following job duties, potentially resulting in the withdrawal of a conditional offer of employment: protect computer hardware entrusted to you from theft, loss or damage; return all computer hardware in your possession (including the data contained therein) upon termination of employment or end of assignment; and maintain the confidentiality of proprietary, confidential, and non-public information. In addition, job duties require access to secure and protected information technology systems and related data security obligations.</p><p>To notify OpenAI that you believe this job posting is non-compliant, please submit a report through <a href=\"https://form.asana.com/?d=57018692298241&amp;k=5MqR40fZd7jlxVUh5J-UeA\">this form</a>. No response will be provided to inquiries unrelated to job posting compliance.</p><p>We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this <a href=\"https://form.asana.com/?k=bQ7w9h3iexRlicUdWRiwvg&amp;d=57018692298241\"><u>link</u></a>.</p><p><a href=\"https://cdn.openai.com/policies/global-employee-and-contractor-privacy-policy.pdf\">OpenAI Global Applicant Privacy Policy</a></p><p>At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.</p>",
+    "summary": "The Product Marketing Manager, Advertising will use advertiser insights, market analysis, and product knowledge to shape positioning, support product priorities, and execute go-to-market initiatives. Responsibilities include developing messaging, coordinating product launches, creating advertiser-facing and sales enablement content, tracking adoption metrics, and partnering cross-functionally to address risks and improve customer outcomes.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressRegion": "California",
+      "addressCountry": "US",
+      "addressLocality": "San Francisco"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Problem-solving",
+      "Cross-functional Collaboration",
+      "Organization",
+      "Adaptability"
+     ],
+     "primary_skills": [
+      "Product Marketing",
+      "Go-to-Market Strategy",
+      "Market Analysis",
+      "Customer Research",
+      "Competitive Analysis",
+      "Product Positioning",
+      "Product Messaging",
+      "Launch Management",
+      "Sales Enablement",
+      "Data-Driven Decision Making"
+     ],
+     "secondary_skills": [
+      "Advertising Ecosystem",
+      "Marketing Technology",
+      "Artificial Intelligence",
+      "Measurement",
+      "Targeting and Relevance",
+      "Creative Development",
+      "Auction-Based Advertising",
+      "Performance Marketing",
+      "Qualitative Research",
+      "Quantitative Research"
+     ]
+    },
+    "benefits": [],
+    "salary": null,
+    "experienceLevel": "mid",
+    "employmentType": "full_time",
+    "minYearsExperience": null,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software",
+     "marketing_advertising"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790193300,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/openai/c0151a50-4943-42b9-b23a-beedd9d6aa54",
+    "status": "active",
+    "companies": [
+     {
+      "name": "openai.com",
+      "website": "openai.com"
+     }
+    ]
+   },
+   {
+    "id": "0273fa08-d1ee-4c8e-bb32-be6f24946488",
+    "title": "Product Marketing Manager",
+    "description": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;Founded in 2012, Bugcrowd is the preemptive security platform that unifies exposure discovery and assessment, offensive testing, and intelligence shaped by AI and human insight to help organizations avoid, discover, and validate real-world risk. Bugcrowd helps security teams move faster by identifying the exposures that matter most so they can act first and stay ahead of attackers. By combining the power of humans and AI, teams can preempt attack paths and prevent breaches. Based in San Francisco and New Hampshire, Bugcrowd is supported by General Catalyst, Rally Ventures, Costanoa Ventures, and others. Visit &lt;span&gt;&lt;a href=\"http://www.bugcrowd.com\" target=\"_blank\"&gt;www.bugcrowd.com&lt;/a&gt;&lt;/span&gt;.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Job Summary&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;The Product Marketing Manager plays a central role in how Bugcrowd brings new products, features, and platform capabilities to market. This role sits within the Marketing team and reports into Brand, partnering closely with Product, Engineering, Growth, and Revenue teams to shape messaging, support launches, and turn technical depth into clear, credible stories for customers. It's a hands-on role for someone who can create clarity in ambiguity, bring structure to complex work, and move ideas from insight to execution. Success in this role requires strong judgment, thoughtful collaboration, and the ability to make complex ideas clear and compelling.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Essential Duties &amp;amp; Responsibilities&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Own and support launches for new features, product updates, and select platform capabilities, including launch planning, audience definition, messaging development, and cross-functional coordination.&lt;/li&gt; &lt;li&gt;Develop messaging and evolve our positioning for assigned product areas, translating technical capabilities into clear customer value and distinct stories that resonate in the market.&lt;/li&gt; &lt;li&gt;Conduct customer and market research through interviews, win/loss analysis, competitive intelligence, community listening, and hands-on product exploration.&lt;/li&gt; &lt;li&gt;Create enablement materials for the Sales team, including launch briefs, battlecards, FAQs, pitch support, and internal guidance.&lt;/li&gt; &lt;li&gt;Partner cross-functionally with Product, Engineering, Design, Brand, Growth, Sales Enablement, and Customer Experience to keep initiatives moving from planning through launch.&lt;/li&gt; &lt;li&gt;Monitor competitive activity and market trends, and share insights that inform launch strategy, positioning, and broader product marketing recommendations.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Education, Experience, Knowledge, Skills, and Abilities&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;3+ years of product marketing experience, ideally in B2B SaaS, cybersecurity, or another technical category.&lt;/li&gt; &lt;li&gt;Demonstrated experience supporting product launches or major go-to-market initiatives from planning through execution.&lt;/li&gt; &lt;li&gt;Strong writing and communication skills, with the ability to translate technical concepts into clear, credible messaging for a range of audiences.&lt;/li&gt; &lt;li&gt;Ability to conduct and synthesize customer, product, and market research into actionable insights and recommendations.&lt;/li&gt; &lt;li&gt;Strong project management, prioritization, and cross-functional collaboration skills, with the ability to move work forward independently.&lt;/li&gt; &lt;li&gt;Experience marketing technical products, cybersecurity solutions, or offerings for highly regulated industries is preferred.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Working Conditions &amp;amp; Physical Requirements&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;The ideal candidate must be able to complete all physical requirements of the job with or without reasonable accommodation.&lt;/p&gt; &lt;p&gt;Sitting and / or standing - Must be able to remain in a stationary position 50% of the time&lt;/p&gt; &lt;p&gt;Carrying and / or lifting - Must be able to carry / move laptop as needed throughout the work day.&lt;/p&gt; &lt;p&gt;Environment - remote, work-from-home 100% of the time.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Pay Range Disclosure&lt;/strong&gt;&lt;/p&gt; &lt;p data-renderer-start-pos=\"1458\"&gt;The base pay range for this role takes into account the wide range of factors that are considered in making compensation decisions, including but not limited to Qualifications, Geographical Location, Education/certifications, Experience, Skill Sets, Training, and other business and organizational needs.&amp;nbsp;&lt;/p&gt; &lt;p data-renderer-start-pos=\"1787\"&gt;At Bugcrowd, it is not typical for an individual to be hired at or near the top of the range for their role and compensation decisions are dependent on the facts and circumstances of each case. A reasonable estimate of the current range for the position of Product Marketing Manager &lt;span class=\"fabric-text-color-mark\" data-renderer-mark=\"true\" data-text-custom-color=\"#ff5630\"&gt;is: $83,200 - $110,000.&lt;/span&gt;&lt;/p&gt; &lt;p data-renderer-start-pos=\"2079\"&gt;This position may also be eligible to participate in a discretionary bonus program or commission plan, subject to the rules governing the program, whereby an award, if any, depends on various factors, including, without limitation, individual and organizational performance.&lt;/p&gt;&lt;div class=\"content-conclusion\"&gt;&lt;p&gt;&lt;strong&gt;Culture&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;At Bugcrowd, we understand that diversity in the workplace is vital to a company’s success and growth. We strive to make sure that people are included and have a sense of being part of making Bugcrowd not only a great product but a great place to work.&lt;/li&gt; &lt;li&gt;We regularly hear from both customers and researchers that Bugcrowd feels like a family, and we strive to maintain that internally as well.&lt;/li&gt; &lt;li&gt;Our team consists of a broad range of people: musicians, adventure sports junkies, nature lovers, parents, cereal enthusiasts, night owls, cyclists, artists—you get the point.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;At Bugcrowd, we are solving security threats and vulnerabilities that are relevant to everyone, therefore we believe solving these problems takes all kinds of backgrounds. We value the perspectives and experiences people from underrepresented backgrounds bring.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Disclaimer&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;This position has access to highly confidential, sensitive information relating to the technologies of Bugcrowd. It is essential that the applicant possess the requisite integrity to maintain the information in the strictest confidence.&lt;/p&gt; &lt;p&gt;The company is authorized to obtain background checks for employment purposes under state and federal law. Background checks will be conducted for positions that involve access to confidential or proprietary information (including trade secrets).&lt;/p&gt; &lt;p&gt;Background checks may include Social Security verification, prior employment verification, personal and professional references, educational verification, and criminal history. Applicants with conviction histories will not be excluded from consideration to the extent required by&lt;strong&gt; &lt;/strong&gt;law.&lt;/p&gt; &lt;p&gt;&lt;em&gt;&lt;span style=\"color: #000000;\"&gt;Any personal data you submit in connection with your application will be processed in compliance with Bugcrowd's Privacy Policy, which you may review here:&amp;nbsp;&lt;u&gt;&lt;a href=\"https://www.bugcrowd.com/privacy\" target=\"_blank\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.bugcrowd.com/privacy&amp;amp;source=gmail&amp;amp;ust=1779561211088000&amp;amp;usg=AOvVaw3juRr88xa6eT7Qqm8DdKSA\"&gt;https://www.bugcrowd.com/privacy&lt;/a&gt;&lt;/u&gt;.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Equal Employment Opportunity:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Bugcrowd is EOE, Disability/Age Employer.&amp;nbsp;&lt;/p&gt; &lt;p&gt;Individuals seeking employment at Bugcrowd are considered without regards to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, or sexual orientation.&amp;nbsp;&lt;/p&gt; &lt;p&gt;Bugcrowd is committed to the full inclusion of all qualified individuals. In keeping with our commitment, Bugcrowd will take the steps to assure that people with disabilities are provided reasonable accommodations. Accordingly, if reasonable accommodation is required to fully participate in the job application or interview process, to perform the essential functions of the position, and/or to receive all other benefits and privileges of employment, please contact HR at ADA at bugcrowd.com.&lt;/p&gt; &lt;p&gt;Apply at:&amp;nbsp;&lt;a href=\"https://www.bugcrowd.com/about/careers/\"&gt;https://www.bugcrowd.com/about/careers/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;",
+    "summary": "The Product Marketing Manager will lead and support launches for new products, features, and platform capabilities, developing positioning, messaging, launch plans, and sales enablement materials. The role partners with Product, Engineering, Growth, Sales, and other teams while conducting customer, market, and competitive research to turn technical capabilities into clear customer value.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Problem-solving",
+      "Adaptability"
+     ],
+     "primary_skills": [
+      "Product Marketing",
+      "Product Launch",
+      "Go-to-Market Strategy",
+      "Product Positioning",
+      "Customer Research",
+      "Market Research",
+      "Competitive Intelligence",
+      "Technical Writing",
+      "Project Management",
+      "Cross-functional Collaboration"
+     ],
+     "secondary_skills": [
+      "B2B SaaS",
+      "Cybersecurity",
+      "Sales Enablement",
+      "Win-Loss Analysis"
+     ]
+    },
+    "benefits": [
+     "remote_work_hybrid_work_options",
+     "performance_bonuses",
+     "commission_based_earnings"
+    ],
+    "salary": {
+     "max": 110000,
+     "min": 83200,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "mid",
+    "employmentType": "full_time",
+    "minYearsExperience": 3,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790173756,
+    "expiresAt": null,
+    "applyUrl": "https://boards.greenhouse.io/bugcrowd/jobs/7669844?gh_jid=7669844",
+    "status": "active",
+    "companies": [
+     {
+      "name": "bugcrowd.com",
+      "website": "bugcrowd.com"
+     }
+    ]
+   },
+   {
+    "id": "af87413f-9b3a-456f-8321-fbf2a36cb30b",
+    "title": "Marketing Communications Manager",
+    "description": "<h2>Company Description</h2><p><strong>Eurofins Scientific is an international life sciences company, providing a unique range of analytical testing services to clients across multiple industries, to make life and our environment safer, healthier and more sustainable. From the food you eat, to the water you drink, to the medicines you rely on, Eurofins laboratories work with the biggest companies in the world to ensure the products they supply are safe, their ingredients are authentic and labelling is accurate.</strong></p><p><strong>The Eurofins network of companies is the global leader in food, environment, pharmaceutical and cosmetic product testing and in agroscience Contract Research Organisation services. It is one of the market leaders in certain testing and laboratory services for genomics, discovery pharmacology, forensics, advanced material sciences and in the support of clinical studies, as well as having an emerging global presence in Contract Development and Manufacturing Organisations. It also has a rapidly developing presence in highly specialised and molecular clinical diagnostic testing and in-vitro diagnostic products.</strong></p><p><strong>In over 30 years, Eurofins has grown from one laboratory in Nantes, France to 58,000 staff across a decentralised and entrepreneurial network of 900 laboratories in over 54 countries. Eurofins companies offer a portfolio of over 200,000 analytical methods to evaluate the safety, identity, composition, authenticity, origin, traceability and purity of biological substances and products.</strong></p><h2>Job Description</h2><p>The Marketing Communications Manager will lead the development and execution of integrated marketing communications programs that advance business priorities, strengthen brand visibility, and generate measurable demand. Reporting to the Marketing Director, this hands-on role will partner closely with marketing colleagues, sales, operations, technical subject matter experts, agencies, and cross-functional stakeholders to translate complex capabilities into clear, compelling campaigns, content, and sales tools. The successful candidate will bring strong strategic thinking, hands-on execution, and a proven ability to influence across teams without direct authority.</p><p><strong>Summary of Key Skills</strong></p><ul><li>Integrated marketing communications strategy and campaign execution</li><li>Demand generation, lead nurturing, and campaign performance optimization</li><li>Clear, persuasive writing for technical, B2B, and audience-specific messaging</li><li>Problem solving, sound judgment, attention to detail, and adaptability in a fast-paced environment</li><li>Cross-functional collaboration and stakeholder influence without direct authority</li><li>Project management, budget oversight, vendor coordination, and deadline accountability</li><li>Marketing automation, CRM, analytics, and KPI reporting</li></ul><p><strong>Responsibilities</strong></p><ul><li>Develop and execute integrated marketing communications strategies, campaigns, and lead the annual medical device services marketing plan process aligned to business objectives, audience needs, and growth priorities.</li><li>Lead campaign planning from strategy through execution, including value proposition development, creative briefs, messaging, content mapping, activation plans, and performance measurement.</li><li>Create, edit, and manage high-impact content across channels, including web pages, email campaigns, paid media, sales enablement materials, thought leadership assets, presentations, social media, webinars, and event materials.</li><li>Partner with marketing colleagues, sales, technical SMEs, leadership, agencies, and external vendors to ensure cohesive messaging, strong execution, and alignment across target audience touchpoints.</li><li>Manage marketing automation, email marketing, lead nurturing, inbound lead processes, and lead scoring in partnership with sales and digital teams.</li><li>Plan and execute tradeshows, events, webinars, and promotional campaigns, including messaging, graphics, schedules, speaker coordination, and post-event follow-up in coordination with the marketing tradeshow specialist.</li><li>Own campaign performance tracking, KPI reporting, budget management, and optimization recommendations to improve engagement, lead generation, and marketing effectiveness.</li><li>Uphold brand standards and ensure consistent, compelling messaging across all marketing materials, digital channels in partnership with the marketing digital specialist, sales tools, and external communications.</li><li>Manage agency relationships, project timelines, deliverables, and budgets to ensure work is completed on time, on brand, and aligned to business goals.</li></ul><h2>Qualifications</h2><p><strong>The Ideal Candidate</strong></p><ul><li><ul><li>Has 8 to 10 years of progressive marketing communications experience, preferably in a B2B, technical, scientific, life sciences, medical device, biopharma, or regulated industry environment.</li><li>Brings a proven track record of developing campaigns that drive measurable engagement, demand generation, and qualified lead growth.</li><li>Combines strategic thinking with strong execution, moving confidently from planning and messaging through activation, measurement, and optimization.</li><li>Is a resourceful problem solver who can navigate ambiguity, remove barriers, and keep complex projects moving forward.</li><li>Influences effectively without authority by building trust, aligning stakeholders, and communicating recommendations with clarity and confidence.</li><li>Writes clearly and persuasively, with the ability to translate complex technical information into audience-focused marketing messages.</li><li>Works well in a collaborative, fast-paced environment while maintaining strong organization, attention to detail, and accountability for deadlines.</li></ul></li></ul><p><strong>Education and Experience</strong></p><ul><li>Bachelor’s degree in marketing, communications, journalism, public relations, business, or a related field required.</li><li>8 to 10 years of experience in marketing communications, campaign management, demand generation, content marketing, or a related marketing role required.</li><li>Demonstrated experience with Adobe Creative Cloud, Canva, CRMs, and marketing automation platforms</li><li>Experience in life sciences, medical device, biopharma, laboratory services, healthcare, manufacturing, technology, or another technical B2B environment preferred.</li><li>Experience managing agencies, vendors, budgets, and cross-functional marketing projects.</li></ul><h2>Additional Information</h2><p>The position is full-time, Monday-Friday, 8:00am-5:00pm, with overtime as needed. Location: East Coast &amp; Midwest — Boston, MA; Lancaster, PA; Jacksonville, FL; St. Louis, MO; Remote options available</p><ul><li>Excellent full time benefits including comprehensive medical coverage, dental, and vision options</li><li>Life and disability insurance</li><li>401(k) with company match</li><li>Paid vacation and holidays</li></ul><p><strong>Eurofins USA BioPharma Services is a Disabled and Veteran Equal Employment Opportunity employer.</strong></p>",
+    "summary": "The Marketing Communications Manager will develop and execute integrated marketing communications programs that strengthen brand visibility, generate demand, and support business priorities. Responsibilities include campaign strategy and execution, content development, marketing automation and lead nurturing, event planning, stakeholder coordination, budget and agency management, and performance measurement.",
+    "locations": [
+     {
+      "workLocation": "flexible",
+      "addressRegion": "Massachusetts",
+      "addressCountry": "US",
+      "addressLocality": "Boston"
+     },
+     {
+      "workLocation": "flexible",
+      "addressRegion": "Pennsylvania",
+      "addressCountry": "US",
+      "addressLocality": "Lancaster"
+     },
+     {
+      "workLocation": "flexible",
+      "addressRegion": "Florida",
+      "addressCountry": "US",
+      "addressLocality": "Jacksonville"
+     },
+     {
+      "workLocation": "flexible",
+      "addressRegion": "Missouri",
+      "addressCountry": "US",
+      "addressLocality": "St. Louis"
+     },
+     {
+      "workLocation": "remote",
+      "addressCountry": "XX"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Problem-solving",
+      "Adaptability",
+      "Communication",
+      "Collaboration",
+      "Attention to Detail"
+     ],
+     "primary_skills": [
+      "Integrated Marketing Communications",
+      "Campaign Management",
+      "Demand Generation",
+      "Lead Nurturing",
+      "Content Marketing",
+      "Marketing Automation",
+      "Customer Relationship Management",
+      "Marketing Analytics",
+      "KPI Reporting",
+      "Budget Management"
+     ],
+     "secondary_skills": [
+      "Adobe Creative Cloud",
+      "Canva",
+      "Lead Scoring",
+      "Email Marketing",
+      "Event Management",
+      "Agency Management",
+      "Vendor Management",
+      "Paid Media",
+      "Sales Enablement",
+      "Social Media Marketing"
+     ]
+    },
+    "benefits": [
+     "health_insurance",
+     "dental_insurance",
+     "vision_care",
+     "life_insurance",
+     "disability_insurance",
+     "pensions_401k",
+     "pension_contribution_matching",
+     "paid_time_off_vacation_personal_days"
+    ],
+    "salary": null,
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 8,
+    "educationRequirement": {
+     "required": [
+      "bachelor_degree"
+     ],
+     "preferred": []
+    },
+    "industry": [
+     "marketing_advertising",
+     "healthcare_medical"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790170299,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.smartrecruiters.com/Eurofins/744000151382687-marketing-communications-manager",
+    "status": "active",
+    "companies": [
+     {
+      "name": "Eurofins",
+      "website": "eurofins.com"
+     }
+    ]
+   },
+   {
+    "id": "b9c9be88-117e-4427-8f9e-e63821956ba9",
+    "title": "Technical Solutions Consultant (pre-sales)",
+    "description": "<p><a href=\"https://blockstream.com/\"><u>Blockstream</u></a> was founded in 2014 by <a href=\"https://en.wikipedia.org/wiki/Adam_Back\"><u>Dr. Adam Back</u></a> and a group of fellow cryptographers and engineers passionate about Bitcoin and its potential to change the future of finance. We have become a market leader in Bitcoin security and Layer-2 technologies. Our products are designed to make financial systems more efficient, secure, and robust.</p><p>We are seeking a <strong>Technical Solutions Consultant (Pre-Sales)</strong>, a customer-facing technical expert responsible for helping financial institutions evaluate, design, and adopt Blockstream's enterprise software solutions.</p><p>Operating within the Consulting Services organization, the Solutions Engineer partners closely with Enterprise Sales, Product Management, Engineering, and Delivery teams to support the customer journey from technical discovery and solution architecture through product demonstrations, Proof of Concepts (PoCs), and technical validation.</p><p>This is not a traditional pre-sales role. You will spend significant time working directly with customers, often onsite, understanding their business, technical, and regulatory requirements, designing enterprise-grade solutions, and acting as a trusted technical advisor throughout the sales cycle. You will help financial institutions understand how Blockstream's products solve complex business challenges while ensuring proposed solutions are scalable, practical, and aligned with customer needs.<br></p><p><strong>What You'll Be Doing (Responsibilities):</strong><br></p><p><strong>Customer Engagement &amp; Technical Sales</strong></p><ul><li><p>Partner with Enterprise Sales to support strategic opportunities across financial institutions.</p></li><li><p>Lead technical discovery workshops to understand customers' business, operational, regulatory, and technical requirements.</p></li><li><p>Build trusted relationships with customer stakeholders, including CIOs, CTOs, Enterprise Architects, Operations, and Engineering teams.</p></li><li><p>Deliver compelling product demonstrations, technical presentations, and solution walkthroughs.</p></li><li><p>Support Proof of Concepts (PoCs), solution validation activities, and technical evaluations.</p></li><li><p>Serve as the primary technical advisor throughout the sales process.</p></li></ul><p><strong>Solution Design &amp; Architecture</strong></p><ul><li><p>Design end-to-end solution architectures leveraging Blockstream's enterprise software products.</p></li><li><p>Translate customer requirements into scalable technical solutions and implementation approaches.</p></li><li><p>Define solution assumptions, integration approaches, deployment models, and technical dependencies.</p></li><li><p>Collaborate with customers to identify implementation risks and recommend best practices.</p></li></ul><p><strong>Commercial &amp; Deal Support</strong></p><ul><li><p>Lead or contribute to responses for RFPs, RFIs, technical questionnaires, and security assessments.</p></li><li><p>Support commercial discussions by providing technical expertise and solution positioning.</p></li><li><p>Help package Blockstream products into repeatable enterprise offerings, demonstrations, and implementation approaches.</p></li><li><p>Clearly communicate the value proposition and differentiators of Blockstream's products.</p></li></ul><p><strong>Cross-Functional Collaboration</strong></p><ul><li><p>Partner with Product Management, Engineering, Security, Delivery, and Consulting teams.</p></li><li><p>Feed customer and market feedback back to Product Management.</p></li><li><p>Help improve demos, technical collateral, reference architectures, and solution playbooks.</p></li><li><p>Contribute to repeatable implementation methodologies and sales enablement materials.<br></p></li></ul><p><strong>What We Look for In You (Required Qualifications):</strong></p><ul><li><p>5-8 years of experience in Solutions Engineering, Sales Engineering, Solution Architecture, Technical Consulting, or Enterprise Software Pre-Sales.</p></li><li><p>Experience supporting enterprise software sales within banking, financial services, fintech, or technology infrastructure environments.</p></li><li><p>Strong understanding of enterprise software architecture, APIs, integration patterns, cloud technologies, and modern software deployment models.</p></li><li><p>Experience designing end-to-end enterprise solutions for complex customer environments.</p></li><li><p>Strong presentation, communication, and storytelling skills, with the ability to explain complex technical concepts to both business and technical audiences.</p></li><li><p>Experience delivering customer workshops, technical demonstrations, and executive presentations.</p></li><li><p>Experience supporting RFPs, RFIs, technical proposals, and solution validation.</p></li><li><p>Ability to work collaboratively across Enterprise Sales, Product, Engineering, Consulting, and Delivery teams.</p></li><li><p>Self-starter with proven ability to manage multiple customer engagements while delivering a high-quality customer experience.</p></li><li><p>Willingness to travel regularly to customer locations.</p></li></ul><p><strong>Languages:</strong></p><ul><li><p>Excellent English skills required.</p></li></ul><p><strong>Location:</strong></p><ul><li><p>New York (Remote)</p></li></ul><p><strong>Nice To Haves (Preferred Qualifications):</strong></p><ul><li><p>Experience working with financial institutions, including private banking, wealth management, custody, payments, treasury, or capital markets.</p></li><li><p>Background in blockchain, Bitcoin, digital assets, tokenization, or fintech.</p></li><li><p>Knowledge of core banking platforms, financial market infrastructure, or enterprise integration technologies.</p></li><li><p>Familiarity with Layer-2 technologies and digital asset infrastructure.</p></li><li><p>Experience in enterprise software organizations serving regulated industries.</p></li><li><p>Track record of feeding customer and market feedback into product strategy.<br><br></p></li></ul>",
+    "summary": "Blockstream is seeking a Technical Solutions Consultant (Pre-Sales) to help financial institutions evaluate, design, and adopt enterprise software solutions. The role involves technical discovery, solution architecture, demonstrations, Proofs of Concept, RFP support, and serving as a trusted technical advisor while collaborating with sales, product, engineering, security, delivery, and consulting teams.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "US",
+      "addressLocality": "New York"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Presentation",
+      "Storytelling",
+      "Collaboration",
+      "Relationship Building"
+     ],
+     "primary_skills": [
+      "Solutions Engineering",
+      "Sales Engineering",
+      "Solution Architecture",
+      "Technical Consulting",
+      "Enterprise Software Pre-Sales",
+      "Enterprise Software Architecture",
+      "Application Programming Interfaces (APIs",
+      "Integration Patterns",
+      "Cloud Computing",
+      "Software Deployment"
+     ],
+     "secondary_skills": [
+      "Blockchain",
+      "Bitcoin",
+      "Digital Assets",
+      "Tokenization",
+      "Layer-2 Technologies",
+      "Digital Asset Infrastructure",
+      "Core Banking Platforms",
+      "Financial Market Infrastructure",
+      "Enterprise Integration Technologies",
+      "Product Strategy"
+     ]
+    },
+    "benefits": [],
+    "salary": null,
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 5,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software",
+     "finance_banking"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": true,
+    "travelPercentage": null,
+    "postedAt": 1790166527,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/blockstream/6022d5f3-a6df-4581-9bae-ea496d5c5027",
+    "status": "active",
+    "companies": [
+     {
+      "name": "Blockstream",
+      "website": "blockstream.com"
+     }
+    ]
+   },
+   {
+    "id": "11a61d1f-7bf4-4503-8621-2e40b2c33c40",
+    "title": "Channel Solutions Engineer",
+    "description": "<p><strong>Lumana</strong> is on a mission to empower organizations by unlocking the value of their visual data — not just record the world, but to actually understand it and extract meaningful insights. Our AI video security platform delivers unmatched visibility and control, helping customers enhance security and safety, streamline operations, and respond instantly when it matters most.</p><p>Founded in 2021, we are backed by tier-one Silicon Valley investors with deep team expertise in AI, computer vision, and machine learning. We are one of the fastest-growing video security companies and recently raised the largest Series A within our industry. We’ve built the most intelligent video security solution on the market — one that <strong>sees what matters</strong>, acts fast, and prevents what used to be inevitable.</p><p>At Lumana, teams are small, dynamic, and trusted to lead. We think big, move fast, and execute like owners — because we are. Your impact here won’t be filtered. It will be visible, lasting, and real.</p><p><strong>Role Description</strong></p><p>The <strong>Channel Solutions Engineer</strong> will help build and scale our partner enablement motion across North America. As the technical counterpart to our Channel Sales organization, you will work closely with channel partners to ensure they can confidently position, demonstrate, and recommend Lumana solutions.</p><p>This role combines technical training and certification, knowledge transfer, consultation, and deep relationship building with technical partner counterparts. The ideal candidate is equally comfortable leading a technical workshop, conducting a product demonstration, building training content, or helping a partner architect the right solution for a customer.</p><p><strong>Location &amp; Travel</strong></p><p><strong>Remote - United States</strong></p><p>This role supports strategic channel partners throughout North America and includes approximately 40% travel for partner meetings, training events, customer engagements, and industry conferences.</p><p><strong>Compensation</strong></p><p><strong>70% base / 30% variable</strong> <strong>/ $215k - $230k OTE </strong></p><p>Final compensation will depend on location, experience, skills, and role alignment. Variable compensation is subject to the applicable incentive plan.</p><p><strong>Responsibilities</strong></p><ul><li><p><strong>Partner Enablement: </strong> Deliver technical training and onboarding programs for partner sales engineers and technical teams.</p><ul><li><p>Develop scalable enablement materials, certifications, playbooks, and demo environments.</p></li><li><p>Conduct virtual and in-person workshops, lunch-and-learns, and technical training sessions.</p></li><li><p>Improve partner technical competency and confidence in positioning Lumana solutions.</p></li><li><p>Attend trade shows and events representing Lumana.</p></li></ul></li><li><p><strong>Technical Relationship Management: </strong> Build trusted relationships with partner engineers, architects, and technical decision-makers.</p><ul><li><p>Serve as the primary technical advisor for assigned channel partners.</p></li><li><p>Success means the partner’s technical counterpart has a strong, direct relationship with our Channel Partner and actively recommends Lumana to their sales team and end customers.</p></li></ul></li><li><p><strong>Partner-Focused Pre-Sales Support: </strong> Support partner-led customer opportunities throughout the sales cycle.</p><ul><li><p>Assist with discovery, solution design, architecture discussions, and product demonstrations.</p></li><li><p>Coach partner teams on delivering customer-facing technical presentations.</p></li></ul></li><li><p><strong>Cross-Functional Collaboration: </strong> Partner closely with Sales, Product, Product Marketing, Customer Success, Enablement, and Solutions Engineering.</p><ul><li><p>Provide market feedback, competitive intelligence, and product insights gathered through partner interactions.</p></li><li><p>Help shape Lumana's long-term partner enablement strategy and channel engineering framework.</p></li><li><p>Working with marketing, ensure the partner portals are the best-in-class technical resource for partners.</p></li></ul></li></ul><p><em>We don’t do cookie-cutter. If you don’t check every box but you’ve got the grit, the drive, and the track record—especially in security or AI—we encourage you to apply.</em></p><p><strong>Qualifications</strong></p><p><strong>Must Have</strong></p><ul><li><p>5+ years of experience in Solutions Engineering, Sales Engineering, Solutions Architecture, Technical Consulting, or similar customer-facing technical roles within physical security, video surveillance, cybersecurity, networking, SaaS, or infrastructure technology.</p></li><li><p>Familiarity with AI, computer vision, analytics, or video management platforms.</p></li><li><p>Experience supporting channel partners, distributors, resellers, or indirect sales motions.</p></li><li><p>Strong networking and IP infrastructure fundamentals.</p></li><li><p>Excellent presentation, communication, sales acumen, and technical storytelling skills.</p></li><li><p>Experience delivering technical training and enablement programs and understanding of sales frameworks.</p></li><li><p>Ability to simplify complex technical concepts for both technical and non-technical audiences.</p></li><li><p>Startup or high-growth company experience.</p></li><li><p>Willingness to travel as needed.</p></li></ul><p><strong>Nice To Have</strong></p><ul><li><p>Experience supporting national partners such as CDW, SHI, Insight, Presidio, WWT, or similar organizations.</p></li><li><p>Experience building partner certification or enablement programs.</p></li></ul><p><strong>✍️ Lumana Hiring Philosophy</strong></p><ul><li><p>We spend a lot of time building best-in-class products because highly differentiated products are easier to sell.</p></li><li><p>We aim to provide both product expertise and industry expertise whenever we interact with prospects and customers.</p></li><li><p>We believe small teams of exceptional people outperform large teams with average talent. We hire and compensate accordingly.</p></li><li><p>We value ownership, principled thinking, curiosity, and thoughtful communication.</p></li></ul><p><strong>Our Interview Process</strong></p><p>We keep our process focused and respectful of your time:</p><ul><li><p>A 30-minute conversation with our Talent Team</p></li><li><p>A 50-minute interview with the Global Head of Solutions Engineering</p></li><li><p>A 45-minute Technical Panel with the Peers</p></li><li><p>A Take Home Assignment</p></li><li><p>A 45-minute Presentation of a Partner Enablement Exercise</p></li><li><p>A 30-minute conversation with HR<br></p></li></ul><p>Curious who you'd be working with? <a href=\"https://www.linkedin.com/in/marcusrebelo/\"><u>Meet the Leader →</u></a></p><p><strong>✨ What We Offer - </strong> We believe great talent deserves great support. Here’s how we invest in you:</p><ul><li><p><strong>Competitive Pay:</strong> Strong base salary + variable compensation.</p></li><li><p><strong>Equity &amp; Upside:</strong> Own a piece of what you're building.</p></li><li><p><strong>Tools that Work for You:</strong> We arm our team with top-tier tech and modern sales tools—so you can focus on closing, not admin.</p></li><li><p><strong>Remote-First Flexibility:</strong> Work from where you're most effective, with teammates around the globe.</p></li><li><p><strong>Product Influence:</strong> Your voice matters—sales feedback directly shapes our roadmap.</p></li></ul><p><strong>For U.S.-Based Employees</strong></p><ul><li><p><strong>Health &amp; Wellness:</strong> Comprehensive medical, dental, and vision coverage.</p></li><li><p><strong>Time Off: </strong> 15 days PTO, paid holidays, and sick leave.</p></li><li><p><strong>Financial: </strong> 401(k) with employer match, equity in a fast-growing startup.</p></li><li><p><strong>Remote-Friendly: </strong> Flexible hybrid/remote work arrangements depending on role.</p></li><li><p><strong>Parental Leave: </strong> Paid parental leave for new parents.</p></li><li><p><strong>Work Setup:</strong> Home office stipend and top-tier equipment provided.</p></li></ul><p><em><strong>Lumana is an equal opportunity employer: </strong> We are committed to providing equal employment opportunities to all individuals regardless of race, color, ethnicity, religion, sex, gender identity, sexual orientation, national origin, disability, age, marital status, veteran status, pregnancy, or any other basis protected by law.</em></p><p><em><strong>AI-Assisted Interview Policy:</strong></em> <em>Candidates may not use AI-generated responses, real-time transcription, answer-prompting tools, virtual interview assistants, or other undisclosed assistive technologies during the interview. The interview is intended to assess each candidate’s independent experience, judgment, and communication. Unauthorized use of these tools may result in immediate dismissal from the interview process.</em></p><p><em><strong>Recruitment Fraud Alert: </strong> All Lumana hiring communications come from <strong>@</strong></em><a href=\"http://lumana.ai\"><em><strong>lumana.ai</strong></em></a><em>— we never ask for payment or personal banking info.</em></p><p><em><strong>Recruiters &amp; Agencies:</strong> Lumana does not accept unsolicited resumes from agencies without a signed agreement and will not pay related fees.</em></p>",
+    "summary": "The Channel Solutions Engineer will build and scale partner enablement across North America as the technical counterpart to Channel Sales. Responsibilities include delivering technical training and certifications, developing enablement materials, supporting partner-led sales opportunities, assisting with solution design and demonstrations, managing technical partner relationships, and collaborating cross-functionally on channel strategy.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Presentation",
+      "Communication",
+      "Relationship Building",
+      "Problem-solving",
+      "Curiosity"
+     ],
+     "primary_skills": [
+      "Solutions Engineering",
+      "Sales Engineering",
+      "Solutions Architecture",
+      "Technical Consulting",
+      "Channel Partner Enablement",
+      "Artificial Intelligence",
+      "Computer Vision",
+      "Video Management Platforms",
+      "Networking",
+      "IP Infrastructure"
+     ],
+     "secondary_skills": [
+      "Cybersecurity",
+      "SaaS",
+      "Infrastructure Technology",
+      "Partner Certification Programs",
+      "Sales Frameworks",
+      "Product Demonstration",
+      "Solution Design",
+      "Technical Training",
+      "Startup Experience",
+      "Competitive Intelligence"
+     ]
+    },
+    "benefits": [
+     "stock_options_equity",
+     "company_laptop_equipment",
+     "health_insurance",
+     "dental_insurance",
+     "vision_care",
+     "paid_time_off_vacation_personal_days",
+     "sick_leave",
+     "pensions_401k",
+     "pension_contribution_matching",
+     "remote_work_hybrid_work_options",
+     "parental_leave",
+     "other_benefits"
+    ],
+    "salary": {
+     "max": 230000,
+     "min": 215000,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 5,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": true,
+    "travelPercentage": null,
+    "postedAt": 1790122107,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/lumana/b69dc202-281a-4b99-8642-4b47197b0e9a",
+    "status": "active",
+    "companies": [
+     {
+      "name": "lumana.ai",
+      "website": "lumana.ai"
+     }
+    ]
+   },
+   {
+    "id": "bed3c8e8-1fcf-4cc5-bbad-9c6dc8c07862",
+    "title": "Senior Director, Ad Tech Solutions",
+    "description": "<h2>Company Description</h2><p>At&nbsp;<a href=\"https://www.blend360.com/?utm_source=chatgpt.com\">Blend360</a>, we help organizations transform complex data into actionable insights through modern cloud platforms, advanced analytics, and AI-driven solutions. We partner with leading enterprises across healthcare, telecommunications, financial services, and retail to build scalable, high-impact data ecosystems that drive smarter business decisions.&nbsp;</p><h2>Job Description</h2><p>Blend360 is leading a zero-to-one data monetization platform build and launch for a major US-based telecommunications company. Our team is responsible for the build, delivery, and commercialization of every aspect of the platform, from AI-driven intelligence to product development and go-to-market motions.&nbsp;</p><p>Blend360 is looking for a Senior Director, Ad Tech Solutions to serve as the technical bridge between our enterprise partners, sales teams, and the data monetization product and technical organization. This is a highly visible, customer-facing role for someone who understands the ad tech and martech ecosystem, can navigate complex enterprise conversations, and knows how to translate technical capabilities into solutions that solve real business problems.&nbsp;</p><p>You’ll be the go-to technical partner throughout the sales process—working alongside sales to understand opportunities, solution data monetization products and capabilities against client needs, and bring the right technical experts into the conversation at the right time. You’ll participate directly in enterprise partner calls, help shape solution strategy, and ensure clients have a clear understanding of what the data monetization&nbsp; platform can do, how it works, and how it can create value for their business.&nbsp;</p><p>Just as importantly, you’ll own the documentation and enablement that supports the commercial organization. From FAQs and training materials to match-test results and technical solution summaries, you’ll turn complex product and technical information into clear, useful resources that sales teams and partners can actually use. You’ll work across Product, Testing, Integrations, Identity, and other technical teams to bring the right expertise together and keep everyone aligned.&nbsp;</p><p>This is a role for a strategic, technically credible relationship builder who is equally comfortable whiteboarding a solution with an internal technical team, answering questions on an enterprise partner call, and helping a sales leader position a solution for a major opportunity.&nbsp;</p><p>What You’ll Do&nbsp;</p><ul><li><p>Serve as the primary technical liaison between enterprise client teams, Sales, and Latis product and technical experts.&nbsp;</p></li></ul><ul><li><p>Partner with Sales to understand client challenges and solution data monetization products, capabilities, and data against active sales opportunities.&nbsp;</p></li></ul><ul><li><p>Lead technical discovery and solutioning conversations with prospective and existing enterprise partners.&nbsp;</p></li></ul><ul><li><p>Participate in and support senior-level client and partner calls, providing technical expertise, answering questions, and helping move opportunities forward.&nbsp;</p></li></ul><ul><li><p>Translate complex technical capabilities into clear, partner-ready solutions, stories, and recommendations.&nbsp;</p></li></ul><ul><li><p>Coordinate across Product, Testing, Integrations, Identity, Data, and other subject-matter experts to bring the right people and capabilities into each opportunity.&nbsp;</p></li></ul><ul><li><p>Own the creation and ongoing development of sales and partner enablement materials, including FAQs, training content, technical documentation, match-test results, and solution summaries.&nbsp;</p></li></ul><ul><li><p>Help sales teams understand how to position data monetization capabilities, anticipate technical questions, and navigate enterprise client conversations.&nbsp;</p></li></ul><ul><li><p>Partner with internal teams to ensure proposed solutions are technically sound, clearly documented, and aligned with what data monetization can deliver.&nbsp;</p></li></ul><ul><li><p>Identify recurring client questions, objections, and technical needs and translate them into opportunities to improve product documentation, enablement, and the overall sales motion.&nbsp;</p></li></ul><ul><li><p>Bring structure and clarity to complex opportunities where requirements, stakeholders, and technical considerations may be evolving.&nbsp;</p></li></ul><ul><li><p>Act as a trusted technical advisor to both internal stakeholders and enterprise partners throughout the sales and solutioning lifecycle.&nbsp;</p></li></ul><h2>Qualifications</h2><ul><li><p>10+ years of relevant experience in ad tech, martech, data platforms, marketing technology, or a closely related field.&nbsp;</p></li></ul><ul><li><p>Significant experience in customer-facing technical roles, such as Solutions Engineering, Sales Engineering, Technical Consulting, Solutions Architecture, or a similar function.&nbsp;</p></li></ul><ul><li><p>Deep familiarity with the ad tech and/or martech ecosystem, including the data, identity, audience, measurement, and technology layers that support modern advertising.&nbsp;</p></li></ul><ul><li><p>The ability to take a complex technical capability and translate it into a practical solution tied to a client's business needs.&nbsp;</p></li></ul><ul><li><p>Strong enterprise presence and experience working directly with senior client and partner stakeholders.&nbsp;</p></li></ul><ul><li><p>Demonstrated ability to support complex sales opportunities, from discovery and solution design through technical validation and close.&nbsp;</p></li></ul><h2>Additional Information</h2><p>The starting pay range for this role is $230,000- $260,000. Actual compensation within the range will be dependent on several factors including but not limited to relevant experience, skills, certifications, training, and location. It is not typical for an individual to be hired at or near the top of the range and determining factors for compensation are considered for each individual circumstance. BLEND360 also offers a competitive benefits program to meet the health and financial well-being of our team and their families. You can look forward to a range of benefits including medical, dental, vision, 401K, PTO, paid holidays, commuter benefits, spending accounts, life insurance, disability coverage, and EAPs.</p>",
+    "summary": "Blend360 is seeking a Senior Director, Ad Tech Solutions to serve as the technical bridge between enterprise partners, sales teams, and data monetization product and technical organizations. The role leads technical discovery and solutioning, supports senior client conversations, translates complex ad tech capabilities into business solutions, and coordinates cross-functional experts. It also owns sales and partner enablement materials, including FAQs, training content, technical documentation, match-test results, and solution summaries.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressRegion": "Maryland",
+      "addressCountry": "US",
+      "addressLocality": "Columbia"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Relationship Building",
+      "Problem-solving",
+      "Adaptability"
+     ],
+     "primary_skills": [
+      "Ad Technology",
+      "Martech",
+      "Data Monetization",
+      "Data Platforms",
+      "Solutions Engineering",
+      "Technical Consulting",
+      "Solutions Architecture",
+      "Enterprise Sales Support",
+      "Technical Discovery",
+      "Solution Design"
+     ],
+     "secondary_skills": [
+      "Identity Resolution",
+      "Audience Measurement",
+      "Technical Validation",
+      "Sales Enablement",
+      "Technical Documentation"
+     ]
+    },
+    "benefits": [
+     "health_insurance",
+     "dental_insurance",
+     "vision_care",
+     "pensions_401k",
+     "paid_time_off_vacation_personal_days",
+     "life_insurance",
+     "disability_insurance",
+     "other_benefits"
+    ],
+    "salary": {
+     "max": 260000,
+     "min": 230000,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 10,
+    "educationRequirement": null,
+    "industry": [
+     "marketing_advertising"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790097913,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.smartrecruiters.com/Blend360/744000151099809-senior-director-ad-tech-solutions-",
+    "status": "active",
+    "companies": [
+     {
+      "name": "blend360.com",
+      "website": "blend360.com"
+     }
+    ]
+   },
+   {
+    "id": "2737cc57-3fa7-42d7-b475-cc394fd4892f",
+    "title": "Marketing Enablement Manager",
+    "description": "<h2>Company Description</h2><p>Blend&nbsp;is a premier AI services provider, committed to co-creating meaningful impact for its clients through the power of data science, AI, technology, and people. With a mission to fuel bold visions, Blend tackles significant challenges by seamlessly aligning human expertise with artificial intelligence. The company is dedicated to unlocking value and fostering innovation for its clients by harnessing world-class people and data-driven strategy. We believe that the power of people and AI can have a meaningful impact on your world, creating more fulfilling work and projects for our people and clients.</p><h2>Job Description</h2><p>Our client is seeking a highly organized, proactive, and execution-focused <strong>Marketing Enablement &amp; Project Manager</strong> to support its North American Marketing Services and Practice Development team. This role is responsible for helping bring marketing capabilities and solutions to market, developing sales enablement materials, and coordinating cross-functional projects from concept through completion.</p><p>The ideal candidate is a strong project manager and stakeholder partner who thrives in a fast-paced environment with shifting priorities and multiple concurrent initiatives. You'll work closely with internal teams to connect the dots, drive projects forward, navigate approval processes, and ensure deliverables are completed on time.</p><p>This is a highly collaborative, self-directed role that supports the broader marketing and business development organization. Success requires strong organizational skills, executive presence, excellent communication, and the ability to move seamlessly between strategic context and hands-on execution.</p><p><strong><u>The Details:</u></strong></p><ul><li>Location: Fully remote within the U.S.</li><li>Duration: Approximately a 6-month consulting role through Blend with the possibility of extension (must be able to work on Blend’s W2 without sponsorship)</li><li>Benefits:&nbsp;We do offer benefits to our full-time consultants, including Health, Vision, Dental, 401K plan, Life Insurance, Employee Assistance Programs, and an incredibly supportive team cheering you on!</li></ul><p><strong><u>What you’ll do:</u></strong></p><p><strong>Marketing Enablement &amp; Sales Support</strong></p><ul><li>Create and maintain sales enablement materials, presentations, one-pagers, training resources, and other materials that help frontline sales teams communicate marketing services, products, and capabilities.</li><li>Develop educational content that translates new offerings and complex marketing solutions into clear, compelling, and actionable messaging.</li><li>Support the creation of business development presentations, executive-level decks, and materials used to communicate value propositions and business outcomes.</li><li>Partner with internal stakeholders to prepare sales teams for new product launches, capabilities, and service offerings.</li><li>Help develop and organize training materials that enable internal teams to effectively position and sell new solutions.</li></ul><p><strong>Project &amp; Stakeholder Management</strong></p><ul><li>Own projects from initiation through completion, ensuring deliverables, timelines, and stakeholder expectations remain aligned.</li><li>Manage multiple initiatives simultaneously while navigating changing priorities and requests from leadership.</li><li>Develop project plans, coordinate milestones, track progress, and proactively identify risks, dependencies, and potential roadblocks.</li><li>Collaborate with cross-functional teams to gather information, resolve challenges, and drive projects across the finish line.</li><li>Facilitate communication and follow-up among stakeholders, ensuring accountability and momentum throughout the project lifecycle.</li><li>Take initiative to identify what needs to be done, determine the appropriate next steps, and move work forward with minimal oversight.</li></ul><p><strong>Marketing Capabilities &amp; Go-to-Market Support</strong></p><ul><li>Support the development and commercialization of new marketing capabilities, products, and service offerings.</li><li>Coordinate cross-functional activities required to bring new capabilities to market, including internal review, approval, and readiness processes.</li><li>Partner with privacy, legal, risk, and other relevant stakeholders to help navigate governance and approval requirements.</li><li>Connect the dots across teams, processes, and deliverables to support the successful launch of new marketing solutions.</li><li>Assist with the development of repeatable processes, materials, and frameworks that support broader team enablement and solution delivery.</li><li>Support marketing initiatives related to customer acquisition, engagement, retention, and lifecycle marketing.</li></ul><p><strong>Leadership Communication &amp; Business Support</strong></p><ul><li>Prepare updates, presentations, and progress reports for leadership and other internal stakeholders.</li><li>Present project updates and materials to leadership with confidence, clarity, and professionalism.</li><li>Respond effectively to ad hoc requests and shifting business needs while maintaining organization and attention to detail.</li><li>Build strong working relationships across marketing, sales, product, risk, legal, creative, analytics, and other partner teams.</li><li>Leverage AI-enabled productivity tools, such as Microsoft Copilot or similar solutions, to improve efficiency, support content development, and streamline workflows.</li></ul><h2>Qualifications</h2><p><strong>Required Qualifications</strong></p><ul><li>5+ years of experience in marketing, marketing enablement, product marketing, project management, consulting, financial services marketing, agency account management, or a related field.</li><li>Demonstrated experience managing projects from start to finish, including planning, coordination, execution, and delivery.</li><li>Strong stakeholder management skills and the ability to collaborate effectively with individuals across different teams and levels of an organization.</li><li>Experience developing high-quality PowerPoint presentations, sales enablement materials, training resources, and executive-level communications.</li><li>Strong organizational and prioritization skills, with the ability to manage multiple projects and changing priorities simultaneously.</li><li>Excellent written and verbal communication skills.</li><li>Ability to work independently, take ownership of deliverables, and proactively identify solutions to move projects forward.</li><li>Comfortable presenting to leadership and communicating project updates, recommendations, and key information with executive presence.</li><li>Strong attention to detail and the ability to translate complex information into clear, accessible materials.</li></ul><p><strong>Preferred Qualifications</strong></p><ul><li>Experience in financial services, banking, payments, fintech, or marketing technology.</li><li>Background in lifecycle marketing, customer acquisition, direct marketing, audience targeting, or campaign strategy.</li><li>Experience supporting sales enablement, product launches, go-to-market initiatives, or marketing capability development.</li><li>Familiarity with privacy, legal, compliance, risk, or governance approval processes.</li><li>Experience developing marketing strategies, business development presentations, or materials designed to support revenue growth.</li><li>Prior experience working with large financial services organizations or payments companies.</li><li>Experience using AI-powered productivity tools, including Microsoft Copilot or similar technologies, to support marketing and project execution.</li></ul><h2>Additional Information</h2><p><em>The pay range for this role is $60-65 per hour. Actual compensation within the range will be dependent on several factors including but not limited to relevant experience, skills, certifications, training, and location. It is not typical for an individual to be hired at or near the top of the range and determining factors for compensation are considered for each individual circumstance. BLEND360 also offers a competitive benefits program to meet the health and financial well-being of our team and their families. You can look forward to a range of benefits including medical, dental, vision, 401K, PTO, commuter benefits, spending accounts, life insurance, disability coverage, and EAPs.</em></p><p><strong>A diverse workforce is a strong workforce</strong><br>To deliver growth at BLEND360 and for our clients, we believe as a Talent Solutions Company, we have a responsibility and unique opportunity to positively impact the workforce. Diversity has played a critical role in our history, our growth, and continues to have a profound impact on our success.&nbsp; We are determined to have equality in the workplace, within our team and as an extension of our clients’ team.</p><p><strong>BLEND360 is an equal opportunity employer.</strong></p>",
+    "summary": "The Marketing Enablement & Project Manager supports North American marketing services and practice development by bringing marketing capabilities and solutions to market, creating sales enablement materials, and coordinating cross-functional projects. The role manages projects from initiation through completion, supports go-to-market and governance processes, prepares leadership communications, and partners with teams across marketing, sales, product, legal, risk, and analytics.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressRegion": "California",
+      "addressCountry": "US",
+      "addressLocality": "San Francisco"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Leadership",
+      "Organization",
+      "Prioritization",
+      "Attention to Detail"
+     ],
+     "primary_skills": [
+      "Marketing Enablement",
+      "Project Management",
+      "Sales Enablement",
+      "Stakeholder Management",
+      "Marketing Capability Development",
+      "Go-to-Market Strategy",
+      "PowerPoint",
+      "Executive Communication",
+      "Marketing Strategy",
+      "AI Productivity Tools"
+     ],
+     "secondary_skills": [
+      "Financial Services Marketing",
+      "Lifecycle Marketing",
+      "Customer Acquisition",
+      "Direct Marketing",
+      "Audience Targeting",
+      "Campaign Strategy",
+      "Product Launch",
+      "Privacy Governance",
+      "Legal Compliance",
+      "Risk Management"
+     ]
+    },
+    "benefits": [
+     "health_insurance",
+     "vision_care",
+     "dental_insurance",
+     "pensions_401k",
+     "life_insurance",
+     "mental_health_support",
+     "paid_time_off_vacation_personal_days",
+     "disability_insurance",
+     "other_benefits"
+    ],
+    "salary": {
+     "max": 65,
+     "min": 60,
+     "period": "hourly",
+     "currency": "USD"
+    },
+    "experienceLevel": "senior",
+    "employmentType": "contract",
+    "minYearsExperience": 5,
+    "educationRequirement": null,
+    "industry": [
+     "marketing_advertising"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790024219,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.smartrecruiters.com/Blend360/744000150785680-marketing-enablement-manager",
+    "status": "active",
+    "companies": [
+     {
+      "name": "blend360.com",
+      "website": "blend360.com"
+     }
+    ]
+   },
+   {
+    "id": "7cb0f6df-fb40-473b-9660-1d2c8b5a34ee",
+    "title": "Head of Product Marketing (senior)",
+    "description": "<h3>About the Role</h3><p>You will be the founding Head of Product Marketing, shaping how the company explains its AI and legal technology to customers. You will partner with GTM leadership, product, engineering, and sales to translate complex technology into clear value, while setting direction and coordinating external agencies to execute.</p><h3>What You'll Do</h3><ul><li><p>Develop positioning and messaging that simplify sophisticated capabilities into differentiated customer value.</p></li><li><p>Own the editorial calendar and set the strategic agenda for communications.</p></li><li><p>Define product launch narratives from problem statements to audience and proof points.</p></li><li><p>Write and edit all voice assets across web, product pages, emails, blogs, social, scripts, decks, and sales materials.</p></li><li><p>Collaborate with executives to convert their thinking into compelling content and media appearances.</p></li><li><p>Engage with customers, Sales, and Success to capture real buying language to inform marketing.</p></li><li><p>Direct video and content strategy and be comfortable presenting on camera.</p></li><li><p>Create sales enablement materials that explain products at multiple depths for different conversations.</p></li><li><p>Monitor competitors and the AI market to inform positioning.</p></li><li><p>Partner with performance marketing to optimize messaging through data-driven insights.</p></li></ul><h3>What We're Looking For</h3><ul><li><p>7+ years of relevant experience in product marketing or storytelling for AI, enterprise software, or legal tech.</p></li><li><p>Strong editorial judgment and exceptional writing ability across formats.</p></li><li><p>Background in legal or legal-adjacent domains or enterprise technology marketing.</p></li><li><p>Ability to translate complex tech into simple, credible value without oversimplifying.</p></li><li><p>Experience interviewing founders, engineers, lawyers, and customers to derive authentic language.</p></li><li><p>Comfort on camera and as a company voice; capable of moving between strategy and hands-on work.</p></li><li><p>Familiarity with AI tools and modern marketing tech; cross-functional collaboration mindset.</p></li><li><p>Background as a former lawyer or journalist in relevant domains is a plus.</p></li></ul><h3>Compensation &amp; Benefits</h3><p>Salary range: 180,000 to 225,000 USD annually. Visa sponsorship not available.</p><h3>Location</h3><p>Remote within the United States, with meaningful Eastern Time overlap and periodic travel.</p>",
+    "summary": "The founding Head of Product Marketing will shape how the company communicates its AI and legal technology to customers. Responsibilities include developing positioning and launch narratives, creating content and sales enablement materials, collaborating cross-functionally, directing video and content strategy, and using market and customer insights to optimize messaging.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Writing",
+      "Communication",
+      "Cross-functional Collaboration",
+      "Strategic Thinking",
+      "Presentation"
+     ],
+     "primary_skills": [
+      "Product Marketing",
+      "Positioning and Messaging",
+      "Product Launch",
+      "Editorial Strategy",
+      "Content Writing",
+      "Sales Enablement",
+      "Competitive Analysis",
+      "Marketing Analytics",
+      "Enterprise Software Marketing",
+      "AI Marketing"
+     ],
+     "secondary_skills": [
+      "Legal Technology",
+      "Legal Domain Knowledge",
+      "Video Content Strategy",
+      "Modern Marketing Technology",
+      "Performance Marketing",
+      "Journalism",
+      "Law"
+     ]
+    },
+    "benefits": [],
+    "salary": {
+     "max": 225000,
+     "min": 180000,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "executive",
+    "employmentType": "full_time",
+    "minYearsExperience": 7,
+    "educationRequirement": null,
+    "industry": [
+     "marketing_advertising",
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": true,
+    "travelPercentage": null,
+    "postedAt": 1790011598,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/clera/012a1f66-9e9f-47b7-b580-53f51b7e6d3e",
+    "status": "active",
+    "companies": [
+     {
+      "name": "Clera",
+      "website": "getclera.com"
+     }
+    ]
+   },
+   {
+    "id": "9b56b58d-09a8-483c-b80a-a7a435f158bd",
+    "title": "Time & Absence Program Manager (remote)",
+    "description": "<p>As a global leader in cybersecurity, CrowdStrike protects the people, processes and technologies that drive modern organizations. Since 2011, our mission hasn’t changed — we’re here to stop breaches, and we’ve redefined modern security with the world’s most advanced AI-native platform. We work on large scale distributed systems, processing almost 3 trillion events per day and this traffic is growing daily. Our customers span all industries, and they count on CrowdStrike to keep their businesses running, their communities safe and their lives moving forward. We're proud to work for a mission-driven company leveraging AI to transform the way we work. CrowdStrikers drive their careers through flexibility and autonomy while also being expected to contribute to a culture of responsible AI adoption, experimentation, and innovation. We use an AI-first mindset as a force multiplier to proactively and continuously accelerate execution, build expertise, uncover insights, and solve complex problems. We’re always looking to add talented CrowdStrikers to the team who have limitless passion, a relentless focus on innovation and a fanatical commitment to our customers, our community and each other. Ready to join a mission that matters? The future of cybersecurity starts with you.</p><br><p><b>About the Role:</b></p><p><span>We are seeking a strategic and detail-oriented Time &amp; Absence Program Manager to lead the design, implementation, and ongoing management of our global time and absence programs. This role owns the systems, policies, and processes governing time tracking, leave management, and absence <span>administration—ensuring</span> accuracy, compliance, and a seamless employee experience across all regions. The ideal candidate combines strong program management skills with deep expertise in time and attendance systems and global leave/absence regulations.</span></p><p><b><b>What You'll Do:</b></b></p><p><span>Program Strategy &amp; Ownership</span></p><ul><li><p><span>Own the strategy, roadmap, and delivery of global time and absence programs</span></p></li><li><p><span>Define program goals and success metrics&nbsp; for accuracy, compliance, and supportive employee experiences</span></p></li><li><p><span>Serve as the subject matter expert on time tracking, leave of absence, and absence management practices</span></p></li><li><p><span>Continuously evaluate and improve programs to enhance efficiency and employee experience</span></p></li></ul><p><span>Cross-Functional Collaboration</span></p><ul><li><p><span>Collaborate with HR, Benefits, and Legal on leave policy design and administration</span></p></li><li><p><span>Work with regional stakeholders to balance global standards with local requirements</span></p></li><li><p><span>Work closely with Product Manager and IT to optimize time and absence modules within Workday</span></p></li><li><p><span>Partner with Payroll to ensure&nbsp; accurate data flow between time/absence, payroll, and HR systems</span></p></li></ul><p><span>Compliance &amp; Governance</span></p><ul><li><p><span>Ensure programs comply with global, regional, and local labor laws and leave regulations (e.g., FMLA, FLSA, statutory leave entitlements, working time directives)</span></p></li><li><p><span>&nbsp;Monitor regulatory changes and update policies, processes, and configurations accordingly</span></p></li><li><p><span>Translates regulatory requirements into system and program design specifications</span></p></li></ul><p><span>Change Management &amp; Enablement</span></p><ul><li><p><span>Develop training and enablement&nbsp; materials, documentation, and communications for program implementations and enhancements</span></p></li><li><p><span>Lead change management for new system rollouts and&nbsp; policy updates</span></p></li><li><p><span>Provide guidance and support to HR teams, managers, and employees</span></p></li><li><p><span>Gather feedback to inform continuous improvement</span></p></li></ul><p><b><span>What You'll Need:</span></b></p><ul><li><p><span>Bachelor's degree in Human Resource, Business, or related field</span></p></li><li><p><span>5+ years of experience in program/project management, with 5+ years in time and absence</span></p></li><li><p><span>Proven experience utilizing AI technologies to enhance decision-making, streamline workflows and processes, improve efficiency and drive business outcomes.</span></p></li><li><p><span>Strong knowledge of Workday Time &amp; Absence modules</span></p></li><li><p><span>Solid understanding of global&nbsp; time management and leave laws and compliance requirements</span></p></li><li><p><span>Experience managing cross-functional stakeholders and complex programs</span></p></li><li><p><span>Excellent analytical, problem-solving, and communication skills</span></p></li><li><p><span>Experience managing time and absence programs across multiple global regions</span></p></li><li><p><span>Ability to manage multiple priorities in a fast-paced, global environment</span></p></li></ul><p>#LI-AI1</p><p>#LI-Remote</p><p><b>Benefits of Working at CrowdStrike:</b></p><ul><li><p>Market leader in compensation and equity awards</p></li><li><p>Comprehensive physical and mental wellness programs&nbsp;</p></li><li><p>Competitive vacation and holidays for recharge &nbsp;</p></li><li><p>Paid parental and adoption leaves</p></li><li><p>Professional development opportunities for all employees regardless of level or role</p></li><li><p>Employee Networks, geographic neighborhood groups, and volunteer opportunities to build connections</p></li><li><p>Vibrant office culture with world class amenities</p></li><li><p>Great Place to Work Certified™ across the globe</p></li></ul><p>CrowdStrike is proud to be an equal opportunity employer. We are committed to fostering a culture of belonging where everyone is valued for who they are and empowered to succeed. We support veterans and individuals with disabilities through our affirmative action program.</p><p>CrowdStrike is committed to providing equal employment opportunity for all employees and applicants for employment. The Company does not discriminate in employment opportunities or practices on the basis of race, color, creed, ethnicity, religion, sex (including pregnancy or pregnancy-related medical conditions), sexual orientation, gender identity, marital or family status, veteran status, age, national origin, ancestry, physical disability (including HIV and AIDS), mental disability, medical condition, genetic information, membership or activity in a local human rights commission, status with regard to public assistance, or any other characteristic protected by law. We base all employment decisions--including recruitment, selection, training, compensation, benefits, discipline, promotions, transfers, lay-offs, return from lay-off, terminations and social/recreational programs--on valid job requirements.</p><p>If you need assistance accessing or reviewing the information on this website or need help submitting an application for employment or requesting an accommodation, please contact us at <a href=\"mailto:recruiting@crowdstrike.com\"><span><span>recruiting@crowdstrike.com</span></span></a> for further assistance.</p><p><a href=\"http://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf\"><span>Find out more about your rights as an applicant.</span></a></p><p>CrowdStrike participates in the E-Verify program.</p><p><a href=\"https://www.e-verify.gov/sites/default/files/everify/posters/EVerifyParticipationPoster.pdf\"><span><u>Notice of E-Verify Participation</u></span></a></p><p><a href=\"https://www.e-verify.gov/sites/default/files/everify/posters/IER_RightToWorkPoster%20Eng_Es.pdf\"><span>Right to Work</span></a></p>CrowdStrike, Inc. is committed to fair and equitable compensation practices. Placement within the pay range is dependent on a variety of factors including, but not limited to, relevant work experience, skills, certifications, job level, supervisory status, and location. The base salary range for this position for all U.S. candidates is $110,000 - $160,000 per year, with eligibility for bonuses, equity grants and a comprehensive benefits package that includes health insurance, 401k and paid time off.<p><span>For detailed information about the U.S. benefits package, please </span><a href=\"http://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/page/a78c53e64ec61001f47d48a4699e0000\">click here</a><span>.&nbsp;</span></p>Expected Close Date of Job Posting is:11-21-2026",
+    "summary": "CrowdStrike is seeking a Time & Absence Program Manager to own the strategy, implementation, compliance, and continuous improvement of global time tracking, leave management, and absence programs. The role partners with HR, Benefits, Legal, Payroll, Product, IT, and regional stakeholders while managing Workday Time & Absence modules, regulatory compliance, change management, and employee enablement.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressRegion": "California",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Problem-solving",
+      "Analytical Thinking",
+      "Adaptability"
+     ],
+     "primary_skills": [
+      "Program Management",
+      "Project Management",
+      "Time and Attendance Systems",
+      "Workday Time and Absence",
+      "Global Leave Management",
+      "Absence Management",
+      "Labor Law Compliance",
+      "Change Management",
+      "Cross-Functional Stakeholder Management",
+      "AI Technologies"
+     ],
+     "secondary_skills": [
+      "Payroll Systems Integration",
+      "HR Systems",
+      "Training Development",
+      "Employee Enablement",
+      "Regulatory Monitoring"
+     ]
+    },
+    "benefits": [
+     "stock_options_equity",
+     "wellness_program",
+     "paid_time_off_vacation_personal_days",
+     "parental_leave",
+     "professional_development",
+     "performance_bonuses",
+     "health_insurance",
+     "pensions_401k"
+    ],
+    "salary": {
+     "max": 160000,
+     "min": 110000,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 5,
+    "educationRequirement": {
+     "required": [
+      "bachelor_degree"
+     ],
+     "preferred": []
+    },
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1789948800,
+    "expiresAt": 1795305599,
+    "applyUrl": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Time---Absence-Program-Manager--Remote-_R30012-1",
+    "status": "active",
+    "companies": [
+     {
+      "name": "crowdstrike.com",
+      "website": "crowdstrike.com"
+     }
+    ]
+   }
+  ],
+  "meta": {
+   "count": 10,
+   "hasMore": false,
+   "requestTimeMs": 266,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

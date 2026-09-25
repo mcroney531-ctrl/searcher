@@ -1,0 +1,151 @@
+{
+ "call_id": "sem_09_descq_A",
+ "phase": "semantics",
+ "url": "https://api.jobven.com/v1/public/jobs?descriptionQuery=curriculum+development&country=US&remoteType%5B%5D=remote&postedAfter=1789701404&limit=1&includeTotal=true",
+ "params": [
+  [
+   "descriptionQuery",
+   "curriculum development"
+  ],
+  [
+   "country",
+   "US"
+  ],
+  [
+   "remoteType[]",
+   "remote"
+  ],
+  [
+   "postedAfter",
+   1789701404
+  ],
+  [
+   "limit",
+   1
+  ],
+  [
+   "includeTotal",
+   "true"
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:16:59 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "transfer-encoding": "chunked",
+  "connection": "close",
+  "server": "cloudflare",
+  "vary": "Accept-Encoding",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "22ee08c8-5da6-4299-949c-42f2c02d5c6b",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2494",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "561",
+  "etag": "W/\"3358-BUFXHTDvCi8BQgBhKI54nLqf4lw\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=hwEumm0K2xpVhrSNgHJ0gLfled3T9ccxT02tLKZEcvUECEMdKeIj5AwC%2FtXzd%2Bkep5t8Gv%2Bmvo5Y6AYN0Z6EwB2el2csJCx0uZP5o2i8LpIxL2q5RmoYCbzEeSt5MPhvtgKl0dFbDaLofhuFhg%3D%3D\"}]}",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "cf-ray": "a406df8aee7f151b-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "id": "4fa3daf7-fb75-45d3-b0b3-a91b3e434f89",
+    "title": "Clinical Quality Specialist",
+    "description": "<p>Join the dynamic journey at Vynca, where we're passionate about transforming care for individuals with complex needs.<br><br>We’re more than just a team; we're a close-knit community. Our shared commitment to caring for each other and those we serve is what sets us apart. Guided by our unwavering core values: Excellence, Compassion, Curiosity, and Integrity, we forge paths of success together. Join us in this transformative movement where you can contribute to making a profound difference every day.<br><br>At Vynca, our mission is to provide comprehensive care for more quality days at home.</p><p><strong>About the Job</strong><br>The Clinical Quality Specialist for the Enhanced Care Management (ECM) program is a newly created role supporting all aspects of ECM quality. This position conducts internal chart audits across Vynca’s contracted health plans, provides clinical oversight of care management documentation, and translates audit findings into operational and educational improvement in partnership with ECM Operations and the Training and Development team. The role requires active clinical licensure and combines independent chart review with cross-functional collaboration, and flexes into training delivery as program needs require. This is a highly visible position that directly supports audit readiness for health plan and regulatory review while advancing internal standards beyond what any single plan measures.</p><p><em>At this time we are only considering applicants in the following states: California, Arizona, Colorado, Florida, Georgia, Illinois, Nevada, North Carolina, Oregon, Texas, Utah and Washington.</em></p><p><br></p><p><strong>What you'll do</strong></p><p><em>Internal Auditing and Monitoring</em></p><ul><li><p>Conduct internal chart audits of Lead Care Managers across contracted health plans, applying each plan’s own audit criteria alongside Vynca internal quality standards.</p></li><li><p>Maintain audit cadence in accordance with the ECM Internal Audit Cadence Stanard Operation Procedure, including elevated cadence for new hires and staff on performance improvement plans.</p></li><li><p>Select audit samples according to defined chart composition requirements, including discharge and enrollment mix and minimum enrollment tenure.</p></li><li><p>Document findings objectively with supporting evidence locations so internal audit records can be used to respond to health plan documentation requests.</p></li><li><p>Analyze results at the criterion, category, Lead Care Manager, and health plan level to identify trends, areas of opportunity, and emerging risk.</p></li><li><p>Participate in inter-rater calibration exercises to confirm scoring consistency across auditors.</p></li><li><p>Support audit readiness for health plan and regulatory audits, including self-audit submissions and corrective action plan (CAP) responses.</p></li><li><p>Maintain the master audit record and reporting surfaces used for monthly and quarterly quality review.</p></li></ul><p><em>Secondary Clinical Review and Clinical Oversight</em></p><ul><li><p>Provide secondary clinical review of comprehensive assessments, care management plans, and transitional care documentation for clinical appropriateness, completeness, and defensibility, in addition to the oversight provided by Clinical Managers.</p></li><li><p>Provide clinical oversight as needed, including coverage and escalation support where Clinical Manager oversight is unavailable or additional clinical review is warranted.</p></li><li><p>Serve as a clinical resource to Lead Care Managers on complex member scenarios, escalation pathways, and documentation of clinical decision-making.</p></li><li><p>Support interdisciplinary and multidisciplinary care team activity, including documentation of clinical oversight requirements.</p></li><li><p>Review clinical content within training materials, assessments, and job aids for accuracy and alignment with scope of practice.</p></li><li><p>Escalate identified clinical risk, member safety concerns, or quality-of-care issues through appropriate channels.</p></li></ul><p><em>Cross-Functional Collaboration</em></p><ul><li><p>Partner with ECM Operations leadership to translate audit findings into workflow change, documentation standards, and targeted remediation.</p></li><li><p>Collaborate with Clinical and Program Managers on performance improvement plans, including audit-based evidence, progress monitoring, and tier and titration decisions.</p></li><li><p>Partner with Training and Development Specialists to convert identified gaps into curriculum updates, education huddle content, and remediation training.</p></li><li><p>Support the Compliance department on ECM audit readiness, regulatory monitoring, and quality assurance and performance improvement (QAPI) activities.</p></li><li><p>Communicate results, trends, and at-risk staff to Clinical and Program Managers and to Directors.</p></li></ul><p><em>Training and Education Support</em></p><ul><li><p>Flex into training delivery as program needs require, including onboarding, ongoing education, and post-remediation reinforcement for Lead Care Managers.</p></li><li><p>Develop and deliver audit-related education, including criteria walkthroughs, documentation standards, and findings review sessions.</p></li><li><p>Contribute to the design and maintenance of knowledge checks, test-out assessments, and competency validation tools.</p></li><li><p>Support preceptor and shadowing activities as a clinical subject matter resource.</p></li></ul><p><em>General Duties</em></p><ul><li><p>Maintain organized, audit-ready documentation of all internal quality activities.</p></li><li><p>Monitor CalAIM policy changes, Department of Health Care Services (DHCS) guidance, and health plan criteria updates, and assess their impact on audit tools and documentation standards.</p></li><li><p>Support the build and maintenance of plan-specific audit tools as health plan contracts are added or criteria change.</p></li><li><p>Support ad-hoc quality initiatives, policy development, and special projects as assigned.</p></li></ul><p><strong>Your experience and qualifications</strong></p><ul><li><p>Bachelor’s degree required. Master’s in Nursing, Social Work, Public Health, or Health Care Administration preferred.</p></li><li><p>Active, unrestricted California clinical licensure required (RN, LCSW, LMFT, LPCC, or equivalent), or the ability to obtain California licensure within the first six months of employment.</p></li><li><p>5+ years of experience in care management, case management, or direct clinical practice.</p></li><li><p>1+ years of experience in quality auditing, chart review, utilization review, or quality assurance and performance improvement (QAPI) activities.</p></li><li><p>Previous experience with documentation integrity, including review of clinical documentation for accuracy, completeness, timeliness, and defensibility under audit.</p></li><li><p>Willing and able to work Monday through Friday 8:30am to 5pm Pacific Time.</p></li><li><p>Experience working with Medi-Cal populations, ECM, or CalAIM programs is highly desirable.</p></li><li><p>Working knowledge of clinical documentation standards, care plan development, and transitional care requirements.</p></li><li><p>Strong analytical skills with the ability to identify patterns across data and translate findings into actionable recommendations.</p></li><li><p>Exceptional written communication skills, particularly for documenting audit findings objectively and defensibly.</p></li><li><p>Ability to deliver difficult feedback constructively while maintaining professional credibility with clinical staff.</p></li><li><p>Proficiency with Google Suite, electronic health records, and virtual collaboration platforms (e.g., Zoom, Microsoft Teams).</p></li><li><p>Highly organized with the ability to manage multiple priorities and competing deadlines within a dynamic setting.</p></li><li><p>Cultural competence and the ability to interact effectively with diverse populations.</p></li></ul><p><em>Preferred Qualifications</em></p><ul><li><p>Bilingual proficiency in English and Spanish.</p></li><li><p>Familiarity with the CalAIM initiative, Enhanced Care Management, and community-based care models.</p></li><li><p>Experience conducting or responding to health plan delegation audits, including corrective action plans.</p></li><li><p>Certification in healthcare quality (CPHQ) or healthcare compliance (CHC).</p></li><li><p>Experience with training delivery, curriculum development, or adult learning principles.</p></li><li><p>Experience with trauma-informed care, motivational interviewing, or other relevant therapeutic approaches.</p></li><li><p>Advanced spreadsheet skills, including formula-driven tracking and reporting tools.</p></li></ul><h2><strong>Additional Information</strong></h2><ul><li><p>The hiring process for this role may consist of applying, followed by a phone screen, online assessment(s), interview(s), an offer, and background/reference checks.</p></li><li><p>Background Screening: A background check, which may include a drug test or other health screenings depending on the role, will be required prior to employment.</p></li><li><p>Job Description Scope: This job description is not exhaustive and may include additional activities, duties, and responsibilities not listed herein.</p></li><li><p>Vaccination Requirement: Employees in patient, client, or customer-facing roles must be vaccinated against influenza. Requests for religious or medical accommodations will be considered but may not always be approved.</p></li><li><p>Employment Eligibility: Compliance with federal law requires identity and work eligibility verification using E-Verify upon hire.</p></li><li><p>Equal Opportunity Employer: At Vynca Inc., we embrace diversity and are committed to fostering an inclusive workplace. We value all applicants regardless of race, color, religion, age, national origin, ancestry, ethnicity, gender, gender identity, gender expression, sexual orientation, marital status, veteran status, disability, genetic information, citizenship status, or membership in any other protected group under federal, state, or local law.</p></li><li><p>Environmental Conditions and Physical Requirements: Works with Vynca patients/clients remotely and/or in-person. Successfully performs the essential duties and responsibilities of the position through the use of physical activities as described below:</p><ul><li><p>Regularly requires sitting, standing, walking, talking, use of hands, listening, and observing.</p></li><li><p>Regularly requires working at a computer for an entire shift (with appropriate breaks).</p></li><li><p>Regularly requires use of laptop and video-conferencing technology.</p></li><li><p>Occasionally requires reaching, stooping, bending, kneeling, and lifting items weighing 25 pounds or less.</p></li><li><p>Occasional travel may be required to perform job duties, attend training, or company events.</p></li></ul></li></ul>",
+    "summary": "The Clinical Quality Specialist supports Vynca’s Enhanced Care Management program through internal chart audits, clinical documentation review, and oversight of care management quality. The role analyzes audit findings and partners with operations, clinical leadership, compliance, and training teams to improve workflows, documentation, education, and audit readiness.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Analytical Skills",
+      "Written Communication",
+      "Organization",
+      "Cultural Competence",
+      "Constructive Feedback"
+     ],
+     "primary_skills": [
+      "Clinical Quality Auditing",
+      "Chart Review",
+      "Clinical Documentation",
+      "Care Management",
+      "Clinical Oversight",
+      "Quality Assurance and Performance Improvement",
+      "Clinical Documentation Standards",
+      "Care Plan Development",
+      "Transitional Care",
+      "Google Workspace"
+     ],
+     "secondary_skills": [
+      "Enhanced Care Management",
+      "CalAIM",
+      "Medi-Cal",
+      "Electronic Health Records",
+      "Zoom",
+      "Microsoft Teams",
+      "Healthcare Quality Certification",
+      "Healthcare Compliance Certification",
+      "Curriculum Development",
+      "Motivational Interviewing"
+     ]
+    },
+    "benefits": [],
+    "salary": null,
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 5,
+    "educationRequirement": {
+     "required": [
+      "bachelor_degree",
+      "professional_certificate"
+     ],
+     "preferred": [
+      "master_degree"
+     ]
+    },
+    "industry": [
+     "healthcare_medical"
+    ],
+    "inLanguage": [
+     "en",
+     "es"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": true,
+    "travelPercentage": null,
+    "postedAt": 1790282569,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/vynca/c7231593-dbc9-4159-b5c1-9f289baa3ad3",
+    "status": "active",
+    "companies": [
+     {
+      "name": "vyncacare.com",
+      "website": "vyncacare.com"
+     }
+    ]
+   }
+  ],
+  "meta": {
+   "total": 4,
+   "count": 1,
+   "nextCursor": "eyJpZCI6IjRmYTNkYWY3LWZiNzUtNDVkMy1iMGIzLWE5MWIzZTQzNGY4OSIsInNvcnRWYWx1ZSI6MTc5MDI4MjU2OSwidGllQnJlYWtlciI6IjIwMjYtMDktMjRUMjI6MjQ6MTYuMjQ5WiJ9",
+   "hasMore": true,
+   "requestTimeMs": 559,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

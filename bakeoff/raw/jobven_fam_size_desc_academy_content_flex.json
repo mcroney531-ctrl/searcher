@@ -1,0 +1,141 @@
+{
+ "call_id": "fam_size_desc_academy_content_flex",
+ "phase": "family",
+ "url": "https://api.jobven.com/v1/public/jobs?q=-%22account+executive%22+-%22account+manager%22+-%22sales+representative%22+-%22sales+manager%22+-%22customer+service+representative%22+-%22help+desk%22+-%22customer+success+manager%22+-%22support+specialist%22&descriptionQuery=academy+content&country=US&remoteType%5B%5D=remote&remoteType%5B%5D=flexible&postedAfter=1789702200&limit=1&includeTotal=true",
+ "params": [
+  [
+   "q",
+   "-\"account executive\" -\"account manager\" -\"sales representative\" -\"sales manager\" -\"customer service representative\" -\"help desk\" -\"customer success manager\" -\"support specialist\""
+  ],
+  [
+   "descriptionQuery",
+   "academy content"
+  ],
+  [
+   "country",
+   "US"
+  ],
+  [
+   "remoteType[]",
+   "remote"
+  ],
+  [
+   "remoteType[]",
+   "flexible"
+  ],
+  [
+   "postedAfter",
+   1789702200
+  ],
+  [
+   "limit",
+   1
+  ],
+  [
+   "includeTotal",
+   "true"
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:28:48 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "transfer-encoding": "chunked",
+  "connection": "close",
+  "server": "cloudflare",
+  "vary": "Accept-Encoding",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "e9d84bfc-9eed-4a52-917b-e5f147bcb845",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2305",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "693",
+  "etag": "W/\"233d-cnKRd6BVlhDrM2u4OyZL61N6Odo\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=blL5%2BcGDCVGCRV0%2FoM2QvlLcieXG%2BmGu54f0BoZD26JAEBNjP8jXOG%2BYcpGkS8klrCwOOEK07pnb63kUHU9K4RlKbGMkgUIIskTWhweDh4HpYc3LZZNr%2FYOTKK%2B5NyNwd60lGXU%2BcF9oulKP0w%3D%3D\"}]}",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "cf-ray": "a406f0dd390357b0-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "id": "fe982a40-84f4-45f1-b735-fee76d82de5d",
+    "title": "Customer Education Specialist",
+    "description": "<p>We are building AI to simulate the world through merging art and science.<br><br>We believe that world models are at the frontier of progress in artificial intelligence. Language models alone won’t solve the world’s hardest problems – robotics, disease, scientific discovery. Real progress requires models that experience the world and learn from their mistakes, the same way that humans do. And this kind of trial and error can be massively accelerated when done in simulation, rather than in the real world.<br><br>World models offer the most clear path to general-purpose simulation, changing how stories are told, how scientific progress is made and how the next frontiers of humanity are reached.</p><p>Our team consists of creative, open minded, caring and ambitious people who are determined to change the world. We aspire to continuously build impossible things and our ability to do so relies on building an incredible team. If you are driven to do the same, we'd love to hear from you.</p><h2>About the role</h2><p>*<em>Open to hiring remote across the US — we also have offices in NYC, San Francisco, and Seattle</em></p><p>Runway is growing fast, and so is the surface area of what users need to learn. We're looking for an Education Content Specialist to keep our Help Center accurate, our Academy content well-produced, and our users set up for success from day one.</p><p>You'll sit within the Experience &amp; Enterprise Enablement team, working closely with the Education &amp; Enablement lead to execute against a content roadmap that spans written documentation, video scripts, and self-service resources. Every feature launch will have your fingerprints on it. You're the person who makes sure users don't have to guess.</p><h2>What you’ll do</h2><ul><li><p>Write, update, and maintain Help Center articles across product features, billing, policies, and troubleshooting — keeping documentation accurate as the product moves fast</p></li><li><p>Coordinate with engineering and product at launch time to ensure articles are live before features ship</p></li><li><p>Audit existing Help Center content for accuracy and discoverability; surface recommendations based on support ticket trends and user feedback</p></li><li><p>Create and maintain self-service content — FAQs, quick-start guides, troubleshooting flows — that reduces ticket volume and helps users help themselves</p></li><li><p>Draft scripts for Runway Academy video tutorials, walkthroughs, and course modules</p></li><li><p>Support production of Academy content: create supporting assets, prepare materials for recording, and help get finished content published and organized</p></li><li><p>Build and maintain a library of templates, prompt guides, and project starters across Runway's tools</p></li><li><p>Support production and publishing of office hours, webinars, and live Q&amp;A sessions</p></li><li><p>Keep Help Center documentation and Academy content consistent and cross-referenced</p></li><li><p>Track the performance of content you've produced — article engagement, search deflection, CSAT — and flag gaps to the Education &amp; Enablement lead</p></li><li><p>Work with legal to ensure usage policies and terms are accurately reflected in customer-facing content</p></li></ul><h2>What you’ll need</h2><ul><li><p>2-3 years of experience in technical writing, documentation, education content, or a similar role at a software or SaaS company</p></li><li><p>Ability to translate complex product features into clear, user-friendly language — across articles, scripts, and guides</p></li><li><p>Experience shipping documentation on tight timelines with cross-functional dependencies</p></li><li><p>Comfort with help center platforms (Zendesk, Intercom, or similar) and content management systems</p></li><li><p>Familiarity with video content production and an instinct for how to structure and pace educational content</p></li><li><p>Strong editorial judgment — you catch inconsistencies before they go live</p></li><li><p>Organized and autonomous working style; you can manage a documentation backlog while staying responsive to urgent launch needs</p></li><li><p>A bias toward action and a belief that no task is too small</p></li><li><p>Familiarity building with LLMs to streamline and automate processes</p></li></ul><h2><strong>Nice to have</strong></h2><ul><li><p>Experience with AI or creative tools — with genuine curiosity about how they work</p></li><li><p>Background in or passion for the creative space — video, design, animation, or related fields</p></li><li><p>Experience using support data (ticket volume, search queries, CSAT, completion rates) to prioritize content work</p></li></ul><p>Runway strives to recruit and retain exceptional talent from diverse backgrounds while ensuring pay equity for our team. Our salary ranges are based on competitive market rates for our size, stage and industry, and salary is just one part of the overall compensation package we provide.</p><p>There are many factors that go into salary determinations, including relevant experience, skill level and qualifications assessed during the interview process, and maintaining internal equity with peers on the team. The range shared below is a general expectation for the function as posted, but we are also open to considering candidates who may be more or less experienced than outlined in the job description. In this case, we will communicate any updates in the expected salary range.</p><p>Lastly, the provided range is the expected salary for candidates in the U.S. Outside of those regions, there may be a change in the range, which again, will be communicated to candidates.</p><h3><strong>Working at Runway</strong></h3><p><a href=\"https://www.youtube.com/watch?v=kwmj4ato2kw&amp;ab_channel=Runway\"><strong>Great things come from great teams.</strong></a><strong> We’d love to hear from you.</strong></p><p>We’re committed to creating a space where our employees can bring their full selves to work and have equal opportunity to succeed. So regardless of race, gender identity or expression, sexual orientation, religion, origin, ability, age, veteran status, if joining this mission speaks to you, we encourage you to apply.</p><p><u>More about Runway</u></p><ul><li><p><a href=\"https://runwayml.com/world-simulator.html\">Universal World Simulator</a></p></li><li><p><a href=\"https://runwayml.com/research/introducing-runway-gwm-1\">GWM-1</a></p></li><li><p><a href=\"https://runwayml.com/research/introducing-runway-gen-4.5\">Gen-4.5</a></p></li><li><p><a href=\"https://runwayml.com/research/introducing-general-world-models\">General World Models</a></p></li><li><p><a href=\"https://runwayml.com/research/introducing-runway-gwm-1#robotics-section\">Robotics SDK</a></p></li><li><p><a href=\"https://runwayml.com/research/introducing-runway-gwm-1#avatars-section\">Conversational Real-time Agents</a></p></li><li><p><a href=\"https://runwayml.com/studios\">Runway Studios</a></p></li></ul><p>We're excited to be recognized as a best place to work:</p><p><a href=\"https://www.crainsnewyork.com/awards/best-places-work-2023\">Crain's</a> | <a href=\"https://www.inhersight.com/companies/best/city/new-york-city-ny\">InHerSight</a> | <a href=\"https://builtin.com/awards/new-york-city/2024/best-places-to-work\">BuiltIn NYC</a> | <a href=\"https://www.inc.com/best-workplaces/2024\">INC</a></p>",
+    "summary": "The Customer Education Specialist creates and maintains Help Center documentation, self-service resources, and Runway Academy materials, including video scripts and tutorials. The role coordinates content launches with product and engineering teams, tracks content performance, and ensures customer-facing usage policies and terms are accurate.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Organization",
+      "Autonomy",
+      "Attention to Detail",
+      "Initiative"
+     ],
+     "primary_skills": [
+      "Technical Writing",
+      "Content Development",
+      "Help Center Platforms",
+      "Content Management Systems",
+      "Video Content Production",
+      "Cross-Functional Collaboration",
+      "Content Performance Analysis",
+      "Legal Content Review",
+      "Large Language Models"
+     ],
+     "secondary_skills": [
+      "Artificial Intelligence",
+      "Creative Tools",
+      "Support Data Analysis"
+     ]
+    },
+    "benefits": [],
+    "salary": null,
+    "experienceLevel": "entry",
+    "employmentType": "full_time",
+    "minYearsExperience": 2,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790226419,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/runway-ml/4f8e18a4-0f26-4b28-a44d-3ba1afaada74",
+    "status": "active",
+    "companies": [
+     {
+      "name": "Runway",
+      "website": "runwayml.com"
+     }
+    ]
+   }
+  ],
+  "meta": {
+   "total": 1,
+   "count": 1,
+   "hasMore": false,
+   "requestTimeMs": 692,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

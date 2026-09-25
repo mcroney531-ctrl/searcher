@@ -1,0 +1,58 @@
+{
+ "call_id": "rec_851964581_title",
+ "phase": "recall",
+ "url": "https://api.jobven.com/v1/public/jobs?q=%22Clinical+Instructional+Designer%22&country=US&postedAfter=1788220800&limit=10",
+ "params": [
+  [
+   "q",
+   "\"Clinical Instructional Designer\""
+  ],
+  [
+   "country",
+   "US"
+  ],
+  [
+   "postedAfter",
+   1788220800
+  ],
+  [
+   "limit",
+   10
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:23:04 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "107",
+  "connection": "close",
+  "server": "cloudflare",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "bca62ac0-9d06-4c6a-ab4e-42b04a0e92e9",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2443",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "7",
+  "etag": "W/\"6b-sjphuIqUCm9o9tNOT6SN4cvxWnc\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=mu159RZixG1Vye6Xc1TEjva8iz7J9Jf1NH9xCFKxhHnuSLizNbuySlMmqPIpwvQSwaJL4qrWjUmZdqh0j0Lv0L5ET0mxlGzBZ41eM7QcOa%2BJxQUDgKSjr%2FSTSVYlAafmidL7wJoGUNZNTmsxtg%3D%3D\"}]}",
+  "cf-ray": "a406e87b19fc43ee-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [],
+  "meta": {
+   "count": 0,
+   "hasMore": false,
+   "requestTimeMs": 6,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

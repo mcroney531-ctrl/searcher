@@ -1,0 +1,216 @@
+{
+ "call_id": "fam_title_technical_content_p0",
+ "phase": "family",
+ "url": "https://api.jobven.com/v1/public/jobs?q=%22technical+content%22+OR+%22technical+writer%22+OR+%22developer+education%22+OR+%22documentation+lead%22+OR+%22content+engineer%22&country=US&remoteType%5B%5D=remote&postedAfter=1789702200&limit=25",
+ "params": [
+  [
+   "q",
+   "\"technical content\" OR \"technical writer\" OR \"developer education\" OR \"documentation lead\" OR \"content engineer\""
+  ],
+  [
+   "country",
+   "US"
+  ],
+  [
+   "remoteType[]",
+   "remote"
+  ],
+  [
+   "postedAfter",
+   1789702200
+  ],
+  [
+   "limit",
+   25
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:26:49 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "transfer-encoding": "chunked",
+  "connection": "close",
+  "server": "cloudflare",
+  "vary": "Accept-Encoding",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "a6b78589-3b44-4c65-a745-7bb868ddad74",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2382",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "26",
+  "etag": "W/\"3e3c-Y64SymFTnsDupZEKeNaLyhkveL8\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=ikAriLytsT2ukax3E76f32BeOhVCp5Y9rSlDMqDrQy3LqtGa%2BVf7ihPwG2cP59LeBhYGAtY5LutxFeBxa6xYCyI%2FhUTrfEmuWqou8m%2FUIoW8HJF619QKbLOhr0K9BgijiY%2Fsf%2F33kHeD2wfiHg%3D%3D\"}]}",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "cf-ray": "a406edf769a29f3b-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "id": "c6643f0a-c2b5-4284-a752-2b0abafbac65",
+    "title": "Technical Content Writer (contract)",
+    "description": "<h1><strong>About AfterQuery</strong></h1><p><a href=\"https://www.afterquery.com/\"><u>AfterQuery</u></a> is an applied research lab curating data solutions for foundation model development. We serve every frontier AI lab with the mission of delivering the best data to power the best models. In doing so, we can make expertise that once took a lifetime to build available to anyone who needs it.</p><p>Our customers are the ones building the foundation models themselves and our work sits directly in the loop of how those systems improve. This is a rare opportunity to join a company at a defining moment in AI. Forbes reported that we could be YC's fastest unicorn, reportedly raising at a $3.2 billion valuation. We're based in San Francisco and backed by leading investors including Altos Ventures, BoxGroup, and Y Combinator and angels from Google DeepMind, OpenAI, Anthropic, Meta Superintelligence Labs, and Microsoft AI.</p><h1>Why Apply</h1><p><strong>Massive Opportunity:</strong> Forbes reported that we could be YC's fastest unicorn, reportedly raising at a $3.2 billion valuation, and we're not slowing down.</p><p><strong>Founding Impact:</strong> You will own and architect core infrastructure systems that power our platform from the ground up.</p><p><strong>Equity &amp; Growth:</strong> Competitive salary and meaningful equity. As we scale, you’ll have the opportunity to shape the engineering organization and lead major technical initiatives.</p><p><strong>Strong Team:</strong> Our founding team has experience from Citadel Securities, Meta, Google, Silver Lake, and Morgan Stanley — work alongside world-class engineers and researchers.</p><p><strong>Technical Content Writer (Contract)</strong></p><p><strong>Location:</strong> Remote, US-based</p><p><strong>Commitment:</strong> Approximately 10–15 hours per week to start, with potential to expand based on content needs. Weekly deliverables will be prioritized together across social media, blog posts, and other public-facing content.</p><p><strong>Compensation:</strong> $60/hour</p><p><strong>Contract:</strong> Six-month contract</p><h1>Overview</h1><p>We’re looking for a contract Technical Content Writer to help shape AfterQuery’s voice across our public-facing written content. You’ll communicate our work as a research lab curating human data for AI through social media, founder content, blog articles, and other company communications.</p><p>You’ll work closely with our marketing team, founders, and researchers to turn ideas, technical developments, and company updates into clear, compelling writing. This role spans technical and non-technical content, with audiences ranging from AI researchers and top labs to experts and prospective hires.</p><h1>Responsibilities</h1><ul><li><p>Write and adapt content for AfterQuery’s brand and founder social media accounts, including X and LinkedIn, maintaining a distinct and consistent voice for each</p></li><li><p>Develop technical and non-technical blog posts covering research, industry perspectives, company updates, and stories from our team and expert community</p></li><li><p>Turn research papers, technical findings, and conversations with subject-matter experts into accurate, accessible content</p></li><li><p>Draft founder thought leadership, hiring posts, announcements, and other public-facing written materials</p></li><li><p>Collaborate with internal stakeholders to gather input, refine messaging, and incorporate feedback</p></li><li><p>Repurpose ideas across channels, adapting the tone, depth, and format to each audience</p></li><li><p>Verify claims and sources, maintain editorial quality, and manage agreed content priorities and deadlines</p></li></ul><h1>Required Qualifications</h1><ul><li><p>Experience writing content for an AI, software, data infrastructure, or other technical organization</p></li><li><p>Working understanding of AI and machine learning, with the ability to research unfamiliar topics and explain technical concepts accurately</p></li><li><p>Strong writing and editing skills across social media, long-form articles, and company communications</p></li><li><p>Ability to adapt between founder, brand, and contributor voices and write for both technical and non-technical audiences</p></li><li><p>A portfolio demonstrating clear thinking, strong storytelling, and attention to detail</p></li><li><p>Ability to turn briefs, conversations, and source material into polished drafts while managing a part-time workload independently</p></li></ul><h1>Preferred Qualifications</h1><ul><li><p>Experience writing about foundation models, training data, human feedback, or model evaluation</p></li><li><p>Experience ghostwriting for founders, executives, or technical experts</p></li><li><p>Background working with researchers, engineers, or early-stage startup teams</p></li></ul><h2>Company Benefits (For Eligible Employees):</h2><ul><li><p>Health Insurance: Medical, Vision, Dental</p></li><li><p>401(k) with Employer Match</p></li><li><p>Daily Meals: Daily UberEats Stipend</p></li><li><p>Monthly Wellness Stipend</p></li><li><p>Commute Covered</p></li></ul><p>We are an equal opportunity employer committed to providing a workplace free from discrimination and harassment. Employment decisions are made without regard to legally protected characteristics under applicable federal, state, or local law.</p><p>We comply with applicable pay transparency requirements and provide compensation ranges based on the position, qualifications, experience, and other relevant factors. Reasonable accommodations are available to qualified individuals with disabilities and for sincerely held religious beliefs, as required by law. This job description is intended to describe the general nature and level of work performed and is not an exhaustive list of all duties, responsibilities, qualifications, or working conditions associated with the position. We reserve the right to modify this job description as business needs change.</p>",
+    "summary": "AfterQuery is seeking a contract Technical Content Writer to create and adapt public-facing content across social media, blog posts, founder communications, and company materials. The role involves translating research and technical developments into accurate, accessible writing, collaborating with founders, researchers, and marketing stakeholders, and managing editorial priorities independently on a part-time basis.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Adaptability",
+      "Attention to Detail",
+      "Independent Work",
+      "Collaboration"
+     ],
+     "primary_skills": [
+      "Technical Writing",
+      "Content Writing",
+      "Content Editing",
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Social Media Writing",
+      "Blog Writing",
+      "Technical Research",
+      "Source Verification",
+      "Content Repurposing"
+     ],
+     "secondary_skills": [
+      "Foundation Models",
+      "Training Data",
+      "Human Feedback",
+      "Model Evaluation",
+      "Ghostwriting",
+      "Thought Leadership",
+      "Long-Form Writing"
+     ]
+    },
+    "benefits": [
+     "health_insurance",
+     "vision_care",
+     "dental_insurance",
+     "pensions_401k",
+     "pension_contribution_matching",
+     "free_subsidized_meals",
+     "wellness_program",
+     "other_benefits"
+    ],
+    "salary": {
+     "max": 60,
+     "min": 60,
+     "period": "hourly",
+     "currency": "USD"
+    },
+    "experienceLevel": null,
+    "employmentType": "contract",
+    "minYearsExperience": null,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790027876,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/afterquery/6f90701a-f9b5-4599-a288-470fcd200640",
+    "status": "active",
+    "companies": [
+     {
+      "name": "AfterQuery",
+      "website": "afterquery.com"
+     }
+    ]
+   },
+   {
+    "id": "3b24e661-3eda-4698-8187-7bae1c8aabf2",
+    "title": "Technical Writer & Specifications Analyst",
+    "description": "<div><strong>Key Responsibilities:</strong><br>The Senior Technical Writer &amp; Specifications Analyst is a hybrid role responsible for performing technical<br>business analysis—including requirements gathering and data mapping—and translating those requirements into high-quality,<br>developer-facing API specification documentation. This individual owns the complete lifecycle of documentation for our integration and<br>interoperability services, including orders and results services. Working directly with clinical, technical, product, and analysis teams,<br>they will define data specifications, construct mapping sheets, and build clear, user-friendly documentation to help both internal consumer<br>teams and external customers seamlessly integrate with Quest systems. The ideal candidate has deep expertise in healthcare standards<br>(HL7 and FHIR) and a proven background in simplifying complex integration workflows.<br><br><strong>Key Responsibilities </strong><br>• Responsible for analysis, design, coding and testing of new applications or Partner with technical, development, and product teams to gather, define, and document technical requirements for new and existing interoperability services.<br>• Create and maintain comprehensive, interactive API specification documentation (including schemas, endpoints, headers, and error codes) specifically for orders and results services.<br>• Perform detailed data mapping, interface specification design, and clinical data flow analysis (e.g., mapping HL7 segments/fields and FHIR profiles).<br>• Develop and maintain technical guides, quick-starts, step-by-step tutorials, and release notes for both internal developers and external customer IT teams.<br>• Validate technical specifications by actively testing APIs (using tools like Postman or curl) and reproducing integration workflows to ensure accurate documentation.<br>• Implement and manage a \"Docs-as-Code\" workflow, utilizing version control and markdown formatting to streamline review cycles and updates.<br>• Collaborate during Agile backlog grooming and sprint planning to proactively identify documentation and interface specification needs early in the product lifecycle.<br>• Standardize content across integration portals to ensure consistency, clarity, and adherence to both industry interoperability standards and brand style guides.<br>• Promote an environment that encourages collaboration, initiative, continuous improvement, learning, and the generation of innovative ideas and solutions. Required Skills &amp; Qualifications<br>• 5 or more years of experience in technical writing, business systems analysis, or integration analysis, with progressive responsibilities in documenting APIs or clinical integrations.<br>• 3 or more years of experience in healthcare interoperability, with a focus on electronic health records (EHRs) and clinical data exchange.<br>• Demonstrated hands-on experience mapping HL7 standards (v2.x, v3) for orders, results, or clinical data.<br>• 3 or more years utilizing modern API documentation standards (such as OpenAI/Swagger) and API development tools (such as Postman).<br>• Experience with \"Docs-as-Code\" workflows and version control systems (e.g., Git, GitHub).<br>• Experience in healthcare interoperability in a diagnostic lab or clinical lab setting.<br>• Deep knowledge of HL7 standards specifically applied to lab workflows (LOINC, SNOMED, and lab-to-EHR resulting).<br>• Knowledge of and practical experience with Fast Healthcare Interoperability Resources (FHIR) profiling and JSON data structures.<br>• Experience working in an Agile/SAFe environment.<br><br><strong>Other Requirements:</strong><br><strong>Knowledge: </strong><br>• In-depth knowledge of healthcare interoperability standards, data structures, and clinical vocabularies (HL7, FHIR, JSON, XML).<br>• Knowledge of data-mapping techniques and technical requirements-gathering frameworks.<br>• Knowledge of API architecture styles (REST, SOAP) and security standards (OAuth 2.0).<br>Exceptional written communication, editing, and content design skills, with an extreme attention to detail.<br>• Deep technical proficiency and the ability to interview technical teams to extract crucial product mechanics.<br>• Experience with process Eligible to workimization, structured terminology management, and technical troubleshooting.<br>• Strong collaboration and consensus-building skills.</div><br><br><br><br><br><br><br><br><br><br><strong><u><span>Disclaimer</span></u><span>:</span></strong><span> Diverse Lynx LLC is an Equal Opportunity Employer. All applicants and employees are evaluated without discrimination, based solely on their qualifications, ability, competence and performance. </span><span>This email and its attachments may contain confidential or proprietary information and is intended only for the recipient(s). </span><span><span><span>If you received this message in error, please disregard it and notify the sender. If you no longer wish to receive our communications, you may </span></span></span><span><a href=\"https://ind01.safelinks.protection.outlook.com/?url=https://diverselynx.com/unsubscribe&amp;data=05|02|divyanshu.agarwal@diverselynx.com|97140cf178a3493a2a3608df128e261c|7ebe3230b01e4293b47f17c6df6abe38|0|0|639250073855175896|Unknown|TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ==|0|||&amp;sdata=8a2fRzg0xVb22IxUT5pOv7Lj/o1YWdJ9XwDnbvqxi0o=&amp;reserved=0\">unsubscribe</a> </span><span><span><span> at any time.</span></span></span><br><strong><u><span><span>Security Notice</span></span></u></strong><strong><span>:</span></strong> <strong>Our official website is <a href=\"https://ind01.safelinks.protection.outlook.com/?url=http://www.diverselynx.com/&amp;data=05|02|divyanshu.agarwal@diverselynx.com|97140cf178a3493a2a3608df128e261c|7ebe3230b01e4293b47f17c6df6abe38|0|0|639250073855185695|Unknown|TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ==|0|||&amp;sdata=QBOFftVmWjwSJUCR665yZNMvaYasEW5P5e5dsF+5Tj0=&amp;reserved=0\">www.diverselynx.com</a> We do not operate or authorize any other websites representing Diverse Lynx LLC.</strong>",
+    "summary": "The Senior Technical Writer & Specifications Analyst performs technical business analysis, requirements gathering, data mapping, and developer-facing API specification documentation for healthcare integration and interoperability services. The role owns documentation for orders and results services, validates APIs, maintains Docs-as-Code workflows, and collaborates with clinical, technical, product, and Agile teams.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressRegion": "New Jersey",
+      "addressCountry": "US",
+      "addressLocality": "Secaucus"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Written Communication",
+      "Editing",
+      "Attention to Detail",
+      "Collaboration",
+      "Consensus Building"
+     ],
+     "primary_skills": [
+      "Technical Writing",
+      "Business Systems Analysis",
+      "Requirements Gathering",
+      "Data Mapping",
+      "API Specification Documentation",
+      "HL7",
+      "FHIR",
+      "Healthcare Interoperability",
+      "Postman",
+      "Docs-as-Code"
+     ],
+     "secondary_skills": [
+      "API Testing",
+      "curl",
+      "Markdown",
+      "Clinical Data Flow Analysis",
+      "FHIR Profiling",
+      "Technical Troubleshooting",
+      "Structured Terminology Management"
+     ]
+    },
+    "benefits": [],
+    "salary": null,
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 5,
+    "educationRequirement": null,
+    "industry": [
+     "healthcare_medical"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790025551,
+    "expiresAt": null,
+    "applyUrl": "https://www2.jobdiva.com/portal/?a=9xjdnw687b7a7nvvdyut936kpjlgy0023blrozaecads0pdnwppcswnaaku8ji2g#/jobs/29338968",
+    "status": "active",
+    "companies": [
+     {
+      "name": "Diverse Lynx",
+      "website": "diverselynx.com"
+     }
+    ]
+   }
+  ],
+  "meta": {
+   "count": 2,
+   "hasMore": false,
+   "requestTimeMs": 24,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

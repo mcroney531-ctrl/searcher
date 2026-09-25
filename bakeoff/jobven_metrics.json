@@ -1,0 +1,220 @@
+{
+ "n_sample": 60,
+ "overlap_by_stratum": {
+  "title": {
+   "strong": 10,
+   "partial": 5,
+   "very_low": 8,
+   "weak": 7
+  },
+  "description": {
+   "very_low": 20,
+   "weak": 7,
+   "partial": 3
+  }
+ },
+ "interesting_by_stratum": {
+  "title": 9,
+  "description": 3
+ },
+ "suppressed_by_stratum": {
+  "title": 16,
+  "description": 0
+ },
+ "remoteType_dist": {
+  "remote": 48,
+  "onsite": 7,
+  "hybrid": 3,
+  "flexible": 2
+ },
+ "text_when_remoteType_remote": {
+  "remote": 17,
+  "unclear": 25,
+  "field_travel": 6
+ },
+ "n_remoteType_remote": 48,
+ "remote_field_text_agreement": "29/60",
+ "desc_len": {
+  "min": 2392,
+  "median": 6375.5,
+  "p90": 10892,
+  "under_1000": 0
+ },
+ "html_markup_leak_all_190": 22,
+ "html_markup_leak_sample": 6,
+ "apply_kind_sample": {
+  "ats:ashby": 23,
+  "employer_site": 1,
+  "ats:ultipro": 4,
+  "ats:jobdiva": 3,
+  "ats:smartrecruiters": 12,
+  "ats:workday": 6,
+  "ats:bamboohr": 1,
+  "ats:workable": 3,
+  "ats:dayforce": 1,
+  "ats:greenhouse": 6
+ },
+ "apply_major_board_all": 0,
+ "staffing_sample": 5,
+ "staffing_all": 7,
+ "dup_groups_all": [
+  [
+   "crowdstrike.com | Enterprise Renewals Specialist (remote, West Coast)",
+   "crowdstrike.com | Enterprise Renewals Specialist (remote, Central Region)",
+   "crowdstrike.com | Enterprise Renewals Specialist (remote, East Coast)"
+  ],
+  [
+   "ServiceNow | Director, Pursuit Lead, Elevate",
+   "ServiceNow | Director, Pursuit Lead, Elevate",
+   "ServiceNow | Director, Pursuit Lead, Elevate"
+  ],
+  [
+   "ServiceNow | Partner Technical Architect",
+   "ServiceNow | Partner Technical Architect"
+  ],
+  [
+   "Experian | Senior Director, Client Education - Healthcare SaaS",
+   "Experian | Senior Director, Client Education - Healthcare SaaS"
+  ],
+  [
+   "uniteklearning.com | Instructional Designer - Full Time - Higher ED",
+   "uniteklearning.com | Full Time Instructional Designer - Higher ED"
+  ],
+  [
+   "ServiceNow | Senior Lifecycle & Email Marketing Strategist",
+   "ServiceNow | Senior Lifecycle & Email Marketing Strategist",
+   "ServiceNow | Senior Lifecycle & Email Marketing Strategist",
+   "ServiceNow | Senior Lifecycle & Email Marketing Strategist",
+   "ServiceNow | Senior Lifecycle & Email Marketing Strategist"
+  ],
+  [
+   "getmaintainx.com | Senior Customer Education Specialist",
+   "getmaintainx.com | Senior Customer Education Specialist"
+  ],
+  [
+   "sentinelone.com | Senior Offensive Security Researcher",
+   "sentinelone.com | Senior Offensive Security Researcher"
+  ],
+  [
+   "truelogic.io | AI Security Engineer / Offensive Security Engineer - Technology",
+   "truelogic.io | AI Security Engineer / Offensive Security Engineer - Technology",
+   "truelogic.io | AI Security Engineer / Offensive Security Engineer - Technology"
+  ]
+ ],
+ "dup_extra_rows_all": 15,
+ "dup_extra_rows_sample": 3,
+ "salary_present_all": 104,
+ "n_all": 190,
+ "interesting_all_labeled": [
+  [
+   "Runway",
+   "Customer Education Specialist",
+   true
+  ],
+  [
+   "akqa.com",
+   "Senior Content Strategist - Freelance",
+   false
+  ],
+  [
+   "highlightta.com",
+   "Lead Instructional Designer",
+   false
+  ],
+  [
+   "AfterQuery",
+   "Technical Content Writer (contract)",
+   true
+  ],
+  [
+   "writer.com",
+   "Senior AI Learning Designer, Rapid Content",
+   false
+  ],
+  [
+   "directiveconsulting.com",
+   "Content Strategist (remote Us) - Future Opening",
+   false
+  ],
+  [
+   "brightspeed.com",
+   "Senior Content Designer",
+   false
+  ],
+  [
+   "Excelsior",
+   "Instructional Designer",
+   false
+  ],
+  [
+   "White Circle",
+   "Content Lead",
+   true
+  ],
+  [
+   "blend360.com",
+   "Marketing Enablement Manager",
+   false
+  ],
+  [
+   "ironcladapp.com",
+   "Senior Manager, Revenue Enablement",
+   false
+  ],
+  [
+   "Roboflow",
+   "Customer Success Engineer",
+   true
+  ],
+  [
+   "Samsara",
+   "Senior Scaled Customer Education Specialist",
+   false
+  ],
+  [
+   "Experian",
+   "Senior Director, Client Education - Healthcare SaaS",
+   true
+  ],
+  [
+   "Harris Computer",
+   "Sr Product Trainer",
+   false
+  ],
+  [
+   "Seven AI",
+   "Sales Enablement Specialist",
+   false
+  ],
+  [
+   "payscale.com",
+   "Senior Revenue Enablement Manager",
+   false
+  ],
+  [
+   "Wiz",
+   "Senior Technical Enablement Program Manager",
+   false
+  ],
+  [
+   "Vultr",
+   "Senior Manager, Product Enablement",
+   false
+  ],
+  [
+   "Mariner",
+   "Learning Management Specialist",
+   false
+  ],
+  [
+   "ServiceNow",
+   "Community Web Manager",
+   false
+  ],
+  [
+   "fetch.com",
+   "Senior Sales Enablement Manager, Smb & Mid-market",
+   false
+  ]
+ ]
+}

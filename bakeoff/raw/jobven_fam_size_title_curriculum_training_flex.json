@@ -1,0 +1,71 @@
+{
+ "call_id": "fam_size_title_curriculum_training_flex",
+ "phase": "family",
+ "url": "https://api.jobven.com/v1/public/jobs?q=%22curriculum+developer%22+OR+%22curriculum+designer%22+OR+%22curriculum+manager%22+OR+%22training+developer%22+OR+%22training+content%22&country=US&remoteType%5B%5D=remote&remoteType%5B%5D=flexible&postedAfter=1789702200&limit=1&includeTotal=true",
+ "params": [
+  [
+   "q",
+   "\"curriculum developer\" OR \"curriculum designer\" OR \"curriculum manager\" OR \"training developer\" OR \"training content\""
+  ],
+  [
+   "country",
+   "US"
+  ],
+  [
+   "remoteType[]",
+   "remote"
+  ],
+  [
+   "remoteType[]",
+   "flexible"
+  ],
+  [
+   "postedAfter",
+   1789702200
+  ],
+  [
+   "limit",
+   1
+  ],
+  [
+   "includeTotal",
+   "true"
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:26:43 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "118",
+  "connection": "close",
+  "server": "cloudflare",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "d53cfb85-b28d-4ff5-8f6a-14e62ff25954",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2389",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "55",
+  "etag": "W/\"76-ydlrJV69njM+DP1qSNazC1MAbXg\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=hWds0jzq8XBgKI3e9VXpZ%2Boo%2BOt7Thi7zluTK6te4HXGuMibqQMfB83nhwZTctJgJUNpneQwNdxOD19%2FOv8AQWLAx7anBCy8PZc72kK5AIGuR4iWBfWO15O7rkIkwrRzTRzWc7%2FYXhUfnC8GMA%3D%3D\"}]}",
+  "cf-ray": "a406edce481e42e4-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [],
+  "meta": {
+   "total": 0,
+   "count": 0,
+   "hasMore": false,
+   "requestTimeMs": 53,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

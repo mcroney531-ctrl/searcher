@@ -1,0 +1,160 @@
+{
+ "call_id": "fam_size_desc_customer_training_noexcl",
+ "phase": "family",
+ "url": "https://api.jobven.com/v1/public/jobs?descriptionQuery=customer+training&country=US&remoteType%5B%5D=remote&postedAfter=1789702200&limit=1&includeTotal=true",
+ "params": [
+  [
+   "descriptionQuery",
+   "customer training"
+  ],
+  [
+   "country",
+   "US"
+  ],
+  [
+   "remoteType[]",
+   "remote"
+  ],
+  [
+   "postedAfter",
+   1789702200
+  ],
+  [
+   "limit",
+   1
+  ],
+  [
+   "includeTotal",
+   "true"
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:28:26 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "transfer-encoding": "chunked",
+  "connection": "close",
+  "server": "cloudflare",
+  "vary": "Accept-Encoding",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "5971c62e-ca13-422f-8bda-0be3d7368e75",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2320",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "278",
+  "etag": "W/\"3cd7-K9MQdDUxqNbKtNp/X3y9bDc+cZ0\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=BfbKa7gTXJBmQUtaTobgnwZp57sKAFu3z505nkubMITaMGOm3fI2DHCa5uynVVnbHII4XpKR%2B0SdcxfQqz10GoUA93hZTQVqFqy%2Bp3tArohXYaWAGHwQDHW%2FyzMtyejnOg1rzv%2FUE9J0cjlw%2FA%3D%3D\"}]}",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "cf-ray": "a406f052dffbc745-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "id": "b6944ddd-c1df-4bed-8f23-4ac3c6cd34ba",
+    "title": "Customer Success Engineer",
+    "description": "<h2>Who We Are</h2><h3>Our mission is to make the world programmable. Sight is one of the key ways we understand the world, and soon this will be true for the software we use, too.</h3><h3>We’re building the tools, community, and resources needed to make the world programmable with artificial intelligence. Roboflow simplifies building and using computer vision models. Today, over 1M+ developers, including those from half the Fortune 100, use Roboflow’s machine learning open source and hosted tools. That includes counting cells to accelerate cancer research, improving construction site safety, digitizing floor plans, preserving coral reef populations, guiding drone flight, and much more.</h3><h3>Roboflow is supported by great customers and investors, having raised over 63 million from Y Combinator, Google Ventures, Craft Ventures, Sam Altman, Lachy Groom, amongst other leading software investors.</h3><h3>Roboflowers are passionate builders who value ownership, accountability, and a bias toward action. We're curious, hands-on with new tech, and prefer showing our work over talking about it. Many of us have a founder mindset and thrive in our high-autonomy environment.</h3><h2>Who You Are</h2><p>You are technically curious, customer-focused, and get satisfaction from helping people become capable and confident users of complex technology. You may come from Customer Success, technical enablement, Developer Relations, Support, Solutions Engineering, or another customer-facing technical role.</p><p>You enjoy understanding why customers struggle with a product and turning those insights into better ways of teaching thousands of customers — not simply solving the same problem repeatedly.</p><p>You are comfortable teaching technical concepts live, creating clear educational content, and guiding customers through unfamiliar workflows. You know when to demonstrate, when to advise, and importantly when to let the customer drive the keyboard.</p><p>You look for patterns. If several customers ask the same question, your instinct is not simply to answer it again; it is to create the guide, video, workshop, workflow, or program that means the next customer can answer it themselves.</p><p>Empathetic to customer needs and the importance of communicating in remote relationships, you can provide clear and prescriptive guidance while maintaining the boundaries required for a scalable self-service customer experience.</p><p>Many Roboflowers have used our tools before joining. One of the best ways to stand out amongst other applicants is to write about something you have built with Roboflow or contribute to one of our open source projects.</p><p>We are hiring Customer Success Engineers to help our self-serve and Corporate customers become successful, independent users of Roboflow. You will have direct input on the evolution of this role, the Customer Success Engineering function, and how Roboflow enables an increasingly large community of computer vision practitioners.</p><p>If you enjoy teaching technical concepts, building programs and content, and finding scalable ways to help customers succeed, let’s have a chat.</p><h2>What You’ll Do</h2><p>Roboflow's product-led growth customers are building an enormous variety of computer vision applications. Customer Success powers up those customers with the technical knowledge, best practices, and structured enablement they need to expand how they use Roboflow and confidently progress from experimentation into production.</p><p>The function operates through two complementary enablement models:</p><ul><li><p><strong>Scalable enablement </strong>— recurring webinars, onboarding sessions, technical workshops, clinics, office hours, learning journeys, and reusable educational content designed to help large numbers of self-serve customers progress independently.</p></li><li><p><strong>Targeted 1:1 enablement </strong>— structured, time-bound delivery of the Targeted Enablement Option Pack for qualifying Corporate customers who need additional guidance through core Roboflow functionality.</p></li></ul><p>The objective isn't to do the customer's work for them; it is to remove educational friction and give customers the knowledge, tools, and confidence to progress independently.</p><p>You will teach customers how to work effectively with datasets, annotations, model training and evaluation, and the wider Roboflow platform. Just as importantly, you will identify recurring points of friction and turn them into programs and reusable assets that can benefit hundreds or thousands of future customers.</p><h2>Role And Responsibilities</h2><ul><li><p>Develop, deliver, and continually improve technical enablement programs for Roboflow's self-serve customer base, covering platform onboarding, annotation strategy and quality, dataset management, model training and evaluation, workflows and deployments and workspace administration</p></li><li><p>Host bi-weekly webinars, technical workshops, office hours, and other live educational sessions</p></li><li><p>Develop learning journeys that guide customers towards increasingly sophisticated use of Roboflow technology</p></li><li><p>Deliver Roboflow's structured 1:1 Targeted Enablement Option Pack for qualifying customers</p></li><li><p>Create reusable technical enablement assets including documentation, videos, walkthroughs, recordings, and reference materials</p></li><li><p>Identify recurring customer questions and turn them into scalable educational programs or assets</p></li><li><p>Monitor customer activation and engagement signals to identify users and cohorts who may benefit from specific enablement programs</p></li><li><p>Measure participation and effectiveness of enablement programs for continual improvement</p></li><li><p>Collaborate with Product to identify and close recurring knowledge and usability gaps</p></li><li><p>Stay current with the latest Roboflow product features, releases, workflows, and recommended best practices</p></li></ul><p><strong>Technical Proficiency</strong></p><ul><li><p>Working knowledge of computer vision and machine learning, including datasets, annotation, model training, evaluation, and inference</p></li><li><p>Comfortable using Python and working with APIs, notebooks, and common developer tooling</p></li><li><p>Ability to become highly proficient across the Roboflow platform and demonstrate its workflows confidently to customers</p></li><li><p>Understanding of model evaluation concepts including precision, recall, confidence thresholds, confusion matrices, and common causes of poor model performance</p></li><li><p>Understanding of dataset quality, annotation strategy, dataset versioning, and approaches for identifying difficult or underrepresented examples</p></li><li><p>Ability to translate technical concepts into clear, practical guidance for users with varying levels of ML experience</p></li></ul><p><strong>Individual Skills</strong></p><ul><li><p>Technical Teaching: Able to explain unfamiliar technical concepts clearly and adapt the explanation to the customer's level of experience</p></li><li><p>Pattern Recognition: Recognize recurring questions and friction across customer interactions and identify opportunities to solve them systematically</p></li><li><p>Program Delivery: Methodical planning and delivery of structured 1:1 sessions, webinars, workshops, and other customer-facing technical programs</p></li><li><p>Content Creation: Able to create concise, technically accurate educational material across written, recorded, and live formats</p></li><li><p>Workload Management: Manage multiple customers progressing through structured enablement while balancing program delivery and reusable content creation</p></li><li><p>Customer Communication: Communicate clearly and professionally before, during, and after enablement engagements, setting expectations around preparation, outcomes, and next steps</p></li></ul><p><strong>Bonus Skills</strong></p><ul><li><p>Experience using the Roboflow platform or contributing to the Roboflow ecosystem</p></li><li><p>Previous experience in Customer Success, technical enablement, Developer Relations, technical education, Solutions Engineering, or technical Support</p></li><li><p>Experience creating technical educational content such as tutorials, videos, workshops, documentation, or developer courses</p></li><li><p>Experience delivering webinars, workshops, technical demonstrations, or customer training</p></li><li><p>Experience working with product-led growth or self-service SaaS customers</p></li><li><p>Experience using product telemetry or customer activation data to inform customer engagement programs</p></li></ul><h2>Who You'll Be Working With</h2><p>Our team of over 100 attracts talent like executives that wanted to return to building, founders with a 100M+ exit, Roboflow users turned team members, open source contributors, a cyclist who biked across the United States, prolific high school hackers, a CTO from 100+ engineering organization, amongst many exceptional others.</p><p>As an early Customer Success Engineer hire, you'll work closely with Support &amp; Success leadership and partner with Product, Sales, and Field Engineering. You won't simply inherit an established playbook — you'll help build the programs, content, tooling, and working practices that define Customer Success at Roboflow.</p><h2>Where You'll Work</h2><p>Roboflow is distributed across the US and Europe. We currently have Hubs in New York City, San Francisco and São Paulo (with plans to open more as we grow density in new cities). We provide opportunities (like team onsites in different cities) and resources (like a $4000/yr travel stipend) to work in person with other team members as much as you'd like, while also supporting remote team members. You can work from one of our Hubs (we offer a relocation bonus), work from home, work at co-working spaces, etc. We want you to work where you work best!</p><h2>When You'll Work</h2><p>Roboflow primarily operates during the daytime hours in the US and there are some synchronous meetings you’ll be expected to attend each week.</p><h2>What You'll Receive</h2><p>To determine your salary, we use a number of market and data-driven salary sources. We review all salaries every six months to ensure we stay in line with the market.</p><p>📈 In addition to our cash compensation, we offer generous perks and benefits. Below are some of the highlights:</p><ul><li><p>$4000/yr Travel Stipend to travel anywhere anytime to work alongside other Roboflowers</p></li><li><p>$350/mo Productivity stipend to spend on things that make your work environment more productive, like high-speed internet at home or a co-working space</p></li><li><p>Cover up to 100% of your health insurance costs for you and your partner or family</p></li><li><p>Equity in the company so we are all invested in the future of computer vision</p></li></ul><h2>📅 Within one week, you will…</h2><ul><li><p>Learn about computer vision, our product, company, customers, and vision</p></li><li><p>Complete the core self-serve Roboflow journey from dataset creation through model training and inference</p></li><li><p>Begin shadowing customer enablement and Support interactions to understand common customer friction</p></li></ul><h2>📅 Within one month, you will…</h2><ul><li><p>Onboard in person with your manager (you'll come to our NY or SF Hub!)</p></li><li><p>Become familiar with the Customer Success Engineer function, Targeted Enablement Option Pack, and its scope boundaries</p></li><li><p>Shadow and begin participating in Targeted Enablement sessions</p></li><li><p>Compose your first Targeted Enablement Program</p></li><li><p>Create or significantly improve your first reusable customer enablement artifact</p></li><li><p>Participate in 1:many enablement webinars</p></li></ul><h2>📅 Within six months, you will…</h2><ul><li><p>Independently own and deliver both recurring 1:many enablement programs and 1:1 Targeted Enablement engagements.</p></li><li><p>Own and improve reusable educational content and enablement programs</p></li><li><p>Identify recurring customer friction and turn those insights into improvements across Product, Support, and CSE</p></li><li><p>Demonstrate measurable contribution to customer adoption and scalable reduction of repetitive enablement demand</p></li></ul><h2>Not sure if this is you?</h2><p>We want a diverse, global team with a broad range of experience and perspectives. If this job sounds great, but you’re not sure if you qualify, look into our Former Founders role. We carefully consider every application and will either move forward with you, find another team that might be a better fit, keep in touch for future opportunities, or thank you for your time.</p><h2>Learn More About Us</h2><p>We are building a diverse Distributed team that is distributed across the globe. Roboflow is an equal opportunity workplace; we welcome people from all backgrounds, communities, and experiences.</p><p>We provide competitive compensation and stellar benefits to accelerate your personal and work life. Learn more about what it is like to work at Roboflow by reading these blog posts.</p><p>See our careers page for all open listings.</p>",
+    "summary": "The Customer Success Engineer helps self-serve and Corporate customers become capable, independent users of Roboflow’s computer vision platform. Responsibilities include delivering live and one-to-one technical enablement, creating reusable educational content and programs, identifying recurring customer friction, and partnering with Product and other teams to improve customer adoption and self-service.",
+    "locations": [
+     {
+      "workLocation": "flexible",
+      "addressRegion": "New York",
+      "addressCountry": "US",
+      "addressLocality": "New York City"
+     },
+     {
+      "workLocation": "flexible",
+      "addressRegion": "California",
+      "addressCountry": "US",
+      "addressLocality": "San Francisco"
+     },
+     {
+      "workLocation": "remote",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Empathy",
+      "Workload Management",
+      "Adaptability",
+      "Pattern Recognition"
+     ],
+     "primary_skills": [
+      "Computer Vision",
+      "Machine Learning",
+      "Python",
+      "Application Programming Interfaces",
+      "Model Training",
+      "Model Evaluation",
+      "Dataset Management",
+      "Data Annotation",
+      "Technical Enablement",
+      "Technical Content Creation"
+     ],
+     "secondary_skills": [
+      "Roboflow",
+      "Product Telemetry",
+      "Customer Activation Data",
+      "Developer Tooling",
+      "Jupyter Notebooks",
+      "Customer Success",
+      "Developer Relations",
+      "Solutions Engineering",
+      "Technical Support",
+      "Product-Led Growth"
+     ]
+    },
+    "benefits": [
+     "remote_work_hybrid_work_options",
+     "relocation_assistance",
+     "health_insurance",
+     "stock_options_equity",
+     "other_benefits"
+    ],
+    "salary": null,
+    "experienceLevel": "mid",
+    "employmentType": "full_time",
+    "minYearsExperience": null,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": true,
+    "requiresTravel": true,
+    "travelPercentage": null,
+    "postedAt": 1790194560,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/roboflow/bbcda2ca-5919-4aaa-b3c5-c2fd47c07172",
+    "status": "active",
+    "companies": [
+     {
+      "name": "Roboflow",
+      "website": "roboflow.com"
+     }
+    ]
+   }
+  ],
+  "meta": {
+   "total": 8,
+   "count": 1,
+   "nextCursor": "eyJpZCI6ImI2OTQ0ZGRkLWMxZGYtNGJlZC04ZjIzLTRhYzNjNmNkMzRiYSIsInNvcnRWYWx1ZSI6MTc5MDE5NDU2MCwidGllQnJlYWtlciI6IjIwMjYtMDktMjNUMjM6MDE6MTguMTQ1WiJ9",
+   "hasMore": true,
+   "requestTimeMs": 275,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

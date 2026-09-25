@@ -1,0 +1,302 @@
+{
+ "call_id": "fam_desc_content_governance_p0",
+ "phase": "family",
+ "url": "https://api.jobven.com/v1/public/jobs?q=-%22account+executive%22+-%22account+manager%22+-%22sales+representative%22+-%22sales+manager%22+-%22customer+service+representative%22+-%22help+desk%22+-%22customer+success+manager%22+-%22support+specialist%22&descriptionQuery=content+governance&country=US&remoteType%5B%5D=remote&postedAfter=1789702200&limit=25",
+ "params": [
+  [
+   "q",
+   "-\"account executive\" -\"account manager\" -\"sales representative\" -\"sales manager\" -\"customer service representative\" -\"help desk\" -\"customer success manager\" -\"support specialist\""
+  ],
+  [
+   "descriptionQuery",
+   "content governance"
+  ],
+  [
+   "country",
+   "US"
+  ],
+  [
+   "remoteType[]",
+   "remote"
+  ],
+  [
+   "postedAfter",
+   1789702200
+  ],
+  [
+   "limit",
+   25
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:29:06 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "transfer-encoding": "chunked",
+  "connection": "close",
+  "server": "cloudflare",
+  "vary": "Accept-Encoding",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "de58b136-c86e-4532-ac61-92bdada0c450",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2276",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "284",
+  "etag": "W/\"7278-+TWQugAAFM8bAcqAj03zFHFfYTc\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=fOG3q8AaBhWy0N1%2Bst79hwG4Be8rd7J4gyo%2F3Nsv%2BnU089lU7YVKjJH54g%2Fco6GEsDvwcNsp0Ea%2B71L2MdanyN7h3xy7oBTakN%2FRjuGm619bnJ8q9QcOIc%2FjLh79pHOZvrotiYwpHxXZuJGizQ%3D%3D\"}]}",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "cf-ray": "a406f14e195f42b8-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "id": "c9138b14-16d1-434d-b583-f9c0760612d0",
+    "title": "Senior Content Strategist - Freelance",
+    "description": "&lt;div&gt;At AKQA (part of WPP) we believe in the imaginative application of art and science to create beautiful ideas, products and services. With an entrepreneurial and collaborative approach, we design adaptive digital services and applications that capture the imagination, delivering impressive returns for our clients.&lt;/div&gt; &lt;div&gt;&lt;br&gt;Content strategists at AKQA are curious thinkers who want to investigate, understand, and organize to create a better future, with a specific focus on the content that powers our clients' experiences. To us, content is more than words on a screen; it is the story and information that drives our clients' brands and products forward.&lt;br&gt;&lt;br&gt;In this role, the Freelance Senior Content Strategist will support end-to-end content experience strategy for a flagship digital platform and connected product ecosystem for one of the most recognized and trusted names in financial services, a brand with deep roots in helping people plan, protect, and secure their futures. Responsibilities span auditing current experiences, identifying gaps and opportunities, defining an ideal-state vision, and developing a pragmatic roadmap to get there. The Strategist will work closely with senior client stakeholders and an integrated AKQA team to formulate and deliver smart, tailored content frameworks, recommendations, and systems that serve our client's needs across digital products and platforms.&lt;br&gt;&lt;br&gt;&lt;/div&gt; &lt;div&gt;&amp;nbsp;&lt;/div&gt; &lt;div&gt;ROLE REQUIREMENTS&lt;/div&gt; &lt;ul&gt; &lt;li&gt;8+ years of experience in content strategy for digital products, apps, and web platforms, with a portfolio that demonstrates structured thinking and measurable outcomes on complex, high-visibility consumer experiences&lt;/li&gt; &lt;li&gt;Strong writing and editing skills, with the ability to define voice, tone, messaging hierarchies, and editorial guidelines across product and marketing surfaces&lt;/li&gt; &lt;li&gt;Demonstrated ability to analyze user, client, and business needs and develop relevant content strategies, frameworks, and taxonomies that measurably improve outcomes&lt;/li&gt; &lt;li&gt;Comfort consuming large quantities of research and data, including behavioral, consumer, industry, and academic sources, to inform perspectives, set KPIs, and partner on measurement&lt;/li&gt; &lt;li&gt;Experience driving content for high-traffic digital surfaces, including information architecture, navigation, personalization, SEO, accessibility, experimentation, and content operations&lt;/li&gt; &lt;li&gt;Proven success working cross-functionally with strategists, product managers, UX designers, copywriters, creatives, engineering, and analytics teams&lt;/li&gt; &lt;li&gt;Strong presentation skills, with the ability to craft persuasive narratives and present confidently to senior clients and internal leadership&lt;/li&gt; &lt;li&gt;Knowledge of contemporary practice across digital product development, including agile delivery, content governance, and operational frameworks&lt;/li&gt; &lt;li&gt;Ability to take responsibility for on-time deliverables and expertly crafted perspectives within an accelerated timeline&lt;/li&gt; &lt;/ul&gt; &lt;div&gt;&lt;br&gt;&lt;br&gt;QUALITIES AND CHARACTERISTICS&lt;/div&gt; &lt;ul&gt; &lt;li&gt;Undaunted by the unknown; ambiguity sparks your curiosity and accelerates your learning&lt;/li&gt; &lt;li&gt;A love of hard problems and a drive to inspire new ways of thinking across teams and stakeholders&lt;/li&gt; &lt;li&gt;A passion for transforming large amounts of disorganized information into clarity through structure, rigor, and systems&lt;/li&gt; &lt;li&gt;Deep affinity for the end user, with empathy that translates into usable, valuable content experiences&lt;/li&gt; &lt;li&gt;Extreme attention to detail coupled with the ability to zoom out to a compelling strategic narrative&lt;/li&gt; &lt;li&gt;Phenomenal communication skills and the ability to partner with senior clients and executive stakeholders&lt;/li&gt; &lt;li&gt;8+ years working across digital experience, brand experience, customer experience, or communications; an intersection of more than one is ideal; experience with financial services, membership and loyalty programs, or mobile app ecosystems is a plus&lt;/li&gt; &lt;li&gt;Self-directed and proactive; comfortable operating independently in a fast-paced, high-visibility environment&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;Location &amp;amp; Commitment&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Remote (US Based)&lt;/li&gt; &lt;li&gt;Available during core business hours, U.S. Eastern Time&lt;/li&gt; &lt;li&gt;ASAP through December 23, 2026&lt;/li&gt; &lt;li&gt;40 hours/week&lt;/li&gt; &lt;li&gt;Expected weekly compensation: 3,000 to 3,400 USD&lt;/li&gt; &lt;/ul&gt;&lt;div class=\"content-conclusion\"&gt;&lt;p&gt;&lt;span style=\"font-weight: 300;\"&gt;We believe great work happens when we're together, fostering creativity, collaboration, and connection. That's why we’ve adopted a hybrid approach including required in-office days. If you require accommodations or flexibility, please discuss this with the hiring team during the interview process.&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span style=\"font-weight: 300;\"&gt;AKQA is an equal opportunity employer and considers applicants for all positions without discrimination or regard to particular characteristics. We are committed to fostering a culture of respect in which everyone feels they belong and has the same opportunities to progress in their careers.&lt;/span&gt;&lt;/p&gt; &lt;hr&gt; &lt;p&gt;&lt;span style=\"font-weight: 300;\"&gt;&lt;/span&gt;&lt;/p&gt; &lt;p class=\"x_MsoNormal\"&gt;&lt;strong&gt;&lt;span data-olk-copy-source=\"MessageBody\"&gt;About WPP&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p class=\"x_MsoNormal\"&gt;WPP is the trusted growth partner for the world’s leading brands. We unite&amp;nbsp;cutting-edge media intelligence and data solutions, world-class creativity, next-generation production, transformative enterprise solutions and expert strategic counsel&amp;nbsp;in a single company –&amp;nbsp;powered by exceptional talent and our agentic marketing platform, WPP Open,&amp;nbsp;to help our clients navigate change, capture opportunity and deliver transformational growth. For more information, visit&amp;nbsp;&lt;a href=\"http://wpp.com/\" data-auth=\"NotApplicable\" data-linkindex=\"0\"&gt;WPP.com&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;&lt;span style=\"font-weight: 300;\"&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;",
+    "summary": "The Freelance Senior Content Strategist will shape end-to-end content experience strategy for a major digital platform and connected product ecosystem in financial services. Responsibilities include auditing current experiences, identifying opportunities, defining a target vision and roadmap, and developing content frameworks and systems with senior client stakeholders and integrated teams.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "US",
+      "addressLocality": "New York"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Attention to Detail",
+      "Empathy",
+      "Self-Direction",
+      "Proactivity"
+     ],
+     "primary_skills": [
+      "Content Strategy",
+      "Content Auditing",
+      "Content Experience Strategy",
+      "Content Frameworks",
+      "Content Taxonomy",
+      "Writing and Editing",
+      "Information Architecture",
+      "Search Engine Optimization",
+      "Accessibility",
+      "Agile Delivery"
+     ],
+     "secondary_skills": [
+      "Personalization",
+      "Experimentation",
+      "Content Operations",
+      "Content Governance",
+      "Measurement and KPI Development",
+      "Financial Services",
+      "Membership and Loyalty Programs",
+      "Mobile Applications"
+     ]
+    },
+    "benefits": [],
+    "salary": {
+     "max": 3400,
+     "min": 3000,
+     "period": "weekly",
+     "currency": "USD"
+    },
+    "experienceLevel": "senior",
+    "employmentType": "contract",
+    "minYearsExperience": 8,
+    "educationRequirement": null,
+    "industry": [
+     "consulting_professional",
+     "finance_banking"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790270509,
+    "expiresAt": null,
+    "applyUrl": "https://www.akqa.com/jobs/8224008/?gh_jid=8224008",
+    "status": "active",
+    "companies": [
+     {
+      "name": "akqa.com",
+      "website": "akqa.com"
+     }
+    ]
+   },
+   {
+    "id": "42c9ea18-8f42-4f21-aaef-d485f739abe7",
+    "title": "Community Web Manager",
+    "description": "<h2>Company Description</h2><p>It all started when engineer Fred Luddy wrote code that automated a tedious task for his coworker, Phyllis. She cried tears of joy. That moment inspired Fred to build a company that could do that for everyone—freeing people from busywork so they could focus on meaningful work. Today, ServiceNow is the AI control tower for business reinvention. Our ServiceNow AI platform brings together any AI, any data, and any workflow— helping 85% of the Fortune 500® work smarter, faster, and better. We're building an AI-native culture where technology and talent are unstoppable together. And we're just getting started.</p><p>Join us to put AI to work for people.</p><h2>Job Description</h2><p><strong>About the Team:</strong></p><p>The ServiceNow Community Platform team manages one of ServiceNow's largest customer-facing digital experiences. The Community serves customers, developers, partners, user groups, product teams, and advocates through forums, product hubs, events, learning resources, and peer-to-peer engagement experiences.&nbsp;</p><p>We are looking for a Community Web Manager to lead publishing operations and content management across the ServiceNow Community platform. This role is responsible for ensuring content is accurate, timely, discoverable, and aligned with the needs of business stakeholders and customers.&nbsp;</p><p><strong>What You Will Do:</strong></p><p><strong>Own Community Publishing Operations:</strong></p><ul><li><p>Execute and manage website updates across the ServiceNow Community platform.&nbsp;</p></li></ul><ul><li><p>Manage staging, quality assurance, and production deployment processes.&nbsp;</p></li></ul><ul><li><p>Design, build, and deploy landing pages using Khoros templates.&nbsp;</p></li></ul><ul><li><p>Manage page layouts, components, asset placement, and responsive design.&nbsp;</p></li></ul><ul><li><p>Manage external Community properties, like the ServiceNow Community YouTube channel, podcast publishing via Omny, and video publishing on Brightcove.&nbsp;</p></li></ul><p><strong>Manage Community Platform Configuration:</strong></p><ul><li><p>Configure site navigation, redirects, content placement, tagging, labels, permissions, and visibility settings.&nbsp;</p></li></ul><ul><li><p>Support role-based access controls and community governance requirements.&nbsp;</p></li></ul><ul><li><p>Partner with engineering and product to identify publishing workflow improvements, submit feature requests, and resolve publishing issues.&nbsp;</p></li></ul><ul><li><p>Collaborate with UX design and brand teams on page layouts, components, design implementation, and brand compliance.&nbsp;</p></li></ul><p><strong>Support Product Hubs and Community Experiences:</strong>&nbsp;</p><ul><li><p>Build and maintain product hub experiences using established templates and content frameworks.&nbsp;</p></li></ul><ul><li><p>Coordinate content migrations, launches, and updates with business stakeholders.&nbsp;</p></li></ul><ul><li><p>Ensure content is organized and presented consistently across the platform.&nbsp;</p></li></ul><p><strong>Partner with Stakeholders:</strong>&nbsp;</p><ul><li><p>Serve as the primary point of contact for Community publishing and content management requests.&nbsp;</p></li></ul><ul><li><p>Consult with product marketing, customer marketing, events, advocacy, and enablement teams on content strategy and site best practices.&nbsp;</p></li></ul><ul><li><p>Translate business requirements into scalable web experiences.&nbsp;</p></li></ul><ul><li><p>Manage multiple projects and competing priorities while maintaining service-level expectations.</p></li></ul><p><strong>Enable Self-Service Publishing:&nbsp;</strong></p><ul><li><p>Train stakeholders on community tools, publishing processes, and governance standards.&nbsp;</p></li></ul><ul><li><p>Develop documentation, reference materials, and training resources.&nbsp;</p></li></ul><ul><li><p>Support content owners in maintaining their sections of the Community platform.&nbsp;</p></li></ul><h2>Qualifications</h2><p><strong>Required Qualifications:</strong>&nbsp;</p><ul><li><p>7+ years of experience in web publishing, web content management, digital operations, community management, or related field.&nbsp;</p></li></ul><ul><li><p>Experience working within a CMS, digital experience platform, or online community platform.&nbsp;</p></li></ul><ul><li><p>Strong understanding of content governance, publishing workflows, and quality assurance practices.&nbsp;</p></li></ul><ul><li><p>Experience managing multiple stakeholder requests and priorities.&nbsp;</p></li></ul><ul><li><p>Strong written and verbal communication skills.&nbsp;</p></li></ul><ul><li><p>Strong project management and organizational skills.&nbsp;</p></li></ul><p><strong>Preferred Qualifications:</strong></p><ul><li><p>Experience managing publishing workflows in community platforms (Khoros, Gainsight, Higher Logic, etc.)\"&nbsp;</p></li></ul><ul><li><p>Familiarity with HTML, CSS, JSON-based content configuration, Adobe Experience Cloud (AEM, Adobe Target, etc), Adobe Photoshop, redirects, navigation management, and CMS administration.&nbsp;</p></li></ul><ul><li><p>Experience supporting enterprise-scale customer-facing digital properties.&nbsp;</p></li></ul><ul><li><p>Experience designing and delivering stakeholder training and enablement.&nbsp;</p></li></ul><ul><li><p>Experience utilizing AI tools to streamline publishing workflows, content optimization, or stakeholder enablement.&nbsp;</p></li></ul><p><strong>Key Competencies:</strong></p><ul><li><p>Web Publishing &amp; Content Operations&nbsp;</p></li></ul><ul><li><p>Digital Experience Management&nbsp;</p></li></ul><ul><li><p>Stakeholder Management&nbsp;</p></li></ul><ul><li><p>Content Governance&nbsp;</p></li></ul><ul><li><p>Platform Administration&nbsp;</p></li></ul><ul><li><p>Quality Assurance&nbsp;</p></li></ul><ul><li><p>Training &amp; Enablement&nbsp;</p></li></ul><ul><li><p>Project Coordination&nbsp;</p></li></ul><h2>Additional Information</h2><p><strong>Work Personas</strong></p><p>We approach our distributed world of work with flexibility and trust. Work personas (flexible, remote, or required in office) are categories that are assigned to ServiceNow employees depending on the nature of their work and their assigned work location. <a href=\"https://careers.servicenow.com/life-at-servicenow#workpersonas\"><u>Learn more here</u></a>. To determine eligibility for a work persona, ServiceNow may confirm the distance between your primary residence and the closest ServiceNow office using a third-party service.</p><p><strong>Equal Opportunity Employer</strong></p><p>ServiceNow is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, national origin, age, disability, gender identity,&nbsp; veteran status, or any other category protected by law. In addition, all qualified applicants with arrest or conviction records will be considered for employment in accordance with legal requirements. &nbsp;</p><p><strong>Accommodations</strong></p><p>We strive to create an accessible and inclusive experience for all candidates. If you require a reasonable accommodation to complete any part of the application process, or are unable to use this online application and need an alternative method to apply, please contact <a href=\"mailto:globaltalentss@servicenow.com\">globaltalentss@servicenow.com </a> for assistance.&nbsp;</p><p><strong>Export Control Regulations</strong></p><p>For positions requiring access to controlled technology subject to export control regulations, including the U.S. Export Administration Regulations (EAR), ServiceNow may be required to obtain export control approval from government authorities for certain individuals. All employment is contingent upon ServiceNow obtaining any export license or other approval that may be required by relevant export control authorities.&nbsp;</p><p>From Fortune. ©2026 Fortune Media IP Limited. All rights reserved. Used under license.</p>",
+    "summary": "The Community Web Manager leads publishing operations and content management across the ServiceNow Community platform. Responsibilities include managing website updates and deployments, configuring platform features, building product hub experiences, coordinating content migrations and launches, supporting stakeholders, and developing self-service publishing training and documentation.",
+    "locations": [
+     {
+      "postalCode": "78701",
+      "workLocation": "remote",
+      "addressRegion": "Texas",
+      "streetAddress": "701 Brazos Street, Suite 519",
+      "addressCountry": "US",
+      "addressLocality": "Austin"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Organization",
+      "Problem-solving"
+     ],
+     "primary_skills": [
+      "Web Publishing",
+      "Content Management Systems",
+      "Digital Experience Management",
+      "Content Governance",
+      "Quality Assurance",
+      "Project Management",
+      "Stakeholder Management",
+      "Platform Administration",
+      "Community Management",
+      "Training and Enablement"
+     ],
+     "secondary_skills": [
+      "Khoros",
+      "Gainsight",
+      "Higher Logic",
+      "HTML",
+      "CSS",
+      "JSON",
+      "Adobe Experience Manager",
+      "Adobe Target",
+      "Adobe Photoshop",
+      "Artificial Intelligence"
+     ]
+    },
+    "benefits": [],
+    "salary": null,
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 7,
+    "educationRequirement": null,
+    "industry": [
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790102163,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.smartrecruiters.com/ServiceNow/744000151110030-community-web-manager",
+    "status": "active",
+    "companies": [
+     {
+      "name": "ServiceNow",
+      "website": "servicenow.com"
+     }
+    ]
+   },
+   {
+    "id": "b4e98e47-0194-41e3-af89-0bcd0a0ea7a7",
+    "title": "Vice President of Commercial Operations",
+    "description": "<p><strong>Vice President of Commercial Operations</strong></p><p>BusPatrol is seeking a high skilled Vice President of Commercial Operations. The VP, Commercial Operations will lead BusPatrol’s Sales Enablement and RFP functions, building the operating discipline, tools, content, training, and cross-functional coordination required to scale a complex B2G commercial motion. This leader will improve seller readiness and execution and professionalizing BusPatrol's RFP engine through clear standard work, stronger workflows, quality controls, and responsible AI adoption. The role will connect Sales, RevOps, Marketing, Policy/Government Relations, Legal, Product, and Post-Sales around a consistent, measurable go-to-market system.</p><p><strong>Responsibilities:</strong></p><ol><li><p><strong>Own the Sales Enablement strategy and operating model. </strong> Establish the function’s mandate, roadmap, governance, intake and prioritization process, decision rights, service levels, and annual/quarterly operating cadence in alignment with the company’s commercial strategy.</p></li></ol><ol start=\"2\"><li><p><strong>Build the training and development architecture. </strong> Lead onboarding, continuous training, manager coaching, launch support, certification, and field reinforcement programs that improve execution in BusPatrol’s complex, multi-stakeholder B2G sales environment.</p></li></ol><ol start=\"3\"><li><p><strong>Drive sales methodology adoption and field performance. </strong> Embed consistent sales processes, stage expectations, management routines, and practical reinforcement mechanisms that improve execution, deal progression, and seller effectiveness.</p></li></ol><ol start=\"4\"><li><p><strong>Create and govern the commercial content and tools system. </strong> Ensure that playbooks, stage guidance, talk tracks, battlecards, account-planning tools, stakeholder maps, state/policy guidance, CRM resources, and other field assets are practical, current, reusable, and accessible through a governed source of truth.</p></li></ol><ol start=\"5\"><li><p><strong>Orchestrate cross-functional GTM alignment and field feedback. </strong> Connect Sales, RevOps, Marketing, Policy/Government Relations, Legal, RFP, Product, and Post-Sales so that commercial insights, process changes, market developments, and frontline feedback are translated into coordinated enablement priorities and field support.</p></li></ol><ol start=\"6\"><li><p><strong>Establish and operate a commercial deal desk.</strong> Shepherd the last mile of contract execution by coordinating Sales, Legal, Finance, implementation, and installation; resolving deal-execution issues; ensuring commercial and operational readiness; and creating a smooth handoff from closed-won opportunity through delivery</p></li></ol><ol start=\"7\"><li><p><strong>Lead and professionalize the RFP team. </strong> Improve the quality, consistency, speed, and predictability of RFP responses through standard work, clear workflows, reusable content, response templates, content governance, effective SME coordination, quality controls, and disciplined submission management—while maintaining the team’s core mandate and operating model.</p></li></ol><ol start=\"8\"><li><p><strong>Build competitive intelligence capability. </strong> Establish repeatable processes for competitive snapshots, account briefs, stakeholder maps, opportunity watchlists, and field-ready competitive guidance that help teams understand market dynamics, competitive posture, and account context.</p></li></ol><ol start=\"9\"><li><p><strong>Measure impact and drive continuous improvement. </strong> Define and manage performance measures across enablement and RFP operations, including adoption, ramp, manager usage, process adherence, stage conversion, pipeline quality, win-rate contribution, forecast confidence, RFP cycle time, response quality, reuse, and productivity.</p></li></ol><p><strong>Qualifications:</strong></p><ul><li><p>12+ years of progressive experience across sales enablement, commercial operations, sales leadership, Marketing, proposal/RFP operations, or a closely related function</p></li></ul><ul><li><p>Demonstrated success building and scaling an enablement operating model, including sales rep onboarding, sales manager enablement, methodology adoption, content governance, certification, field reinforcement, and content performance measurement</p></li></ul><ul><li><p>Experience supporting complex B2G, public-sector, GovTech, public safety, or enterprise sales motions involving multiple stakeholders, non-linear procurement, RFPs, and formal approval processes</p></li></ul><ul><li><p>Proven leadership of business-to-government deal desk, proposal and/or RFP operations</p></li></ul><ul><li><p>Strong cross-functional operating experience partnering with Sales, RevOps, Marketing, Policy/Government Relations, Legal, Product, and Post-Sales to turn strategy and field feedback into adopted processes, tools, and programs</p></li></ul><ul><li><p>Fluency with Salesforce and commercial performance data, including pipeline hygiene, stage progression, KPI design, dashboards, and translating analysis into targeted interventions</p></li></ul><ul><li><p>Experience using AI and knowledge-management tools to improve research, competitive intelligence, content creation, retrieval, standardization, reuse, and productivity</p></li></ul><ul><li><p>Executive-level communication and facilitation skills, with a track record of converting ambiguity into clear priorities, owners, operating rhythms, and measurable outcomes</p></li></ul><ul><li><p>Bachelor’s degree required; MBA or equivalent graduate degree preferred (or equivalent practical experience)</p></li></ul><p><strong>BusPatrol Value Proposition:</strong></p><p><strong><u>Who We Are</u></strong></p><p>At BusPatrol, safety isn’t just a priority — it’s our mission. As the nation’s most trusted school bus stop-arm technology solution, we serve over 350 school districts, protecting nearly 2 million students across 30,000 buses. Every day, millions of children rely on school buses to get to and from school safely, yet reckless drivers continue to put them at risk.</p><p>As a technology company with a unique focus on public safety, we use cutting-edge AI, machine learning, and telematics to improve school bus safety. Our all-in-one safety program equips school bus fleets with AI-powered cameras, cloud-based data management, and an integrated software platform to capture and process stop-arm violations. Our safety programs foster accountability and reduce dangerous driving behavior in communities across the country.</p><p>By partnering with school districts, municipalities, and law enforcement, we make safety solutions more accessible and effective, ensuring that every child’s journey to and from school is as safe as possible.</p><p><strong><u>What We Offer</u></strong></p><p>When you join BusPatrol, you are not just taking a job. You are joining a mission-driven team dedicated to making a real impact. We offer:</p><p>✔ Competitive salary and benefits package</p><p>✔ Unlimited PTO</p><p>✔ A purpose-driven career, working to protect children and improve public safety</p><p>✔ The occasion to participate in BusPatrol’s culture of safety, learning, and teamwork</p><p>✔ A team of innovators, committed to leveraging AI and smart technology for social good</p><p>Be Part of Something Bigger</p><p>We are looking for a passionate and dedicated team member to help us make roads safer. This is a meaningful opportunity to contribute to a mission-driven company that is using technology to create real change. At BusPatrol, we foster an inclusive and diverse environment built on integrity, collaboration, and innovation. If you are ready to be part of a team that is deeply committed to safety and community impact, we would love to hear from you.</p><p>Together, we can protect students, hold drivers accountable, and build a safer future for all.</p><p>We are looking for a valued member of the BusPatrol team to assist us in our quest to improve children’s safety. This is an important role for us and a great opportunity for the right candidate. Our environment is inclusive, diverse, ignited, built on integrity, and deeply committed.</p><p>The US salary range for this position is provided in this posting. Our salary ranges are determined by role, level, and location. The range displayed on each job posting reflects the minimum and maximum target for salaries for the position across all US locations. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your Talent Partner can share more about the specific salary range for your preferred location and skill level during the hiring process.</p><p>Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, and/or commission (if applicable) or benefits.</p><p>EOE/AA Disability-Veteran</p>",
+    "summary": "BusPatrol is seeking a Vice President of Commercial Operations to lead Sales Enablement and RFP functions and build the operating discipline, tools, training, content, and coordination needed to scale a complex business-to-government commercial motion. The role oversees enablement strategy, sales methodology adoption, deal desk operations, RFP professionalization, competitive intelligence, and performance measurement while aligning Sales, RevOps, Marketing, Legal, Product, Policy/Government Relations, and Post-Sales.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressRegion": "Texas",
+      "addressCountry": "US",
+      "addressLocality": "Austin"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Leadership",
+      "Communication",
+      "Facilitation",
+      "Collaboration",
+      "Problem-solving"
+     ],
+     "primary_skills": [
+      "Sales Enablement",
+      "Commercial Operations",
+      "Sales Methodology",
+      "Sales Training",
+      "Content Governance",
+      "RFP Operations",
+      "Deal Desk Management",
+      "Competitive Intelligence",
+      "Salesforce",
+      "Commercial Performance Measurement"
+     ],
+     "secondary_skills": [
+      "Artificial Intelligence",
+      "Knowledge Management",
+      "Machine Learning",
+      "Telematics",
+      "CRM",
+      "Pipeline Management",
+      "Dashboard Development",
+      "Data Analysis"
+     ]
+    },
+    "benefits": [
+     "paid_time_off_vacation_personal_days",
+     "other_benefits"
+    ],
+    "salary": null,
+    "experienceLevel": "executive",
+    "employmentType": "full_time",
+    "minYearsExperience": 12,
+    "educationRequirement": {
+     "required": [
+      "bachelor_degree"
+     ],
+     "preferred": [
+      "master_degree"
+     ]
+    },
+    "industry": [
+     "technology_software",
+     "government_public"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790007890,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/buspatrol/09e5deea-a4db-4339-bb30-310887294b7c",
+    "status": "active",
+    "companies": [
+     {
+      "name": "BusPatrol",
+      "website": "buspatrol.com"
+     }
+    ]
+   }
+  ],
+  "meta": {
+   "count": 3,
+   "hasMore": false,
+   "requestTimeMs": 283,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

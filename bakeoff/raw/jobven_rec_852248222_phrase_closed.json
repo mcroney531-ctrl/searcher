@@ -1,0 +1,62 @@
+{
+ "call_id": "rec_852248222_phrase_closed",
+ "phase": "recall",
+ "url": "https://api.jobven.com/v1/public/jobs?q=%22Instructor%22&descriptionQuery=strong+expertise+in+interprofessional&status=closed&postedAfter=1783036800&limit=1",
+ "params": [
+  [
+   "q",
+   "\"Instructor\""
+  ],
+  [
+   "descriptionQuery",
+   "strong expertise in interprofessional"
+  ],
+  [
+   "status",
+   "closed"
+  ],
+  [
+   "postedAfter",
+   1783036800
+  ],
+  [
+   "limit",
+   1
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:24:11 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "108",
+  "connection": "close",
+  "server": "cloudflare",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "a72aad55-e074-4669-a383-401cbfd92bfc",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2411",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "42",
+  "etag": "W/\"6c-9yBLdVs1tGF9TBQvgxj/bSJ1XL0\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=bi9fgX7K14wj2ZZzmOn%2FsUK4vDVj8Ty%2FmLy%2FNoA4WV%2BG4%2FTLl9uCMGBOhZbRnlEWC%2F0BddLUtCclKMRr9Z39xfNrzOIsAwqPkrQlrps1d7WhdPuhv%2BQZO8N83UlJlCh8Ot9oOD%2FtCtUZ0TNiyA%3D%3D\"}]}",
+  "cf-ray": "a406ea1bcc11f569-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [],
+  "meta": {
+   "count": 0,
+   "hasMore": false,
+   "requestTimeMs": 41,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}

@@ -1,0 +1,580 @@
+{
+ "call_id": "rec_851873213_title",
+ "phase": "recall",
+ "url": "https://api.jobven.com/v1/public/jobs?q=%22Instructional+Designer%22&country=US&postedAfter=1788220800&limit=10",
+ "params": [
+  [
+   "q",
+   "\"Instructional Designer\""
+  ],
+  [
+   "country",
+   "US"
+  ],
+  [
+   "postedAfter",
+   1788220800
+  ],
+  [
+   "limit",
+   10
+  ]
+ ],
+ "status": 200,
+ "headers": {
+  "date": "Fri, 25 Sep 2026 03:22:56 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "transfer-encoding": "chunked",
+  "connection": "close",
+  "server": "cloudflare",
+  "vary": "Accept-Encoding",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "access-control-allow-credentials": "true",
+  "x-request-id": "d5b222ac-b224-4cc5-b506-93199201823b",
+  "x-ratelimit-limit": "2500",
+  "x-ratelimit-remaining": "2443",
+  "x-ratelimit-reset": "1790910222",
+  "x-request-time-ms": "14",
+  "etag": "W/\"bc7d-iU5uZManvKN5vko9RdrMsrSryYw\"",
+  "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "pragma": "no-cache",
+  "expires": "0",
+  "x-content-type-options": "nosniff",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=%2BUS%2F9KqIxTzXv4iQljeYp6%2Bre%2FMrCBW1w96qAKwItS6Xl9k5V%2BvUcR5m4SfgrKnMFLBKmJVB4BG51mBcBn6SoMb8TDTWoJuGnIX52Nlleo1sa8abZGonzI5C%2FgJkNim1%2FGN3gKXrbunLSA5U8Q%3D%3D\"}]}",
+  "cf-cache-status": "DYNAMIC",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "cf-ray": "a406e8457bec42b1-EWR",
+  "alt-svc": "h3=\":443\"; ma=86400"
+ },
+ "response": {
+  "data": [
+   {
+    "id": "15508f16-d6b2-469e-9958-d64134db0dd9",
+    "title": "Lead Instructional Designer",
+    "description": "<h2><strong>About Neon One</strong></h2><p>At Neon One, we believe that technology is the key to building vibrant communities of generosity. As a leader in nonprofit software since 2004, we create intuitive solutions that help small and mid-sized nonprofits connect with people, build trust, and make good happen every day.<br><br>Our culture is powered by empathy, innovation, and a shared mission to empower organizations making a difference. We operate with a customer-first mindset, take pride in extraordinary results, and grow together by supporting each other and embracing bold new ideas. If you’re passionate about using your skills to drive real impact and want to thrive in a collaborative, fully remote environment, Neon One is the place for you.<br></p><h2><strong>About the Role</strong></h2><p>We are seeking a strategic, highly collaborative, and technically proficient Lead Instructional Designer to drive our instructional design strategy. In this pivotal individual contributor role, you will be a technical visionary and the primary engine for moving complex learning initiatives forward. You will partner closely with the Technical Writing function to ensure seamless alignment between our product documentation and learning pathways. Additionally, you will serve as the primary stakeholder in our transition to a newly built, custom Learning Management System (LMS). By partnering directly with external developers, product managers, and subject matter experts, you will define the instructional UX, authoring requirements, and system capabilities needed to deliver a world-class customer education experience.</p><h2><strong>Responsibilities</strong></h2><ul><li><p><strong>Cross-Functional Project Leadership:</strong> Act as the central driver for learning initiatives. Build strong partnerships across departments, proactively manage stakeholder expectations, and keep complex projects moving forward on schedule without relying on direct reporting lines.</p></li><li><p><strong>LMS Migration &amp; Strategic Ownership:</strong> Act as the primary business owner for offboarding our current academy (Skilljar) and transitioning to a custom-built LMS. Define system requirements (e.g., authoring workflows, learner UX) and guide external developers to ensure the platform meets both customer needs and instructional design standards.</p></li><li><p><strong>Team Collaboration &amp; Workflow Design: </strong> Work closely with the Technical Writer, Enablement Manager, and Customer Operations Managers to establish scalable design systems, style guides, and AI-assisted content workflows that make our learning content accessible to our customer base.</p></li><li><p><strong>Technical Curriculum &amp; Certification: </strong> Architect end-to-end learning pathways, role-based certifications, and self-paced academies for admin users and enterprise clients.</p></li><li><p><strong>Hands-On Lab &amp; Interactive Design:</strong> Design scenario-based, interactive learning experiences, including simulated environments, sandbox exercises, and API/code walkthrough tutorials.</p></li><li><p><strong>Product Alignment &amp; Release Management: </strong> Partner closely with Product Managers, Engineers, and Solutions Architects to translate complex feature updates and technical specs into timely, accurate learning content.</p></li><li><p><strong>Telemetry &amp; Business Impact:</strong> Track learner telemetry (e.g., product adoption rates, time-to-value, course completion, certification pass rates) to continuously measure and prove ROI on customer and internal enablement.</p></li></ul><h2><strong>Qualifications &amp; Skills</strong></h2><ul><li><p><strong>Experience:</strong> 5+ years in instructional design within a B2B SaaS, developer tooling, or high-growth tech environment. Proven project management experience with a track record of driving cross-functional initiatives as a highly autonomous individual contributor.</p></li><li><p><strong>Custom LMS / Systems Expertise:</strong> Hands-on experience defining requirements for LMS implementations, migrations, or custom builds. Deep understanding of what an instructional designer needs from a platform to successfully host and track courses (SCORM, xAPI, LTI).</p></li><li><p><strong>Technical Aptitude:</strong> Comfort navigating API documentation, cloud architectures, developer workflows, or SaaS platform configurations to build technical curriculum independently.</p></li><li><p><strong>Tooling &amp; Tech Stack:</strong></p><ul><li><p>Advanced proficiency in modern authoring &amp; media tools (Articulate 360, Camtasia, Loom, Figma).</p></li><li><p>Strong familiarity with transitioning out of standard Customer Education / LXP platforms (e.g., Skilljar) into custom environments.</p></li></ul></li><li><p><strong>Core Competencies:</strong> Agile development methodologies, rapid prototyping (SAM), data-driven decision-making, and exceptional cross-functional stakeholder management. Must possess the consultative skills necessary to influence peers, align differing viewpoints, and maintain project momentum.</p></li></ul><h2><strong>Why Join Neon One?</strong></h2><p>At Neon One, our values are how we show up every day. We make good happen by putting empathy and passion at the center of our work, using technology to uplift mission-driven organizations. We stand for our customers, act with care and intention in every decision, own the solution, and grow together. We innovate fearlessly, always exploring new ways to support our community and each other.</p><h2><strong>How We Hire</strong></h2><p>We use AI tools to support our recruitment process, including helping us organize applications and identify early matches based on role criteria. That said, every rejection decision is made by a human. We encourage candidates to apply authentically and avoid relying solely on AI-generated responses, especially during interviews.<br><br>This posting is for a current, open position within <strong>Neon One</strong>.<br><br>This opportunity is offered through HighlightTA, the on-demand talent team supporting Neon One’s growth.<br></p><p><strong>Connect with us and learn more:<br></strong><a href=\"https://www.linkedin.com/company/neonone/\"><u>Neon One on LinkedIn</u></a></p><p><a href=\"https://www.linkedin.com/company/highlightta/\"><u>HighlightTA on LinkedIn</u></a></p>",
+    "summary": "Neon One is hiring a Lead Instructional Designer to lead instructional design strategy and customer education for its nonprofit software products. The role owns the transition to a custom LMS, builds technical curricula and interactive learning experiences, aligns learning content with product releases, and measures learner outcomes and business impact.",
+    "locations": [
+     {
+      "workLocation": "remote",
+      "addressCountry": "US"
+     }
+    ],
+    "remoteType": "remote",
+    "skills": {
+     "soft_skills": [
+      "Project Management",
+      "Cross-Functional Collaboration",
+      "Stakeholder Management",
+      "Influence",
+      "Autonomy"
+     ],
+     "primary_skills": [
+      "Instructional Design",
+      "Learning Management System (LMS) Implementation",
+      "Learning Management System (LMS) Migration",
+      "SCORM",
+      "xAPI",
+      "Learning Tools Interoperability (LTI",
+      "Technical Curriculum Development",
+      "Articulate 360",
+      "Camtasia",
+      "Figma"
+     ],
+     "secondary_skills": [
+      "Loom",
+      "Skilljar",
+      "API Documentation",
+      "Cloud Architecture",
+      "SaaS Platform Configuration",
+      "Agile Development",
+      "Rapid Prototyping",
+      "SAM Model",
+      "Data-Driven Decision-Making",
+      "Learner Telemetry"
+     ]
+    },
+    "benefits": [],
+    "salary": null,
+    "experienceLevel": "lead",
+    "employmentType": "full_time",
+    "minYearsExperience": 5,
+    "educationRequirement": null,
+    "industry": [
+     "nonprofit_ngo",
+     "technology_software"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790269831,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.ashbyhq.com/highlightta/f36a604d-ac92-4b28-8b5f-54a083fc215e",
+    "status": "active",
+    "companies": [
+     {
+      "name": "highlightta.com",
+      "website": "highlightta.com"
+     }
+    ]
+   },
+   {
+    "id": "c6e39b2a-f947-4b53-8d4a-6d412f45d810",
+    "title": "Instructional Designer",
+    "description": "<p>The Instructional Designer is responsible for designing and developing online courses that align with Excelsior University’s academic standards and best practices for adult learning. Working closely with SMEs, instructional technologists, media developers, and other members of the Instructional Design and Development team (IDD), the Instructional Designer ensures that course content is pedagogically sound, accessible, and aligns with Excelsior’s course design standards. The ideal candidate has experience in higher education course development and expertise in instructional design principles, online learning technologies, and assessment strategies. This role plays a key part in maintaining course quality and supporting Excelsior’s commitment to delivering an exceptional learning experience for students.</p><p>Duties and Responsibilities:&nbsp;</p><p>• Collaborate with SMEs to design and develop engaging online courses.<br>• Apply instructional design principles to structure content and create relevant, engaging learning experiences.<br>• Guide SMEs in analyzing and assessing the application of appropriate and effective instructional strategies, tools, and assessments to achieve identified learning outcomes.<br>• Ensure course content aligns with Excelsior’s course design standards, accessibility guidelines, and online learning best practices.<br>• Partner with media developers to create high-quality course materials, including videos, simulations, and interactive elements.<br>• Review and refine course content to ensure clarity, coherence, and alignment with learning objectives.<br>• Collaborate with other instructional designers to enhance Excelsior’s course development methodologies and resources.</p><p>Qualifications: <em>To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.</em></p><p>• Bachelor’s degree in Instructional Design, Educational Technology, or a related field.<br>• 3+ years’ experience designing and developing online courses for higher education.<br>• Strong knowledge of instructional design models (e.g., Backward Design, Bloom’s Taxonomy).<br>• Strong relationship-building skills.<br>• Familiarity with best practices for online learning and adult education.<br>• Ability to guide SMEs in structuring content for effective online delivery.<br>• Experience with learning management systems (LMS), preferably Canvas.<br>• Strong written and verbal communication skills.<br>• Strong organizational skills and attention to detail.<br>• Ability to manage multiple projects and meet deadlines in a fast-paced environment.</p><p>Preferred Qualifications:&nbsp;</p><p>• Master’s degree in Instructional Design, Educational Technology, or a related field.<br>• Experience developing courses for non-traditional, adult learners.<br>• Prior experience working in a centralized course development model.<br>• Proficiency in accessibility standards and universal design for learning (UDL).<br>• Experience using data and learner analytics to inform course improvements.</p><p><span>The hiring salary range for this position is $68,000.00 - $74,000.00. The hiring salary range above represents the University's good faith estimate at the time of posting.</span></p>",
+    "summary": "The Instructional Designer develops online courses that meet the university’s academic, accessibility, and course-design standards. The role collaborates with subject matter experts and media developers, applies instructional design and assessment strategies, and reviews content to support effective learning experiences.",
+    "locations": [
+     {
+      "postalCode": "12203",
+      "workLocation": "flexible",
+      "addressRegion": "New York",
+      "addressCountry": "US",
+      "addressLocality": "Albany"
+     }
+    ],
+    "remoteType": "flexible",
+    "skills": {
+     "soft_skills": [
+      "Relationship Building",
+      "Communication",
+      "Organization",
+      "Attention to Detail",
+      "Time Management"
+     ],
+     "primary_skills": [
+      "Instructional Design",
+      "Online Course Development",
+      "Higher Education",
+      "Backward Design",
+      "Bloom's Taxonomy",
+      "Learning Management Systems",
+      "Canvas",
+      "Adult Education",
+      "Online Learning",
+      "Assessment Strategies"
+     ],
+     "secondary_skills": [
+      "Accessibility Standards",
+      "Universal Design for Learning",
+      "Learner Analytics",
+      "Centralized Course Development"
+     ]
+    },
+    "benefits": [],
+    "salary": {
+     "max": 74000,
+     "min": 68000,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "mid",
+    "employmentType": "full_time",
+    "minYearsExperience": 3,
+    "educationRequirement": {
+     "required": [
+      "bachelor_degree"
+     ],
+     "preferred": [
+      "master_degree"
+     ]
+    },
+    "industry": [
+     "education"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1790208000,
+    "expiresAt": null,
+    "applyUrl": "https://recruiting.ultipro.com/EXC1011/JobBoard/eb378fdd-1d75-0520-8078-55ee35061807/OpportunityDetail?opportunityId=59e7fb10-8b66-442a-a687-bb44f2234529",
+    "status": "active",
+    "companies": [
+     {
+      "name": "Excelsior",
+      "website": "excelsior.edu"
+     }
+    ]
+   },
+   {
+    "id": "f682d6b5-c4c9-444a-895a-3009ea10585d",
+    "title": "Instructional Designer - Full Time - Higher ED",
+    "description": "<h2>Company Description</h2><p>Unitek Learning is a leading healthcare education organization focused on preparing the next generation of nurses and healthcare professionals.&nbsp;</p><p>Through its family of institutions, including Unitek College of Nursing, Eagle Gate College, Provo College, Brookline College, and Unitek EMT, Unitek delivers career-focused education designed to help students build meaningful careers while addressing critical workforce needs across the healthcare industry.&nbsp;</p><p>Through our Workforce Solutions segment, Unitek partners with hospitals and health systems to create sustainable talent pipelines and expand access to healthcare education through employer-based training and workforce development programs nationwide.</p><h2>Job Description</h2><p>The Instructional Designer creates, develops, and maintains instructional materials to support online, hybrid, and face-to-face delivery of healthcare courses in higher education. This role ensures course quality, alignment with learning outcomes, and effective use of instructional technologies. The position also supports faculty and academic teams by applying instructional design best practices and facilitating continuous improvement in course delivery.</p><ul><li>Design and develop courses within the institution’s Learning Management System (LMS) to ensure high-quality student learning experience.</li><li>Create engaging instructional content including course overviews, syllabi, learning outcomes, multimedia activities, and assessments.</li><li>Build and publish eLearning modules that integrate interactive elements and align with course outcomes.</li><li>Collaborate closely with subject matter experts (SMEs) to translate technical or specialized knowledge into engaging, student-centered learning experiences. Guide SMEs in applying instructional best practices, align content with program outcomes, and ensure materials are accurate, accessible, and pedagogically sound.</li><li>Apply evidence-based instructional strategies grounded in adult learning theory and best practices for higher education.</li><li>Ensure curriculum alignment by participating in committee meetings and integrating approved updates into course design.</li><li>Review and revise instructional materials to maintain accuracy, accessibility, and compliance with institutional and regulatory standards.</li><li>Document and maintain course resources while contributing to shared training and knowledgebase materials.</li><li>Pilot and evaluate new learning technologies and recommend appropriate tools for adoption.</li><li>Stay current with instructional design trends and apply knowledge of accessibility, copyright, and compliance requirements.</li><li>Support continuous improvement by gathering feedback, analyzing outcomes, and suggesting course enhancements.</li><li>Perform other duties as assigned.</li></ul><p>*Please note that this position is hybrid at our Tempe Corporate Office</p><h2>Qualifications</h2><ul><li>Master’s degree in instructional design, instructional technology, or related field.</li><li>Minimum of 2 years’ experience designing and delivering higher education courses.</li><li>Proficiency with instructional technology and multimedia authoring tools.</li><li>Strong knowledge of learning theories and instructional design models.</li><li>Experience with course development software and LMS (Canvas experience preferred).</li><li>Excellent writing and editing skills for instructional content.</li><li>Strong project management and organizational skills.</li><li>Ability to collaborate with diverse stakeholders, provide excellent customer service, and adapt to new technologies.</li><li>Knowledge of regulatory and compliance requirements for online learning (e.g., FERPA, copyright, ADA).</li><li>Experience applying learning theory to develop online courses (4+ years preferred).</li><li>Higher education administration experience a plus.</li></ul><h2>Additional Information</h2><p><strong>For Full Time Employees, We Offer:</strong></p><ul><li>Medical, Dental and Vision starting the 1st of the month following 30 days of employment</li><li>2 Weeks’ starting Vacation per year.&nbsp; Increasing based on years of service with company</li><li>12&nbsp;paid Holidays and 2&nbsp;Floating Holiday</li><li>401K with a Company Match</li><li>Company Paid Life Insurance at 1x’s your annual salary</li><li>Leadership development and training for career advancement</li><li>Tuition assistance and Forgiveness for you and your family up to 100% depending on program</li></ul>",
+    "summary": "The Instructional Designer develops and maintains instructional materials and courses for online, hybrid, and face-to-face healthcare programs in higher education. Responsibilities include designing LMS-based courses, creating multimedia and eLearning content, collaborating with subject matter experts, ensuring accessibility and compliance, evaluating learning technologies, and supporting continuous course improvement.",
+    "locations": [
+     {
+      "workLocation": "hybrid",
+      "addressRegion": "Arizona",
+      "addressCountry": "US",
+      "addressLocality": "Tempe"
+     }
+    ],
+    "remoteType": "hybrid",
+    "skills": {
+     "soft_skills": [
+      "Writing",
+      "Editing",
+      "Collaboration",
+      "Customer Service",
+      "Adaptability"
+     ],
+     "primary_skills": [
+      "Instructional Design",
+      "Learning Management Systems",
+      "Multimedia Authoring",
+      "Course Development",
+      "Learning Theory",
+      "Instructional Design Models",
+      "Online Course Development",
+      "Accessibility Compliance",
+      "Copyright Compliance",
+      "Project Management"
+     ],
+     "secondary_skills": [
+      "Canvas",
+      "Higher Education Administration",
+      "Regulatory Compliance",
+      "FERPA Compliance",
+      "ADA Compliance",
+      "Learning Technology Evaluation"
+     ]
+    },
+    "benefits": [
+     "health_insurance",
+     "dental_insurance",
+     "vision_care",
+     "paid_time_off_vacation_personal_days",
+     "pension_contribution_matching",
+     "pensions_401k",
+     "life_insurance",
+     "professional_development",
+     "tuition_reimbursement"
+    ],
+    "salary": null,
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 2,
+    "educationRequirement": {
+     "required": [
+      "master_degree"
+     ],
+     "preferred": []
+    },
+    "industry": [
+     "education"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1789595934,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.smartrecruiters.com/UnitekLearning/744000149961439-instructional-designer-full-time-higher-ed",
+    "status": "active",
+    "companies": [
+     {
+      "name": "uniteklearning.com",
+      "website": "uniteklearning.com"
+     }
+    ]
+   },
+   {
+    "id": "6149d010-93a1-460a-b084-8e5393ef961f",
+    "title": "Instructional Designer",
+    "description": "<p>McKesson is an impact-driven, Fortune 10 company that touches virtually every aspect of healthcare. We are known for delivering insights, products, and services that make quality care more accessible and affordable. Here, we focus on the health, happiness, and well-being of you and those we serve – we care.</p><p>What you do at McKesson matters. We foster a culture where you can grow, make an impact, and are empowered to bring new ideas. Together, we thrive as we shape the future of health for patients, our communities, and our people. If you want to be part of tomorrow’s health today, we want to hear from you.</p><p>Title:<b>Instructional Designer</b></p><p>Location:<b>Fort Worth, TX; Memphis, TN; Olive Branch, MS; Conroe, TX; Lakeland, FL</b></p><p><span>Onsite/Hybrid/Remote:</span><b>HYBRID role / 1 day per month onsite</b></p><p>Design Portfolio:<b>Yes (REQUIRED)</b></p><p>*Please include a link to your design portfolio on your resume for consideration.</p><p>The Instructional Designer is a member of the Learning Development and Delivery team within the Pharma organization designing and developing curriculum for the Customer Experience Operations and Supply Chain Operations organizations. The subject matter may include content for the various groups including Customer and Technical Solutions, Shared Services and Distribution Centers for both new hire training and existing employee development. This position reports to Supervisor, Training Content Development for Supply Chain Operations.</p><p>Primarily, the role of Instructional Designer functions as the department subject matter expert (SME) for instructional design, e-Learning, and learning technologies demonstrating up-to-date expertise in adult learning theory, best practices, various delivery modalities, and innovative technologies.</p><p><b>Key responsibilities include, but are not limited to:</b></p><ul><li><p>Manage Subject Matter Experts (SME's) and stakeholder relationships to clearly understand the business, target audience and content needs to construct learning and performance outcomes.</p></li><li><p>Develop content using various learning technology tools and resources.</p></li><li><p>Analyze, build, develop, and maintain new hire training program(s).</p></li><li><p>Perform business and performance analysis to determine training objectives, goals, and learner characteristics such as existing knowledge and skill level, as well as knowledge and skill gaps.</p></li><li><p>Use knowledge of instructional system design (ISD), technologies, and adult learning theory to propose learning solutions that are cost-effective, easy-to-create and maintain, visually and instructionally compelling and that provide a rewarding experience for the learner.</p></li><li><p>Establish goals and learning objectives to design appropriate and effective curriculum by leveraging instructional design methodology.</p></li><li><p>Manage the end-to-end instructional design process with a sense of urgency and a drive for results.</p></li><li><p>Employ a rapid-development approach and strong instructional design to build creative and innovative training videos, games, job aids, posters, manuals, and related learning/e-learning deliverables. Bring best-of-breed learning techniques and technology into the development of training programs and solutions.</p></li><li><p>Conduct train-the-trainer sessions (both virtual and instructor led) to ensure delivery of materials is consistent across all markets and trainers understand the course content, learning objectives, delivery method, and evaluation procedures.</p></li><li><p>Ensure smooth transition from final material design to implementation of program by partnering with the delivery team.</p></li><li><p>Drive projects to successfully execute, manage project milestones, and team responsibilities for accountability.</p></li><li><p>Manage and maintain content, enroll/assign learning objects, and run various reports using the LMS.</p></li><li><p>Design course-level assessments to ensure learning objectives were addressed in the content at an appropriate learning level. Analyze for effectiveness.</p></li><li><p>&nbsp;Compile and analyze dashboard results on evaluations (assessing readiness, job, and business impact).</p></li><li><p>Other training responsibilities as defined by leadership and the organization.</p></li></ul><p><b>Expected Outcomes</b></p><ul><li><p>Design course-level assessments to ensure learning objectives were addressed in the content at an appropriate learning level by compiling and analyzing results of evaluations (assessing readiness, job impact, and business impact).</p></li></ul><p><b>Minimum Requirement</b></p><p>Degree or equivalent and typically requires 2+ years of relevant experience.</p><p><b>Education</b></p><p>4- year degree in related field, or equivalent experience.</p><p><b>Critical Skills</b></p><ul><li><p>2+ years of previous experience in instructional design and e-Learning development or related functional experience.</p></li><li><p>Prioritization and planning skills, with demonstrated success producing high-quality deliverables on time and within budget.</p></li><li><p>Must be detail-oriented, flexible, and can work in a fast-paced environment with multiple deadlines and shifting priorities.</p></li><li><p>Proven success at establishing rapport with business partners at multiple levels, working on larger teams, and collaborative work habits.</p></li><li><p>Ability to design and develop engaging and interactive training using a variety of modalities and methods.</p></li><li><p>Advanced Microsoft Office application skills.</p></li><li><p>Experience using authoring tools such as (Articulate Storyline/ Rise360).</p></li><li><p>Strong written and verbal communication skills, including <span>proofreading/editing.</span></p></li><li><p>Proficiency with multimedia and e-learning tools such as HeyGen, PowerPoint, Vyond, Camtasia, Articulate Pro, and Storyline.</p></li><li><p>Utilizes AI tools (e.g., Microsoft Copilot, ChatGPT, Articulate AI, Synthesia, Vyond AI, Canva AI, Adobe Firefly, ElevenLabs, and DALL·E) to create engaging, personalized learning content that improves learner engagement, knowledge retention, and performance.</p></li><li><p>Graphic Design and audio/video editing experience</p></li><li><p>Working knowledge of Learning Management Systems (Cornerstone OnDemand preferred).</p></li></ul><p><b>Working Conditions</b></p><p>Environment (Office, warehouse, etc.) – Office in Fort Worth, TX</p><p>Physical Requirements (Lifting, standing, etc.) – General Office Demands</p><p><b>Must be authorized to work in the US. Sponsorship is not available for this position.</b></p><p>We are proud to offer a competitive compensation package at McKesson as part of our Total Rewards. This is determined by several factors, including performance, experience and skills, equity, regular job market evaluations, and geographical markets.<span>The pay range shown below is aligned with McKesson's pay philosophy, and pay will always be compliant with any applicable regulations.</span> In addition to base pay, other compensation, such as an annual bonus or long-term incentive opportunities may be offered. For more information regarding benefits at McKesson, please&nbsp;<a href=\"https://careers.mckesson.com/en/benefits\">click here.</a></p><p><b>Our Base Pay Range for this position</b></p>$64,600 - $107,600<p>McKesson has become aware of online recruiting-related scams in which individuals who are not affiliated with or authorized by McKesson are using McKesson’s (or affiliated entities, like CoverMyMeds or RxCrossroads) name in fraudulent emails, job postings or social media messages. In light of these scams, please bear the following in mind:<br><br>McKesson Talent Advisors will never solicit money or credit card information in connection with a McKesson job application.</p><p><br>McKesson Talent Advisors do not communicate with candidates via online chatrooms or using email accounts such as Gmail or Hotmail. Note that McKesson does rely on a virtual assistant (Gia) for certain recruiting-related communications with candidates.</p><p>McKesson job postings are posted on our career site:<a href=\"http://careers.mckesson.com\"><span><u>careers.mckesson.com</u></span></a>.</p><p><b>McKesson is an Equal Opportunity Employer</b></p><p>McKesson provides equal employment opportunities to applicants and employees, without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability, age, genetic information, or any other legally protected category. For additional information on McKesson’s full Equal Employment Opportunity policies, visit our <a href=\"https://www.mckesson.com/about-mckesson/eeo-at-mckesson/\">Equal Employment Opportunity</a> page.</p><p>McKesson is committed to being an Equal Employment Opportunity Employer and offers opportunities to all job seekers including job seekers with disabilities. If you need a reasonable accommodation to assist with your job search or application for employment, please contact us by sending an email to (United States)<a href=\"mailto:Disability_Accommodation@McKesson.com\"><span><u><span>Disability_Accommodation@McKesson.com</span></u></span></a> or (Canada)<a href=\"mailto:Accessibility@mckesson.ca\"><span><u><span>Accessibility@mckesson.ca</span></u></span></a>. Resumes or CVs submitted to this email box will not be accepted.</p><p><b>Join us at McKesson!</b></p>",
+    "summary": "McKesson is seeking an Instructional Designer to create and maintain curriculum, e-learning, training programs, assessments, and multimedia learning materials for customer experience and supply chain operations. The role manages the instructional design lifecycle, partners with subject matter experts and stakeholders, conducts train-the-trainer sessions, maintains LMS content, and evaluates learning effectiveness.",
+    "locations": [
+     {
+      "workLocation": "hybrid",
+      "addressRegion": "Texas",
+      "streetAddress": "13501 Park Vista Blvd.",
+      "addressCountry": "US",
+      "addressLocality": "Fort Worth"
+     },
+     {
+      "workLocation": "hybrid",
+      "addressRegion": "Tennessee",
+      "addressCountry": "US",
+      "addressLocality": "Memphis"
+     },
+     {
+      "workLocation": "hybrid",
+      "addressRegion": "Mississippi",
+      "addressCountry": "US",
+      "addressLocality": "Olive Branch"
+     },
+     {
+      "workLocation": "hybrid",
+      "addressRegion": "Texas",
+      "addressCountry": "US",
+      "addressLocality": "Conroe"
+     },
+     {
+      "workLocation": "hybrid",
+      "addressRegion": "Florida",
+      "addressCountry": "US",
+      "addressLocality": "Lakeland"
+     }
+    ],
+    "remoteType": "hybrid",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Collaboration",
+      "Adaptability",
+      "Attention to Detail",
+      "Prioritization"
+     ],
+     "primary_skills": [
+      "Instructional Design",
+      "E-Learning Development",
+      "Adult Learning Theory",
+      "Instructional Systems Design",
+      "Learning Management Systems",
+      "Articulate Storyline",
+      "Rise 360",
+      "Microsoft Office",
+      "Multimedia Editing",
+      "Graphic Design"
+     ],
+     "secondary_skills": [
+      "Cornerstone OnDemand",
+      "HeyGen",
+      "Vyond",
+      "Camtasia",
+      "Articulate Presenter",
+      "Microsoft Copilot",
+      "ChatGPT",
+      "Articulate AI",
+      "Synthesia",
+      "Adobe Firefly"
+     ]
+    },
+    "benefits": [
+     "performance_bonuses",
+     "stock_options_equity"
+    ],
+    "salary": {
+     "max": 107600,
+     "min": 64600,
+     "period": "annual",
+     "currency": "USD"
+    },
+    "experienceLevel": "mid",
+    "employmentType": "full_time",
+    "minYearsExperience": 2,
+    "educationRequirement": {
+     "required": [
+      "bachelor_degree"
+     ],
+     "preferred": []
+    },
+    "industry": [
+     "healthcare_medical"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1788480000,
+    "expiresAt": null,
+    "applyUrl": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TX-Fort-Worth/Instructional-Designer_JR0153181",
+    "status": "active",
+    "companies": [
+     {
+      "name": "McKesson",
+      "website": "mckesson.com"
+     }
+    ]
+   },
+   {
+    "id": "f1ea4d4c-9ed6-4e32-9ec0-aa6fb60a18d3",
+    "title": "Full Time Instructional Designer - Higher ED",
+    "description": "<h2>Company Description</h2><p>Unitek Learning is a leading healthcare education organization focused on preparing the next generation of nurses and healthcare professionals.&nbsp;</p><p>Through its family of institutions, including Unitek College of Nursing, Eagle Gate College, Provo College, Brookline College, and Unitek EMT, Unitek delivers career-focused education designed to help students build meaningful careers while addressing critical workforce needs across the healthcare industry.&nbsp;</p><p>Through our Workforce Solutions segment, Unitek partners with hospitals and health systems to create sustainable talent pipelines and expand access to healthcare education through employer-based training and workforce development programs nationwide.</p><h2>Job Description</h2><p>The Instructional Designer creates, develops, and maintains instructional materials to support online, hybrid, and face-to-face delivery of healthcare courses in higher education. This role ensures course quality, alignment with learning outcomes, and effective use of instructional technologies. The position also supports faculty and academic teams by applying instructional design best practices and facilitating continuous improvement in course delivery.</p><ul><li>Design and develop courses within the institution’s Learning Management System (LMS) to ensure high-quality student learning experience.</li><li>Create engaging instructional content including course overviews, syllabi, learning outcomes, multimedia activities, and assessments.</li><li>Build and publish eLearning modules that integrate interactive elements and align with course outcomes.</li><li>Collaborate closely with subject matter experts (SMEs) to translate technical or specialized knowledge into engaging, student-centered learning experiences. Guide SMEs in applying instructional best practices, align content with program outcomes, and ensure materials are accurate, accessible, and pedagogically sound.</li><li>Apply evidence-based instructional strategies grounded in adult learning theory and best practices for higher education.</li><li>Ensure curriculum alignment by participating in committee meetings and integrating approved updates into course design.</li><li>Review and revise instructional materials to maintain accuracy, accessibility, and compliance with institutional and regulatory standards.</li><li>Document and maintain course resources while contributing to shared training and knowledgebase materials.</li><li>Pilot and evaluate new learning technologies and recommend appropriate tools for adoption.</li><li>Stay current with instructional design trends and apply knowledge of accessibility, copyright, and compliance requirements.</li><li>Support continuous improvement by gathering feedback, analyzing outcomes, and suggesting course enhancements.</li><li>Perform other duties as assigned.</li></ul><p>*Please note that this position is hybrid at our Tempe Corporate Office</p><h2>Qualifications</h2><ul><li>Master’s degree in instructional design, instructional technology, or related field.</li><li>Minimum of 2 years’ experience designing and delivering higher education courses.</li><li>Proficiency with instructional technology and multimedia authoring tools.</li><li>Strong knowledge of learning theories and instructional design models.</li><li>Experience with course development software and LMS (Canvas experience preferred).</li><li>Excellent writing and editing skills for instructional content.</li><li>Strong project management and organizational skills.</li><li>Ability to collaborate with diverse stakeholders, provide excellent customer service, and adapt to new technologies.</li><li>Knowledge of regulatory and compliance requirements for online learning (e.g., FERPA, copyright, ADA).</li><li>Experience applying learning theory to develop online courses (4+ years preferred).</li><li>Higher education administration experience a plus.</li></ul><h2>Additional Information</h2><p><strong>For Full Time Employees, We Offer:</strong></p><ul><li>Medical, Dental and Vision starting the 1st of the month following 30 days of employment</li><li>2 Weeks’ starting Vacation per year.&nbsp; Increasing based on years of service with company</li><li>12&nbsp;paid Holidays and 2&nbsp;Floating Holiday</li><li>401K with a Company Match</li><li>Company Paid Life Insurance at 1x’s your annual salary</li><li>Leadership development and training for career advancement</li><li>Tuition assistance and Forgiveness for you and your family up to 100% depending on program</li></ul>",
+    "summary": "The Instructional Designer develops and maintains instructional materials and courses for online, hybrid, and face-to-face healthcare education in higher education. Responsibilities include LMS course design, multimedia and eLearning development, collaboration with subject matter experts, curriculum alignment, compliance review, technology evaluation, and continuous course improvement.",
+    "locations": [
+     {
+      "workLocation": "hybrid",
+      "addressRegion": "Arizona",
+      "addressCountry": "US",
+      "addressLocality": "Tempe"
+     }
+    ],
+    "remoteType": "hybrid",
+    "skills": {
+     "soft_skills": [
+      "Writing",
+      "Editing",
+      "Collaboration",
+      "Customer Service",
+      "Adaptability"
+     ],
+     "primary_skills": [
+      "Instructional Design",
+      "Learning Management Systems",
+      "Multimedia Authoring",
+      "Course Development",
+      "Learning Theory",
+      "Instructional Design Models",
+      "Higher Education Course Design",
+      "Curriculum Alignment",
+      "Accessibility Compliance",
+      "Project Management"
+     ],
+     "secondary_skills": [
+      "Canvas",
+      "Learning Technology Evaluation",
+      "Regulatory Compliance",
+      "Copyright Compliance",
+      "FERPA",
+      "ADA Compliance",
+      "Higher Education Administration"
+     ]
+    },
+    "benefits": [
+     "Health Insurance",
+     "Dental Insurance",
+     "Vision Care",
+     "Paid Time Off (Vacation & Personal Days",
+     "Company Holidays",
+     "Pensions / 401(k",
+     "Pension Contribution Matching",
+     "Life Insurance",
+     "Professional Development",
+     "Tuition Reimbursement"
+    ],
+    "salary": null,
+    "experienceLevel": "mid",
+    "employmentType": "full_time",
+    "minYearsExperience": 2,
+    "educationRequirement": {
+     "required": [
+      "master_degree"
+     ],
+     "preferred": []
+    },
+    "industry": [
+     "education",
+     "healthcare_medical"
+    ],
+    "inLanguage": [
+     "en"
+    ],
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": null,
+    "travelPercentage": null,
+    "postedAt": 1788367907,
+    "expiresAt": null,
+    "applyUrl": "https://jobs.smartrecruiters.com/UnitekLearning/744000147045639-full-time-instructional-designer-higher-ed",
+    "status": "active",
+    "companies": [
+     {
+      "name": "uniteklearning.com",
+      "website": "uniteklearning.com"
+     }
+    ]
+   },
+   {
+    "id": "d437d6ae-a282-4f2c-9f38-af9bac2556bc",
+    "title": "Contract Instructional Designer",
+    "description": "<p><b><span>Job descriptions may display in multiple languages</span> based on your language selection.</b></p><h2><span><b>What we offer:</b></span></h2><div>At Magna, you can expect an engaging and dynamic environment where you can help to develop industry-leading automotive technologies. We invest in our employees, providing them with the support and resources they need to succeed. As a member of our global team, you can expect exciting, varied responsibilities as well as a wide range of development prospects. Because we believe that your career path should be as unique as you are.</div><h2><span><b>Group Summary:</b></span></h2><div><div><span>Magna is more than one of the world’s largest suppliers in the automotive space. We are a mobility technology company built to innovate, with a global,</span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span>entrepreneurial-minded</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><span>team. With 65+ years of expertise, our ecosystem of interconnected products combined with our complete vehicle expertise uniquely positions us to advance mobility in an expanded transportation landscape.</span></div></div><div><div><div><div><div><div><div><p><span><b>Job Responsibilities:</b></span></p></div></div></div></div></div></div></div><p><b><u>Introduction:</u></b> This role is primarily accountable for the design of a global training program to support one Magna Procurement strategy and standards. This role will work across Divisions, Groups, and business experts to align a program that sets consistent baseline knowledge and strengthens commercial performance.</p><p><b><u>Responsibilities:</u></b></p><p><b>Program Design</b></p><ul><li>Consult with Business SMEs and Learning and Development (L&amp;D) Team to conduct training needs assessment and identify critical knowledge and skills required for a set of key procurement roles.</li><li>Define a scalable global training curriculum for each procurement role in accordance with Magna L&amp;D design principles and standards.</li><li>Design and develop training content (ex. presentation material, participant material, facilitator guides, manager guides, job aids, etc.) following the ADDIE model, including a feedback process from SMEs and critical Stakeholders at important design milestones.</li><li>Using a blended approach, leverage up to date learning technology and multimedia tools (ex. Content authoring tools, virtual classroom, simulations, adaptive learning tools, audio, video, and graphics, etc.)</li><li>Establish a process for maintaining and updating training material to ensure content is kept up to date, including any regional content customizations and language translations.</li><li>Act as the central point of contact to manage the overall project and coordinate cross-group training activities.</li><li>Establish a Procurement intranet site as a central entry point for all procurement related training and resources.</li><li>Establish a Procurement communication hub to share relevant information to <span>division/group/category</span></li><li>Set up training evaluations consistent with L&amp;D tools and processes, at all levels of the Kirkpatrick model and identify areas for improvement based on evaluation results.</li></ul><p><b>Vendor Management (if applicable)</b></p><ul><li>Collaborate with external partners to deliver quality content that aligns to the program learning objectives, L&amp;D design principles, standards, and overall L&amp;D strategy.</li><li>Work with external eLearning providers as needed to curate content to compliment the program curricula.</li></ul><p><b><u>Knowledge and Education</u></b></p><ul><li>Practical experience and expertise in Procurement and / or Supply Chain</li><li>Expertise in adult learning principles, instructional design process, learning evaluation and methods for measuring learning outcomes.</li><li>University degree or college diploma in Business, Human Resources, Adult Education or related experience</li><li>Expertise in content authoring, video creation and graphics software (ex. Articulate 360, video creation/editing tools, Adobe Captivate and other graphic design tools)</li><li>Proficiency with MS Office 360 applications</li></ul><p><b><u>Work Experience:</u></b></p><ul><li>5+ years’ experience in an Instructional Design role</li><li>5+ years’ experience in Supply Chain Management and / or Procurement.</li><li>Experience working in complex de-centralized or matrix, multinational organizations an asset.</li><li>Experience in the automotive industry or manufacturing sector.</li></ul><p><b><u>Skills and Competencies</u></b></p><ul><li>Enjoy a \"hands-on\" approach to working in a fast-paced environment.</li><li>Ability to work independently and collaboratively in a team-oriented environment.</li><li>Able to translate broad or complex concepts into simple, practical terms for all types of audiences.</li><li>Strong communication skills - verbal and written.</li><li>Able to work through ambiguity and uncertainty to achieve objectives.</li><li>Strong analytical skills</li><li>Strong project management and organizational skills, with the ability to manage multiple workstreams and consistently meet deadlines.</li><li>Detail-oriented and committed to creating high-quality and engaging learning experiences.</li></ul><p><b><u>Work Environment:</u></b></p><ul><li>Normal office environment</li><li>Enjoy working collaboratively on a cross-functional, global team.</li><li>Low demand for business travel (up to 5%)</li></ul><h2><span><b>Awareness, Unity, Empowerment:</b></span></h2><p>At Magna, we believe that a diverse workforce is critical to our success. That’s why we are proud to be an equal opportunity employer. We hire on the basis of experience and qualifications, and in consideration of job requirements, regardless of, in particular, color, ancestry, religion, gender, origin, sexual orientation, age, citizenship, marital status, disability or gender identity. Magna takes the privacy of your personal information seriously. We discourage you from sending applications via email or traditional mail to comply with GDPR requirements and your local Data Privacy Law.</p><br><h2><span><b>AI-Assisted Screening Disclosure</b></span></h2><p>As part of our commitment to a fair, consistent, and efficient recruitment process, we may use artificial intelligence (AI) tools to assist in the initial screening of applications submitted through our Workday system. These tools help identify qualifications and experience that align with the role requirements. Please note that AI is used solely to support our recruiters. Final decisions are always made by the hiring manager and the hiring team. Importantly, no applicant data is shared externally through these AI tools. All information remains securely within our systems and is handled in accordance with our privacy and data protection policies.</p><br><h2><span><b>Under conditions defined by applicable law, you may have the right to request an explanation of how AI is used to support decision-making.</b></span></h2><p>If you have any questions or concerns about this process, feel free to contact our Talent Attraction team.</p><div><div><div><div><div><div><div><h2><span><b>Worker Type:</b></span></h2></div></div></div></div></div></div></div>Supplemental Worker<div><div><div><div><div><div><div><h2><span><b>Group:</b></span></h2></div></div></div></div></div></div></div>Magna Corporate",
+    "summary": "The Contract Instructional Designer will design and manage a global procurement training program that establishes consistent knowledge and supports commercial performance across Magna’s divisions and groups. Responsibilities include conducting needs assessments, developing blended learning content using instructional design methodologies, coordinating stakeholders and vendors, managing training resources, and evaluating learning outcomes.",
+    "locations": [
+     {
+      "postalCode": "48098",
+      "workLocation": "onsite",
+      "addressRegion": "Michigan",
+      "streetAddress": "750 Tower Drive",
+      "addressCountry": "US",
+      "addressLocality": "Troy"
+     }
+    ],
+    "remoteType": "onsite",
+    "skills": {
+     "soft_skills": [
+      "Communication",
+      "Teamwork",
+      "Adaptability",
+      "Problem-solving",
+      "Attention to Detail"
+     ],
+     "primary_skills": [
+      "Instructional Design",
+      "Procurement",
+      "Supply Chain Management",
+      "Adult Learning Principles",
+      "Learning Evaluation",
+      "ADDIE Model",
+      "Content Authoring",
+      "Video Creation",
+      "Graphic Design",
+      "Project Management"
+     ],
+     "secondary_skills": [
+      "Articulate 360",
+      "Adobe Captivate",
+      "Microsoft Office 365",
+      "Virtual Classroom",
+      "Simulations",
+      "Adaptive Learning",
+      "Kirkpatrick Model",
+      "Intranet Management",
+      "Vendor Management",
+      "Automotive Manufacturing"
+     ]
+    },
+    "benefits": [
+     "professional_development"
+    ],
+    "salary": null,
+    "experienceLevel": "senior",
+    "employmentType": "full_time",
+    "minYearsExperience": 5,
+    "educationRequirement": {
+     "required": [],
+     "preferred": [
+      "bachelor_degree",
+      "associate_degree"
+     ]
+    },
+    "industry": [
+     "manufacturing",
+     "transportation_logistics"
+    ],
+    "inLanguage": null,
+    "hasVisaSponsorship": null,
+    "hasRelocation": null,
+    "requiresTravel": true,
+    "travelPercentage": null,
+    "postedAt": 1788220800,
+    "expiresAt": null,
+    "applyUrl": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Troy-Michigan-US/Contract-Instructional-Designer_R00258825",
+    "status": "active",
+    "companies": [
+     {
+      "name": "Magna International",
+      "website": "magna.com"
+     }
+    ]
+   }
+  ],
+  "meta": {
+   "count": 6,
+   "hasMore": false,
+   "requestTimeMs": 13,
+   "lastUpdatedAt": "2026-09-25T03:12:05.328Z"
+  }
+ }
+}
